@@ -1,0 +1,26 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Automated cobol year 2000 compliance.
+
+_1 message · 1 participant · 1998-12_
+
+**Topics:** [`Y2K and Year-2000 remediation`](../topics.md#y2k)
+
+---
+
+### Automated cobol year 2000 compliance.
+
+- **From:** "William Gray" <wrg@ncinter.net>
+- **Date:** 1998-12-04T00:00:00
+- **Newsgroups:** comp.lang.cobol,alt.cobol,fj.lang.cobol,alt.talk.year2000,comp.software.year-2000,gov.topic.info.systems.year2000
+- **Message-ID:** `<N2_92.2474$qs1.8346@news3.ispnews.com>`
+
+```
+Cyber Systems offers a total automated solution for for cobol year 2000
+compliance.
+http://www.ncinter.net/~wrg/CYBER.htm.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

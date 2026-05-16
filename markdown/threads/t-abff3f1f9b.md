@@ -1,0 +1,45 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# ACUODBC internation characters
+
+_1 message · 1 participant · 2006-09_
+
+---
+
+### ACUODBC internation characters
+
+- **From:** "bruno" <bruno.goonissen@skynet.be>
+- **Date:** 2006-09-29T08:50:33-07:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<1159545033.579053.278040@k70g2000cwa.googlegroups.com>`
+
+```
+Hi !
+
+Can anyone help me with this problem ?
+
+- When I want to load the data from the ACUfiles in to f.e. Ms Excel,
+special characters like è, é, ö, ... are replaced by others.  Reason
+would be that  AcuCocol works with the PC-8 charcter set, while windows
+works with the ANSI-charcter set.
+
+- In the 'ACUODBC advanced options' of the DSN-settings, I specified a
+mapfile to solve this problem (the hex.dec. code for the client and the
+DB are mentioned), but it still doesn't the conversion ...
+
+f.e. : the file mappings.txt contains the following lines:
+0xFC 0x81
+0xF6 0x94
+0xD6 0x99
+0xDC 0x9A
+
+D6 hexadecimal = 214 decimal = Ö in ANSI
+99 hexadecimal =  153 decimal = Ö in PC-8
+
+Kind regards
+Bruno
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -261,31 +261,31 @@ Sun  ██████████████████████▌      
 
 | Month | Messages |
 |---|---:|
-| [2003-05](2003-05.md) | 2,474 |
-| [1998-09](1998-09.md) | 2,447 |
-| [2003-04](2003-04.md) | 2,170 |
-| [1998-11](1998-11.md) | 2,166 |
-| [2005-12](2005-12.md) | 2,000 |
-| [1998-10](1998-10.md) | 1,946 |
-| [2000-04](2000-04.md) | 1,902 |
-| [2003-03](2003-03.md) | 1,894 |
-| [1999-11](1999-11.md) | 1,874 |
-| [2003-07](2003-07.md) | 1,862 |
-| [1998-12](1998-12.md) | 1,790 |
-| [1999-01](1999-01.md) | 1,775 |
-| [1999-03](1999-03.md) | 1,768 |
-| [2000-03](2000-03.md) | 1,761 |
-| [2007-09](2007-09.md) | 1,727 |
-| [2003-06](2003-06.md) | 1,726 |
-| [2004-09](2004-09.md) | 1,678 |
-| [1999-10](1999-10.md) | 1,665 |
-| [1999-04](1999-04.md) | 1,663 |
-| [1999-02](1999-02.md) | 1,648 |
-| [2004-11](2004-11.md) | 1,607 |
-| [2000-01](2000-01.md) | 1,581 |
-| [1999-09](1999-09.md) | 1,567 |
-| [2008-01](2008-01.md) | 1,541 |
-| [2000-05](2000-05.md) | 1,484 |
+| 2003-05 | 2,474 |
+| 1998-09 | 2,447 |
+| 2003-04 | 2,170 |
+| 1998-11 | 2,166 |
+| 2005-12 | 2,000 |
+| 1998-10 | 1,946 |
+| 2000-04 | 1,902 |
+| 2003-03 | 1,894 |
+| 1999-11 | 1,874 |
+| 2003-07 | 1,862 |
+| 1998-12 | 1,790 |
+| 1999-01 | 1,775 |
+| 1999-03 | 1,768 |
+| 2000-03 | 1,761 |
+| 2007-09 | 1,727 |
+| 2003-06 | 1,726 |
+| 2004-09 | 1,678 |
+| 1999-10 | 1,665 |
+| 1999-04 | 1,663 |
+| 1999-02 | 1,648 |
+| 2004-11 | 1,607 |
+| 2000-01 | 1,581 |
+| 1999-09 | 1,567 |
+| 2008-01 | 1,541 |
+| 2000-05 | 1,484 |
 
 ## Thread size distribution
 
@@ -299,36 +299,36 @@ Sun  ██████████████████████▌      
 
 | Thread | Messages | Participants | Span |
 |---|---:|---:|---|
-| [OT : Making money from Java](2005-11.md#t-0c7ed12b34) | 1,890 | 30 | 2005-11 → 2006-01 |
-| [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) | 1,870 | 29 | 2007-11 → 2008-02 |
-| [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) | 1,161 | 44 | 2003-03 → 2003-10 |
-| [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) | 1,132 | 27 | 2004-10 → 2005-01 |
-| [Any comments?](2006-03.md#t-1abe82d84d) | 916 | 26 | 2006-03 → 2006-05 |
-| [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) | 873 | 33 | 2004-09 → 2005-02 |
-| [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) | 540 | 23 | 2005-03 → 2005-05 |
-| [Treeviews](2005-02.md#t-ade484509a) | 524 | 32 | 2005-02 → 2005-03 |
-| [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) | 521 | 36 | 2003-04 → 2003-06 |
-| [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) | 456 | 33 | 2002-08 → 2002-09 |
-| [Sets and subsets](2003-04.md#t-3875006633) | 439 | 28 | 2003-04 → 2003-05 |
-| [Cobol development environment](2003-06.md#t-e56b4778a5) | 422 | 47 | 2003-06 → 2003-07 |
-| ["Shared" procedure division code](2005-07.md#t-d41db28e9f) | 401 | 21 | 2005-07 → 2005-09 |
-| [OT Science versus religion: Is compromise impossible?](2004-12.md#t-df3f81e997) | 392 | 23 | 2004-12 → 2005-01 |
-| [Cobol Myth Busters](2007-08.md#t-2e14b13552) | 363 | 28 | 2007-08 → 2007-09 |
-| [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) | 360 | 61 | 2000-09 → 2000-10 |
-| [OFF Topic](2004-10.md#t-04000a5c60) | 339 | 27 | 2004-10 → 2005-01 |
-| [Future reuse of code](2003-08.md#t-f935538283) | 334 | 80 | 2003-08 |
-| [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) | 318 | 18 | 2007-07 → 2007-08 |
-| [[OT] Iraq](2007-09.md#t-b41850b8b6) | 310 | 18 | 2007-09 → 2007-10 |
-| [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) | 300 | 57 | 1998-10 → 1998-11 |
-| [newbie question on cobol syntax](2007-04.md#t-6bd396c6dc) | 297 | 17 | 2007-04 → 2007-05 |
-| [Climate models suck - It's the programming](2009-12.md#t-a65cb82c7d) | 291 | 11 | 2009-12 → 2010-03 |
-| [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) | 291 | 19 | 2003-05 |
-| [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) | 290 | 32 | 2004-06 → 2004-07 |
-| [Cobol work?](2005-10.md#t-681ec8cbbb) | 289 | 33 | 2005-10 → 2005-11 |
-| [Symbols for Logical Operators](2003-06.md#t-912e9b2ae2) | 283 | 27 | 2003-06 |
-| [First COBOL compiler](1998-11.md#t-97a7b592f4) | 274 | 36 | 1998-11 → 1998-12 |
-| [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](2007-09.md#t-4fde07a454) | 267 | 21 | 2007-09 |
-| [CoBOL moved to OO](2003-12.md#t-5edd33d66f) | 259 | 25 | 2003-12 → 2004-01 |
+| [OT : Making money from Java](threads/t-0c7ed12b34.md) | 1,890 | 30 | 2005-11 → 2006-01 |
+| [OT:Thanksgiving](threads/t-53e0b19fe9.md) | 1,870 | 29 | 2007-11 → 2008-02 |
+| [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) | 1,161 | 44 | 2003-03 → 2003-10 |
+| [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) | 1,132 | 27 | 2004-10 → 2005-01 |
+| [Any comments?](threads/t-1abe82d84d.md) | 916 | 26 | 2006-03 → 2006-05 |
+| [If you were inventing CoBOL...](threads/t-7c518b7005.md) | 873 | 33 | 2004-09 → 2005-02 |
+| [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) | 540 | 23 | 2005-03 → 2005-05 |
+| [Treeviews](threads/t-ade484509a.md) | 524 | 32 | 2005-02 → 2005-03 |
+| [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) | 521 | 36 | 2003-04 → 2003-06 |
+| [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) | 456 | 33 | 2002-08 → 2002-09 |
+| [Sets and subsets](threads/t-3875006633.md) | 439 | 28 | 2003-04 → 2003-05 |
+| [Cobol development environment](threads/t-e56b4778a5.md) | 422 | 47 | 2003-06 → 2003-07 |
+| ["Shared" procedure division code](threads/t-d41db28e9f.md) | 401 | 21 | 2005-07 → 2005-09 |
+| [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) | 392 | 23 | 2004-12 → 2005-01 |
+| [Cobol Myth Busters](threads/t-2e14b13552.md) | 363 | 28 | 2007-08 → 2007-09 |
+| [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) | 360 | 61 | 2000-09 → 2000-10 |
+| [OFF Topic](threads/t-04000a5c60.md) | 339 | 27 | 2004-10 → 2005-01 |
+| [Future reuse of code](threads/t-f935538283.md) | 334 | 80 | 2003-08 |
+| [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) | 318 | 18 | 2007-07 → 2007-08 |
+| [[OT] Iraq](threads/t-b41850b8b6.md) | 310 | 18 | 2007-09 → 2007-10 |
+| [Y2k Death March Begins.](threads/t-92e6de34a6.md) | 300 | 57 | 1998-10 → 1998-11 |
+| [newbie question on cobol syntax](threads/t-6bd396c6dc.md) | 297 | 17 | 2007-04 → 2007-05 |
+| [Climate models suck - It's the programming](threads/t-a65cb82c7d.md) | 291 | 11 | 2009-12 → 2010-03 |
+| [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) | 291 | 19 | 2003-05 |
+| [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) | 290 | 32 | 2004-06 → 2004-07 |
+| [Cobol work?](threads/t-681ec8cbbb.md) | 289 | 33 | 2005-10 → 2005-11 |
+| [Symbols for Logical Operators](threads/t-912e9b2ae2.md) | 283 | 27 | 2003-06 |
+| [First COBOL compiler](threads/t-97a7b592f4.md) | 274 | 36 | 1998-11 → 1998-12 |
+| [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](threads/t-4fde07a454.md) | 267 | 21 | 2007-09 |
+| [CoBOL moved to OO](threads/t-5edd33d66f.md) | 259 | 25 | 2003-12 → 2004-01 |
 
 ## Top 30 threads by participant count
 
@@ -336,36 +336,36 @@ Sun  ██████████████████████▌      
 
 | Thread | Participants | Messages | Span |
 |---|---:|---:|---|
-| [Future reuse of code](2003-08.md#t-f935538283) | 80 | 334 | 2003-08 |
-| [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) | 61 | 360 | 2000-09 → 2000-10 |
-| [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) | 57 | 300 | 1998-10 → 1998-11 |
-| [Cobol development environment](2003-06.md#t-e56b4778a5) | 47 | 422 | 2003-06 → 2003-07 |
-| [FORTRAN or COBOL first ?](2003-10.md#t-a04be164f6) | 46 | 105 | 2003-10 → 2004-02 |
-| [Help! How to get first job](1999-04.md#t-6b7720a3a3) | 45 | 70 | 1999-04 |
-| [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) | 44 | 1,161 | 2003-03 → 2003-10 |
-| [IBM Mainframe COBOL "people"](2002-05.md#t-6e9cf19351) | 41 | 111 | 2002-05 → 2002-07 |
-| [Parts of a program that break in Y2K?](1998-09.md#t-a385d34ff8) | 41 | 67 | 1998-09 → 1998-10 |
-| [GO TO](2000-05.md#t-3222d57323) | 40 | 150 | 2000-05 |
-| [More Structure.. Perform from Read](2001-06.md#t-cf31ed1f92) | 38 | 235 | 2001-06 → 2001-07 |
-| [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) | 36 | 521 | 2003-04 → 2003-06 |
-| [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) | 36 | 170 | 2000-01 → 2000-02 |
-| [Go To depending](1998-11.md#t-122e02a93c) | 36 | 106 | 1998-11 → 1998-12 |
-| [First COBOL compiler](1998-11.md#t-97a7b592f4) | 36 | 274 | 1998-11 → 1998-12 |
-| [JPMorgan Chase to strengthen offshoring to India](2005-12.md#t-fccc5af541) | 35 | 107 | 2005-12 |
-| [10 Reasons Why JAVA is better than cobol](2001-06.md#t-4a12ae013f) | 34 | 155 | 2001-06 → 2001-07 |
-| [Webmasters == INTELLECTUAL MAGGOTS of computing](2000-08.md#t-87856b9c68) | 34 | 48 | 2000-08 → 2000-09 |
-| [internal v. external sort-> which do you like?](1999-09.md#t-add7f96223) | 34 | 84 | 1999-09 → 1999-10 |
-| [Pentium III chips released - Germans already have crack for ID feature](1999-02.md#t-aaefdf488e) | 34 | 64 | 1999-02 → 1999-03 |
-| [Cobol work?](2005-10.md#t-681ec8cbbb) | 33 | 289 | 2005-10 → 2005-11 |
-| [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) | 33 | 873 | 2004-09 → 2005-02 |
-| [What is the future of COBOL? Answer: Irrelevant???](2003-05.md#t-e6a5a57f82) | 33 | 195 | 2003-05 → 2003-12 |
-| [MVS Packed Decimal with no sign nibble?](2003-12.md#t-ad9382958d) | 33 | 121 | 2003-12 |
-| [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) | 33 | 456 | 2002-08 → 2002-09 |
-| [on call](1999-10.md#t-370c82f30c) | 33 | 57 | 1999-10 |
-| [origin of 88 level](1998-11.md#t-9e44c98f45) | 33 | 68 | 1998-11 |
-| [Treeviews](2005-02.md#t-ade484509a) | 32 | 524 | 2005-02 → 2005-03 |
-| [Dead languages?](2004-07.md#t-143dce30c1) | 32 | 58 | 2004-07 |
-| [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) | 32 | 290 | 2004-06 → 2004-07 |
+| [Future reuse of code](threads/t-f935538283.md) | 80 | 334 | 2003-08 |
+| [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) | 61 | 360 | 2000-09 → 2000-10 |
+| [Y2k Death March Begins.](threads/t-92e6de34a6.md) | 57 | 300 | 1998-10 → 1998-11 |
+| [Cobol development environment](threads/t-e56b4778a5.md) | 47 | 422 | 2003-06 → 2003-07 |
+| [FORTRAN or COBOL first ?](threads/t-a04be164f6.md) | 46 | 105 | 2003-10 → 2004-02 |
+| [Help! How to get first job](threads/t-6b7720a3a3.md) | 45 | 70 | 1999-04 |
+| [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) | 44 | 1,161 | 2003-03 → 2003-10 |
+| [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) | 41 | 111 | 2002-05 → 2002-07 |
+| [Parts of a program that break in Y2K?](threads/t-a385d34ff8.md) | 41 | 67 | 1998-09 → 1998-10 |
+| [GO TO](threads/t-3222d57323.md) | 40 | 150 | 2000-05 |
+| [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) | 38 | 235 | 2001-06 → 2001-07 |
+| [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) | 36 | 521 | 2003-04 → 2003-06 |
+| [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) | 36 | 170 | 2000-01 → 2000-02 |
+| [Go To depending](threads/t-122e02a93c.md) | 36 | 106 | 1998-11 → 1998-12 |
+| [First COBOL compiler](threads/t-97a7b592f4.md) | 36 | 274 | 1998-11 → 1998-12 |
+| [JPMorgan Chase to strengthen offshoring to India](threads/t-fccc5af541.md) | 35 | 107 | 2005-12 |
+| [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) | 34 | 155 | 2001-06 → 2001-07 |
+| [Webmasters == INTELLECTUAL MAGGOTS of computing](threads/t-87856b9c68.md) | 34 | 48 | 2000-08 → 2000-09 |
+| [internal v. external sort-> which do you like?](threads/t-add7f96223.md) | 34 | 84 | 1999-09 → 1999-10 |
+| [Pentium III chips released - Germans already have crack for ID feature](threads/t-aaefdf488e.md) | 34 | 64 | 1999-02 → 1999-03 |
+| [Cobol work?](threads/t-681ec8cbbb.md) | 33 | 289 | 2005-10 → 2005-11 |
+| [If you were inventing CoBOL...](threads/t-7c518b7005.md) | 33 | 873 | 2004-09 → 2005-02 |
+| [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) | 33 | 195 | 2003-05 → 2003-12 |
+| [MVS Packed Decimal with no sign nibble?](threads/t-ad9382958d.md) | 33 | 121 | 2003-12 |
+| [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) | 33 | 456 | 2002-08 → 2002-09 |
+| [on call](threads/t-370c82f30c.md) | 33 | 57 | 1999-10 |
+| [origin of 88 level](threads/t-9e44c98f45.md) | 33 | 68 | 1998-11 |
+| [Treeviews](threads/t-ade484509a.md) | 32 | 524 | 2005-02 → 2005-03 |
+| [Dead languages?](threads/t-143dce30c1.md) | 32 | 58 | 2004-07 |
+| [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) | 32 | 290 | 2004-06 → 2004-07 |
 
 ## Top 50 authors by message count
 
@@ -427,26 +427,26 @@ Threads whose conversation kept going (or kept getting revived) over the widest 
 
 | Thread | Span | Months | Messages |
 |---|---:|---:|---:|
-| [Micro Focus Software 4 Sale](2004-02.md#t-078f4a78b4) | 107 mo | 2004-02 → 2013-01 | 6 |
-| [A Recruiter's View?](1998-07.md#t-d3549be461) | 78 mo | 1998-07 → 2005-01 | 7 |
-| [use of INVALID KEY clause](2009-02.md#t-c6fa9d4850) | 51 mo | 2009-02 → 2013-05 | 16 |
-| [free access to mainframe with tso and cics](2008-07.md#t-5e4281d859) | 49 mo | 2008-07 → 2012-08 | 5 |
-| [COBOL compiler written in COBOL](2003-09.md#t-fa472d648c) | 38 mo | 2003-09 → 2006-11 | 31 |
-| [~~~~~~~~~~~~~ USED CARS ~~~~~~~~~~~~~](2010-01.md#t-8a6165c638) | 38 mo | 2010-01 → 2013-03 | 4 |
-| [~~~~~~~~~~~~~~ REFLECTIVE TAPE ~~~~~~~~~~~~~~](2009-12.md#t-01832e440c) | 31 mo | 2009-12 → 2012-07 | 2 |
-| [cannot build opencobol-1.1 under cygwin](2010-04.md#t-d72d25cd11) | 30 mo | 2010-04 → 2012-10 | 84 |
-| [Checking RACF for CICS TS](2003-03.md#t-ad582efab7) | 28 mo | 2003-03 → 2005-07 | 6 |
-| [COBOL and uni-SPF - migration to HP-UX](2005-08.md#t-ee5ac3b509) | 26 mo | 2005-08 → 2007-10 | 2 |
-| [Presentation Layer for RM COBOL and PowerCOBOL Migration](2010-07.md#t-34aa36d50f) | 25 mo | 2010-07 → 2012-08 | 16 |
-| [Send email from MVS cobol](2007-11.md#t-a4a3d2cdde) | 23 mo | 2007-11 → 2009-10 | 11 |
-| [Reading Indexed Files Backwards](2004-09.md#t-1b4cd64305) | 19 mo | 2004-09 → 2006-04 | 27 |
-| [Billing rate is pathetic, but multiple OpenVMS COBOL contract openings here](2011-01.md#t-02d24dd7c1) | 18 mo | 2011-01 → 2012-07 | 3 |
-| [Fortress COBOL - some conclusions](2003-07.md#t-a359a8fa92) | 17 mo | 2003-07 → 2004-12 | 157 |
-| [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](2011-10.md#t-e6187d4a60) | 17 mo | 2011-10 → 2013-03 | 90 |
-| [Celebrating the creator of Cobol](2006-12.md#t-6238788e49) | 16 mo | 2006-12 → 2008-04 | 29 |
-| [Decompiler for Acucobol](2003-08.md#t-50f795b277) | 16 mo | 2003-08 → 2004-12 | 19 |
-| [Very Huge collection of Solutions Manuals & Test Banks](2011-07.md#t-d3909039b5) | 16 mo | 2011-07 → 2012-11 | 16 |
-| [Problems w/ CBL_* Routines On NFS Mounts](2003-06.md#t-06df067619) | 15 mo | 2003-06 → 2004-09 | 11 |
+| [Micro Focus Software 4 Sale](threads/t-078f4a78b4.md) | 107 mo | 2004-02 → 2013-01 | 6 |
+| [A Recruiter's View?](threads/t-d3549be461.md) | 78 mo | 1998-07 → 2005-01 | 7 |
+| [use of INVALID KEY clause](threads/t-c6fa9d4850.md) | 51 mo | 2009-02 → 2013-05 | 16 |
+| [free access to mainframe with tso and cics](threads/t-5e4281d859.md) | 49 mo | 2008-07 → 2012-08 | 5 |
+| [COBOL compiler written in COBOL](threads/t-fa472d648c.md) | 38 mo | 2003-09 → 2006-11 | 31 |
+| [~~~~~~~~~~~~~ USED CARS ~~~~~~~~~~~~~](threads/t-8a6165c638.md) | 38 mo | 2010-01 → 2013-03 | 4 |
+| [~~~~~~~~~~~~~~ REFLECTIVE TAPE ~~~~~~~~~~~~~~](threads/t-01832e440c.md) | 31 mo | 2009-12 → 2012-07 | 2 |
+| [cannot build opencobol-1.1 under cygwin](threads/t-d72d25cd11.md) | 30 mo | 2010-04 → 2012-10 | 84 |
+| [Checking RACF for CICS TS](threads/t-ad582efab7.md) | 28 mo | 2003-03 → 2005-07 | 6 |
+| [COBOL and uni-SPF - migration to HP-UX](threads/t-ee5ac3b509.md) | 26 mo | 2005-08 → 2007-10 | 2 |
+| [Presentation Layer for RM COBOL and PowerCOBOL Migration](threads/t-34aa36d50f.md) | 25 mo | 2010-07 → 2012-08 | 16 |
+| [Send email from MVS cobol](threads/t-a4a3d2cdde.md) | 23 mo | 2007-11 → 2009-10 | 11 |
+| [Reading Indexed Files Backwards](threads/t-1b4cd64305.md) | 19 mo | 2004-09 → 2006-04 | 27 |
+| [Billing rate is pathetic, but multiple OpenVMS COBOL contract openings here](threads/t-02d24dd7c1.md) | 18 mo | 2011-01 → 2012-07 | 3 |
+| [Fortress COBOL - some conclusions](threads/t-a359a8fa92.md) | 17 mo | 2003-07 → 2004-12 | 157 |
+| [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) | 17 mo | 2011-10 → 2013-03 | 90 |
+| [Celebrating the creator of Cobol](threads/t-6238788e49.md) | 16 mo | 2006-12 → 2008-04 | 29 |
+| [Decompiler for Acucobol](threads/t-50f795b277.md) | 16 mo | 2003-08 → 2004-12 | 19 |
+| [Very Huge collection of Solutions Manuals & Test Banks](threads/t-d3909039b5.md) | 16 mo | 2011-07 → 2012-11 | 16 |
+| [Problems w/ CBL_* Routines On NFS Mounts](threads/t-06df067619.md) | 15 mo | 2003-06 → 2004-09 | 11 |
 
 ## Top 20 hottest threads (peak day velocity)
 
@@ -454,26 +454,26 @@ Threads with the most messages posted on a single calendar day — proxy for con
 
 | Thread | Peak day | Peak msgs | Total | Span |
 |---|---|---:|---:|---|
-| [OT : Making money from Java](2005-11.md#t-0c7ed12b34) | 2005-12-21 | 143 | 1,890 | 2005-11 → 2006-01 |
-| [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) | 2007-12-03 | 81 | 1,870 | 2007-11 → 2008-02 |
-| [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) | 2002-08-30 | 81 | 456 | 2002-08 → 2002-09 |
-| [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) | 2004-11-16 | 74 | 1,132 | 2004-10 → 2005-01 |
-| [Is it always possible to write a COBOL program using only 1 sentence per paragr…](2005-07.md#t-56df4077d0) | 2005-07-12 | 71 | 186 | 2005-07 |
-| [Any comments?](2006-03.md#t-1abe82d84d) | 2006-04-10 | 67 | 916 | 2006-03 → 2006-05 |
-| [Cobol development environment](2003-06.md#t-e56b4778a5) | 2003-07-17 | 67 | 422 | 2003-06 → 2003-07 |
-| [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) | 2004-09-20 | 66 | 873 | 2004-09 → 2005-02 |
-| [Rounding errors](2004-08.md#t-1175aa865e) | 2004-09-01 | 64 | 206 | 2004-08 → 2004-09 |
-| [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) | 2003-05-18 | 63 | 291 | 2003-05 |
-| [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) | 2007-08-03 | 60 | 318 | 2007-07 → 2007-08 |
-| [Future reuse of code](2003-08.md#t-f935538283) | 2003-08-15 | 59 | 334 | 2003-08 |
-| [[OT] Iraq](2007-09.md#t-b41850b8b6) | 2007-09-27 | 58 | 310 | 2007-09 → 2007-10 |
-| [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) | 2000-09-25 | 58 | 360 | 2000-09 → 2000-10 |
-| [MAINFRAME SHOP STANDARDS](2004-12.md#t-e50bb43816) | 2004-12-07 | 57 | 155 | 2004-12 |
-| [Numbered prefixes](2003-07.md#t-ded9ac061d) | 2003-08-01 | 55 | 124 | 2003-07 → 2003-08 |
-| [Sets and subsets](2003-04.md#t-3875006633) | 2003-04-22 | 55 | 439 | 2003-04 → 2003-05 |
-| [Cobol work?](2005-10.md#t-681ec8cbbb) | 2005-10-31 | 54 | 289 | 2005-10 → 2005-11 |
-| ["Shared" procedure division code](2005-07.md#t-d41db28e9f) | 2005-08-10 | 52 | 401 | 2005-07 → 2005-09 |
-| [Avoiding Logic Error?](2004-05.md#t-f02a9913f5) | 2004-05-14 | 50 | 128 | 2004-05 |
+| [OT : Making money from Java](threads/t-0c7ed12b34.md) | 2005-12-21 | 143 | 1,890 | 2005-11 → 2006-01 |
+| [OT:Thanksgiving](threads/t-53e0b19fe9.md) | 2007-12-03 | 81 | 1,870 | 2007-11 → 2008-02 |
+| [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) | 2002-08-30 | 81 | 456 | 2002-08 → 2002-09 |
+| [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) | 2004-11-16 | 74 | 1,132 | 2004-10 → 2005-01 |
+| [Is it always possible to write a COBOL program using only 1 sentence per paragr…](threads/t-56df4077d0.md) | 2005-07-12 | 71 | 186 | 2005-07 |
+| [Any comments?](threads/t-1abe82d84d.md) | 2006-04-10 | 67 | 916 | 2006-03 → 2006-05 |
+| [Cobol development environment](threads/t-e56b4778a5.md) | 2003-07-17 | 67 | 422 | 2003-06 → 2003-07 |
+| [If you were inventing CoBOL...](threads/t-7c518b7005.md) | 2004-09-20 | 66 | 873 | 2004-09 → 2005-02 |
+| [Rounding errors](threads/t-1175aa865e.md) | 2004-09-01 | 64 | 206 | 2004-08 → 2004-09 |
+| [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) | 2003-05-18 | 63 | 291 | 2003-05 |
+| [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) | 2007-08-03 | 60 | 318 | 2007-07 → 2007-08 |
+| [Future reuse of code](threads/t-f935538283.md) | 2003-08-15 | 59 | 334 | 2003-08 |
+| [[OT] Iraq](threads/t-b41850b8b6.md) | 2007-09-27 | 58 | 310 | 2007-09 → 2007-10 |
+| [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) | 2000-09-25 | 58 | 360 | 2000-09 → 2000-10 |
+| [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) | 2004-12-07 | 57 | 155 | 2004-12 |
+| [Numbered prefixes](threads/t-ded9ac061d.md) | 2003-08-01 | 55 | 124 | 2003-07 → 2003-08 |
+| [Sets and subsets](threads/t-3875006633.md) | 2003-04-22 | 55 | 439 | 2003-04 → 2003-05 |
+| [Cobol work?](threads/t-681ec8cbbb.md) | 2005-10-31 | 54 | 289 | 2005-10 → 2005-11 |
+| ["Shared" procedure division code](threads/t-d41db28e9f.md) | 2005-08-10 | 52 | 401 | 2005-07 → 2005-09 |
+| [Avoiding Logic Error?](threads/t-f02a9913f5.md) | 2004-05-14 | 50 | 128 | 2004-05 |
 
 ## First mentions of key terms
 
@@ -481,53 +481,53 @@ Earliest message in the archive (subject or body) containing each term. Useful f
 
 | Term | First mention | Thread |
 |---|---|---|
-| **Acucobol** | 1994-12-01 | [Re: Help, please](1994-12.md) |
-| **Linux** | 1994-12-01 | [Re: Cobol->C or Linux Compiler](1994-12.md) |
-| **COBOL 85** | 1994-12-01 | [Re: Comparing Modula2 and Cobol](1994-12.md) |
-| **Delphi** | 1994-12-01 | [Does Visual Cobol exists?](1994-12.md) |
-| **Visual Basic** | 1994-12-02 | [Re: Is there any database conversion utility ?](1994-12.md) |
-| **Micro Focus** | 1994-12-02 | [Re: Comparing Modula2 and Cobol](1994-12.md) |
-| **OS/2** | 1994-12-03 | [RPG to COBOL](1994-12.md) |
-| **RM/COBOL** | 1994-12-05 | [Re: ODBC and MF Cobol](1994-12.md) |
-| **Windows 95** | 1994-12-05 | [Re: end of the century](1994-12.md) |
-| **AIX** | 1994-12-08 | [Info/Advice needed on IBM Cobol 2 to MF Unix Cobol conversion](1994-12.md) |
-| **ANSI 85** | 1994-12-14 | [Re: Help, please](1994-12.md) |
-| **Java** | 1998-06-23 | [Re: history of cobol](1998-06.md) |
-| **Y2K** | 1998-06-23 | [Re: Y2K:Cobol->C++](1998-06.md) |
-| **OO COBOL** | 1998-06-23 | [Re: Y2K:Cobol->C++](1998-06.md) |
-| **Perl** | 1998-06-23 | [Re: history of cobol](1998-06.md) |
-| **year 2000** | 1998-06-23 | [Re: Is there still good Cobal career after year 2000?](1998-06.md) |
-| **Fujitsu** | 1998-06-23 | [Re: Deperate student requires help with COBOL program](1998-06.md) |
-| **SOAP** | 1998-06-23 | [Re: history of cobol](1998-06.md) |
-| **Windows NT** | 1998-06-24 | [Re: Stupid Headhunter Tricks - anything else](1998-06.md) |
-| **HP-UX** | 1998-06-24 | [Re: AcuCOBOL and MQSeries???](1998-06.md) |
-| **AS/400** | 1998-06-25 | [Finding DG Cobol Programmer](1998-06.md) |
-| **OS/390** | 1998-06-26 | [RE: IMMEDIATE IDMS DBA CONTRACT POSITION](1998-06.md) |
-| **Solaris** | 1998-06-27 | [COBOL FAQ](1998-06.md) |
-| **object-oriented** | 1998-06-27 | [COBOL FAQ](1998-06.md) |
-| **Apache** | 1998-07-07 | [Re: Cobol and Web?](1998-07.md) |
-| **.NET** | 1998-09-01 | [Re: Would you want to work here?](1998-09.md) |
-| **Python** | 1998-09-12 | [Re: Y2K: History, what's being done, how to prepare](1998-09.md) |
-| **XML** | 1998-09-16 | [Re: Paragraph Numbering and Program Stru](1998-09.md) |
-| **millennium bug** | 1998-09-18 | [Y2K Humor](1998-09.md) |
-| **Windows 98** | 1998-09-20 | [Microsoft/MF COBOL behaves different under W98?](1998-09.md) |
-| **C#** | 1998-10-19 | [Re: Geek perseverance vrs the Sorokin Effect?](1998-10.md) |
-| **COBOL 2002** | 1999-06-09 | [Re: COBOL Style Recommendations](1999-06.md) |
-| **PHP** | 1999-08-02 | [What's new? 15,400+ links on OO Languages, Objects and Components](1999-08.md) |
-| **TinyCOBOL** | 2000-06-13 | [Re: COBOL for Linux](2000-06.md) |
-| **Tomcat** | 2000-09-08 | [Re: basic question](2000-09.md) |
-| **Servlet** | 2000-09-20 | [COBOL and XML](2000-09.md) |
-| **z/OS** | 2000-10-17 | [Re: Efficiency of calls & invokes](2000-10.md) |
-| **web service** | 2001-06-27 | [Re: COBO to Java translation](2001-06.md) |
-| **OpenCOBOL** | 2002-01-09 | [Re: function-oriented cobol compiler](2002-01.md) |
-| **iSeries** | 2002-03-05 | [Today's News: Mainframe skills, pay at a premium](2002-03.md) |
-| **Wikipedia** | 2003-04-19 | [What is an integer?](2003-04.md) |
-| **COBOL 2014** | 2004-10-22 | [Re: Report enhancements](2004-10.md) |
-| **Ruby on Rails** | 2006-03-21 | [Re: Constants, Static, Public, Private](2006-03.md) |
-| **NetBeans** | 2007-01-27 | [Re: [OT] Of Java and C#](2007-01.md) |
-| **Facebook** | 2007-12-21 | [Re: OT: Vista](2007-12.md) |
-| **JSON** | 2009-09-30 | [Re: DRAFT COBOL revision](2009-09.md) |
-| **iPad** | 2010-09-14 | [Re: Simple Installation on OS X](2010-09.md) |
-| **GitHub** | 2011-01-10 | [Programmer Productivity](2011-01.md) |
-| **MapReduce** | 2011-02-18 | [Re: IBM "preview" of "major" (???) enhancements for mainframe COBOL](2011-02.md) |
+| **Acucobol** | 1994-12-01 | [Re: Help, please](threads/t-82c644e4f7.md) |
+| **Linux** | 1994-12-01 | [Re: Cobol->C or Linux Compiler](threads/t-f54943fd7b.md) |
+| **COBOL 85** | 1994-12-01 | [Re: Comparing Modula2 and Cobol](threads/t-d607c0cafc.md) |
+| **Delphi** | 1994-12-01 | [Does Visual Cobol exists?](threads/t-2a72339ed0.md) |
+| **Visual Basic** | 1994-12-02 | [Re: Is there any database conversion utility ?](threads/t-989da33843.md) |
+| **Micro Focus** | 1994-12-02 | [Re: Comparing Modula2 and Cobol](threads/t-2bbaae3719.md) |
+| **OS/2** | 1994-12-03 | [RPG to COBOL](threads/t-a78162884c.md) |
+| **RM/COBOL** | 1994-12-05 | [Re: ODBC and MF Cobol](threads/t-8d31333c62.md) |
+| **Windows 95** | 1994-12-05 | [Re: end of the century](threads/t-c593e6ab9c.md) |
+| **AIX** | 1994-12-08 | [Info/Advice needed on IBM Cobol 2 to MF Unix Cobol conversion](threads/t-c6f79d68aa.md) |
+| **ANSI 85** | 1994-12-14 | [Re: Help, please](threads/t-64e41a21a6.md) |
+| **Java** | 1998-06-23 | [Re: history of cobol](threads/t-908a4b4e0c.md) |
+| **Y2K** | 1998-06-23 | [Re: Y2K:Cobol->C++](threads/t-a64f5e6d16.md) |
+| **OO COBOL** | 1998-06-23 | [Re: Y2K:Cobol->C++](threads/t-a64f5e6d16.md) |
+| **Perl** | 1998-06-23 | [Re: history of cobol](threads/t-908a4b4e0c.md) |
+| **year 2000** | 1998-06-23 | [Re: Is there still good Cobal career after year 2000?](threads/t-8b115fc14f.md) |
+| **Fujitsu** | 1998-06-23 | [Re: Deperate student requires help with COBOL program](threads/t-c4c7153468.md) |
+| **SOAP** | 1998-06-23 | [Re: history of cobol](threads/t-908a4b4e0c.md) |
+| **Windows NT** | 1998-06-24 | [Re: Stupid Headhunter Tricks - anything else](threads/t-6325499a71.md) |
+| **HP-UX** | 1998-06-24 | [Re: AcuCOBOL and MQSeries???](threads/t-a6422e0d0c.md) |
+| **AS/400** | 1998-06-25 | [Finding DG Cobol Programmer](threads/t-60c2194afc.md) |
+| **OS/390** | 1998-06-26 | [RE: IMMEDIATE IDMS DBA CONTRACT POSITION](threads/t-2e71b4f135.md) |
+| **Solaris** | 1998-06-27 | [COBOL FAQ](threads/t-8c8d81bcd2.md) |
+| **object-oriented** | 1998-06-27 | [COBOL FAQ](threads/t-8c8d81bcd2.md) |
+| **Apache** | 1998-07-07 | [Re: Cobol and Web?](threads/t-b116505313.md) |
+| **.NET** | 1998-09-01 | [Re: Would you want to work here?](threads/t-70bf60def7.md) |
+| **Python** | 1998-09-12 | [Re: Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) |
+| **XML** | 1998-09-16 | [Re: Paragraph Numbering and Program Stru](threads/t-f6080ecc83.md) |
+| **millennium bug** | 1998-09-18 | [Y2K Humor](threads/t-e96e7c1d50.md) |
+| **Windows 98** | 1998-09-20 | [Microsoft/MF COBOL behaves different under W98?](threads/t-e021de470c.md) |
+| **C#** | 1998-10-19 | [Re: Geek perseverance vrs the Sorokin Effect?](threads/t-92e6de34a6.md) |
+| **COBOL 2002** | 1999-06-09 | [Re: COBOL Style Recommendations](threads/t-d3f4f60c7f.md) |
+| **PHP** | 1999-08-02 | [What's new? 15,400+ links on OO Languages, Objects and Components](threads/t-e66442f127.md) |
+| **TinyCOBOL** | 2000-06-13 | [Re: COBOL for Linux](threads/t-29394af54f.md) |
+| **Tomcat** | 2000-09-08 | [Re: basic question](threads/t-b93c965482.md) |
+| **Servlet** | 2000-09-20 | [COBOL and XML](threads/t-0ff2b3c087.md) |
+| **z/OS** | 2000-10-17 | [Re: Efficiency of calls & invokes](threads/t-f883b169c4.md) |
+| **web service** | 2001-06-27 | [Re: COBO to Java translation](threads/t-1cf5825dbc.md) |
+| **OpenCOBOL** | 2002-01-09 | [Re: function-oriented cobol compiler](threads/t-c1838e2ccc.md) |
+| **iSeries** | 2002-03-05 | [Today's News: Mainframe skills, pay at a premium](threads/t-69947c20d2.md) |
+| **Wikipedia** | 2003-04-19 | [What is an integer?](threads/t-54759ac275.md) |
+| **COBOL 2014** | 2004-10-22 | [Re: Report enhancements](threads/t-04000a5c60.md) |
+| **Ruby on Rails** | 2006-03-21 | [Re: Constants, Static, Public, Private](threads/t-be4a20cf2e.md) |
+| **NetBeans** | 2007-01-27 | [Re: [OT] Of Java and C#](threads/t-4fc95129ea.md) |
+| **Facebook** | 2007-12-21 | [Re: OT: Vista](threads/t-0f928ec238.md) |
+| **JSON** | 2009-09-30 | [Re: DRAFT COBOL revision](threads/t-711199045f.md) |
+| **iPad** | 2010-09-14 | [Re: Simple Installation on OS X](threads/t-05a1c8bb89.md) |
+| **GitHub** | 2011-01-10 | [Programmer Productivity](threads/t-54cb0cf365.md) |
+| **MapReduce** | 2011-02-18 | [Re: IBM "preview" of "major" (???) enhancements for mainframe COBOL](threads/t-426f2f1973.md) |
 

@@ -1,0 +1,35 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Computer cosulting work in Miami, FL
+
+_1 message · 1 participant · 2003-09_
+
+---
+
+### Computer cosulting work in Miami, FL
+
+- **From:** "shimon kochavi" <shimonski@bellsouth.net>
+- **Date:** 2003-09-02T13:45:48-04:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<MG45b.3474$gJ.2576@bignews3.bellsouth.net>`
+
+```
+I am looking for new work.
+
+Part time/Contract Job / Miami Area .
+
+I have a wide variety of experience of databases and development tools
+/ languages and consulting which includes:
+
+D3, Jbase,  Advanced Pick, Unidata, System Builder, SB+, Proc, Data
+Basic, Unibasic,COBOL, MF-COBOL, UNIX, NOVELL and more...
+
+Any help would be greatly appreciated.
+
+Regards,
+Shimon Kochavi
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

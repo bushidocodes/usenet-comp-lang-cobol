@@ -1,0 +1,41 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Information on COBOL and CICS
+
+_1 message · 1 participant · 2001-11_
+
+**Topics:** [`Mainframe, z/OS, JCL, CICS`](../topics.md#mainframe)
+
+---
+
+### Information on COBOL and CICS
+
+- **From:** brama@techtarget.com (BJ Rama)
+- **Date:** 2001-11-10T09:39:47-08:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<a4998f5.0111100939.4549aae3@posting.google.com>`
+
+```
+Hi everyone,
+
+My name is BJ Rama and I am the Site Editor for the S/390 specific
+search engine, search390.com
+
+We have some new information on our homepage that focuses on CICS and
+COBOL.  Many of our users have mentioned that they are interested in
+information on CICS and COBOL, so I thought you might be as well.
+
+If this information interests you, please check us out at
+www.search390.com
+
+I look forward to seeing you there.  We also have programming-related
+discussion forums that you can post to.
+
+Have a nice day.
+
+BJ Rama
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

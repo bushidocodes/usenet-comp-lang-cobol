@@ -1,0 +1,73 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Position opening for Mainframe
+
+_2 messages · 2 participants · 2007-08_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs) · [`Mainframe, z/OS, JCL, CICS`](../topics.md#mainframe)
+
+---
+
+### Position opening for Mainframe
+
+- **From:** smriti <smriti.baruah@gmail.com>
+- **Date:** 2007-08-01T02:29:00-07:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<1185960540.367216.37460@d30g2000prg.googlegroups.com>`
+
+```
+Hi,
+This is Smriti from Perfect Job Accord, We do have urgent requirement
+at Our Client,Syntel(Level5 Company,onsite opportunities are also
+available).
+Job Location:Mumbai,Chennai,Pune
+
+Position is for Mainframe.
+Experience: 3+yrs
+
+So, please forward your resume in word format immediately. Since this
+Requirement is urgent and more professionals are required for them,
+Kindly pass
+on these details to your colleagues/friends and see that they may also
+utilize
+this opportunity for better prospects.
+Please attach your latest resume in Word Format with the following
+information.
+Willing to relocate:
+Total experience:
+Current salary:
+Expected salary:
+Time required to join:
+Reason for changing:
+Your latest contact details:
+Awaiting your reply.
+Smriti
+Perfect Job Accord
+HYDERABAD.
+```
+
+#### ↳ Re: Position opening for Mainframe
+
+- **From:** docdwarf@panix.com ()
+- **Date:** 2007-08-01T12:59:36+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<f8q03o$ofi$1@reader2.panix.com>`
+- **References:** `<1185960540.367216.37460@d30g2000prg.googlegroups.com>`
+
+```
+In article <1185960540.367216.37460@d30g2000prg.googlegroups.com>,
+smriti  <smriti.baruah@gmail.com> wrote:
+>Hi,
+>This is Smriti from Perfect Job Accord,
+
+When posting to comp.lang.cobol please include a rate, or range of rates, 
+associated with the position(s) offered; to do otherwise leads many to 
+conclude that you are either trolling for resumes or running a blind ad to 
+determine rates.
+
+DD
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

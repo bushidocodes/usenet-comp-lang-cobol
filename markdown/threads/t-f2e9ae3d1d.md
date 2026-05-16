@@ -1,0 +1,59 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# COBOL FAQ
+
+_1 message · 1 participant · 2006-09_
+
+**Topics:** [`Meta: FAQs, group policy, charter`](../topics.md#meta)
+
+---
+
+### COBOL FAQ
+
+- **From:** wmklein@ix.netcom.com (William M Klein)
+- **Date:** 2006-09-22T04:58:46+00:00
+- **Newsgroups:** comp.lang.cobol,news.answers,comp.answers
+- **Message-ID:** `<computer-lang/cobol-faq_1158901080@rtfm.mit.edu>`
+
+```
+Archive-name: computer-lang/cobol-faq
+Posting-Frequency: twice a month
+Last-modified: 2005/08/16
+Version: 3.03
+URL: http://home.comcast.net/~wmklein/FAQ/COBOLFAQ.htm
+Maintainer: wmklein@ix.netcom.com (William M Klein)
+  
+                                COBOL FAQ
+                      (Frequently Asked Questions)
+    
+    Last-Modified: Spring 2002
+    
+    The full (but quite out-of-date) COBOL FAQ can be viewed at:
+    
+		http://home.comcast.net/~wmklein/FAQ/COBOLFAQ.htm 
+   
+    If you have comments, corrects, deletions, or additions, 
+    please send private email to:
+    
+        wmklein <at> ix.netcom.com
+   
+   
+    This FAQ answers such questions as (and addresses topics such as):
+   
+     - Where can I get a COBOL compiler? 
+     - Is there a free COBOL compiler? 
+     - Where can I contact... ?
+     - What about OO COBOL? 
+     - Books about COBOL
+     - COBOL Tools
+     - What can/should I post in the COBOL newsgroups?
+     - What about USAGE? COMP? Storage for data in xyz format? etc?
+     - How do I get started with COBOL? Where can I get education? 
+ 		Tutorials? Etc
+   
+   	 and much, MUCH more
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -22,10 +22,7 @@ def trim(text: str, n: int = 90) -> str:
 
 
 def thread_link(s):
-    ym = s["first_ym"]
-    if ym == "undated":
-        return md_escape(trim(s["subject"]))
-    return f"[{md_escape(trim(s['subject']))}]({ym}.md#{s['anchor']})"
+    return f"[{md_escape(trim(s['subject']))}](threads/{s['anchor']}.md)"
 
 
 def main() -> int:
@@ -80,8 +77,8 @@ def main() -> int:
         f.write("[← README](README.md) · [Topics](topics.md) · [Authors](authors.md) · [Subjects](subjects.md) · [Links](links.md) · [Stats](stats.md)\n\n")
         f.write("# comp.lang.cobol — Yearly Index\n\n")
         f.write(
-            "Each year links to its monthly files and lists the top conversations and "
-            "dominant topics of that year.\n\n"
+            "For each year: total activity, monthly message counts, top conversations, "
+            "dominant topics, and the most active thread starters.\n\n"
         )
 
         f.write("## Years\n\n")
@@ -105,11 +102,11 @@ def main() -> int:
                 f"active {months[0]} → {months[-1]}\n\n"
             )
 
-            # Monthly drill-down
+            # Monthly activity (counts only — threads are no longer grouped per month)
             f.write("### Months\n\n")
             for ym in months:
                 count = msgs_per_ym[ym]
-                f.write(f"- [{ym}]({ym}.md) — {count:,} msgs\n")
+                f.write(f"- **{ym}** — {count:,} msgs\n")
             f.write("\n")
 
             # Top threads

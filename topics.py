@@ -367,10 +367,7 @@ def trim_label(s: str, n: int = 100) -> str:
 
 
 def thread_link(summary):
-    ym = summary["first_ym"]
-    if ym == "undated":
-        return summary["subject"]
-    return f"[{trim_label(summary['subject'])}]({ym}.md#{summary['anchor']})"
+    return f"[{trim_label(summary['subject'])}](threads/{summary['anchor']}.md)"
 
 
 def span_label(s):

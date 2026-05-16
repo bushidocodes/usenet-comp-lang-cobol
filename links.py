@@ -10,7 +10,7 @@ import re
 from collections import Counter, defaultdict
 from urllib.parse import urlparse
 
-from archive import OUT, parse_archive, thread_summaries
+from archive import OUT, parse_archive, thread_anchor, thread_summaries
 
 URL_RE = re.compile(
     r"""(?xi)
@@ -132,9 +132,14 @@ def main() -> int:
             first_mid = url_first_msg[url]
             first_entry = msgs[first_mid]
             ym = first_entry["ym"]
-            first_link = (
-                f"[first cited {ym}]({ym}.md)" if ym != "undated" else "undated"
-            )
+            root = root_cache.get(first_mid)
+            if root and ym != "undated":
+                anchor = thread_anchor(root)
+                first_link = f"[first cited {ym}](threads/{anchor}.md)"
+            elif ym != "undated":
+                first_link = f"first cited {ym}"
+            else:
+                first_link = "undated"
             display = trim(url, 100)
             f.write(f"- [{md_escape(display)}]({url}) — **{count}** mentions · {first_link}\n")
             shown += 1

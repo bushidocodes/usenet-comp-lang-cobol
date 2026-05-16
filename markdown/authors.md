@@ -119,16 +119,16 @@ _Also posted as: howard.brazee@cusys.edu, howard@brazee.net, Howard.Brazee._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **305** of 1870 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **281** of 1890 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **183** of 916 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **157** of 1161 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **147** of 1132 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **87** of 540 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **77** of 524 msgs
-- [Climate models suck - It's the programming](2009-12.md#t-a65cb82c7d) — **71** of 291 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **69** of 873 msgs · _started_
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **62** of 401 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **305** of 1870 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **281** of 1890 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **183** of 916 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **157** of 1161 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **147** of 1132 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **87** of 540 msgs
+- [Treeviews](threads/t-ade484509a.md) — **77** of 524 msgs
+- [Climate models suck - It's the programming](threads/t-a65cb82c7d.md) — **71** of 291 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **69** of 873 msgs · _started_
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **62** of 401 msgs
 
 ## #2. Pete Dashwood <a id='a-3a84a9b122'></a>
 
@@ -140,16 +140,16 @@ _Also posted as: Peter E.C. Dashwood, Peter E. C. Dashwood, Peter E.C Dashwood._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **191** of 1870 msgs · _started_
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **130** of 1890 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **127** of 916 msgs · _started_
-- [Sets and subsets](2003-04.md#t-3875006633) — **85** of 439 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **64** of 1132 msgs
-- [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) — **63** of 318 msgs
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **62** of 401 msgs
-- [Climate models suck - It's the programming](2009-12.md#t-a65cb82c7d) — **59** of 291 msgs
-- [3270 emulator?](2011-06.md#t-88001467c6) — **58** of 177 msgs · _started_
-- [Productivity](2006-12.md#t-dc2050a2c9) — **54** of 156 msgs · _started_
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **191** of 1870 msgs · _started_
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **130** of 1890 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **127** of 916 msgs · _started_
+- [Sets and subsets](threads/t-3875006633.md) — **85** of 439 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **64** of 1132 msgs
+- [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **63** of 318 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **62** of 401 msgs
+- [Climate models suck - It's the programming](threads/t-a65cb82c7d.md) — **59** of 291 msgs
+- [3270 emulator?](threads/t-88001467c6.md) — **58** of 177 msgs · _started_
+- [Productivity](threads/t-dc2050a2c9.md) — **54** of 156 msgs · _started_
 
 ## #3. docdwarf@panix.com () <a id='a-2cab5f453e'></a>
 
@@ -161,16 +161,16 @@ _Also posted as: docdwarf@panix.com._
 
 **Top threads:**
 
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **193** of 1890 msgs
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **128** of 401 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **122** of 1132 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **115** of 1161 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **110** of 916 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **89** of 524 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **76** of 540 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **72** of 291 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **60** of 873 msgs
-- [Perfrom Thru](2004-03.md#t-80d24d46a5) — **59** of 204 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **193** of 1890 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **128** of 401 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **122** of 1132 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **115** of 1161 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **110** of 916 msgs
+- [Treeviews](threads/t-ade484509a.md) — **89** of 524 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **76** of 540 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **72** of 291 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **60** of 873 msgs
+- [Perfrom Thru](threads/t-80d24d46a5.md) — **59** of 204 msgs
 
 ## #4. William M. Klein <a id='a-a506eb3f7e'></a>
 
@@ -182,16 +182,16 @@ _Also posted as: William M Klein, wmklein@ix.netcom.com, no spam please (Cuthber
 
 **Top threads:**
 
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **58** of 1132 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **46** of 521 msgs · _started_
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **42** of 873 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **40** of 1161 msgs
-- [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](2007-09.md#t-4fde07a454) — **34** of 267 msgs · _started_
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **29** of 1870 msgs
-- [Perfrom Thru](2004-03.md#t-80d24d46a5) — **25** of 204 msgs
-- [Demo: Sorts (revised)](2004-06.md#t-2a7c2614f4) — **24** of 204 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **23** of 339 msgs
-- [Cobol Myth Busters](2007-08.md#t-2e14b13552) — **21** of 363 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **58** of 1132 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **46** of 521 msgs · _started_
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **42** of 873 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **40** of 1161 msgs
+- [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](threads/t-4fde07a454.md) — **34** of 267 msgs · _started_
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **29** of 1870 msgs
+- [Perfrom Thru](threads/t-80d24d46a5.md) — **25** of 204 msgs
+- [Demo: Sorts (revised)](threads/t-2a7c2614f4.md) — **24** of 204 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **23** of 339 msgs
+- [Cobol Myth Busters](threads/t-2e14b13552.md) — **21** of 363 msgs
 
 ## #5. Richard <a id='a-6ae199a93c'></a>
 
@@ -203,16 +203,16 @@ _Also posted as: Richard Plinston, riplin, riplin@Azonic.co.nz._
 
 **Top threads:**
 
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **198** of 1161 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **122** of 1132 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **114** of 1890 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **83** of 873 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **75** of 521 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **62** of 916 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **50** of 339 msgs
-- [moving data from one place to another in a text file](2005-02.md#t-bb150bb990) — **48** of 211 msgs
-- [What's Missing in a COBOL Style Guide?](2003-03.md#t-df0bc5c7d1) — **46** of 258 msgs
-- [working storage values](2007-12.md#t-5819de7ba7) — **44** of 176 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **198** of 1161 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **122** of 1132 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **114** of 1890 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **83** of 873 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **75** of 521 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **62** of 916 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **50** of 339 msgs
+- [moving data from one place to another in a text file](threads/t-bb150bb990.md) — **48** of 211 msgs
+- [What's Missing in a COBOL Style Guide?](threads/t-df0bc5c7d1.md) — **46** of 258 msgs
+- [working storage values](threads/t-5819de7ba7.md) — **44** of 176 msgs
 
 ## #6. James J. Gavan <a id='a-d0cc1b2e9e'></a>
 
@@ -224,16 +224,16 @@ _Also posted as: James J.Gavan, J. Gavan, James. J. Gavan._
 
 **Top threads:**
 
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **164** of 1890 msgs · _started_
-- [Treeviews](2005-02.md#t-ade484509a) — **63** of 524 msgs · _started_
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **60** of 873 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **51** of 456 msgs
-- [MF having issues?](2006-02.md#t-71bbd6783b) — **41** of 236 msgs
-- [More Structure.. Perform from Read](2001-06.md#t-cf31ed1f92) — **40** of 235 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **35** of 244 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **33** of 540 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **31** of 1132 msgs
-- [Sets and subsets](2003-04.md#t-3875006633) — **27** of 439 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **164** of 1890 msgs · _started_
+- [Treeviews](threads/t-ade484509a.md) — **63** of 524 msgs · _started_
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **60** of 873 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **51** of 456 msgs
+- [MF having issues?](threads/t-71bbd6783b.md) — **41** of 236 msgs
+- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **40** of 235 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **35** of 244 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **33** of 540 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **31** of 1132 msgs
+- [Sets and subsets](threads/t-3875006633.md) — **27** of 439 msgs
 
 ## #7. Robert Wagner <a id='a-d451a3c201'></a>
 
@@ -245,16 +245,16 @@ _Also posted as: Robert._
 
 **Top threads:**
 
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **335** of 1161 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **222** of 873 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **210** of 1132 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **141** of 521 msgs
-- [Sets and subsets](2003-04.md#t-3875006633) — **100** of 439 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **85** of 290 msgs
-- [What's Missing in a COBOL Style Guide?](2003-03.md#t-df0bc5c7d1) — **83** of 258 msgs
-- [Demo: Sorts (revised)](2004-06.md#t-2a7c2614f4) — **75** of 204 msgs · _started_
-- [Non-Cobol person getting error code](2004-11.md#t-0f7181f19f) — **74** of 256 msgs
-- [OT Science versus religion: Is compromise impossible?](2004-12.md#t-df3f81e997) — **73** of 392 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **335** of 1161 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **222** of 873 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **210** of 1132 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **141** of 521 msgs
+- [Sets and subsets](threads/t-3875006633.md) — **100** of 439 msgs
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **85** of 290 msgs
+- [What's Missing in a COBOL Style Guide?](threads/t-df0bc5c7d1.md) — **83** of 258 msgs
+- [Demo: Sorts (revised)](threads/t-2a7c2614f4.md) — **75** of 204 msgs · _started_
+- [Non-Cobol person getting error code](threads/t-0f7181f19f.md) — **74** of 256 msgs
+- [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) — **73** of 392 msgs
 
 ## #8. Donald Tees <a id='a-a368509bcd'></a>
 
@@ -266,16 +266,16 @@ _Also posted as: donald tees._
 
 **Top threads:**
 
-- [Any comments?](2006-03.md#t-1abe82d84d) — **58** of 916 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **52** of 1890 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **37** of 456 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **33** of 300 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **32** of 274 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **25** of 1161 msgs
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **20** of 1870 msgs
-- [Is there a way to concatenate strings?](2001-03.md#t-f60fc53a87) — **20** of 86 msgs
-- [GO TO](2000-05.md#t-3222d57323) — **19** of 150 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **18** of 524 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **58** of 916 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **52** of 1890 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **37** of 456 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **33** of 300 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **32** of 274 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **25** of 1161 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **20** of 1870 msgs
+- [Is there a way to concatenate strings?](threads/t-f60fc53a87.md) — **20** of 86 msgs
+- [GO TO](threads/t-3222d57323.md) — **19** of 150 msgs
+- [Treeviews](threads/t-ade484509a.md) — **18** of 524 msgs
 
 ## #9. Thane Hubbell <a id='a-eb2a3b36c5'></a>
 
@@ -287,16 +287,16 @@ _Also posted as: John H Sleight Jr, Charles, Thane._
 
 **Top threads:**
 
-- [Graphical User Interface](2000-06.md#t-2ffd57bc85) — **23** of 143 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **18** of 244 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **17** of 274 msgs
-- [EVALUATE problem](2001-08.md#t-48a2c69481) — **13** of 108 msgs
-- [Success stories for Cobol](2000-06.md#t-96a5a3cd70) — **13** of 77 msgs
-- [What's Missing in a COBOL Style Guide?](2003-03.md#t-df0bc5c7d1) — **12** of 258 msgs
-- [A case for multiple inheritence.](2001-06.md#t-9f50d005a9) — **12** of 68 msgs · _started_
-- [10 Reasons Why JAVA is better than cobol](2001-06.md#t-4a12ae013f) — **12** of 155 msgs
-- [Multiple Topics - One message -- CA-World discussed too!](2000-04.md#t-cb134a4545) — **12** of 187 msgs · _started_
-- [Motivating Programmers](2001-05.md#t-6bfe7298cd) — **11** of 105 msgs
+- [Graphical User Interface](threads/t-2ffd57bc85.md) — **23** of 143 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **18** of 244 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **17** of 274 msgs
+- [EVALUATE problem](threads/t-48a2c69481.md) — **13** of 108 msgs
+- [Success stories for Cobol](threads/t-96a5a3cd70.md) — **13** of 77 msgs
+- [What's Missing in a COBOL Style Guide?](threads/t-df0bc5c7d1.md) — **12** of 258 msgs
+- [A case for multiple inheritence.](threads/t-9f50d005a9.md) — **12** of 68 msgs · _started_
+- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **12** of 155 msgs
+- [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **12** of 187 msgs · _started_
+- [Motivating Programmers](threads/t-6bfe7298cd.md) — **11** of 105 msgs
 
 ## #10. Judson McClendon <a id='a-cf317dae8c'></a>
 
@@ -306,16 +306,16 @@ _Also posted as: John H Sleight Jr, Charles, Thane._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **300** of 1870 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **271** of 1890 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **85** of 456 msgs
-- [CoBOL moved to OO](2003-12.md#t-5edd33d66f) — **43** of 259 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **29** of 289 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **27** of 274 msgs
-- [OT: Some More Background on St. Paul](2008-02.md#t-4b48b948c8) — **26** of 97 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **26** of 244 msgs
-- [OT: Global Warming? New Data Shows Ice Is Back](2008-02.md#t-7c7ae1450e) — **21** of 201 msgs · _started_
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **21** of 310 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **300** of 1870 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **271** of 1890 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **85** of 456 msgs
+- [CoBOL moved to OO](threads/t-5edd33d66f.md) — **43** of 259 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **29** of 289 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **27** of 274 msgs
+- [OT: Some More Background on St. Paul](threads/t-4b48b948c8.md) — **26** of 97 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **26** of 244 msgs
+- [OT: Global Warming? New Data Shows Ice Is Back](threads/t-7c7ae1450e.md) — **21** of 201 msgs · _started_
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **21** of 310 msgs
 
 ## #11. Alistair <a id='a-b89ff55746'></a>
 
@@ -327,16 +327,16 @@ _Also posted as: Alistair Maclean._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **280** of 1870 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **223** of 1890 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **64** of 916 msgs
-- [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) — **45** of 318 msgs
-- [OT: Global Warming? New Data Shows Ice Is Back](2008-02.md#t-7c7ae1450e) — **44** of 201 msgs
-- [newbie question on cobol syntax](2007-04.md#t-6bd396c6dc) — **36** of 297 msgs
-- [Cobol Myth Busters](2007-08.md#t-2e14b13552) — **35** of 363 msgs
-- [Eliot Spitzer, antismoking leader, self-destructs](2008-03.md#t-6586f1cf52) — **29** of 195 msgs
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **27** of 310 msgs
-- [OT: Politically Correct](2007-05.md#t-14dbcf5f82) — **27** of 84 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **280** of 1870 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **223** of 1890 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **64** of 916 msgs
+- [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **45** of 318 msgs
+- [OT: Global Warming? New Data Shows Ice Is Back](threads/t-7c7ae1450e.md) — **44** of 201 msgs
+- [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **36** of 297 msgs
+- [Cobol Myth Busters](threads/t-2e14b13552.md) — **35** of 363 msgs
+- [Eliot Spitzer, antismoking leader, self-destructs](threads/t-6586f1cf52.md) — **29** of 195 msgs
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **27** of 310 msgs
+- [OT: Politically Correct](threads/t-14dbcf5f82.md) — **27** of 84 msgs
 
 ## #12. Michael Mattias <a id='a-7f49b1d715'></a>
 
@@ -346,16 +346,16 @@ _Also posted as: Alistair Maclean._
 
 **Top threads:**
 
-- [Anyone writing console apps using win32api ?](2001-04.md#t-0489a2e390) — **10** of 42 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **9** of 1890 msgs
-- [Cobol Linear search Vs Perfrom Until](2004-07.md#t-23a980cfd3) — **9** of 108 msgs
-- [Creating COBOL real-time software on Windows...](2009-02.md#t-6442fa2599) — **8** of 30 msgs
-- [OT: The Geek defense](2008-02.md#t-bd924d782f) — **8** of 146 msgs
-- [How to find the greatest of two numbers without using the comparison operators?](2007-08.md#t-d43bfca9b9) — **8** of 190 msgs
-- [A Matter of Style](2003-03.md#t-c407b510e9) — **8** of 84 msgs
-- [All X'0D' lost during reading line sequential file using microfocus se](2008-07.md#t-dd6bf37d50) — **7** of 100 msgs
-- [File operations](2007-03.md#t-7e585e3bc2) — **7** of 52 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **7** of 916 msgs
+- [Anyone writing console apps using win32api ?](threads/t-0489a2e390.md) — **10** of 42 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **9** of 1890 msgs
+- [Cobol Linear search Vs Perfrom Until](threads/t-23a980cfd3.md) — **9** of 108 msgs
+- [Creating COBOL real-time software on Windows...](threads/t-6442fa2599.md) — **8** of 30 msgs
+- [OT: The Geek defense](threads/t-bd924d782f.md) — **8** of 146 msgs
+- [How to find the greatest of two numbers without using the comparison operators?](threads/t-d43bfca9b9.md) — **8** of 190 msgs
+- [A Matter of Style](threads/t-c407b510e9.md) — **8** of 84 msgs
+- [All X'0D' lost during reading line sequential file using microfocus se](threads/t-dd6bf37d50.md) — **7** of 100 msgs
+- [File operations](threads/t-7e585e3bc2.md) — **7** of 52 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **7** of 916 msgs
 
 ## #13. Rick Smith <a id='a-f4ff78ea7d'></a>
 
@@ -365,16 +365,16 @@ _Also posted as: Alistair Maclean._
 
 **Top threads:**
 
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **38** of 1890 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **37** of 873 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **37** of 291 msgs
-- [Strange Cobol-behaviour](2002-12.md#t-a10085c4b3) — **29** of 147 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **26** of 339 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **26** of 1161 msgs
-- [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) — **24** of 318 msgs
-- [Cross-language challenge (of POSSIBLE interest)](2005-02.md#t-509a06ffc2) — **24** of 242 msgs
-- [Misc comments on GOTO, packed data, and flowcharts](2000-05.md#t-e64f1909a4) — **23** of 88 msgs
-- [IT's Record of Failure Is Worse Than You Think](2013-03.md#t-130dba987f) — **22** of 128 msgs · _started_
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **38** of 1890 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **37** of 873 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **37** of 291 msgs
+- [Strange Cobol-behaviour](threads/t-a10085c4b3.md) — **29** of 147 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **26** of 339 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **26** of 1161 msgs
+- [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **24** of 318 msgs
+- [Cross-language challenge (of POSSIBLE interest)](threads/t-509a06ffc2.md) — **24** of 242 msgs
+- [Misc comments on GOTO, packed data, and flowcharts](threads/t-e64f1909a4.md) — **23** of 88 msgs
+- [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **22** of 128 msgs · _started_
 
 ## #14. LX-i <a id='a-a669087a91'></a>
 
@@ -384,16 +384,16 @@ _Also posted as: Alistair Maclean._
 
 **Top threads:**
 
-- [Any comments?](2006-03.md#t-1abe82d84d) — **100** of 916 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **96** of 540 msgs
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **67** of 1870 msgs
-- [newbie question on cobol syntax](2007-04.md#t-6bd396c6dc) — **57** of 297 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **56** of 524 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **47** of 1132 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **41** of 873 msgs
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **36** of 310 msgs · _started_
-- [OT Science versus religion: Is compromise impossible?](2004-12.md#t-df3f81e997) — **34** of 392 msgs
-- [Cobol development environment](2003-06.md#t-e56b4778a5) — **25** of 422 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **100** of 916 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **96** of 540 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **67** of 1870 msgs
+- [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **57** of 297 msgs
+- [Treeviews](threads/t-ade484509a.md) — **56** of 524 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **47** of 1132 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **41** of 873 msgs
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **36** of 310 msgs · _started_
+- [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) — **34** of 392 msgs
+- [Cobol development environment](threads/t-e56b4778a5.md) — **25** of 422 msgs
 
 ## #15. docdwarf@clark.net () <a id='a-e4952c5479'></a>
 
@@ -405,16 +405,16 @@ _Also posted as: NA, <docdwarf@clark.net>, docdwarf@clark.net._
 
 **Top threads:**
 
-- [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) — **34** of 360 msgs
-- [string concatination ?](2000-06.md#t-f20a05e1e6) — **34** of 125 msgs
-- [GO TO](2000-05.md#t-3222d57323) — **30** of 150 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **26** of 300 msgs
-- [Please Do My Job/Homework?](1999-03.md#t-8d60b28067) — **22** of 76 msgs · _started_
-- [Motivating Programmers](2001-05.md#t-6bfe7298cd) — **18** of 105 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **17** of 274 msgs
-- [How do you count?](2001-10.md#t-beb9b9e7da) — **16** of 73 msgs
-- [[job] Cobol Programmer needed-rate range](2001-07.md#t-f48340aac0) — **16** of 72 msgs
-- [Exponential function](2000-09.md#t-a44144dab4) — **16** of 53 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **34** of 360 msgs
+- [string concatination ?](threads/t-f20a05e1e6.md) — **34** of 125 msgs
+- [GO TO](threads/t-3222d57323.md) — **30** of 150 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **26** of 300 msgs
+- [Please Do My Job/Homework?](threads/t-8d60b28067.md) — **22** of 76 msgs · _started_
+- [Motivating Programmers](threads/t-6bfe7298cd.md) — **18** of 105 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **17** of 274 msgs
+- [How do you count?](threads/t-beb9b9e7da.md) — **16** of 73 msgs
+- [[job] Cobol Programmer needed-rate range](threads/t-f48340aac0.md) — **16** of 72 msgs
+- [Exponential function](threads/t-a44144dab4.md) — **16** of 53 msgs
 
 ## #16. Chuck Stevens <a id='a-51c1713216'></a>
 
@@ -426,16 +426,16 @@ _Also posted as: charles.stevens@unisys.com, Charles Stevens._
 
 **Top threads:**
 
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **126** of 873 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **86** of 1890 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **66** of 1132 msgs · _started_
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **60** of 540 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **51** of 521 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **42** of 916 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **41** of 1161 msgs
-- [INSPECT and TRAILING syntax](2006-05.md#t-dcd7e1b749) — **36** of 131 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **31** of 290 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **29** of 339 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **126** of 873 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **86** of 1890 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **66** of 1132 msgs · _started_
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **60** of 540 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **51** of 521 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **42** of 916 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **41** of 1161 msgs
+- [INSPECT and TRAILING syntax](threads/t-dcd7e1b749.md) — **36** of 131 msgs
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **31** of 290 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **29** of 339 msgs
 
 ## #17. SkippyPB <a id='a-276f59012c'></a>
 
@@ -445,16 +445,16 @@ _Also posted as: charles.stevens@unisys.com, Charles Stevens._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **65** of 1870 msgs
-- [Climate models suck - It's the programming](2009-12.md#t-a65cb82c7d) — **26** of 291 msgs
-- [Eliot Spitzer, antismoking leader, self-destructs](2008-03.md#t-6586f1cf52) — **23** of 195 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **18** of 524 msgs
-- [[OT] Iraq (was: Cobol Myth Busters](2007-09.md#t-78c041495a) — **17** of 121 msgs · _started_
-- [Useless skills](2013-05.md#t-943b6f1aec) — **16** of 182 msgs
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **16** of 310 msgs
-- [newbie question on cobol syntax](2007-04.md#t-6bd396c6dc) — **16** of 297 msgs
-- [OT: Climate Change](2009-12.md#t-d62c719fb6) — **15** of 169 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **14** of 1890 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **65** of 1870 msgs
+- [Climate models suck - It's the programming](threads/t-a65cb82c7d.md) — **26** of 291 msgs
+- [Eliot Spitzer, antismoking leader, self-destructs](threads/t-6586f1cf52.md) — **23** of 195 msgs
+- [Treeviews](threads/t-ade484509a.md) — **18** of 524 msgs
+- [[OT] Iraq (was: Cobol Myth Busters](threads/t-78c041495a.md) — **17** of 121 msgs · _started_
+- [Useless skills](threads/t-943b6f1aec.md) — **16** of 182 msgs
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **16** of 310 msgs
+- [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **16** of 297 msgs
+- [OT: Climate Change](threads/t-d62c719fb6.md) — **15** of 169 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **14** of 1890 msgs
 
 ## #18. HeyBub <a id='a-8f5b17c45b'></a>
 
@@ -466,16 +466,16 @@ _Also posted as: Heybub._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **142** of 1870 msgs
-- [Climate models suck - It's the programming](2009-12.md#t-a65cb82c7d) — **31** of 291 msgs · _started_
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **23** of 310 msgs
-- [OT: Global Warming? New Data Shows Ice Is Back](2008-02.md#t-7c7ae1450e) — **21** of 201 msgs
-- ["Climategate" code](2009-11.md#t-2e0eb1bbaa) — **15** of 77 msgs · _started_
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **15** of 1890 msgs
-- [Eliot Spitzer, antismoking leader, self-destructs](2008-03.md#t-6586f1cf52) — **14** of 195 msgs
-- [OT: I'm really not anti-American, just fed up with stupidity...](2012-04.md#t-47c67922df) — **12** of 83 msgs
-- [GO TO "cobol"](2012-04.md#t-9e68a514e1) — **12** of 50 msgs
-- [OT : Insidious Facebook](2010-08.md#t-79c70f090f) — **12** of 53 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **142** of 1870 msgs
+- [Climate models suck - It's the programming](threads/t-a65cb82c7d.md) — **31** of 291 msgs · _started_
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **23** of 310 msgs
+- [OT: Global Warming? New Data Shows Ice Is Back](threads/t-7c7ae1450e.md) — **21** of 201 msgs
+- ["Climategate" code](threads/t-2e0eb1bbaa.md) — **15** of 77 msgs · _started_
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **15** of 1890 msgs
+- [Eliot Spitzer, antismoking leader, self-destructs](threads/t-6586f1cf52.md) — **14** of 195 msgs
+- [OT: I'm really not anti-American, just fed up with stupidity...](threads/t-47c67922df.md) — **12** of 83 msgs
+- [GO TO "cobol"](threads/t-9e68a514e1.md) — **12** of 50 msgs
+- [OT : Insidious Facebook](threads/t-79c70f090f.md) — **12** of 53 msgs
 
 ## #19. Robert <a id='a-684c851af5'></a>
 
@@ -487,16 +487,16 @@ _Also posted as: robert, 0robert.jones@gmail.com._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **80** of 1870 msgs
-- [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](2007-09.md#t-4fde07a454) — **72** of 267 msgs
-- [Cobol Myth Busters](2007-08.md#t-2e14b13552) — **69** of 363 msgs · _started_
-- [J4 - presentation/discussion on "Future of the COBOL Standard"](2008-03.md#t-d3b4388d7c) — **53** of 201 msgs · _started_
-- [COBOL's Influence on C](2007-11.md#t-670d3618cb) — **40** of 150 msgs
-- [help with tables](2008-01.md#t-84124279eb) — **36** of 117 msgs
-- [compile+link Fujitsu Linux](2008-01.md#t-fb10dfd178) — **35** of 81 msgs
-- [Discussions of COBOL philospphy](2007-09.md#t-6e159bc856) — **28** of 120 msgs
-- [How proprietary is the "COBOL file system"](2007-09.md#t-be0407e98e) — **27** of 141 msgs
-- [COBOL and DB2 vs. Java and DB2](2007-09.md#t-916ce5fee1) — **26** of 102 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **80** of 1870 msgs
+- [COBOL "non-myth" confirmed - Index and subscripts (MF on Windows)](threads/t-4fde07a454.md) — **72** of 267 msgs
+- [Cobol Myth Busters](threads/t-2e14b13552.md) — **69** of 363 msgs · _started_
+- [J4 - presentation/discussion on "Future of the COBOL Standard"](threads/t-d3b4388d7c.md) — **53** of 201 msgs · _started_
+- [COBOL's Influence on C](threads/t-670d3618cb.md) — **40** of 150 msgs
+- [help with tables](threads/t-84124279eb.md) — **36** of 117 msgs
+- [compile+link Fujitsu Linux](threads/t-fb10dfd178.md) — **35** of 81 msgs
+- [Discussions of COBOL philospphy](threads/t-6e159bc856.md) — **28** of 120 msgs
+- [How proprietary is the "COBOL file system"](threads/t-be0407e98e.md) — **27** of 141 msgs
+- [COBOL and DB2 vs. Java and DB2](threads/t-916ce5fee1.md) — **26** of 102 msgs
 
 ## #20. JerryMouse <a id='a-8d01f04fcf'></a>
 
@@ -508,16 +508,16 @@ _Also posted as: Gerry Ford, HeyBub._
 
 **Top threads:**
 
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **15** of 291 msgs · _started_
-- [Routine Needed](2003-08.md#t-8571616d41) — **13** of 56 msgs · _started_
-- [Working with a tab-delimited input file](2003-11.md#t-5b5b05e97e) — **9** of 55 msgs
-- [JUSTIFIED CENTER](2003-06.md#t-78e7a9686a) — **9** of 49 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **9** of 456 msgs
-- [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](2004-11.md#t-172a78fc6d) — **8** of 71 msgs
-- [Demo: Sorts (revised)](2004-06.md#t-2a7c2614f4) — **8** of 204 msgs
-- [OO? Oh oh!](2004-01.md#t-e9153861ff) — **8** of 63 msgs
-- [OT Microsoft](2003-03.md#t-64e54b668b) — **8** of 72 msgs
-- [Revisiting an Old Prejudice: READ INTO/WRITE FROM](2004-08.md#t-0bffc05f33) — **7** of 105 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **15** of 291 msgs · _started_
+- [Routine Needed](threads/t-8571616d41.md) — **13** of 56 msgs · _started_
+- [Working with a tab-delimited input file](threads/t-5b5b05e97e.md) — **9** of 55 msgs
+- [JUSTIFIED CENTER](threads/t-78e7a9686a.md) — **9** of 49 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **9** of 456 msgs
+- [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](threads/t-172a78fc6d.md) — **8** of 71 msgs
+- [Demo: Sorts (revised)](threads/t-2a7c2614f4.md) — **8** of 204 msgs
+- [OO? Oh oh!](threads/t-e9153861ff.md) — **8** of 63 msgs
+- [OT Microsoft](threads/t-64e54b668b.md) — **8** of 72 msgs
+- [Revisiting an Old Prejudice: READ INTO/WRITE FROM](threads/t-0bffc05f33.md) — **7** of 105 msgs
 
 ## #21. Charles Hottel <a id='a-e0f1a43e71'></a>
 
@@ -529,16 +529,16 @@ _Also posted as: charles hottel._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **35** of 1870 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **19** of 1890 msgs
-- [Cobol development environment](2003-06.md#t-e56b4778a5) — **16** of 422 msgs
-- [Symbols for Logical Operators](2003-06.md#t-912e9b2ae2) — **16** of 283 msgs
-- [3270 emulator?](2011-06.md#t-88001467c6) — **13** of 177 msgs
-- [The list of INVOKEs](2009-06.md#t-bfa86572a6) — **13** of 76 msgs
-- [Reg: Immediate requirement for multiple skills from our direct client.Only phon…](2012-09.md#t-730481c88a) — **12** of 65 msgs
-- [advice on books to learn cobol](2006-10.md#t-24a1480f59) — **12** of 96 msgs
-- [Flogging dead horses and teaching pigs to fly](2003-06.md#t-73d51cce1f) — **12** of 45 msgs · _started_
-- [Radix Sort a la RW (a New Thread)](2003-05.md#t-a2fb228655) — **12** of 21 msgs · _started_
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **35** of 1870 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **19** of 1890 msgs
+- [Cobol development environment](threads/t-e56b4778a5.md) — **16** of 422 msgs
+- [Symbols for Logical Operators](threads/t-912e9b2ae2.md) — **16** of 283 msgs
+- [3270 emulator?](threads/t-88001467c6.md) — **13** of 177 msgs
+- [The list of INVOKEs](threads/t-bfa86572a6.md) — **13** of 76 msgs
+- [Reg: Immediate requirement for multiple skills from our direct client.Only phon…](threads/t-730481c88a.md) — **12** of 65 msgs
+- [advice on books to learn cobol](threads/t-24a1480f59.md) — **12** of 96 msgs
+- [Flogging dead horses and teaching pigs to fly](threads/t-73d51cce1f.md) — **12** of 45 msgs · _started_
+- [Radix Sort a la RW (a New Thread)](threads/t-a2fb228655.md) — **12** of 21 msgs · _started_
 
 ## #22. Joe Zitzelberger <a id='a-4bf47897ae'></a>
 
@@ -548,16 +548,16 @@ _Also posted as: charles hottel._
 
 **Top threads:**
 
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **68** of 1132 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **45** of 291 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **37** of 1890 msgs
-- [OT Science versus religion: Is compromise impossible?](2004-12.md#t-df3f81e997) — **24** of 392 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **19** of 289 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **19** of 1161 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **17** of 873 msgs
-- [Beginner's Question](2003-04.md#t-379ce8e2cd) — **16** of 219 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **15** of 524 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **15** of 290 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **68** of 1132 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **45** of 291 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **37** of 1890 msgs
+- [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) — **24** of 392 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **19** of 289 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **19** of 1161 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **17** of 873 msgs
+- [Beginner's Question](threads/t-379ce8e2cd.md) — **16** of 219 msgs
+- [Treeviews](threads/t-ade484509a.md) — **15** of 524 msgs
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **15** of 290 msgs
 
 ## #23. Peter E. C. Dashwood <a id='a-1e00ada3a1'></a>
 
@@ -569,16 +569,16 @@ _Also posted as: Pete Dashwood, Peter E.C. Dashwood._
 
 **Top threads:**
 
-- [More Structure.. Perform from Read](2001-06.md#t-cf31ed1f92) — **30** of 235 msgs
-- [10 Reasons Why JAVA is better than cobol](2001-06.md#t-4a12ae013f) — **18** of 155 msgs
-- [Have you always dreamed of become a high payed consultant?](2002-11.md#t-148316ccab) — **17** of 111 msgs
-- [The witchcraft of analysis](2002-01.md#t-e5a9a520d0) — **16** of 51 msgs
-- [More numeric values.](2002-01.md#t-39188b850d) — **15** of 86 msgs
-- [Do you understand this question?](2001-12.md#t-852a7c1564) — **15** of 65 msgs
-- [help! remove embedded spaces from a string](2001-05.md#t-8ed083bb23) — **15** of 55 msgs
-- [Future of COBOL](2002-10.md#t-ce9ba46b2f) — **14** of 100 msgs
-- [IBM mainframe use of OO COBOL](2001-08.md#t-f943ec26f9) — **14** of 69 msgs
-- [Correct Length of a string](2002-05.md#t-03a01e86b5) — **13** of 93 msgs
+- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **30** of 235 msgs
+- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **18** of 155 msgs
+- [Have you always dreamed of become a high payed consultant?](threads/t-148316ccab.md) — **17** of 111 msgs
+- [The witchcraft of analysis](threads/t-e5a9a520d0.md) — **16** of 51 msgs
+- [More numeric values.](threads/t-39188b850d.md) — **15** of 86 msgs
+- [Do you understand this question?](threads/t-852a7c1564.md) — **15** of 65 msgs
+- [help! remove embedded spaces from a string](threads/t-8ed083bb23.md) — **15** of 55 msgs
+- [Future of COBOL](threads/t-ce9ba46b2f.md) — **14** of 100 msgs
+- [IBM mainframe use of OO COBOL](threads/t-f943ec26f9.md) — **14** of 69 msgs
+- [Correct Length of a string](threads/t-03a01e86b5.md) — **13** of 93 msgs
 
 ## #24. Frank Swarbrick <a id='a-a2998f5f85'></a>
 
@@ -588,16 +588,16 @@ _Also posted as: Pete Dashwood, Peter E.C. Dashwood._
 
 **Top threads:**
 
-- [MF having issues?](2006-02.md#t-71bbd6783b) — **23** of 236 msgs
-- [Productivity](2006-12.md#t-dc2050a2c9) — **22** of 156 msgs
-- [specifying z/OS load libraries](2009-08.md#t-552876ebed) — **12** of 29 msgs · _started_
-- [Constants, Static, Public, Private](2006-03.md#t-be4a20cf2e) — **11** of 54 msgs
-- [variable length fields for flexibility in subroutines](2007-07.md#t-2d45757539) — **10** of 26 msgs · _started_
-- [Attribute BASED and LINKAGE SECTION](2006-06.md#t-55a2b6c9a9) — **10** of 29 msgs
-- [brain teaser](2006-05.md#t-64f87cec32) — **10** of 45 msgs · _started_
-- [PIC P put to real use](2006-05.md#t-5fc11a89b6) — **10** of 56 msgs · _started_
-- ["invalid" source code (END-IF, Next Sentence, and missing periods)](2001-07.md#t-0d94f5fdf3) — **10** of 31 msgs
-- [help with tables](2008-01.md#t-84124279eb) — **9** of 117 msgs · _started_
+- [MF having issues?](threads/t-71bbd6783b.md) — **23** of 236 msgs
+- [Productivity](threads/t-dc2050a2c9.md) — **22** of 156 msgs
+- [specifying z/OS load libraries](threads/t-552876ebed.md) — **12** of 29 msgs · _started_
+- [Constants, Static, Public, Private](threads/t-be4a20cf2e.md) — **11** of 54 msgs
+- [variable length fields for flexibility in subroutines](threads/t-2d45757539.md) — **10** of 26 msgs · _started_
+- [Attribute BASED and LINKAGE SECTION](threads/t-55a2b6c9a9.md) — **10** of 29 msgs
+- [brain teaser](threads/t-64f87cec32.md) — **10** of 45 msgs · _started_
+- [PIC P put to real use](threads/t-5fc11a89b6.md) — **10** of 56 msgs · _started_
+- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-0d94f5fdf3.md) — **10** of 31 msgs
+- [help with tables](threads/t-84124279eb.md) — **9** of 117 msgs · _started_
 
 ## #25. Ken Foskey <a id='a-363df6b1e6'></a>
 
@@ -609,16 +609,16 @@ _Also posted as: waratah@zip.com.au._
 
 **Top threads:**
 
-- [Graphical User Interface](2000-06.md#t-2ffd57bc85) — **16** of 143 msgs
-- [Multiple Topics - One message -- CA-World discussed too!](2000-04.md#t-cb134a4545) — **16** of 187 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **14** of 244 msgs
-- [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) — **13** of 170 msgs
-- [Structured Vs OO](2000-03.md#t-9170eef001) — **9** of 47 msgs
-- [Interesting code](1999-11.md#t-e0f12ab0be) — **9** of 72 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **8** of 125 msgs
-- [OO who needs it and why?](2000-03.md#t-9544eae14e) — **7** of 79 msgs
-- [Calculations](1999-07.md#t-34961c92cf) — **7** of 101 msgs
-- [Labels .. Pros and Cons](1999-04.md#t-fe43c0f7ce) — **7** of 40 msgs
+- [Graphical User Interface](threads/t-2ffd57bc85.md) — **16** of 143 msgs
+- [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **16** of 187 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **14** of 244 msgs
+- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **13** of 170 msgs
+- [Structured Vs OO](threads/t-9170eef001.md) — **9** of 47 msgs
+- [Interesting code](threads/t-e0f12ab0be.md) — **9** of 72 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **8** of 125 msgs
+- [OO who needs it and why?](threads/t-9544eae14e.md) — **7** of 79 msgs
+- [Calculations](threads/t-34961c92cf.md) — **7** of 101 msgs
+- [Labels .. Pros and Cons](threads/t-fe43c0f7ce.md) — **7** of 40 msgs
 
 ## #26. Jerry P <a id='a-23bdb093fe'></a>
 
@@ -630,16 +630,16 @@ _Also posted as: Jerry Peacock._
 
 **Top threads:**
 
-- [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) — **13** of 360 msgs
-- [INITIALIZE v MOVE](2001-04.md#t-e0f50053aa) — **9** of 37 msgs
-- [Mark Johnson -- Programmers Guild racist yahoos](2000-09.md#t-d443f9b2bb) — **9** of 53 msgs
-- [Is COBOL Dying...or Thriving?](2001-04.md#t-3480d3af58) — **8** of 94 msgs
-- [Graphical User Interface](2000-06.md#t-2ffd57bc85) — **8** of 143 msgs
-- [Eliminating Evidence](2001-05.md#t-055ce6fd04) — **6** of 24 msgs
-- [Prime number program](2001-05.md#t-8128edf217) — **6** of 36 msgs
-- [FJ and Win Common Dialog](2000-07.md#t-171fe6db6e) — **6** of 10 msgs · _started_
-- [ALERT! New virus has been very active today](2000-05.md#t-2d4036659c) — **6** of 25 msgs
-- [OT - Internet Explorer V6.0](2001-08.md#t-83015c1ca1) — **5** of 77 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **13** of 360 msgs
+- [INITIALIZE v MOVE](threads/t-e0f50053aa.md) — **9** of 37 msgs
+- [Mark Johnson -- Programmers Guild racist yahoos](threads/t-d443f9b2bb.md) — **9** of 53 msgs
+- [Is COBOL Dying...or Thriving?](threads/t-3480d3af58.md) — **8** of 94 msgs
+- [Graphical User Interface](threads/t-2ffd57bc85.md) — **8** of 143 msgs
+- [Eliminating Evidence](threads/t-055ce6fd04.md) — **6** of 24 msgs
+- [Prime number program](threads/t-8128edf217.md) — **6** of 36 msgs
+- [FJ and Win Common Dialog](threads/t-171fe6db6e.md) — **6** of 10 msgs · _started_
+- [ALERT! New virus has been very active today](threads/t-2d4036659c.md) — **6** of 25 msgs
+- [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **5** of 77 msgs
 
 ## #27. Alistair Maclean <a id='a-56dcb54ee3'></a>
 
@@ -651,16 +651,16 @@ _Also posted as: Alistair.J.L.Maclean@googlemail.com._
 
 **Top threads:**
 
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **41** of 456 msgs
-- [3270 emulator?](2011-06.md#t-88001467c6) — **28** of 177 msgs
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **28** of 1870 msgs
-- [Before I submit this to RosettaCode ...](2010-10.md#t-05abd14879) — **24** of 72 msgs
-- [Useless skills](2013-05.md#t-943b6f1aec) — **20** of 182 msgs
-- [OT: Trouble in Paradise](2011-10.md#t-11accd9aba) — **16** of 104 msgs
-- [What are chances no Social Security checks?](2011-07.md#t-c4213f3d46) — **13** of 91 msgs
-- [History of COBOL](2010-10.md#t-29fb4fb6a4) — **13** of 80 msgs
-- [IT's Record of Failure Is Worse Than You Think](2013-03.md#t-130dba987f) — **11** of 128 msgs
-- [Inaccurate math results in Micro Focus Unix](2013-05.md#t-eda27e7c85) — **10** of 46 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **41** of 456 msgs
+- [3270 emulator?](threads/t-88001467c6.md) — **28** of 177 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **28** of 1870 msgs
+- [Before I submit this to RosettaCode ...](threads/t-05abd14879.md) — **24** of 72 msgs
+- [Useless skills](threads/t-943b6f1aec.md) — **20** of 182 msgs
+- [OT: Trouble in Paradise](threads/t-11accd9aba.md) — **16** of 104 msgs
+- [What are chances no Social Security checks?](threads/t-c4213f3d46.md) — **13** of 91 msgs
+- [History of COBOL](threads/t-29fb4fb6a4.md) — **13** of 80 msgs
+- [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **11** of 128 msgs
+- [Inaccurate math results in Micro Focus Unix](threads/t-eda27e7c85.md) — **10** of 46 msgs
 
 ## #28. Leif Svalgaard <a id='a-c2a5103bed'></a>
 
@@ -670,16 +670,16 @@ _Also posted as: Alistair.J.L.Maclean@googlemail.com._
 
 **Top threads:**
 
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **27** of 274 msgs
-- [Another proposal](1998-12.md#t-77a27b205b) — **12** of 99 msgs
-- [Is one period per paragraph a good idea?](1998-11.md#t-e1a5f5c7c8) — **12** of 151 msgs
-- [PER COBOL](1998-11.md#t-50081d9a30) — **12** of 21 msgs
-- [How many bytes is S9(03)....](1998-10.md#t-9b7e3c9498) — **11** of 72 msgs
-- [tables arrays subscripting](1999-05.md#t-547334728b) — **10** of 96 msgs
-- [Paragraph Numbering and Program Structure](1998-09.md#t-f6080ecc83) — **10** of 56 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **9** of 125 msgs
-- [STD: In-line comment indicator](2000-01.md#t-c014cdda85) — **9** of 76 msgs
-- [Length of string](1998-10.md#t-3bcd60cf3a) — **9** of 24 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **27** of 274 msgs
+- [Another proposal](threads/t-77a27b205b.md) — **12** of 99 msgs
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **12** of 151 msgs
+- [PER COBOL](threads/t-50081d9a30.md) — **12** of 21 msgs
+- [How many bytes is S9(03)....](threads/t-9b7e3c9498.md) — **11** of 72 msgs
+- [tables arrays subscripting](threads/t-547334728b.md) — **10** of 96 msgs
+- [Paragraph Numbering and Program Structure](threads/t-f6080ecc83.md) — **10** of 56 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **9** of 125 msgs
+- [STD: In-line comment indicator](threads/t-c014cdda85.md) — **9** of 76 msgs
+- [Length of string](threads/t-3bcd60cf3a.md) — **9** of 24 msgs
 
 ## #29. Michael Wojcik <a id='a-1ff1dafca6'></a>
 
@@ -689,16 +689,16 @@ _Also posted as: Alistair.J.L.Maclean@googlemail.com._
 
 **Top threads:**
 
-- [GoTo in Java](2006-01.md#t-b3d171b57c) — **29** of 176 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **28** of 289 msgs
-- [3270 emulator?](2011-06.md#t-88001467c6) — **26** of 177 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **19** of 873 msgs
-- [I need a new compiler...](2008-12.md#t-3fa470349d) — **16** of 146 msgs
-- [Of mice and men](2005-05.md#t-5d2977a0c2) — **16** of 100 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **16** of 1161 msgs
-- [Getting started with Cobol 2002 +](2013-01.md#t-c1d04665fc) — **14** of 65 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **14** of 1132 msgs
-- [MF having issues?](2006-02.md#t-71bbd6783b) — **13** of 236 msgs
+- [GoTo in Java](threads/t-b3d171b57c.md) — **29** of 176 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **28** of 289 msgs
+- [3270 emulator?](threads/t-88001467c6.md) — **26** of 177 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **19** of 873 msgs
+- [I need a new compiler...](threads/t-3fa470349d.md) — **16** of 146 msgs
+- [Of mice and men](threads/t-5d2977a0c2.md) — **16** of 100 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **16** of 1161 msgs
+- [Getting started with Cobol 2002 +](threads/t-c1d04665fc.md) — **14** of 65 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **14** of 1132 msgs
+- [MF having issues?](threads/t-71bbd6783b.md) — **13** of 236 msgs
 
 ## #30. William Lynch <a id='a-72d59929d3'></a>
 
@@ -710,16 +710,16 @@ _Also posted as: Bill Lynch, Capt. Nemo._
 
 **Top threads:**
 
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **43** of 300 msgs
-- [string concatination ?](2000-06.md#t-f20a05e1e6) — **20** of 125 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **16** of 274 msgs
-- [Is one period per paragraph a good idea?](1998-11.md#t-e1a5f5c7c8) — **15** of 151 msgs
-- [Go To depending](1998-11.md#t-122e02a93c) — **12** of 106 msgs
-- [GO TO](2000-05.md#t-3222d57323) — **10** of 150 msgs
-- [ELIF Proposal](1998-11.md#t-8ecfce6e34) — **9** of 91 msgs
-- [Success stories for Cobol](2000-06.md#t-96a5a3cd70) — **8** of 77 msgs
-- [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) — **8** of 170 msgs
-- [Interesting code](1999-11.md#t-e0f12ab0be) — **8** of 72 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **43** of 300 msgs
+- [string concatination ?](threads/t-f20a05e1e6.md) — **20** of 125 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **16** of 274 msgs
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **15** of 151 msgs
+- [Go To depending](threads/t-122e02a93c.md) — **12** of 106 msgs
+- [GO TO](threads/t-3222d57323.md) — **10** of 150 msgs
+- [ELIF Proposal](threads/t-8ecfce6e34.md) — **9** of 91 msgs
+- [Success stories for Cobol](threads/t-96a5a3cd70.md) — **8** of 77 msgs
+- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **8** of 170 msgs
+- [Interesting code](threads/t-e0f12ab0be.md) — **8** of 72 msgs
 
 ## #31. Bob Wolfe <a id='a-a4e9d485b3'></a>
 
@@ -731,16 +731,16 @@ _Also posted as: rtwolfe, rtwolfe@flexus.com._
 
 **Top threads:**
 
-- [Large Systems Cobol -> Java](2003-06.md#t-51288de6d6) — **13** of 123 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **11** of 244 msgs
-- [Visual Age Cobol, or Java ?](2002-12.md#t-6cbbe83a5a) — **10** of 82 msgs
-- [Fujitsu 3.0 & Exec SQL](2003-05.md#t-e9a2046849) — **9** of 41 msgs
-- [OT - Humor (not REALLY a comment on some recent postings to CLC)](2003-05.md#t-86cbfad266) — **9** of 42 msgs
-- [Future of COBOL](2002-10.md#t-ce9ba46b2f) — **9** of 100 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **9** of 300 msgs
-- [Graphical User Interface](2000-06.md#t-2ffd57bc85) — **8** of 143 msgs
-- [info](1999-05.md#t-e44d2b8cd7) — **7** of 18 msgs
-- [Fortress COBOL - Why?](2003-07.md#t-afd6e74f08) — **6** of 164 msgs
+- [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **13** of 123 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **11** of 244 msgs
+- [Visual Age Cobol, or Java ?](threads/t-6cbbe83a5a.md) — **10** of 82 msgs
+- [Fujitsu 3.0 & Exec SQL](threads/t-e9a2046849.md) — **9** of 41 msgs
+- [OT - Humor (not REALLY a comment on some recent postings to CLC)](threads/t-86cbfad266.md) — **9** of 42 msgs
+- [Future of COBOL](threads/t-ce9ba46b2f.md) — **9** of 100 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **9** of 300 msgs
+- [Graphical User Interface](threads/t-2ffd57bc85.md) — **8** of 143 msgs
+- [info](threads/t-e44d2b8cd7.md) — **7** of 18 msgs
+- [Fortress COBOL - Why?](threads/t-afd6e74f08.md) — **6** of 164 msgs
 
 ## #32. Frederico Fonseca <a id='a-863a2732f2'></a>
 
@@ -752,16 +752,16 @@ _Also posted as: frederico_fonseca@eudoramail.com._
 
 **Top threads:**
 
-- [Opinions on approach, please...](2008-05.md#t-7b75ec5e04) — **10** of 94 msgs
-- [The list of INVOKEs](2009-06.md#t-bfa86572a6) — **7** of 76 msgs
-- [Fujitsu COBOL and COM and events](2004-02.md#t-014b58a9b3) — **7** of 21 msgs · _started_
-- [Fujitsu support - need help - Netcobol for windows and licensed controls.](2006-06.md#t-460a50ec33) — **6** of 14 msgs · _started_
-- [Occurs Depending Memory Use](2005-05.md#t-4e14e6a529) — **6** of 105 msgs
-- [Is a General File Maintenance Routine possible?](2004-09.md#t-fc06ce4141) — **6** of 74 msgs
-- [MAINFRAME SHOP STANDARDS](2004-12.md#t-e50bb43816) — **5** of 155 msgs
-- [Creating tables](2004-10.md#t-cb7de79fd1) — **5** of 11 msgs
-- [input indicator variables](2006-10.md#t-b95e2dd15a) — **4** of 15 msgs
-- [Week Number in Fujitsu cobol](2006-06.md#t-59279a8c1a) — **4** of 20 msgs
+- [Opinions on approach, please...](threads/t-7b75ec5e04.md) — **10** of 94 msgs
+- [The list of INVOKEs](threads/t-bfa86572a6.md) — **7** of 76 msgs
+- [Fujitsu COBOL and COM and events](threads/t-014b58a9b3.md) — **7** of 21 msgs · _started_
+- [Fujitsu support - need help - Netcobol for windows and licensed controls.](threads/t-460a50ec33.md) — **6** of 14 msgs · _started_
+- [Occurs Depending Memory Use](threads/t-4e14e6a529.md) — **6** of 105 msgs
+- [Is a General File Maintenance Routine possible?](threads/t-fc06ce4141.md) — **6** of 74 msgs
+- [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) — **5** of 155 msgs
+- [Creating tables](threads/t-cb7de79fd1.md) — **5** of 11 msgs
+- [input indicator variables](threads/t-b95e2dd15a.md) — **4** of 15 msgs
+- [Week Number in Fujitsu cobol](threads/t-59279a8c1a.md) — **4** of 20 msgs
 
 ## #33. Arnold Trembley <a id='a-59c27396af'></a>
 
@@ -771,16 +771,16 @@ _Also posted as: frederico_fonseca@eudoramail.com._
 
 **Top threads:**
 
-- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](2005-07.md#t-56df4077d0) — **9** of 186 msgs
-- [A COBOL conundrum](2010-10.md#t-5e6d90cfe3) — **8** of 58 msgs · _started_
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **8** of 1161 msgs
-- [IBM and COBOL SEARCH ALL](2006-12.md#t-ebacc26aa5) — **7** of 28 msgs
-- [COBOL compiler written in COBOL](2003-09.md#t-fa472d648c) — **6** of 31 msgs
-- [mastercard conversion to ipm](2001-06.md#t-a7c72a55e4) — **6** of 25 msgs
-- [Sorting dilema...](2000-04.md#t-89746b83b2) — **6** of 109 msgs
-- [test](2010-02.md#t-dc39cfe0f1) — **5** of 10 msgs · _started_
-- [Getting SQLCODE -302 after migrating DB2 V7 to V8 IN ibm z/os](2007-06.md#t-eb41546704) — **5** of 23 msgs
-- [S0C4 x'4' abend while reading VSAM KSDS file](2008-06.md#t-176ff68488) — **4** of 64 msgs
+- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](threads/t-56df4077d0.md) — **9** of 186 msgs
+- [A COBOL conundrum](threads/t-5e6d90cfe3.md) — **8** of 58 msgs · _started_
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **8** of 1161 msgs
+- [IBM and COBOL SEARCH ALL](threads/t-ebacc26aa5.md) — **7** of 28 msgs
+- [COBOL compiler written in COBOL](threads/t-fa472d648c.md) — **6** of 31 msgs
+- [mastercard conversion to ipm](threads/t-a7c72a55e4.md) — **6** of 25 msgs
+- [Sorting dilema...](threads/t-89746b83b2.md) — **6** of 109 msgs
+- [test](threads/t-dc39cfe0f1.md) — **5** of 10 msgs · _started_
+- [Getting SQLCODE -302 after migrating DB2 V7 to V8 IN ibm z/os](threads/t-eb41546704.md) — **5** of 23 msgs
+- [S0C4 x'4' abend while reading VSAM KSDS file](threads/t-176ff68488.md) — **4** of 64 msgs
 
 ## #34. jce <a id='a-9257261d73'></a>
 
@@ -792,16 +792,16 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 
 **Top threads:**
 
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **36** of 401 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **30** of 1890 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **30** of 540 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **21** of 524 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **16** of 289 msgs
-- [Future reuse of code](2003-08.md#t-f935538283) — **14** of 334 msgs
-- [Of mice and men](2005-05.md#t-5d2977a0c2) — **12** of 100 msgs
-- [moving data from one place to another in a text file](2005-02.md#t-bb150bb990) — **12** of 211 msgs
-- [88-LEVEL / SET xx TO TRUE / SET xx TO "FALSE"](2003-09.md#t-c6e9f61de6) — **12** of 84 msgs
-- [mainframe career advice](2005-09.md#t-22c2cd4b95) — **10** of 78 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **36** of 401 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **30** of 1890 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **30** of 540 msgs
+- [Treeviews](threads/t-ade484509a.md) — **21** of 524 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **16** of 289 msgs
+- [Future reuse of code](threads/t-f935538283.md) — **14** of 334 msgs
+- [Of mice and men](threads/t-5d2977a0c2.md) — **12** of 100 msgs
+- [moving data from one place to another in a text file](threads/t-bb150bb990.md) — **12** of 211 msgs
+- [88-LEVEL / SET xx TO TRUE / SET xx TO "FALSE"](threads/t-c6e9f61de6.md) — **12** of 84 msgs
+- [mainframe career advice](threads/t-22c2cd4b95.md) — **10** of 78 msgs
 
 ## #35. Lueko Willms <a id='a-b8bac3d661'></a>
 
@@ -811,16 +811,16 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 
 **Top threads:**
 
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **87** of 1132 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **38** of 339 msgs
-- [Cross-language challenge (of POSSIBLE interest)](2005-02.md#t-509a06ffc2) — **29** of 242 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **20** of 873 msgs
-- [MAINFRAME SHOP STANDARDS](2004-12.md#t-e50bb43816) — **20** of 155 msgs
-- [Non-Cobol person getting error code](2004-11.md#t-0f7181f19f) — **15** of 256 msgs
-- [EXIT PERFORM Help, please](2004-11.md#t-01cc7f3515) — **12** of 39 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **10** of 289 msgs
-- [[OT] Windows/Macro Language Info?](2005-03.md#t-6e2d760f3f) — **10** of 112 msgs
-- [OT (Maybe): ERPs](2005-01.md#t-f83bd24cf2) — **10** of 93 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **87** of 1132 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **38** of 339 msgs
+- [Cross-language challenge (of POSSIBLE interest)](threads/t-509a06ffc2.md) — **29** of 242 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **20** of 873 msgs
+- [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) — **20** of 155 msgs
+- [Non-Cobol person getting error code](threads/t-0f7181f19f.md) — **15** of 256 msgs
+- [EXIT PERFORM Help, please](threads/t-01cc7f3515.md) — **12** of 39 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **10** of 289 msgs
+- [[OT] Windows/Macro Language Info?](threads/t-6e2d760f3f.md) — **10** of 112 msgs
+- [OT (Maybe): ERPs](threads/t-f83bd24cf2.md) — **10** of 93 msgs
 
 ## #36. Binyamin Dissen <a id='a-6ff3c2e05e'></a>
 
@@ -830,16 +830,16 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 
 **Top threads:**
 
-- [Internal Sorts](2003-12.md#t-9f7f900663) — **12** of 97 msgs
-- [Newbie Question](2006-05.md#t-1a87f42e3d) — **7** of 62 msgs
-- [File Sort](2000-10.md#t-9ecead0781) — **7** of 67 msgs
-- [MVS Packed Decimal with no sign nibble?](2003-12.md#t-ad9382958d) — **5** of 121 msgs
-- [[unisys] SEARCH syntax, table](2003-05.md#t-54c4825b52) — **5** of 31 msgs
-- [checking if NUMERIC](2007-10.md#t-caa3432e80) — **4** of 71 msgs
-- [Class Test for Valid Characters](2004-06.md#t-106a23da7b) — **4** of 14 msgs
-- [vsam algorithms?](2003-05.md#t-c28854eecb) — **4** of 18 msgs
-- [Visual JCL?](1999-09.md#t-1972a7a58e) — **4** of 29 msgs
-- [Is there any COBOL program for verify the SSN?](2008-04.md#t-681c7c6e3c) — **3** of 48 msgs
+- [Internal Sorts](threads/t-9f7f900663.md) — **12** of 97 msgs
+- [Newbie Question](threads/t-1a87f42e3d.md) — **7** of 62 msgs
+- [File Sort](threads/t-9ecead0781.md) — **7** of 67 msgs
+- [MVS Packed Decimal with no sign nibble?](threads/t-ad9382958d.md) — **5** of 121 msgs
+- [[unisys] SEARCH syntax, table](threads/t-54c4825b52.md) — **5** of 31 msgs
+- [checking if NUMERIC](threads/t-caa3432e80.md) — **4** of 71 msgs
+- [Class Test for Valid Characters](threads/t-106a23da7b.md) — **4** of 14 msgs
+- [vsam algorithms?](threads/t-c28854eecb.md) — **4** of 18 msgs
+- [Visual JCL?](threads/t-1972a7a58e.md) — **4** of 29 msgs
+- [Is there any COBOL program for verify the SSN?](threads/t-681c7c6e3c.md) — **3** of 48 msgs
 
 ## #37. Liam Devlin <a id='a-9e7945e30f'></a>
 
@@ -849,16 +849,16 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 
 **Top threads:**
 
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **92** of 456 msgs
-- [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) — **22** of 360 msgs
-- [OT : Nigerian Email Scams](2002-09.md#t-ce84227c11) — **19** of 93 msgs
-- [IBM Mainframe COBOL "people"](2002-05.md#t-6e9cf19351) — **13** of 111 msgs
-- [OT - My ### is bigger than yours - but is it better?](2002-08.md#t-f8227f777e) — **11** of 58 msgs
-- [More Structure.. Perform from Read](2001-06.md#t-cf31ed1f92) — **11** of 235 msgs
-- [testing, one two three](2002-11.md#t-44056c794e) — **10** of 42 msgs
-- [Is COBOL Dying...or Thriving?](2001-04.md#t-3480d3af58) — **8** of 94 msgs
-- [Mark Johnson -- Programmers Guild racist yahoos](2000-09.md#t-d443f9b2bb) — **8** of 53 msgs
-- [Internal vs External SORTs](2003-01.md#t-cd4ceda530) — **6** of 174 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **92** of 456 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **22** of 360 msgs
+- [OT : Nigerian Email Scams](threads/t-ce84227c11.md) — **19** of 93 msgs
+- [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) — **13** of 111 msgs
+- [OT - My ### is bigger than yours - but is it better?](threads/t-f8227f777e.md) — **11** of 58 msgs
+- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **11** of 235 msgs
+- [testing, one two three](threads/t-44056c794e.md) — **10** of 42 msgs
+- [Is COBOL Dying...or Thriving?](threads/t-3480d3af58.md) — **8** of 94 msgs
+- [Mark Johnson -- Programmers Guild racist yahoos](threads/t-d443f9b2bb.md) — **8** of 53 msgs
+- [Internal vs External SORTs](threads/t-cd4ceda530.md) — **6** of 174 msgs
 
 ## #38. Russell Styles <a id='a-b8dce817dd'></a>
 
@@ -870,16 +870,16 @@ _Also posted as: RUSSELL STYLES._
 
 **Top threads:**
 
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **9** of 456 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **7** of 521 msgs
-- [Periods, Scope delimiters (with or without IDMS)](2002-12.md#t-7cafe83273) — **7** of 32 msgs
-- [GO TO exit](2000-10.md#t-595b426460) — **7** of 74 msgs
-- [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) — **7** of 360 msgs
-- [string concatination ?](2000-06.md#t-f20a05e1e6) — **6** of 125 msgs
-- [Maintenance - top 10 tasks](2000-09.md#t-256a3399b0) — **5** of 82 msgs
-- [Use of declaratives on file errors](2000-09.md#t-abde6badc9) — **5** of 49 msgs
-- [Perform Thru/Go to vs. Perform - Compile Speed](2004-04.md#t-a6c684530f) — **4** of 195 msgs
-- [Opinions from the veterans or experts](2003-02.md#t-ac4e066f50) — **4** of 145 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **9** of 456 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **7** of 521 msgs
+- [Periods, Scope delimiters (with or without IDMS)](threads/t-7cafe83273.md) — **7** of 32 msgs
+- [GO TO exit](threads/t-595b426460.md) — **7** of 74 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **7** of 360 msgs
+- [string concatination ?](threads/t-f20a05e1e6.md) — **6** of 125 msgs
+- [Maintenance - top 10 tasks](threads/t-256a3399b0.md) — **5** of 82 msgs
+- [Use of declaratives on file errors](threads/t-abde6badc9.md) — **5** of 49 msgs
+- [Perform Thru/Go to vs. Perform - Compile Speed](threads/t-a6c684530f.md) — **4** of 195 msgs
+- [Opinions from the veterans or experts](threads/t-ac4e066f50.md) — **4** of 145 msgs
 
 ## #39. Doug Miller <a id='a-919f8d3b35'></a>
 
@@ -891,16 +891,16 @@ _Also posted as: Douglas Miller._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **58** of 1870 msgs
-- [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) — **26** of 318 msgs
-- [Cobol Myth Busters](2007-08.md#t-2e14b13552) — **13** of 363 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **13** of 456 msgs
-- [Google Groups relay of this Usenet group](2012-02.md#t-668b9c5c74) — **11** of 54 msgs
-- [[OT] Iraq](2007-09.md#t-b41850b8b6) — **11** of 310 msgs
-- [Compare of signed fields](2007-09.md#t-635ebdf657) — **10** of 58 msgs
-- [Understanding Error Messages](2008-05.md#t-1e9f57d3e9) — **8** of 66 msgs
-- [Regarding EVALUATE TRUE](2007-08.md#t-5c7f626384) — **8** of 84 msgs
-- [cobol to ascii translation](2007-06.md#t-1cb4019757) — **8** of 48 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **58** of 1870 msgs
+- [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **26** of 318 msgs
+- [Cobol Myth Busters](threads/t-2e14b13552.md) — **13** of 363 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **13** of 456 msgs
+- [Google Groups relay of this Usenet group](threads/t-668b9c5c74.md) — **11** of 54 msgs
+- [[OT] Iraq](threads/t-b41850b8b6.md) — **11** of 310 msgs
+- [Compare of signed fields](threads/t-635ebdf657.md) — **10** of 58 msgs
+- [Understanding Error Messages](threads/t-1e9f57d3e9.md) — **8** of 66 msgs
+- [Regarding EVALUATE TRUE](threads/t-5c7f626384.md) — **8** of 84 msgs
+- [cobol to ascii translation](threads/t-1cb4019757.md) — **8** of 48 msgs
 
 ## #40. Cheesle <a id='a-94d017761a'></a>
 
@@ -910,16 +910,16 @@ _Also posted as: Douglas Miller._
 
 **Top threads:**
 
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **27** of 244 msgs
-- [OO who needs it and why?](2000-03.md#t-9544eae14e) — **17** of 79 msgs
-- [Sections vs Paragraphs](1999-04.md#t-c3e5a88d63) — **15** of 43 msgs · _started_
-- [cobol for free ??](2000-02.md#t-fc8658e269) — **13** of 120 msgs
-- [Environment stability](1999-07.md#t-e84b129dc1) — **13** of 37 msgs
-- [Graphical User Interface](2000-06.md#t-2ffd57bc85) — **12** of 143 msgs
-- [Screen Section](1999-10.md#t-3db31f7b9c) — **10** of 66 msgs
-- [string mixed to string in CAPITALS](1999-04.md#t-c8ef6b335e) — **9** of 41 msgs
-- [RM COBOL - Win Programming?](1999-05.md#t-4c1c831194) — **8** of 26 msgs · _started_
-- [Non-programmers think Y2K was hype... and I'm angry!](2000-01.md#t-88f6ada26b) — **6** of 104 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **27** of 244 msgs
+- [OO who needs it and why?](threads/t-9544eae14e.md) — **17** of 79 msgs
+- [Sections vs Paragraphs](threads/t-c3e5a88d63.md) — **15** of 43 msgs · _started_
+- [cobol for free ??](threads/t-fc8658e269.md) — **13** of 120 msgs
+- [Environment stability](threads/t-e84b129dc1.md) — **13** of 37 msgs
+- [Graphical User Interface](threads/t-2ffd57bc85.md) — **12** of 143 msgs
+- [Screen Section](threads/t-3db31f7b9c.md) — **10** of 66 msgs
+- [string mixed to string in CAPITALS](threads/t-c8ef6b335e.md) — **9** of 41 msgs
+- [RM COBOL - Win Programming?](threads/t-4c1c831194.md) — **8** of 26 msgs · _started_
+- [Non-programmers think Y2K was hype... and I'm angry!](threads/t-88f6ada26b.md) — **6** of 104 msgs
 
 ## #41. tlmfru <a id='a-b00c185bb3'></a>
 
@@ -931,16 +931,16 @@ _Also posted as: Peter Lacey._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **88** of 1870 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **33** of 1890 msgs
-- [OT: Global Warming? New Data Shows Ice Is Back](2008-02.md#t-7c7ae1450e) — **15** of 201 msgs
-- [Code problems with Perform Thru Exit causes fall through](2007-07.md#t-f8b0e547d0) — **10** of 318 msgs
-- [Old broken COBOL programs from the 70s and 80s](2008-07.md#t-33043ff31b) — **9** of 142 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **9** of 916 msgs
-- [GoTo in Java](2006-01.md#t-b3d171b57c) — **9** of 176 msgs
-- [COBOL ain't quite dead - yet !](2008-10.md#t-f284cddef0) — **8** of 84 msgs
-- [My Migrations](2008-09.md#t-04b1bde0e3) — **8** of 60 msgs
-- [Java is becoming the new Cobol](2008-01.md#t-23d892179b) — **7** of 186 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **88** of 1870 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **33** of 1890 msgs
+- [OT: Global Warming? New Data Shows Ice Is Back](threads/t-7c7ae1450e.md) — **15** of 201 msgs
+- [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **10** of 318 msgs
+- [Old broken COBOL programs from the 70s and 80s](threads/t-33043ff31b.md) — **9** of 142 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **9** of 916 msgs
+- [GoTo in Java](threads/t-b3d171b57c.md) — **9** of 176 msgs
+- [COBOL ain't quite dead - yet !](threads/t-f284cddef0.md) — **8** of 84 msgs
+- [My Migrations](threads/t-04b1bde0e3.md) — **8** of 60 msgs
+- [Java is becoming the new Cobol](threads/t-23d892179b.md) — **7** of 186 msgs
 
 ## #42. Volker Bandke <a id='a-1c8994bc67'></a>
 
@@ -950,16 +950,16 @@ _Also posted as: Peter Lacey._
 
 **Top threads:**
 
-- [QSAM](1999-11.md#t-cb0d5d4091) — **10** of 44 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **9** of 125 msgs
-- [Advanced COBOL topics?](2000-07.md#t-d16142f7a8) — **8** of 16 msgs · _started_
-- [Need answer to Cobol trivia](2001-05.md#t-3d25d39872) — **6** of 47 msgs
-- [Signed numeric fields in Personal MFCobol](1999-11.md#t-84dc7c0539) — **6** of 73 msgs
-- [DFHCOMMAREA](2002-07.md#t-14541f9435) — **5** of 27 msgs
-- [Sorts and such...](1998-12.md#t-9dcaf3d273) — **5** of 21 msgs
-- [COBOL indexes](2003-02.md#t-8b6a4e90b4) — **4** of 150 msgs
-- [Paragraph Recursion with IBM Cobol for OS/390?](2002-11.md#t-af29778c9b) — **4** of 57 msgs
-- [OT - Humor (was: Is 12:00 Noon considered AM or PM?](2002-10.md#t-96b43742c5) — **4** of 93 msgs
+- [QSAM](threads/t-cb0d5d4091.md) — **10** of 44 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **9** of 125 msgs
+- [Advanced COBOL topics?](threads/t-d16142f7a8.md) — **8** of 16 msgs · _started_
+- [Need answer to Cobol trivia](threads/t-3d25d39872.md) — **6** of 47 msgs
+- [Signed numeric fields in Personal MFCobol](threads/t-84dc7c0539.md) — **6** of 73 msgs
+- [DFHCOMMAREA](threads/t-14541f9435.md) — **5** of 27 msgs
+- [Sorts and such...](threads/t-9dcaf3d273.md) — **5** of 21 msgs
+- [COBOL indexes](threads/t-8b6a4e90b4.md) — **4** of 150 msgs
+- [Paragraph Recursion with IBM Cobol for OS/390?](threads/t-af29778c9b.md) — **4** of 57 msgs
+- [OT - Humor (was: Is 12:00 Noon considered AM or PM?](threads/t-96b43742c5.md) — **4** of 93 msgs
 
 ## #43. Oliver Wong <a id='a-a01b445052'></a>
 
@@ -969,16 +969,16 @@ _Also posted as: Peter Lacey._
 
 **Top threads:**
 
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **140** of 1890 msgs
-- [Any comments?](2006-03.md#t-1abe82d84d) — **44** of 916 msgs
-- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](2005-07.md#t-56df4077d0) — **40** of 186 msgs · _started_
-- [MF having issues?](2006-02.md#t-71bbd6783b) — **34** of 236 msgs
-- [GoTo in Java](2006-01.md#t-b3d171b57c) — **13** of 176 msgs
-- [Cobol work?](2005-10.md#t-681ec8cbbb) — **13** of 289 msgs
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **10** of 401 msgs
-- [OT: windoze woes and full rant mode is on](2006-11.md#t-38efcef77e) — **7** of 116 msgs
-- [xml schema (xsd) in cobol](2006-02.md#t-aab27c6c5e) — **7** of 23 msgs
-- [Disassembler](2006-02.md#t-b7010c86e1) — **6** of 88 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **140** of 1890 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **44** of 916 msgs
+- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](threads/t-56df4077d0.md) — **40** of 186 msgs · _started_
+- [MF having issues?](threads/t-71bbd6783b.md) — **34** of 236 msgs
+- [GoTo in Java](threads/t-b3d171b57c.md) — **13** of 176 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **13** of 289 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **10** of 401 msgs
+- [OT: windoze woes and full rant mode is on](threads/t-38efcef77e.md) — **7** of 116 msgs
+- [xml schema (xsd) in cobol](threads/t-aab27c6c5e.md) — **7** of 23 msgs
+- [Disassembler](threads/t-b7010c86e1.md) — **6** of 88 msgs
 
 ## #44. Warren Simmons <a id='a-a0ee197007'></a>
 
@@ -990,16 +990,16 @@ _Also posted as: warren.simmons, 398199821, Warren G. Simmons._
 
 **Top threads:**
 
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **16** of 873 msgs
-- [Differences in data description in programming languages](2004-11.md#t-3665604048) — **13** of 112 msgs · _started_
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **13** of 290 msgs
-- [MF Collection Class speed](2005-02.md#t-3c3c42052b) — **8** of 135 msgs
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **8** of 1132 msgs
-- [OFF Topic](2004-10.md#t-04000a5c60) — **7** of 339 msgs · _started_
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **7** of 244 msgs
-- [Future of COBOL](2002-01.md#t-b6125cc663) — **6** of 76 msgs
-- [A case for multiple inheritence.](2001-06.md#t-9f50d005a9) — **6** of 68 msgs
-- [A daring thought: OO-Cobol names case-sensitive?](2000-08.md#t-d67cd1192f) — **6** of 48 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **16** of 873 msgs
+- [Differences in data description in programming languages](threads/t-3665604048.md) — **13** of 112 msgs · _started_
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **13** of 290 msgs
+- [MF Collection Class speed](threads/t-3c3c42052b.md) — **8** of 135 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **8** of 1132 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **7** of 339 msgs · _started_
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **7** of 244 msgs
+- [Future of COBOL](threads/t-b6125cc663.md) — **6** of 76 msgs
+- [A case for multiple inheritence.](threads/t-9f50d005a9.md) — **6** of 68 msgs
+- [A daring thought: OO-Cobol names case-sensitive?](threads/t-d67cd1192f.md) — **6** of 48 msgs
 
 ## #45. G Moore <a id='a-e6c24529d8'></a>
 
@@ -1009,16 +1009,16 @@ _Also posted as: warren.simmons, 398199821, Warren G. Simmons._
 
 **Top threads:**
 
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **25** of 244 msgs
-- [Woshington Pravda cries for H1b's](2000-09.md#t-bc1d6f2312) — **23** of 360 msgs
-- [STD: Leap Seconds and COBOL](2000-01.md#t-7eba4116ce) — **16** of 76 msgs
-- [convert cobol database](1998-11.md#t-5b1c1de092) — **11** of 32 msgs
-- [Unionization the answer? Can IT people learn to follow politics and lobby?](2000-09.md#t-451cca80fa) — **10** of 57 msgs
-- [Unfeasibly large COBOL programmer salaries](1999-01.md#t-3fde4208b5) — **9** of 44 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **9** of 300 msgs
-- [COBOL GUI front end](1998-09.md#t-5faa305718) — **8** of 96 msgs
-- [migration from mainframe to client server](1998-09.md#t-a952e90cb4) — **8** of 34 msgs · _started_
-- [Multiple Topics - One message -- CA-World discussed too!](2000-04.md#t-cb134a4545) — **7** of 187 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **25** of 244 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **23** of 360 msgs
+- [STD: Leap Seconds and COBOL](threads/t-7eba4116ce.md) — **16** of 76 msgs
+- [convert cobol database](threads/t-5b1c1de092.md) — **11** of 32 msgs
+- [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-451cca80fa.md) — **10** of 57 msgs
+- [Unfeasibly large COBOL programmer salaries](threads/t-3fde4208b5.md) — **9** of 44 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **9** of 300 msgs
+- [COBOL GUI front end](threads/t-5faa305718.md) — **8** of 96 msgs
+- [migration from mainframe to client server](threads/t-a952e90cb4.md) — **8** of 34 msgs · _started_
+- [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **7** of 187 msgs
 
 ## #46. Richard Plinston <a id='a-cf254091b2'></a>
 
@@ -1030,16 +1030,16 @@ _Also posted as: riplin@kcbbs.gen.nz._
 
 **Top threads:**
 
-- [File Sort](2000-10.md#t-9ecead0781) — **9** of 67 msgs
-- [Who cares ?](1999-08.md#t-8713a0bb1f) — **8** of 80 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **8** of 300 msgs
-- [Paragraphs vs Sections](1998-09.md#t-562d1f0eab) — **8** of 43 msgs
-- [cobol for free ??](2000-02.md#t-fc8658e269) — **7** of 120 msgs
-- [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) — **7** of 170 msgs
-- [NEXT SENTENCE vs CONTINUE](1998-11.md#t-1e6a4f6979) — **7** of 28 msgs
-- [How many bytes is S9(03)....](1998-10.md#t-9b7e3c9498) — **7** of 72 msgs
-- [COBOL GUI front end](1998-09.md#t-5faa305718) — **7** of 96 msgs
-- [Collaborative Article on COBOL](1999-09.md#t-35ef5edc94) — **6** of 25 msgs
+- [File Sort](threads/t-9ecead0781.md) — **9** of 67 msgs
+- [Who cares ?](threads/t-8713a0bb1f.md) — **8** of 80 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **8** of 300 msgs
+- [Paragraphs vs Sections](threads/t-562d1f0eab.md) — **8** of 43 msgs
+- [cobol for free ??](threads/t-fc8658e269.md) — **7** of 120 msgs
+- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **7** of 170 msgs
+- [NEXT SENTENCE vs CONTINUE](threads/t-1e6a4f6979.md) — **7** of 28 msgs
+- [How many bytes is S9(03)....](threads/t-9b7e3c9498.md) — **7** of 72 msgs
+- [COBOL GUI front end](threads/t-5faa305718.md) — **7** of 96 msgs
+- [Collaborative Article on COBOL](threads/t-35ef5edc94.md) — **6** of 25 msgs
 
 ## #47. Clark F Morris <a id='a-ab691ce192'></a>
 
@@ -1051,16 +1051,16 @@ _Also posted as: Clark Morris._
 
 **Top threads:**
 
-- [J4 - presentation/discussion on "Future of the COBOL Standard"](2008-03.md#t-d3b4388d7c) — **11** of 201 msgs
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **11** of 1870 msgs
-- [What is your opinion regardinf touch screens?](2013-01.md#t-130c65d399) — **10** of 91 msgs
-- [Natural for zOS](2010-05.md#t-1063fc07e0) — **9** of 61 msgs
-- [Eliot Spitzer, antismoking leader, self-destructs](2008-03.md#t-6586f1cf52) — **8** of 195 msgs
-- [How proprietary is the "COBOL file system"](2007-09.md#t-be0407e98e) — **8** of 141 msgs
-- [Further discussion on "Something has to be maintained" and lack of OO acceptanc…](2006-11.md#t-879917bc52) — **8** of 69 msgs · _started_
-- [Can File status checking be dangerous?](2012-05.md#t-89e256e9ac) — **6** of 81 msgs
-- [77 Levels](2011-10.md#t-18a7793cd8) — **6** of 161 msgs
-- [OT: Newsgroup Name Change?](2007-01.md#t-7bedff9837) — **6** of 64 msgs
+- [J4 - presentation/discussion on "Future of the COBOL Standard"](threads/t-d3b4388d7c.md) — **11** of 201 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **11** of 1870 msgs
+- [What is your opinion regardinf touch screens?](threads/t-130c65d399.md) — **10** of 91 msgs
+- [Natural for zOS](threads/t-1063fc07e0.md) — **9** of 61 msgs
+- [Eliot Spitzer, antismoking leader, self-destructs](threads/t-6586f1cf52.md) — **8** of 195 msgs
+- [How proprietary is the "COBOL file system"](threads/t-be0407e98e.md) — **8** of 141 msgs
+- [Further discussion on "Something has to be maintained" and lack of OO acceptanc…](threads/t-879917bc52.md) — **8** of 69 msgs · _started_
+- [Can File status checking be dangerous?](threads/t-89e256e9ac.md) — **6** of 81 msgs
+- [77 Levels](threads/t-18a7793cd8.md) — **6** of 161 msgs
+- [OT: Newsgroup Name Change?](threads/t-7bedff9837.md) — **6** of 64 msgs
 
 ## #48. Bill Gunshannon <a id='a-50cbdb85b0'></a>
 
@@ -1070,16 +1070,16 @@ _Also posted as: Clark Morris._
 
 **Top threads:**
 
-- [Useless skills](2013-05.md#t-943b6f1aec) — **35** of 182 msgs
-- [IT's Record of Failure Is Worse Than You Think](2013-03.md#t-130dba987f) — **19** of 128 msgs
-- [Coming soon: Turbo COBOL from Micro Focus :-)](2009-05.md#t-fc58731398) — **18** of 87 msgs
-- [What are chances no Social Security checks?](2011-07.md#t-c4213f3d46) — **15** of 91 msgs
-- [OpenCOBOL problem](2010-11.md#t-0afc0f3a1f) — **15** of 38 msgs · _started_
-- [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](2011-10.md#t-e6187d4a60) — **8** of 90 msgs
-- [Universities are failing us with COBOL?](2013-03.md#t-3b077fb39a) — **7** of 32 msgs
-- [COBOL Programmer,Little Rock,AR](2011-04.md#t-b5595423f0) — **7** of 52 msgs
-- [Fujitsu Cobol and Database](2008-01.md#t-af659e0724) — **7** of 26 msgs
-- [How proprietary is the "COBOL file system"](2007-09.md#t-be0407e98e) — **7** of 141 msgs
+- [Useless skills](threads/t-943b6f1aec.md) — **35** of 182 msgs
+- [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **19** of 128 msgs
+- [Coming soon: Turbo COBOL from Micro Focus :-)](threads/t-fc58731398.md) — **18** of 87 msgs
+- [What are chances no Social Security checks?](threads/t-c4213f3d46.md) — **15** of 91 msgs
+- [OpenCOBOL problem](threads/t-0afc0f3a1f.md) — **15** of 38 msgs · _started_
+- [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) — **8** of 90 msgs
+- [Universities are failing us with COBOL?](threads/t-3b077fb39a.md) — **7** of 32 msgs
+- [COBOL Programmer,Little Rock,AR](threads/t-b5595423f0.md) — **7** of 52 msgs
+- [Fujitsu Cobol and Database](threads/t-af659e0724.md) — **7** of 26 msgs
+- [How proprietary is the "COBOL file system"](threads/t-be0407e98e.md) — **7** of 141 msgs
 
 ## #49. Sff5ky <a id='a-9b646e23df'></a>
 
@@ -1089,16 +1089,16 @@ _Also posted as: Clark Morris._
 
 **Top threads:**
 
-- [HOW: Does one code EXP in COBOL?](2000-01.md#t-fba2c3038a) — **11** of 45 msgs · _started_
-- [OT: IBM specific question](2000-06.md#t-00507a7f05) — **5** of 17 msgs · _started_
-- [Variable Length Record](2001-12.md#t-f13195f7c7) — **4** of 17 msgs
-- [Splitting output file](2000-06.md#t-6daac9c8c0) — **4** of 27 msgs
-- [check digit algorithm in cobol?](2000-05.md#t-d77732084d) — **4** of 18 msgs
-- [Split output](2000-04.md#t-c6621ffead) — **4** of 57 msgs
-- [Multiple Topics - One message -- CA-World discussed too!](2000-04.md#t-cb134a4545) — **4** of 187 msgs
-- [EBCDIC to ASCII](1999-10.md#t-885c329e9e) — **4** of 13 msgs
-- [Dreaded File Status 39](1999-07.md#t-2068a53ac4) — **4** of 28 msgs
-- [binary search](1999-02.md#t-d99005101e) — **4** of 40 msgs
+- [HOW: Does one code EXP in COBOL?](threads/t-fba2c3038a.md) — **11** of 45 msgs · _started_
+- [OT: IBM specific question](threads/t-00507a7f05.md) — **5** of 17 msgs · _started_
+- [Variable Length Record](threads/t-f13195f7c7.md) — **4** of 17 msgs
+- [Splitting output file](threads/t-6daac9c8c0.md) — **4** of 27 msgs
+- [check digit algorithm in cobol?](threads/t-d77732084d.md) — **4** of 18 msgs
+- [Split output](threads/t-c6621ffead.md) — **4** of 57 msgs
+- [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **4** of 187 msgs
+- [EBCDIC to ASCII](threads/t-885c329e9e.md) — **4** of 13 msgs
+- [Dreaded File Status 39](threads/t-2068a53ac4.md) — **4** of 28 msgs
+- [binary search](threads/t-d99005101e.md) — **4** of 40 msgs
 
 ## #50. Grinder <a id='a-0935c5b46d'></a>
 
@@ -1108,16 +1108,16 @@ _Also posted as: Clark Morris._
 
 **Top threads:**
 
-- [10 Reasons Why JAVA is better than cobol](2001-06.md#t-4a12ae013f) — **29** of 155 msgs
-- [Why I am not enthusiatic about OO COBOL](2002-07.md#t-5eb5f873b2) — **19** of 82 msgs
-- [The Manhattan Benchmark (spin-off from Benchmark Java vs. COBOL)](2003-09.md#t-9cb7bea833) — **17** of 35 msgs · _started_
-- [convert cobol](2001-05.md#t-a2511b49d2) — **15** of 81 msgs
-- [A case for multiple inheritence.](2001-06.md#t-9f50d005a9) — **14** of 68 msgs
-- [Future of COBOL](2002-10.md#t-ce9ba46b2f) — **13** of 100 msgs
-- [Aborting Programs - C++, Java etc.](2002-05.md#t-807740ccb4) — **13** of 54 msgs
-- [OO Exception Handling](2002-08.md#t-7900e0eeeb) — **10** of 35 msgs
-- [OT - Humor (was: Is 12:00 Noon considered AM or PM?](2002-10.md#t-96b43742c5) — **9** of 93 msgs
-- [Cobol and Performance](2002-08.md#t-796fb287d6) — **9** of 21 msgs
+- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **29** of 155 msgs
+- [Why I am not enthusiatic about OO COBOL](threads/t-5eb5f873b2.md) — **19** of 82 msgs
+- [The Manhattan Benchmark (spin-off from Benchmark Java vs. COBOL)](threads/t-9cb7bea833.md) — **17** of 35 msgs · _started_
+- [convert cobol](threads/t-a2511b49d2.md) — **15** of 81 msgs
+- [A case for multiple inheritence.](threads/t-9f50d005a9.md) — **14** of 68 msgs
+- [Future of COBOL](threads/t-ce9ba46b2f.md) — **13** of 100 msgs
+- [Aborting Programs - C++, Java etc.](threads/t-807740ccb4.md) — **13** of 54 msgs
+- [OO Exception Handling](threads/t-7900e0eeeb.md) — **10** of 35 msgs
+- [OT - Humor (was: Is 12:00 Noon considered AM or PM?](threads/t-96b43742c5.md) — **9** of 93 msgs
+- [Cobol and Performance](threads/t-796fb287d6.md) — **9** of 21 msgs
 
 ## #51. Foodman <a id='a-375ea627ce'></a>
 
@@ -1129,16 +1129,16 @@ _Also posted as: foodman, Anthony Dilworth, foodman123@aol.com._
 
 **Top threads:**
 
-- [Structure me this. . .](2000-05.md#t-48037794f7) — **22** of 71 msgs · _started_
-- [An OO Contest!](2000-03.md#t-a4cd4f3eb3) — **15** of 65 msgs · _started_
-- [COBOL needs your help.](2001-03.md#t-c4216a30ea) — **14** of 110 msgs
-- [small question](2000-09.md#t-d3436a6a6b) — **14** of 73 msgs
-- [Design Survey](2000-04.md#t-4945c81552) — **13** of 64 msgs · _started_
-- [Future of COBOL....](2000-04.md#t-0daa5d5a76) — **13** of 81 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **12** of 125 msgs
-- [Evaluate statement in CobolII](2000-09.md#t-5de31abf25) — **11** of 67 msgs
-- [Sorting dilema...](2000-04.md#t-89746b83b2) — **10** of 109 msgs
-- [OT Microsoft](2003-03.md#t-64e54b668b) — **9** of 72 msgs · _started_
+- [Structure me this. . .](threads/t-48037794f7.md) — **22** of 71 msgs · _started_
+- [An OO Contest!](threads/t-a4cd4f3eb3.md) — **15** of 65 msgs · _started_
+- [COBOL needs your help.](threads/t-c4216a30ea.md) — **14** of 110 msgs
+- [small question](threads/t-d3436a6a6b.md) — **14** of 73 msgs
+- [Design Survey](threads/t-4945c81552.md) — **13** of 64 msgs · _started_
+- [Future of COBOL....](threads/t-0daa5d5a76.md) — **13** of 81 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **12** of 125 msgs
+- [Evaluate statement in CobolII](threads/t-5de31abf25.md) — **11** of 67 msgs
+- [Sorting dilema...](threads/t-89746b83b2.md) — **10** of 109 msgs
+- [OT Microsoft](threads/t-64e54b668b.md) — **9** of 72 msgs · _started_
 
 ## #52. Paul Raulerson <a id='a-2dabdac71a'></a>
 
@@ -1150,16 +1150,16 @@ _Also posted as: PAUL RAULERSON, praul@isot.com, Paul Raulreson._
 
 **Top threads:**
 
-- [MicroFocus! Me so angry?](2002-06.md#t-e47c2c3e0e) — **11** of 110 msgs
-- [OT - Amusement](2002-10.md#t-030a871bbf) — **8** of 17 msgs · _started_
-- [OS/390 TCP Examples?](2002-08.md#t-e6ccfcc4b9) — **8** of 17 msgs · _started_
-- [MF Licensing](2002-07.md#t-a16dc15a88) — **8** of 39 msgs
-- [OO in Batch (Was: Program ID)](2004-06.md#t-bbdedc31f5) — **7** of 38 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **7** of 291 msgs
-- [Visual Age Cobol, or Java ?](2002-12.md#t-6cbbe83a5a) — **7** of 82 msgs
-- [Recommend Cobol Book, and Compiler, for C++ Programmer Please](2002-04.md#t-7088fa718c) — **7** of 42 msgs
-- [COBOL Migration Alternatives?](2001-12.md#t-e49e5c4b05) — **7** of 30 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **5** of 290 msgs
+- [MicroFocus! Me so angry?](threads/t-e47c2c3e0e.md) — **11** of 110 msgs
+- [OT - Amusement](threads/t-030a871bbf.md) — **8** of 17 msgs · _started_
+- [OS/390 TCP Examples?](threads/t-e6ccfcc4b9.md) — **8** of 17 msgs · _started_
+- [MF Licensing](threads/t-a16dc15a88.md) — **8** of 39 msgs
+- [OO in Batch (Was: Program ID)](threads/t-bbdedc31f5.md) — **7** of 38 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **7** of 291 msgs
+- [Visual Age Cobol, or Java ?](threads/t-6cbbe83a5a.md) — **7** of 82 msgs
+- [Recommend Cobol Book, and Compiler, for C++ Programmer Please](threads/t-7088fa718c.md) — **7** of 42 msgs
+- [COBOL Migration Alternatives?](threads/t-e49e5c4b05.md) — **7** of 30 msgs
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **5** of 290 msgs
 
 ## #53. Randall Bart <a id='a-3157c94773'></a>
 
@@ -1171,16 +1171,16 @@ _Also posted as: RandallBart._
 
 **Top threads:**
 
-- [The Fate of COBOL.......](1999-05.md#t-376382caa3) — **15** of 107 msgs
-- [Is one period per paragraph a good idea?](1998-11.md#t-e1a5f5c7c8) — **10** of 151 msgs
-- [Another proposal](1998-12.md#t-77a27b205b) — **9** of 99 msgs
-- [ELIF Proposal](1998-11.md#t-8ecfce6e34) — **7** of 91 msgs
-- [Calculations](1999-07.md#t-34961c92cf) — **6** of 101 msgs
-- [tables arrays subscripting](1999-05.md#t-547334728b) — **6** of 96 msgs
-- [Another contest](1999-03.md#t-500921d6d9) — **6** of 34 msgs
-- [Dumb COPY issue...](1999-02.md#t-df9821173f) — **6** of 43 msgs
-- [Roman Numerals revisited](1999-01.md#t-3818b7b61d) — **6** of 52 msgs
-- [Reading Files](1999-06.md#t-861b220c48) — **5** of 20 msgs
+- [The Fate of COBOL.......](threads/t-376382caa3.md) — **15** of 107 msgs
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **10** of 151 msgs
+- [Another proposal](threads/t-77a27b205b.md) — **9** of 99 msgs
+- [ELIF Proposal](threads/t-8ecfce6e34.md) — **7** of 91 msgs
+- [Calculations](threads/t-34961c92cf.md) — **6** of 101 msgs
+- [tables arrays subscripting](threads/t-547334728b.md) — **6** of 96 msgs
+- [Another contest](threads/t-500921d6d9.md) — **6** of 34 msgs
+- [Dumb COPY issue...](threads/t-df9821173f.md) — **6** of 43 msgs
+- [Roman Numerals revisited](threads/t-3818b7b61d.md) — **6** of 52 msgs
+- [Reading Files](threads/t-861b220c48.md) — **5** of 20 msgs
 
 ## #54. Robert Jones <a id='a-a0651a617e'></a>
 
@@ -1192,16 +1192,16 @@ _Also posted as: Robert, rjones0@hotmail.com._
 
 **Top threads:**
 
-- [Memory file I/O operation.](2002-01.md#t-c503f0485b) — **7** of 22 msgs
-- [[OT] Dynamic Timestamp in Dynamic SQL?](2002-05.md#t-72059209e2) — **5** of 28 msgs
-- [COBOL's Influence on C](2007-11.md#t-670d3618cb) — **3** of 150 msgs
-- [Ultimate efficiency using INITIALIZE statement in COBOL](2007-08.md#t-4273db675e) — **3** of 43 msgs
-- [variable length fields for flexibility in subroutines](2007-07.md#t-2d45757539) — **3** of 26 msgs
-- [COBOL format definitions?](2006-12.md#t-2ba1071359) — **3** of 14 msgs
-- [Limit on Arrays on Enterpresie Cobol in Z sereis](2006-11.md#t-892f2cacf1) — **3** of 12 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **3** of 1890 msgs
-- [Comparitive coding for printing](2005-02.md#t-62728fb424) — **3** of 34 msgs
-- [Is a General File Maintenance Routine possible?](2004-09.md#t-fc06ce4141) — **3** of 74 msgs
+- [Memory file I/O operation.](threads/t-c503f0485b.md) — **7** of 22 msgs
+- [[OT] Dynamic Timestamp in Dynamic SQL?](threads/t-72059209e2.md) — **5** of 28 msgs
+- [COBOL's Influence on C](threads/t-670d3618cb.md) — **3** of 150 msgs
+- [Ultimate efficiency using INITIALIZE statement in COBOL](threads/t-4273db675e.md) — **3** of 43 msgs
+- [variable length fields for flexibility in subroutines](threads/t-2d45757539.md) — **3** of 26 msgs
+- [COBOL format definitions?](threads/t-2ba1071359.md) — **3** of 14 msgs
+- [Limit on Arrays on Enterpresie Cobol in Z sereis](threads/t-892f2cacf1.md) — **3** of 12 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **3** of 1890 msgs
+- [Comparitive coding for printing](threads/t-62728fb424.md) — **3** of 34 msgs
+- [Is a General File Maintenance Routine possible?](threads/t-fc06ce4141.md) — **3** of 74 msgs
 
 ## #55. YukonMama <a id='a-b2278e7d1d'></a>
 
@@ -1213,16 +1213,16 @@ _Also posted as: Eileen._
 
 **Top threads:**
 
-- [Logic Bug](2003-10.md#t-7016082be9) — **7** of 15 msgs · _started_
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **7** of 521 msgs
-- [Gotta Be A Better Way](2003-10.md#t-55f08d5522) — **6** of 16 msgs · _started_
-- [Cobol development environment](2003-06.md#t-e56b4778a5) — **6** of 422 msgs
-- ["Not" logic; reductio ad absurdum](2003-03.md#t-65823c2d14) — **6** of 53 msgs
-- [JUSTIFIED CENTER](2003-06.md#t-78e7a9686a) — **5** of 49 msgs
-- [IBM Mainframe COBOL "people"](2002-05.md#t-6e9cf19351) — **5** of 111 msgs
-- [Defining Variable Length Record](2001-08.md#t-9f0fc61499) — **5** of 15 msgs · _started_
-- [OT - CICS Problem](2004-11.md#t-e76667fb2c) — **4** of 8 msgs · _started_
-- [Case Statement in DB2](2003-03.md#t-d6c2397778) — **4** of 12 msgs · _started_
+- [Logic Bug](threads/t-7016082be9.md) — **7** of 15 msgs · _started_
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **7** of 521 msgs
+- [Gotta Be A Better Way](threads/t-55f08d5522.md) — **6** of 16 msgs · _started_
+- [Cobol development environment](threads/t-e56b4778a5.md) — **6** of 422 msgs
+- ["Not" logic; reductio ad absurdum](threads/t-65823c2d14.md) — **6** of 53 msgs
+- [JUSTIFIED CENTER](threads/t-78e7a9686a.md) — **5** of 49 msgs
+- [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) — **5** of 111 msgs
+- [Defining Variable Length Record](threads/t-9f0fc61499.md) — **5** of 15 msgs · _started_
+- [OT - CICS Problem](threads/t-e76667fb2c.md) — **4** of 8 msgs · _started_
+- [Case Statement in DB2](threads/t-d6c2397778.md) — **4** of 12 msgs · _started_
 
 ## #56. Harley <a id='a-ef4cdd3117'></a>
 
@@ -1232,16 +1232,16 @@ _Also posted as: Eileen._
 
 **Top threads:**
 
-- [Future reuse of code](2003-08.md#t-f935538283) — **16** of 334 msgs
-- [Cobol development environment](2003-06.md#t-e56b4778a5) — **15** of 422 msgs
-- [Sorting a whole lotta records](2003-08.md#t-7c28a6801f) — **14** of 123 msgs
-- [Numbered prefixes](2003-07.md#t-ded9ac061d) — **13** of 124 msgs
-- [A style question (WS)](2003-05.md#t-a7113b83c6) — **13** of 73 msgs
-- [Line Printer reports and column headings](2003-07.md#t-322348b718) — **12** of 44 msgs · _started_
-- [Resequencing Numbered Paragraphs](2003-08.md#t-c10c2482f3) — **10** of 27 msgs · _started_
-- [Converting a complex SQL query to COBOL pgm !!](2003-07.md#t-279869b576) — **10** of 58 msgs
-- [Fortress COBOL - Why?](2003-07.md#t-afd6e74f08) — **10** of 164 msgs
-- [EOF Technique](2003-07.md#t-355958a267) — **9** of 37 msgs · _started_
+- [Future reuse of code](threads/t-f935538283.md) — **16** of 334 msgs
+- [Cobol development environment](threads/t-e56b4778a5.md) — **15** of 422 msgs
+- [Sorting a whole lotta records](threads/t-7c28a6801f.md) — **14** of 123 msgs
+- [Numbered prefixes](threads/t-ded9ac061d.md) — **13** of 124 msgs
+- [A style question (WS)](threads/t-a7113b83c6.md) — **13** of 73 msgs
+- [Line Printer reports and column headings](threads/t-322348b718.md) — **12** of 44 msgs · _started_
+- [Resequencing Numbered Paragraphs](threads/t-c10c2482f3.md) — **10** of 27 msgs · _started_
+- [Converting a complex SQL query to COBOL pgm !!](threads/t-279869b576.md) — **10** of 58 msgs
+- [Fortress COBOL - Why?](threads/t-afd6e74f08.md) — **10** of 164 msgs
+- [EOF Technique](threads/t-355958a267.md) — **9** of 37 msgs · _started_
 
 ## #57. S Comstock <a id='a-2d8226bd44'></a>
 
@@ -1253,16 +1253,16 @@ _Also posted as: scomstock@aol.com._
 
 **Top threads:**
 
-- [DLL SUPPORT FOR V2R10.](2002-01.md#t-2be9d8c667) — **6** of 11 msgs
-- [Need title for new OS/390 applications programming class](1999-05.md#t-4fcf668531) — **5** of 13 msgs · _started_
-- [MVS Packed Decimal with no sign nibble?](2003-12.md#t-bfef1c2909) — **4** of 49 msgs
-- [MVS Packed Decimal with no sign nibble?](2003-12.md#t-ad9382958d) — **4** of 121 msgs
-- [DB2 joins w/"standard" working-storage](2002-08.md#t-4aeb4407d4) — **4** of 13 msgs
-- [OS/390 & COBOL: What's the secret to ...](2000-10.md#t-f55f69cb99) — **4** of 10 msgs
-- ["Every Shop Has Some Assembler Somewhere" - course update](2004-07.md#t-c7bdcf2efc) — **3** of 27 msgs · _started_
-- [Believe me, you WANT to read this!](2003-11.md#t-c62f8f01c6) — **3** of 50 msgs
-- [WRITE USING POINTER IN COBOL.](2002-01.md#t-1ad0fdd325) — **3** of 7 msgs
-- [COBOL TO C STATIC CALL ON OS/390.](2001-12.md#t-14e85b0d20) — **3** of 7 msgs
+- [DLL SUPPORT FOR V2R10.](threads/t-2be9d8c667.md) — **6** of 11 msgs
+- [Need title for new OS/390 applications programming class](threads/t-4fcf668531.md) — **5** of 13 msgs · _started_
+- [MVS Packed Decimal with no sign nibble?](threads/t-bfef1c2909.md) — **4** of 49 msgs
+- [MVS Packed Decimal with no sign nibble?](threads/t-ad9382958d.md) — **4** of 121 msgs
+- [DB2 joins w/"standard" working-storage](threads/t-4aeb4407d4.md) — **4** of 13 msgs
+- [OS/390 & COBOL: What's the secret to ...](threads/t-f55f69cb99.md) — **4** of 10 msgs
+- ["Every Shop Has Some Assembler Somewhere" - course update](threads/t-c7bdcf2efc.md) — **3** of 27 msgs · _started_
+- [Believe me, you WANT to read this!](threads/t-c62f8f01c6.md) — **3** of 50 msgs
+- [WRITE USING POINTER IN COBOL.](threads/t-1ad0fdd325.md) — **3** of 7 msgs
+- [COBOL TO C STATIC CALL ON OS/390.](threads/t-14e85b0d20.md) — **3** of 7 msgs
 
 ## #58. Clark F. Morris, Jr. <a id='a-ac3fc821c2'></a>
 
@@ -1274,16 +1274,16 @@ _Also posted as: Clark Morris._
 
 **Top threads:**
 
-- [Any comments?](2006-03.md#t-1abe82d84d) — **15** of 916 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](2004-06.md#t-8e9f11654a) — **7** of 290 msgs
-- [Convert RmCobol 85 to Text File](2001-07.md#t-8a4fa1182e) — **6** of 43 msgs
-- [Perform Thru/Go to vs. Perform - Compile Speed](2004-04.md#t-a6c684530f) — **5** of 195 msgs
-- [S0C4 abend with concatenated input files](2002-02.md#t-2af28a94f2) — **5** of 17 msgs
-- [string concatination ?](2000-06.md#t-f20a05e1e6) — **5** of 125 msgs
-- [Sorting dilema...](2000-04.md#t-89746b83b2) — **5** of 109 msgs
-- [END-IF](2005-06.md#t-c74a1b7822) — **4** of 85 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **4** of 540 msgs
-- [Revisiting an Old Prejudice: READ INTO/WRITE FROM](2004-08.md#t-0bffc05f33) — **4** of 105 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **15** of 916 msgs
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **7** of 290 msgs
+- [Convert RmCobol 85 to Text File](threads/t-8a4fa1182e.md) — **6** of 43 msgs
+- [Perform Thru/Go to vs. Perform - Compile Speed](threads/t-a6c684530f.md) — **5** of 195 msgs
+- [S0C4 abend with concatenated input files](threads/t-2af28a94f2.md) — **5** of 17 msgs
+- [string concatination ?](threads/t-f20a05e1e6.md) — **5** of 125 msgs
+- [Sorting dilema...](threads/t-89746b83b2.md) — **5** of 109 msgs
+- [END-IF](threads/t-c74a1b7822.md) — **4** of 85 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **4** of 540 msgs
+- [Revisiting an Old Prejudice: READ INTO/WRITE FROM](threads/t-0bffc05f33.md) — **4** of 105 msgs
 
 ## #59. Hugh Candlin <a id='a-1e12889d7d'></a>
 
@@ -1295,16 +1295,16 @@ _Also posted as: Topcoder, co33y, ���._
 
 **Top threads:**
 
-- [Cobol development environment](2003-06.md#t-e56b4778a5) — **9** of 422 msgs
-- [COBOL indexes](2003-02.md#t-8b6a4e90b4) — **9** of 150 msgs
-- [MVS Packed Decimal with no sign nibble?](2003-12.md#t-ad9382958d) — **8** of 121 msgs
-- [match program example](2003-11.md#t-6ac5fb12b8) — **8** of 70 msgs
-- [OT (sort-of) - Does it take math skills to do data processing?](2002-08.md#t-08837e6796) — **8** of 456 msgs
-- [OT: Hemlines](2003-11.md#t-973400bc4f) — **6** of 107 msgs
-- [OT Microsoft](2003-03.md#t-64e54b668b) — **5** of 72 msgs
-- [Avoiding Logic Error?](2004-05.md#t-f02a9913f5) — **4** of 128 msgs
-- [Internal Sorts](2003-12.md#t-9f7f900663) — **4** of 97 msgs
-- [Micro Focus Net Express��� with .NET](2003-11.md#t-afc1cc1e2d) — **4** of 19 msgs
+- [Cobol development environment](threads/t-e56b4778a5.md) — **9** of 422 msgs
+- [COBOL indexes](threads/t-8b6a4e90b4.md) — **9** of 150 msgs
+- [MVS Packed Decimal with no sign nibble?](threads/t-ad9382958d.md) — **8** of 121 msgs
+- [match program example](threads/t-6ac5fb12b8.md) — **8** of 70 msgs
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **8** of 456 msgs
+- [OT: Hemlines](threads/t-973400bc4f.md) — **6** of 107 msgs
+- [OT Microsoft](threads/t-64e54b668b.md) — **5** of 72 msgs
+- [Avoiding Logic Error?](threads/t-f02a9913f5.md) — **4** of 128 msgs
+- [Internal Sorts](threads/t-9f7f900663.md) — **4** of 97 msgs
+- [Micro Focus Net Express��� with .NET](threads/t-afc1cc1e2d.md) — **4** of 19 msgs
 
 ## #60. ChrisOsborne <a id='a-d4a2a7b35b'></a>
 
@@ -1316,16 +1316,16 @@ _Also posted as: Chris Osborne._
 
 **Top threads:**
 
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **7** of 274 msgs
-- [Cobol sucks](1998-09.md#t-515eadd094) — **7** of 39 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **6** of 300 msgs
-- [Sql Server](2000-04.md#t-498e9c95c3) — **5** of 18 msgs
-- [Please do your own homework](2000-03.md#t-1034791a19) — **5** of 31 msgs
-- [C programmer Needs Help with Cobol](1998-11.md#t-6ef56a76a1) — **5** of 37 msgs
-- [Can COBOL MVS be used to access Sybase & DB2?](2000-04.md#t-33dde8d46a) — **4** of 13 msgs
-- [I want to see a mainframe](2000-04.md#t-f057e26a5b) — **4** of 44 msgs
-- [How BIG is a mainframe?](1999-11.md#t-467c009c91) — **4** of 39 msgs
-- [binary search](1999-02.md#t-d99005101e) — **4** of 40 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **7** of 274 msgs
+- [Cobol sucks](threads/t-515eadd094.md) — **7** of 39 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **6** of 300 msgs
+- [Sql Server](threads/t-498e9c95c3.md) — **5** of 18 msgs
+- [Please do your own homework](threads/t-1034791a19.md) — **5** of 31 msgs
+- [C programmer Needs Help with Cobol](threads/t-6ef56a76a1.md) — **5** of 37 msgs
+- [Can COBOL MVS be used to access Sybase & DB2?](threads/t-33dde8d46a.md) — **4** of 13 msgs
+- [I want to see a mainframe](threads/t-f057e26a5b.md) — **4** of 44 msgs
+- [How BIG is a mainframe?](threads/t-467c009c91.md) — **4** of 39 msgs
+- [binary search](threads/t-d99005101e.md) — **4** of 40 msgs
 
 ## #61. Ib Tanding <a id='a-96e95822e4'></a>
 
@@ -1335,16 +1335,16 @@ _Also posted as: Chris Osborne._
 
 **Top threads:**
 
-- [OT - Good Idea? Bad Idea?](2000-06.md#t-fef944cf6b) — **6** of 47 msgs
-- [Design Survey](2000-04.md#t-4945c81552) — **6** of 64 msgs
-- [Future of COBOL....](2000-04.md#t-0daa5d5a76) — **6** of 81 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **6** of 125 msgs
-- [ALERT! New virus has been very active today](2000-05.md#t-2d4036659c) — **5** of 25 msgs · _started_
-- [book: Advanced COBOL, Third Edition](2000-04.md#t-716ca52483) — **5** of 39 msgs
-- [Error in Call-ed](2000-04.md#t-97a15c1e75) — **4** of 30 msgs
-- [The Wrong People](2000-04.md#t-99975f13f7) — **4** of 27 msgs
-- [How BIG is a mainframe?](1999-11.md#t-467c009c91) — **4** of 39 msgs
-- [GO TO](2000-05.md#t-3222d57323) — **3** of 150 msgs
+- [OT - Good Idea? Bad Idea?](threads/t-fef944cf6b.md) — **6** of 47 msgs
+- [Design Survey](threads/t-4945c81552.md) — **6** of 64 msgs
+- [Future of COBOL....](threads/t-0daa5d5a76.md) — **6** of 81 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **6** of 125 msgs
+- [ALERT! New virus has been very active today](threads/t-2d4036659c.md) — **5** of 25 msgs · _started_
+- [book: Advanced COBOL, Third Edition](threads/t-716ca52483.md) — **5** of 39 msgs
+- [Error in Call-ed](threads/t-97a15c1e75.md) — **4** of 30 msgs
+- [The Wrong People](threads/t-99975f13f7.md) — **4** of 27 msgs
+- [How BIG is a mainframe?](threads/t-467c009c91.md) — **4** of 39 msgs
+- [GO TO](threads/t-3222d57323.md) — **3** of 150 msgs
 
 ## #62. Dennis J. Minette <a id='a-1c02b44e4a'></a>
 
@@ -1356,16 +1356,16 @@ _Also posted as: dennis_minette, Dennis_Minette._
 
 **Top threads:**
 
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **34** of 274 msgs
-- [Go To depending](1998-11.md#t-122e02a93c) — **13** of 106 msgs
-- [ELIF Proposal](1998-11.md#t-8ecfce6e34) — **11** of 91 msgs
-- [EXIT PARAGRAPH, PERFORM...THRU etc. (was: First COBOL compiler)](1998-12.md#t-4303f1e0cf) — **10** of 38 msgs · _started_
-- [Is one period per paragraph a good idea?](1998-11.md#t-e1a5f5c7c8) — **10** of 151 msgs
-- [Need some advice - COBOL beginners - read also.](1998-11.md#t-a7a5074be3) — **10** of 77 msgs
-- [Another proposal](1998-12.md#t-77a27b205b) — **9** of 99 msgs
-- [OT?: 1999 = MCMXCIX = MIM ?](1998-11.md#t-8a5d811253) — **7** of 51 msgs
-- [Who is the oldest working programmer?](1998-11.md#t-b59fb9affc) — **6** of 26 msgs
-- [Appreciate Some "InPut"..(or feedback).](1998-12.md#t-7d20b16151) — **5** of 33 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **34** of 274 msgs
+- [Go To depending](threads/t-122e02a93c.md) — **13** of 106 msgs
+- [ELIF Proposal](threads/t-8ecfce6e34.md) — **11** of 91 msgs
+- [EXIT PARAGRAPH, PERFORM...THRU etc. (was: First COBOL compiler)](threads/t-4303f1e0cf.md) — **10** of 38 msgs · _started_
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **10** of 151 msgs
+- [Need some advice - COBOL beginners - read also.](threads/t-a7a5074be3.md) — **10** of 77 msgs
+- [Another proposal](threads/t-77a27b205b.md) — **9** of 99 msgs
+- [OT?: 1999 = MCMXCIX = MIM ?](threads/t-8a5d811253.md) — **7** of 51 msgs
+- [Who is the oldest working programmer?](threads/t-b59fb9affc.md) — **6** of 26 msgs
+- [Appreciate Some "InPut"..(or feedback).](threads/t-7d20b16151.md) — **5** of 33 msgs
 
 ## #63. Rene_Surop <a id='a-c8ea59aed7'></a>
 
@@ -1377,16 +1377,16 @@ _Also posted as: iNFO_rene, cobol_rasurop._
 
 **Top threads:**
 
-- [Web Services and COBOL (Fairly long post, but I don't have time to write a prop…](2007-05.md#t-d4eaa235a4) — **8** of 56 msgs
-- [[URGENT] DATABASE CONNECTIVITY IN COBOL WITH VISUAL STUDIO 2008](2009-03.md#t-21b97ee1c2) — **7** of 40 msgs
-- [MySQL VARCHAR missing value content](2010-02.md#t-646d6b2b83) — **6** of 16 msgs · _started_
-- [Stategy for (Large?) 16bit COBOL code conversion to Net Express](2007-10.md#t-f2e837face) — **6** of 42 msgs
-- [Web Services/XML Parser Error](2007-07.md#t-57cdaa8863) — **6** of 25 msgs · _started_
-- [Cobol News - Microfocus and AcuCOBOL](2007-05.md#t-497cbd974b) — **6** of 59 msgs
-- [Printing on the client-side](2010-12.md#t-521fa2076e) — **5** of 12 msgs · _started_
-- [Sending JPG file using Cobol WebService](2010-09.md#t-fde45596e6) — **5** of 9 msgs · _started_
-- [SMS Sending in COBOL](2009-05.md#t-145ffce578) — **5** of 9 msgs · _started_
-- [Creating PDF in Cobol](2009-01.md#t-a735329c3f) — **5** of 14 msgs · _started_
+- [Web Services and COBOL (Fairly long post, but I don't have time to write a prop…](threads/t-d4eaa235a4.md) — **8** of 56 msgs
+- [[URGENT] DATABASE CONNECTIVITY IN COBOL WITH VISUAL STUDIO 2008](threads/t-21b97ee1c2.md) — **7** of 40 msgs
+- [MySQL VARCHAR missing value content](threads/t-646d6b2b83.md) — **6** of 16 msgs · _started_
+- [Stategy for (Large?) 16bit COBOL code conversion to Net Express](threads/t-f2e837face.md) — **6** of 42 msgs
+- [Web Services/XML Parser Error](threads/t-57cdaa8863.md) — **6** of 25 msgs · _started_
+- [Cobol News - Microfocus and AcuCOBOL](threads/t-497cbd974b.md) — **6** of 59 msgs
+- [Printing on the client-side](threads/t-521fa2076e.md) — **5** of 12 msgs · _started_
+- [Sending JPG file using Cobol WebService](threads/t-fde45596e6.md) — **5** of 9 msgs · _started_
+- [SMS Sending in COBOL](threads/t-145ffce578.md) — **5** of 9 msgs · _started_
+- [Creating PDF in Cobol](threads/t-a735329c3f.md) — **5** of 14 msgs · _started_
 
 ## #64. Jeff Farkas <a id='a-866f3fa52d'></a>
 
@@ -1398,16 +1398,16 @@ _Also posted as: jeff farkas, JF..Ver 2.5.5, Jeffrey E. Farkas._
 
 **Top threads:**
 
-- [very discouraging- any hope????](1999-01.md#t-bc2ecae9f2) — **6** of 29 msgs
-- [So What's Happening at PSE&G?](1998-12.md#t-3bcfb284c6) — **6** of 17 msgs
-- [EVALUATE problem](2001-08.md#t-48a2c69481) — **5** of 108 msgs
-- [Where are there COBOL Jobs??](2001-03.md#t-4d37482bf5) — **5** of 18 msgs · _started_
-- [General question??](2001-02.md#t-4fc1ab8b8d) — **5** of 9 msgs · _started_
-- [Another proposal](1998-12.md#t-77a27b205b) — **5** of 99 msgs
-- [Future of COBOL?](1998-11.md#t-1e1c1f482f) — **5** of 23 msgs
-- [Any need for PIC A ?](1998-09.md#t-82750d1ed7) — **5** of 28 msgs
-- [Would you want to work here?](1998-08.md#t-6b7f5c5442) — **5** of 62 msgs
-- [Appreciate Some "InPut"..(or feedback).](1998-12.md#t-7d20b16151) — **4** of 33 msgs
+- [very discouraging- any hope????](threads/t-bc2ecae9f2.md) — **6** of 29 msgs
+- [So What's Happening at PSE&G?](threads/t-3bcfb284c6.md) — **6** of 17 msgs
+- [EVALUATE problem](threads/t-48a2c69481.md) — **5** of 108 msgs
+- [Where are there COBOL Jobs??](threads/t-4d37482bf5.md) — **5** of 18 msgs · _started_
+- [General question??](threads/t-4fc1ab8b8d.md) — **5** of 9 msgs · _started_
+- [Another proposal](threads/t-77a27b205b.md) — **5** of 99 msgs
+- [Future of COBOL?](threads/t-1e1c1f482f.md) — **5** of 23 msgs
+- [Any need for PIC A ?](threads/t-82750d1ed7.md) — **5** of 28 msgs
+- [Would you want to work here?](threads/t-6b7f5c5442.md) — **5** of 62 msgs
+- [Appreciate Some "InPut"..(or feedback).](threads/t-7d20b16151.md) — **4** of 33 msgs
 
 ## #65. RKRayhawk <a id='a-3c03434321'></a>
 
@@ -1417,16 +1417,16 @@ _Also posted as: jeff farkas, JF..Ver 2.5.5, Jeffrey E. Farkas._
 
 **Top threads:**
 
-- [CoBOL moved to OO](2003-12.md#t-5edd33d66f) — **13** of 259 msgs
-- [Cobol data protection? Get a dog...](2003-10.md#t-9b48c19b4f) — **7** of 22 msgs
-- [Where is the holy grail...(Part II)](2003-09.md#t-c9cd9bc974) — **7** of 48 msgs
-- [Use of ELSE-IF.](1998-12.md#t-8051e56704) — **7** of 26 msgs
-- [First COBOL compiler](1998-11.md#t-97a7b592f4) — **6** of 274 msgs
-- [Go To depending](1998-11.md#t-122e02a93c) — **6** of 106 msgs
-- [COBOL Standards Issue](2003-12.md#t-e6413d5517) — **5** of 54 msgs
-- [Is one period per paragraph a good idea?](1998-11.md#t-e1a5f5c7c8) — **5** of 151 msgs
-- [Confessions of an "OO Foreigner"](2003-12.md#t-523bd2d770) — **4** of 56 msgs
-- [The Manhattan Benchmark (spin-off from Benchmark Java vs. COBOL)](2003-09.md#t-9cb7bea833) — **4** of 35 msgs
+- [CoBOL moved to OO](threads/t-5edd33d66f.md) — **13** of 259 msgs
+- [Cobol data protection? Get a dog...](threads/t-9b48c19b4f.md) — **7** of 22 msgs
+- [Where is the holy grail...(Part II)](threads/t-c9cd9bc974.md) — **7** of 48 msgs
+- [Use of ELSE-IF.](threads/t-8051e56704.md) — **7** of 26 msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **6** of 274 msgs
+- [Go To depending](threads/t-122e02a93c.md) — **6** of 106 msgs
+- [COBOL Standards Issue](threads/t-e6413d5517.md) — **5** of 54 msgs
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **5** of 151 msgs
+- [Confessions of an "OO Foreigner"](threads/t-523bd2d770.md) — **4** of 56 msgs
+- [The Manhattan Benchmark (spin-off from Benchmark Java vs. COBOL)](threads/t-9cb7bea833.md) — **4** of 35 msgs
 
 ## #66. "COBOL Frog (Huib Klink)" <H.Klink@IMN.nl> <a id='a-d67e7bd146'></a>
 
@@ -1438,16 +1438,16 @@ _Also posted as: The COBOL Frog, "COBOLFrog (Huib Klink)" <H.Klink@IMN.nl>, "Cob
 
 **Top threads:**
 
-- [Another contest](1999-03.md#t-500921d6d9) — **6** of 34 msgs · _started_
-- [Would you want to work here?](1998-08.md#t-6b7f5c5442) — **5** of 62 msgs
-- [COBOL GUI front end](1998-09.md#t-5faa305718) — **4** of 96 msgs
-- [NetExpress linked to MS SQL Server](1999-11.md#t-1ae9c984c9) — **3** of 6 msgs
-- [Labels .. Pros and Cons](1999-04.md#t-fe43c0f7ce) — **3** of 40 msgs
-- [Indexes are overused](1999-04.md#t-d9b7dae707) — **3** of 9 msgs
-- [New easy to use & powerful Cobol Analyzer](1999-03.md#t-076a0f09b8) — **3** of 13 msgs
-- [Asking for COBOL code with control breaks](1999-01.md#t-bc8e6d2546) — **3** of 17 msgs
-- [Van viscobol 3,3 naar???](1999-01.md#t-063d2e0df7) — **3** of 14 msgs
-- [Perform...Until question](1999-01.md#t-153dde3f2d) — **3** of 13 msgs
+- [Another contest](threads/t-500921d6d9.md) — **6** of 34 msgs · _started_
+- [Would you want to work here?](threads/t-6b7f5c5442.md) — **5** of 62 msgs
+- [COBOL GUI front end](threads/t-5faa305718.md) — **4** of 96 msgs
+- [NetExpress linked to MS SQL Server](threads/t-1ae9c984c9.md) — **3** of 6 msgs
+- [Labels .. Pros and Cons](threads/t-fe43c0f7ce.md) — **3** of 40 msgs
+- [Indexes are overused](threads/t-d9b7dae707.md) — **3** of 9 msgs
+- [New easy to use & powerful Cobol Analyzer](threads/t-076a0f09b8.md) — **3** of 13 msgs
+- [Asking for COBOL code with control breaks](threads/t-bc8e6d2546.md) — **3** of 17 msgs
+- [Van viscobol 3,3 naar???](threads/t-063d2e0df7.md) — **3** of 14 msgs
+- [Perform...Until question](threads/t-153dde3f2d.md) — **3** of 13 msgs
 
 ## #67. Roger While <a id='a-6449f583f1'></a>
 
@@ -1457,16 +1457,16 @@ _Also posted as: The COBOL Frog, "COBOLFrog (Huib Klink)" <H.Klink@IMN.nl>, "Cob
 
 **Top threads:**
 
-- [Cobol Myth Busters](2007-08.md#t-2e14b13552) — **9** of 363 msgs
-- [New "base document" available](2007-03.md#t-599373eb6e) — **9** of 67 msgs
-- [abortive exiting](2006-05.md#t-c5bdb5ce69) — **7** of 42 msgs
-- [Trying to use STRING](2007-03.md#t-579eaa6f84) — **6** of 66 msgs
-- [FUNCTION's LOCALE-(DATE/TIME)](2007-03.md#t-31bdea199c) — **6** of 48 msgs · _started_
-- [Towers of Hanoi](2007-05.md#t-3f45b03c38) — **5** of 7 msgs · _started_
-- [Migrating ISAM to Relational Database](2007-04.md#t-cafc8fc719) — **5** of 36 msgs
-- [Fill a comp-3 variable](2006-07.md#t-d1ed102ff0) — **5** of 38 msgs
-- [EXTERNAL clarification](2006-07.md#t-8fe6d49b2c) — **5** of 23 msgs · _started_
-- [Attribute BASED and LINKAGE SECTION](2006-06.md#t-55a2b6c9a9) — **5** of 29 msgs · _started_
+- [Cobol Myth Busters](threads/t-2e14b13552.md) — **9** of 363 msgs
+- [New "base document" available](threads/t-599373eb6e.md) — **9** of 67 msgs
+- [abortive exiting](threads/t-c5bdb5ce69.md) — **7** of 42 msgs
+- [Trying to use STRING](threads/t-579eaa6f84.md) — **6** of 66 msgs
+- [FUNCTION's LOCALE-(DATE/TIME)](threads/t-31bdea199c.md) — **6** of 48 msgs · _started_
+- [Towers of Hanoi](threads/t-3f45b03c38.md) — **5** of 7 msgs · _started_
+- [Migrating ISAM to Relational Database](threads/t-cafc8fc719.md) — **5** of 36 msgs
+- [Fill a comp-3 variable](threads/t-d1ed102ff0.md) — **5** of 38 msgs
+- [EXTERNAL clarification](threads/t-8fe6d49b2c.md) — **5** of 23 msgs · _started_
+- [Attribute BASED and LINKAGE SECTION](threads/t-55a2b6c9a9.md) — **5** of 29 msgs · _started_
 
 ## #68. Warren Porter <a id='a-dab4deac81'></a>
 
@@ -1478,16 +1478,16 @@ _Also posted as: warrenp123@netdoor123.com._
 
 **Top threads:**
 
-- [Testing for optional COMP-3 fields.](1999-03.md#t-d5bea9fdb9) — **5** of 18 msgs · _started_
-- [Record layout program.](1999-07.md#t-2d66c05679) — **4** of 6 msgs · _started_
-- [binary search](1999-02.md#t-d99005101e) — **4** of 40 msgs
-- [Where are all the jobs?](1998-12.md#t-3fecb0793a) — **4** of 36 msgs
-- [hex calculator](2000-06.md#t-fe266cc834) — **3** of 48 msgs
-- [Another Y2K defect](2000-01.md#t-d0e9e631a9) — **3** of 43 msgs
-- [Code to print page numbers and column headings on each page?](1999-10.md#t-c68a2f8d53) — **3** of 33 msgs
-- [Prob w/ separate index file using AcuCobol-85](1999-05.md#t-c0787d5245) — **3** of 7 msgs · _started_
-- [Date Calculation](1999-04.md#t-1434ab4b4b) — **3** of 14 msgs
-- [Getting System date in 4 digit year format](1999-03.md#t-ad2f74d9b2) — **3** of 14 msgs
+- [Testing for optional COMP-3 fields.](threads/t-d5bea9fdb9.md) — **5** of 18 msgs · _started_
+- [Record layout program.](threads/t-2d66c05679.md) — **4** of 6 msgs · _started_
+- [binary search](threads/t-d99005101e.md) — **4** of 40 msgs
+- [Where are all the jobs?](threads/t-3fecb0793a.md) — **4** of 36 msgs
+- [hex calculator](threads/t-fe266cc834.md) — **3** of 48 msgs
+- [Another Y2K defect](threads/t-d0e9e631a9.md) — **3** of 43 msgs
+- [Code to print page numbers and column headings on each page?](threads/t-c68a2f8d53.md) — **3** of 33 msgs
+- [Prob w/ separate index file using AcuCobol-85](threads/t-c0787d5245.md) — **3** of 7 msgs · _started_
+- [Date Calculation](threads/t-1434ab4b4b.md) — **3** of 14 msgs
+- [Getting System date in 4 digit year format](threads/t-ad2f74d9b2.md) — **3** of 14 msgs
 
 ## #69. Stephen J Spiro <a id='a-bffadfac7d'></a>
 
@@ -1497,16 +1497,16 @@ _Also posted as: warrenp123@netdoor123.com._
 
 **Top threads:**
 
-- [More Structure.. Perform from Read](2001-06.md#t-cf31ed1f92) — **19** of 235 msgs
-- [Structured Programming](2001-05.md#t-c4007d9f32) — **7** of 43 msgs
-- [Nested Programs - Good or Bad?](2001-08.md#t-e9945c3dc6) — **6** of 85 msgs
-- ["invalid" source code (END-IF, Next Sentence, and missing periods)](2001-06.md#t-4617d11b2a) — **6** of 52 msgs
-- [10 Reasons Why JAVA is better than cobol](2001-06.md#t-4a12ae013f) — **6** of 155 msgs
-- [Cobol as a structured language](2001-04.md#t-444b383f65) — **6** of 76 msgs
-- [Sections](2002-03.md#t-5d05dff6e1) — **5** of 76 msgs
-- ["invalid" source code (END-IF, Next Sentence, and missing periods)](2001-07.md#t-4d362489f3) — **5** of 28 msgs
-- [More numeric values.](2002-01.md#t-39188b850d) — **4** of 86 msgs
-- [religion and COBOL](2002-01.md#t-1d228ed79e) — **4** of 100 msgs
+- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **19** of 235 msgs
+- [Structured Programming](threads/t-c4007d9f32.md) — **7** of 43 msgs
+- [Nested Programs - Good or Bad?](threads/t-e9945c3dc6.md) — **6** of 85 msgs
+- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4617d11b2a.md) — **6** of 52 msgs
+- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **6** of 155 msgs
+- [Cobol as a structured language](threads/t-444b383f65.md) — **6** of 76 msgs
+- [Sections](threads/t-5d05dff6e1.md) — **5** of 76 msgs
+- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4d362489f3.md) — **5** of 28 msgs
+- [More numeric values.](threads/t-39188b850d.md) — **4** of 86 msgs
+- [religion and COBOL](threads/t-1d228ed79e.md) — **4** of 100 msgs
 
 ## #70. Colin Campbell <a id='a-81edc6736e'></a>
 
@@ -1516,16 +1516,16 @@ _Also posted as: warrenp123@netdoor123.com._
 
 **Top threads:**
 
-- [Please help -- COBOL Programming Standard](2003-03.md#t-8db2b79aa6) — **7** of 65 msgs · _started_
-- [What's Missing in a COBOL Style Guide?](2003-03.md#t-df0bc5c7d1) — **5** of 258 msgs · _started_
-- [Getting true length of a variable length record - IBM Mainframe](2001-09.md#t-27f18c2ac6) — **5** of 14 msgs · _started_
-- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](2005-07.md#t-56df4077d0) — **4** of 186 msgs
-- [Supress Option List](2005-08.md#t-b195c8912c) — **3** of 16 msgs
-- [Combining Fields From Files Without COBOL Pgm?](2004-07.md#t-e506a56c8b) — **3** of 33 msgs
-- [Numval](2004-04.md#t-4ccfef7fbc) — **3** of 15 msgs
-- [dynamic calling statically linked moduled in IBM cobol](2003-12.md#t-3090538baa) — **3** of 9 msgs
-- [Filler keyword not mandatory?](2003-11.md#t-8d05734429) — **3** of 48 msgs
-- [Full Stop](2003-04.md#t-c951199364) — **3** of 27 msgs
+- [Please help -- COBOL Programming Standard](threads/t-8db2b79aa6.md) — **7** of 65 msgs · _started_
+- [What's Missing in a COBOL Style Guide?](threads/t-df0bc5c7d1.md) — **5** of 258 msgs · _started_
+- [Getting true length of a variable length record - IBM Mainframe](threads/t-27f18c2ac6.md) — **5** of 14 msgs · _started_
+- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](threads/t-56df4077d0.md) — **4** of 186 msgs
+- [Supress Option List](threads/t-b195c8912c.md) — **3** of 16 msgs
+- [Combining Fields From Files Without COBOL Pgm?](threads/t-e506a56c8b.md) — **3** of 33 msgs
+- [Numval](threads/t-4ccfef7fbc.md) — **3** of 15 msgs
+- [dynamic calling statically linked moduled in IBM cobol](threads/t-3090538baa.md) — **3** of 9 msgs
+- [Filler keyword not mandatory?](threads/t-8d05734429.md) — **3** of 48 msgs
+- [Full Stop](threads/t-c951199364.md) — **3** of 27 msgs
 
 ## #71. epc8@juno.com <a id='a-0427548fb1'></a>
 
@@ -1537,16 +1537,16 @@ _Also posted as: E P Chandler, e p chandler._
 
 **Top threads:**
 
-- [Help with running IBM-COBOL ver 1.0 on Windows 2000/XP](2006-07.md#t-4b5f77c095) — **11** of 32 msgs
-- [Strange result : I lost one record](2006-07.md#t-eb5e2ddc1e) — **10** of 42 msgs
-- [Native COBOL compiler for Linux/Windows for $39.95](2002-05.md#t-00d2116cc2) — **8** of 30 msgs
-- [Rick Smith - please contact me (off-list)](2006-08.md#t-f41144525c) — **7** of 37 msgs
-- [Long numbers programming](2006-05.md#t-55007ab38c) — **7** of 19 msgs
-- ["Kobol" development system](2002-06.md#t-5e84810597) — **7** of 19 msgs
-- [COBOL - still a place for it...](2006-07.md#t-8080df48f4) — **5** of 85 msgs
-- [Optimization Techniques.](2002-05.md#t-e103807b03) — **5** of 74 msgs
-- [more fun with decimal arithmetic](2006-05.md#t-434eb20817) — **4** of 9 msgs · _started_
-- [cobol12](2005-05.md#t-ac4a5a9200) — **4** of 8 msgs
+- [Help with running IBM-COBOL ver 1.0 on Windows 2000/XP](threads/t-4b5f77c095.md) — **11** of 32 msgs
+- [Strange result : I lost one record](threads/t-eb5e2ddc1e.md) — **10** of 42 msgs
+- [Native COBOL compiler for Linux/Windows for $39.95](threads/t-00d2116cc2.md) — **8** of 30 msgs
+- [Rick Smith - please contact me (off-list)](threads/t-f41144525c.md) — **7** of 37 msgs
+- [Long numbers programming](threads/t-55007ab38c.md) — **7** of 19 msgs
+- ["Kobol" development system](threads/t-5e84810597.md) — **7** of 19 msgs
+- [COBOL - still a place for it...](threads/t-8080df48f4.md) — **5** of 85 msgs
+- [Optimization Techniques.](threads/t-e103807b03.md) — **5** of 74 msgs
+- [more fun with decimal arithmetic](threads/t-434eb20817.md) — **4** of 9 msgs · _started_
+- [cobol12](threads/t-ac4a5a9200.md) — **4** of 8 msgs
 
 ## #72. Terry Heinze <a id='a-996285201f'></a>
 
@@ -1556,16 +1556,16 @@ _Also posted as: E P Chandler, e p chandler._
 
 **Top threads:**
 
-- [Do you understand this question?](2001-12.md#t-852a7c1564) — **4** of 65 msgs
-- [Code & JES Log](2000-05.md#t-8c8dbf26bb) — **4** of 11 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **3** of 521 msgs
-- [Terminal format to ANSI Format converter](2002-12.md#t-1cedc358d8) — **3** of 19 msgs
-- [STD - Yet another "interesting" document](2000-01.md#t-d689c9e42d) — **3** of 90 msgs
-- [space=(trk,10,RLSE)](2000-02.md#t-6c4bfd0797) — **3** of 6 msgs
-- [STD: In-line comment indicator](2000-01.md#t-c014cdda85) — **3** of 76 msgs
-- [two questions](2003-03.md#t-68294da452) — **2** of 25 msgs
-- [COBOL Tips and Techniques](2003-03.md#t-f2c0d5d8fd) — **2** of 26 msgs
-- [Find the length of a character field](2002-11.md#t-90665517bd) — **2** of 12 msgs
+- [Do you understand this question?](threads/t-852a7c1564.md) — **4** of 65 msgs
+- [Code & JES Log](threads/t-8c8dbf26bb.md) — **4** of 11 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **3** of 521 msgs
+- [Terminal format to ANSI Format converter](threads/t-1cedc358d8.md) — **3** of 19 msgs
+- [STD - Yet another "interesting" document](threads/t-d689c9e42d.md) — **3** of 90 msgs
+- [space=(trk,10,RLSE)](threads/t-6c4bfd0797.md) — **3** of 6 msgs
+- [STD: In-line comment indicator](threads/t-c014cdda85.md) — **3** of 76 msgs
+- [two questions](threads/t-68294da452.md) — **2** of 25 msgs
+- [COBOL Tips and Techniques](threads/t-f2c0d5d8fd.md) — **2** of 26 msgs
+- [Find the length of a character field](threads/t-90665517bd.md) — **2** of 12 msgs
 
 ## #73. Habitant <a id='a-94fa52db67'></a>
 
@@ -1577,16 +1577,16 @@ _Also posted as: berlutte@sympatico.ca, Carcajou._
 
 **Top threads:**
 
-- [Red faces about Mars?](2004-01.md#t-aa047c963c) — **30** of 65 msgs · _started_
-- [Discussion: rmgroup comp.software.year-2000](2004-02.md#t-679fe1a83a) — **28** of 76 msgs
-- [No panic - but .. Y2K + 4](2003-12.md#t-173000e80e) — **28** of 87 msgs
-- [Perfrom Thru](2004-03.md#t-80d24d46a5) — **9** of 204 msgs
-- [BREAKIN': ROYAL BANK O' CANADUH IN CHAOS - NEEDS CODIN' FOOLS ASAP](2004-06.md#t-0f93c8f8f3) — **8** of 40 msgs · _started_
-- [OT: Hemlines](2003-11.md#t-973400bc4f) — **6** of 107 msgs
-- [New-Hampshire and voting machines!](2004-02.md#t-486975fd32) — **5** of 11 msgs · _started_
-- [Rogue coders to highjack the 2004 election?](2004-01.md#t-528ea90453) — **5** of 15 msgs · _started_
-- [Avoiding Logic Error?](2004-05.md#t-f02a9913f5) — **4** of 128 msgs
-- [Standards question on edited fields](2004-01.md#t-595e212124) — **4** of 49 msgs
+- [Red faces about Mars?](threads/t-aa047c963c.md) — **30** of 65 msgs · _started_
+- [Discussion: rmgroup comp.software.year-2000](threads/t-679fe1a83a.md) — **28** of 76 msgs
+- [No panic - but .. Y2K + 4](threads/t-173000e80e.md) — **28** of 87 msgs
+- [Perfrom Thru](threads/t-80d24d46a5.md) — **9** of 204 msgs
+- [BREAKIN': ROYAL BANK O' CANADUH IN CHAOS - NEEDS CODIN' FOOLS ASAP](threads/t-0f93c8f8f3.md) — **8** of 40 msgs · _started_
+- [OT: Hemlines](threads/t-973400bc4f.md) — **6** of 107 msgs
+- [New-Hampshire and voting machines!](threads/t-486975fd32.md) — **5** of 11 msgs · _started_
+- [Rogue coders to highjack the 2004 election?](threads/t-528ea90453.md) — **5** of 15 msgs · _started_
+- [Avoiding Logic Error?](threads/t-f02a9913f5.md) — **4** of 128 msgs
+- [Standards question on edited fields](threads/t-595e212124.md) — **4** of 49 msgs
 
 ## #74. Steve Thompson <a id='a-cd3433263e'></a>
 
@@ -1596,16 +1596,16 @@ _Also posted as: berlutte@sympatico.ca, Carcajou._
 
 **Top threads:**
 
-- [Best Practices - Cobol. Part 1. Seeking feedback](2003-02.md#t-c232187b19) — **9** of 137 msgs
-- [What is the future of COBOL? Answer: Irrelevant???](2003-05.md#t-e6a5a57f82) — **5** of 195 msgs
-- [Fortress COBOL - Why?](2003-07.md#t-afd6e74f08) — **5** of 164 msgs
-- [To "killfile" or not to "killfile"](2003-02.md#t-4cb0f88a5f) — **5** of 43 msgs
-- [Tape load/unload from within a Cobol/MVS program](2003-01.md#t-00f195b80e) — **4** of 12 msgs
-- [OT: for your amusment](2003-01.md#t-ad27fc7ff4) — **4** of 30 msgs
-- [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) — **4** of 170 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **3** of 521 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **3** of 1161 msgs
-- [Beginner's Question](2003-04.md#t-379ce8e2cd) — **3** of 219 msgs
+- [Best Practices - Cobol. Part 1. Seeking feedback](threads/t-c232187b19.md) — **9** of 137 msgs
+- [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) — **5** of 195 msgs
+- [Fortress COBOL - Why?](threads/t-afd6e74f08.md) — **5** of 164 msgs
+- [To "killfile" or not to "killfile"](threads/t-4cb0f88a5f.md) — **5** of 43 msgs
+- [Tape load/unload from within a Cobol/MVS program](threads/t-00f195b80e.md) — **4** of 12 msgs
+- [OT: for your amusment](threads/t-ad27fc7ff4.md) — **4** of 30 msgs
+- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **4** of 170 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **3** of 521 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **3** of 1161 msgs
+- [Beginner's Question](threads/t-379ce8e2cd.md) — **3** of 219 msgs
 
 ## #75. Charles F Hankel <a id='a-160537f748'></a>
 
@@ -1615,16 +1615,16 @@ _Also posted as: berlutte@sympatico.ca, Carcajou._
 
 **Top threads:**
 
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **13** of 125 msgs
-- [Y2K: History, what's being done, how to prepare](1998-08.md#t-530555b309) — **12** of 72 msgs
-- [STD - Yet another "interesting" document](2000-01.md#t-d689c9e42d) — **9** of 90 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **6** of 244 msgs
-- [cobol for free ??](2000-02.md#t-fc8658e269) — **6** of 120 msgs
-- [cobol programming](2000-02.md#t-18f308161c) — **6** of 54 msgs · _started_
-- [working-storage vs. local-storage](2000-04.md#t-d956c05aa9) — **5** of 29 msgs · _started_
-- [writing code - I'm stuck- anyone help?](2000-03.md#t-6b822c98f3) — **5** of 46 msgs
-- [migration from mainframe to client server](1998-09.md#t-a952e90cb4) — **5** of 34 msgs
-- [Why COBOL is still there ?](1998-08.md#t-6ddb58b9d3) — **5** of 47 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **13** of 125 msgs
+- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **12** of 72 msgs
+- [STD - Yet another "interesting" document](threads/t-d689c9e42d.md) — **9** of 90 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **6** of 244 msgs
+- [cobol for free ??](threads/t-fc8658e269.md) — **6** of 120 msgs
+- [cobol programming](threads/t-18f308161c.md) — **6** of 54 msgs · _started_
+- [working-storage vs. local-storage](threads/t-d956c05aa9.md) — **5** of 29 msgs · _started_
+- [writing code - I'm stuck- anyone help?](threads/t-6b822c98f3.md) — **5** of 46 msgs
+- [migration from mainframe to client server](threads/t-a952e90cb4.md) — **5** of 34 msgs
+- [Why COBOL is still there ?](threads/t-6ddb58b9d3.md) — **5** of 47 msgs
 
 ## #76. Kellie Fitton <a id='a-7249c6653f'></a>
 
@@ -1636,16 +1636,16 @@ _Also posted as: KELLIE FITTON, KELLIEFITTON@YAHOO.COM._
 
 **Top threads:**
 
-- [Are you as polite and diplomatic as COBOL?...](2005-04.md#t-643151dd41) — **18** of 59 msgs · _started_
-- [Treeviews](2005-02.md#t-ade484509a) — **18** of 524 msgs
-- [Creating a dialogBox dynamically...](2005-04.md#t-7c836c1f91) — **11** of 32 msgs · _started_
-- [Should COBOL be lockedUP for good?...](2005-05.md#t-8511d5a3d0) — **10** of 29 msgs · _started_
-- [May I introduce myself to cobol?...](2005-02.md#t-2e93bdd40c) — **10** of 65 msgs · _started_
-- [Can cobol be framed-up legally?...](2005-02.md#t-a2c6999b95) — **10** of 24 msgs · _started_
-- [Is there any COBOL program for verify the SSN?](2008-04.md#t-681c7c6e3c) — **7** of 48 msgs
-- [Acucobol & Registry](2007-06.md#t-def60aba13) — **6** of 18 msgs
-- [Where is the holy grail...(Part II)](2003-09.md#t-c9cd9bc974) — **6** of 48 msgs · _started_
-- [Can you wakeUp cobol please?...](2005-02.md#t-bafec10d6b) — **5** of 11 msgs · _started_
+- [Are you as polite and diplomatic as COBOL?...](threads/t-643151dd41.md) — **18** of 59 msgs · _started_
+- [Treeviews](threads/t-ade484509a.md) — **18** of 524 msgs
+- [Creating a dialogBox dynamically...](threads/t-7c836c1f91.md) — **11** of 32 msgs · _started_
+- [Should COBOL be lockedUP for good?...](threads/t-8511d5a3d0.md) — **10** of 29 msgs · _started_
+- [May I introduce myself to cobol?...](threads/t-2e93bdd40c.md) — **10** of 65 msgs · _started_
+- [Can cobol be framed-up legally?...](threads/t-a2c6999b95.md) — **10** of 24 msgs · _started_
+- [Is there any COBOL program for verify the SSN?](threads/t-681c7c6e3c.md) — **7** of 48 msgs
+- [Acucobol & Registry](threads/t-def60aba13.md) — **6** of 18 msgs
+- [Where is the holy grail...(Part II)](threads/t-c9cd9bc974.md) — **6** of 48 msgs · _started_
+- [Can you wakeUp cobol please?...](threads/t-bafec10d6b.md) — **5** of 11 msgs · _started_
 
 ## #77. Tim Josling <a id='a-47c2cb3aa4'></a>
 
@@ -1657,16 +1657,16 @@ _Also posted as: tim Josling._
 
 **Top threads:**
 
-- [OT:Thanksgiving](2007-11.md#t-53e0b19fe9) — **27** of 1870 msgs
-- [Java is becoming the new Cobol](2008-01.md#t-23d892179b) — **16** of 186 msgs
-- [COBOL vs other languages: Performance Comparisons - anyone ??????](1999-10.md#t-0a1f3d9ac8) — **10** of 80 msgs
-- [The Fate of COBOL.......](1999-05.md#t-376382caa3) — **10** of 107 msgs
-- [FREE: COBOL compiler](1999-08.md#t-5dd5c98c37) — **7** of 49 msgs
-- [working-storage vs. local-storage](2000-03.md#t-1aeb1ebc36) — **5** of 125 msgs
-- [OT: Computer Science Education: Where Are the Software Engineers of Tomorrow?](2008-01.md#t-7eea58d05a) — **4** of 64 msgs
-- [A better way to ask C++ is way better than Cobol](2000-10.md#t-13ba6b6448) — **4** of 55 msgs
-- [XP: Extreme Programming](2000-03.md#t-f326a9afd4) — **4** of 43 msgs
-- [[Fwd: Cobol compiler sources]](1999-06.md#t-d170b5b9d4) — **4** of 26 msgs
+- [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **27** of 1870 msgs
+- [Java is becoming the new Cobol](threads/t-23d892179b.md) — **16** of 186 msgs
+- [COBOL vs other languages: Performance Comparisons - anyone ??????](threads/t-0a1f3d9ac8.md) — **10** of 80 msgs
+- [The Fate of COBOL.......](threads/t-376382caa3.md) — **10** of 107 msgs
+- [FREE: COBOL compiler](threads/t-5dd5c98c37.md) — **7** of 49 msgs
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **5** of 125 msgs
+- [OT: Computer Science Education: Where Are the Software Engineers of Tomorrow?](threads/t-7eea58d05a.md) — **4** of 64 msgs
+- [A better way to ask C++ is way better than Cobol](threads/t-13ba6b6448.md) — **4** of 55 msgs
+- [XP: Extreme Programming](threads/t-f326a9afd4.md) — **4** of 43 msgs
+- [[Fwd: Cobol compiler sources]](threads/t-d170b5b9d4.md) — **4** of 26 msgs
 
 ## #78. Jack Sleight <a id='a-fa2d9b074a'></a>
 
@@ -1678,16 +1678,16 @@ _Also posted as: slade2, jacksleight@hotmail.com._
 
 **Top threads:**
 
-- [Cobol problem](2005-02.md#t-8ae1e8ae57) — **5** of 39 msgs
-- [Logic Bug](2003-10.md#t-7016082be9) — **5** of 15 msgs
-- [Computer Statement Usage](2004-10.md#t-435257d042) — **4** of 100 msgs
-- [OT: Hemlines](2003-11.md#t-973400bc4f) — **4** of 107 msgs
-- [Resequencing Numbered Paragraphs](2003-08.md#t-c10c2482f3) — **4** of 27 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **4** of 1161 msgs
-- [What statement is executed next?](2003-05.md#t-dfc9d5c28e) — **4** of 29 msgs
-- [Merry Christmas all...](2002-12.md#t-2dce2f0bc9) — **4** of 25 msgs
-- [To my Democratic & Republican friends (with tongue firmly planted in cheek)](2005-12.md#t-14ca948d79) — **3** of 14 msgs
-- [convert packed CHAR to unpacked DIGIT](2005-04.md#t-9f3bbb4d51) — **3** of 12 msgs
+- [Cobol problem](threads/t-8ae1e8ae57.md) — **5** of 39 msgs
+- [Logic Bug](threads/t-7016082be9.md) — **5** of 15 msgs
+- [Computer Statement Usage](threads/t-435257d042.md) — **4** of 100 msgs
+- [OT: Hemlines](threads/t-973400bc4f.md) — **4** of 107 msgs
+- [Resequencing Numbered Paragraphs](threads/t-c10c2482f3.md) — **4** of 27 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **4** of 1161 msgs
+- [What statement is executed next?](threads/t-dfc9d5c28e.md) — **4** of 29 msgs
+- [Merry Christmas all...](threads/t-2dce2f0bc9.md) — **4** of 25 msgs
+- [To my Democratic & Republican friends (with tongue firmly planted in cheek)](threads/t-14ca948d79.md) — **3** of 14 msgs
+- [convert packed CHAR to unpacked DIGIT](threads/t-9f3bbb4d51.md) — **3** of 12 msgs
 
 ## #79. Ed Guy <a id='a-7b9019e3d8'></a>
 
@@ -1697,16 +1697,16 @@ _Also posted as: slade2, jacksleight@hotmail.com._
 
 **Top threads:**
 
-- [Have you always dreamed of become a high payed consultant?](2002-11.md#t-148316ccab) — **4** of 111 msgs
-- [Numeric values](2002-01.md#t-5ab3f74189) — **4** of 102 msgs
-- [Cobol: Structured vs. "Drop-Down" Performance](2001-11.md#t-e061057fef) — **4** of 29 msgs
-- [COMP-3 binary format](2001-06.md#t-ccc280bbd1) — **4** of 11 msgs
-- [Help an Old Fogey](2000-07.md#t-427761acdd) — **4** of 32 msgs
-- [STD - Yet another "interesting" document](2000-01.md#t-d689c9e42d) — **4** of 90 msgs
-- [Cobol - legacy software](2000-02.md#t-2f4779b7ce) — **4** of 52 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **3** of 1161 msgs
-- [DAT and IDX files](2002-08.md#t-55535effe8) — **3** of 24 msgs
-- [IBM Mainframe COBOL "people"](2002-05.md#t-6e9cf19351) — **3** of 111 msgs
+- [Have you always dreamed of become a high payed consultant?](threads/t-148316ccab.md) — **4** of 111 msgs
+- [Numeric values](threads/t-5ab3f74189.md) — **4** of 102 msgs
+- [Cobol: Structured vs. "Drop-Down" Performance](threads/t-e061057fef.md) — **4** of 29 msgs
+- [COMP-3 binary format](threads/t-ccc280bbd1.md) — **4** of 11 msgs
+- [Help an Old Fogey](threads/t-427761acdd.md) — **4** of 32 msgs
+- [STD - Yet another "interesting" document](threads/t-d689c9e42d.md) — **4** of 90 msgs
+- [Cobol - legacy software](threads/t-2f4779b7ce.md) — **4** of 52 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **3** of 1161 msgs
+- [DAT and IDX files](threads/t-55535effe8.md) — **3** of 24 msgs
+- [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) — **3** of 111 msgs
 
 ## #80. James King <a id='a-d15c459792'></a>
 
@@ -1718,16 +1718,16 @@ _Also posted as: mangogwr, Searcher, searcher._
 
 **Top threads:**
 
-- [Use of declaratives on file errors](2000-09.md#t-abde6badc9) — **5** of 49 msgs
-- [MVS Call Chain](2000-09.md#t-15b03acac7) — **3** of 5 msgs · _started_
-- [File Buffers on MVS](2000-09.md#t-507b72c62e) — **2** of 13 msgs
-- [working storage addresses](2000-09.md#t-afd3a90bca) — **2** of 11 msgs
-- [GDG help.](2000-09.md#t-d737ec1848) — **2** of 9 msgs
-- [Define a transaction for a COBOL program on OS/390?](2000-09.md#t-dd1cc7599f) — **2** of 9 msgs
-- [batch/cics interface](2000-08.md#t-2d0b9004e4) — **2** of 9 msgs
-- [Clearing Register 15](2000-07.md#t-b846ccdce2) — **2** of 11 msgs
-- [Array Pointer](2000-05.md#t-343f98b349) — **2** of 6 msgs
-- [IBM - OS/390 Reference Material - FYI](2000-01.md#t-f6e5080c85) — **2** of 11 msgs
+- [Use of declaratives on file errors](threads/t-abde6badc9.md) — **5** of 49 msgs
+- [MVS Call Chain](threads/t-15b03acac7.md) — **3** of 5 msgs · _started_
+- [File Buffers on MVS](threads/t-507b72c62e.md) — **2** of 13 msgs
+- [working storage addresses](threads/t-afd3a90bca.md) — **2** of 11 msgs
+- [GDG help.](threads/t-d737ec1848.md) — **2** of 9 msgs
+- [Define a transaction for a COBOL program on OS/390?](threads/t-dd1cc7599f.md) — **2** of 9 msgs
+- [batch/cics interface](threads/t-2d0b9004e4.md) — **2** of 9 msgs
+- [Clearing Register 15](threads/t-b846ccdce2.md) — **2** of 11 msgs
+- [Array Pointer](threads/t-343f98b349.md) — **2** of 6 msgs
+- [IBM - OS/390 Reference Material - FYI](threads/t-f6e5080c85.md) — **2** of 11 msgs
 
 ## #81. lsunley@mb.sympatico.ca <a id='a-fb392bda4e'></a>
 
@@ -1739,16 +1739,16 @@ _Also posted as: Lorne Sunley._
 
 **Top threads:**
 
-- [Microfocus vs AcuCobol](2002-03.md#t-1bf54a0ee2) — **5** of 30 msgs
-- [how do I move NULL into a field ?](2004-08.md#t-399eddb779) — **3** of 26 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **3** of 291 msgs
-- [COBSW](2002-12.md#t-ea3d1a5e76) — **3** of 16 msgs
-- [Aborting Programs - C++, Java etc.](2002-05.md#t-807740ccb4) — **3** of 54 msgs
-- [Anyone writing console apps using win32api ?](2001-04.md#t-0489a2e390) — **3** of 42 msgs
-- [Please help me!](2001-04.md#t-72fcfc7ef8) — **3** of 14 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **2** of 873 msgs
-- [Accuracy/Knowledge score-card](2003-04.md#t-b3ffb1f20d) — **2** of 521 msgs
-- [MicroFocus Fileshare via Internet](2003-04.md#t-f5d07f4c9a) — **2** of 14 msgs
+- [Microfocus vs AcuCobol](threads/t-1bf54a0ee2.md) — **5** of 30 msgs
+- [how do I move NULL into a field ?](threads/t-399eddb779.md) — **3** of 26 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **3** of 291 msgs
+- [COBSW](threads/t-ea3d1a5e76.md) — **3** of 16 msgs
+- [Aborting Programs - C++, Java etc.](threads/t-807740ccb4.md) — **3** of 54 msgs
+- [Anyone writing console apps using win32api ?](threads/t-0489a2e390.md) — **3** of 42 msgs
+- [Please help me!](threads/t-72fcfc7ef8.md) — **3** of 14 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **2** of 873 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **2** of 521 msgs
+- [MicroFocus Fileshare via Internet](threads/t-f5d07f4c9a.md) — **2** of 14 msgs
 
 ## #82. LX-i <a id='a-b3302ccea2'></a>
 
@@ -1758,16 +1758,16 @@ _Also posted as: Lorne Sunley._
 
 **Top threads:**
 
-- [[OT] Legislative Shenanigans](2003-05.md#t-0834a9b541) — **36** of 291 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](2003-03.md#t-c98b53a314) — **15** of 1161 msgs
-- [A style question (WS)](2003-05.md#t-a7113b83c6) — **14** of 73 msgs · _started_
-- [JUSTIFIED CENTER](2003-06.md#t-78e7a9686a) — **10** of 49 msgs · _started_
-- ["Go To" and "Structured programming"](2003-04.md#t-0a412bbeb1) — **10** of 166 msgs
-- [J4 paper on "symbols"](2003-05.md#t-3cc145252a) — **7** of 179 msgs
-- [[unisys] SEARCH syntax, table](2003-05.md#t-54c4825b52) — **7** of 31 msgs
-- [array initialization](2003-05.md#t-54c283f009) — **6** of 22 msgs
-- [[OT] Legislative Shenanigans](2003-05.md#t-5e54c8383a) — **5** of 12 msgs · _started_
-- [Large Systems Cobol -> Java](2003-06.md#t-51288de6d6) — **4** of 123 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **36** of 291 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **15** of 1161 msgs
+- [A style question (WS)](threads/t-a7113b83c6.md) — **14** of 73 msgs · _started_
+- [JUSTIFIED CENTER](threads/t-78e7a9686a.md) — **10** of 49 msgs · _started_
+- ["Go To" and "Structured programming"](threads/t-0a412bbeb1.md) — **10** of 166 msgs
+- [J4 paper on "symbols"](threads/t-3cc145252a.md) — **7** of 179 msgs
+- [[unisys] SEARCH syntax, table](threads/t-54c4825b52.md) — **7** of 31 msgs
+- [array initialization](threads/t-54c283f009.md) — **6** of 22 msgs
+- [[OT] Legislative Shenanigans](threads/t-5e54c8383a.md) — **5** of 12 msgs · _started_
+- [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **4** of 123 msgs
 
 ## #83. Shaun C. Murray <a id='a-3aa838a3ec'></a>
 
@@ -1777,16 +1777,16 @@ _Also posted as: Lorne Sunley._
 
 **Top threads:**
 
-- [inspect v's unstring](1998-10.md#t-de0021125f) — **7** of 40 msgs
-- [Perform "Standards" question](1999-02.md#t-c76e7c73e1) — **5** of 74 msgs
-- [three-digit subprocedure listing](1999-01.md#t-5d1dba12db) — **5** of 13 msgs
-- [Exit program vs. Goback](1999-03.md#t-5bd95c00c9) — **4** of 24 msgs
-- [level numbers 77/78](1999-01.md#t-27cbe1eeec) — **4** of 12 msgs
-- [1999 DATE PROBLEM AT LEVEL II COBOL](1999-01.md#t-7da998c81d) — **4** of 33 msgs
-- [Removing duplicates [LONG]](1999-02.md#t-8e7060015f) — **3** of 10 msgs · _started_
-- [User-defined functions in micro-focus cobol 3.4?](1999-01.md#t-a3357bde13) — **3** of 22 msgs
-- [Need some advice - COBOL beginners - read also.](1998-11.md#t-f76898762b) — **3** of 5 msgs · _started_
-- [Date Windowing problem](1998-11.md#t-ac96a06754) — **3** of 7 msgs · _started_
+- [inspect v's unstring](threads/t-de0021125f.md) — **7** of 40 msgs
+- [Perform "Standards" question](threads/t-c76e7c73e1.md) — **5** of 74 msgs
+- [three-digit subprocedure listing](threads/t-5d1dba12db.md) — **5** of 13 msgs
+- [Exit program vs. Goback](threads/t-5bd95c00c9.md) — **4** of 24 msgs
+- [level numbers 77/78](threads/t-27cbe1eeec.md) — **4** of 12 msgs
+- [1999 DATE PROBLEM AT LEVEL II COBOL](threads/t-7da998c81d.md) — **4** of 33 msgs
+- [Removing duplicates [LONG]](threads/t-8e7060015f.md) — **3** of 10 msgs · _started_
+- [User-defined functions in micro-focus cobol 3.4?](threads/t-a3357bde13.md) — **3** of 22 msgs
+- [Need some advice - COBOL beginners - read also.](threads/t-f76898762b.md) — **3** of 5 msgs · _started_
+- [Date Windowing problem](threads/t-ac96a06754.md) — **3** of 7 msgs · _started_
 
 ## #84. paulr <a id='a-c5a2f213ef'></a>
 
@@ -1796,16 +1796,16 @@ _Also posted as: Lorne Sunley._
 
 **Top threads:**
 
-- [COBOL GUI front end](1998-09.md#t-5faa305718) — **13** of 96 msgs
-- [Dumb COPY issue...](1999-02.md#t-df9821173f) — **10** of 43 msgs · _started_
-- [* Please read and comment](1999-02.md#t-2fea5cc428) — **8** of 94 msgs
-- [OS/390 Emulator](1999-02.md#t-994534f7b5) — **6** of 27 msgs
-- ["structured programming" & code reusability](1998-11.md#t-3537ec0cf1) — **6** of 60 msgs
-- [Y2K: History, what's being done, how to prepare](1998-08.md#t-530555b309) — **6** of 72 msgs
-- [Unfeasibly large COBOL programmer salaries](1999-01.md#t-3fde4208b5) — **5** of 44 msgs
-- [Sorts and such...](1998-12.md#t-9dcaf3d273) — **5** of 21 msgs · _started_
-- [Mixed - language help](1999-03.md#t-184f3ca752) — **4** of 18 msgs
-- [Modular Primary Key](1999-02.md#t-6d79aaee89) — **4** of 25 msgs
+- [COBOL GUI front end](threads/t-5faa305718.md) — **13** of 96 msgs
+- [Dumb COPY issue...](threads/t-df9821173f.md) — **10** of 43 msgs · _started_
+- [* Please read and comment](threads/t-2fea5cc428.md) — **8** of 94 msgs
+- [OS/390 Emulator](threads/t-994534f7b5.md) — **6** of 27 msgs
+- ["structured programming" & code reusability](threads/t-3537ec0cf1.md) — **6** of 60 msgs
+- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **6** of 72 msgs
+- [Unfeasibly large COBOL programmer salaries](threads/t-3fde4208b5.md) — **5** of 44 msgs
+- [Sorts and such...](threads/t-9dcaf3d273.md) — **5** of 21 msgs · _started_
+- [Mixed - language help](threads/t-184f3ca752.md) — **4** of 18 msgs
+- [Modular Primary Key](threads/t-6d79aaee89.md) — **4** of 25 msgs
 
 ## #85. Peter Lacey <a id='a-5415275833'></a>
 
@@ -1815,16 +1815,16 @@ _Also posted as: Lorne Sunley._
 
 **Top threads:**
 
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **19** of 1132 msgs
-- [Perform Thru/Go to vs. Perform - Compile Speed](2004-04.md#t-a6c684530f) — **12** of 195 msgs
-- [OT Science versus religion: Is compromise impossible?](2004-12.md#t-df3f81e997) — **10** of 392 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **7** of 873 msgs
-- [Restructure this!](2003-08.md#t-9a228915e1) — **6** of 41 msgs
-- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](2005-07.md#t-56df4077d0) — **5** of 186 msgs
-- [END-IF](2005-06.md#t-c74a1b7822) — **4** of 85 msgs
-- [a history question](2004-09.md#t-0dca2a6bf4) — **4** of 74 msgs
-- [Sections](2002-03.md#t-5d05dff6e1) — **4** of 76 msgs
-- [COBOL anyone?](2005-03.md#t-1d3780c8aa) — **3** of 82 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **19** of 1132 msgs
+- [Perform Thru/Go to vs. Perform - Compile Speed](threads/t-a6c684530f.md) — **12** of 195 msgs
+- [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) — **10** of 392 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **7** of 873 msgs
+- [Restructure this!](threads/t-9a228915e1.md) — **6** of 41 msgs
+- [Is it always possible to write a COBOL program using only 1 sentence per paragr…](threads/t-56df4077d0.md) — **5** of 186 msgs
+- [END-IF](threads/t-c74a1b7822.md) — **4** of 85 msgs
+- [a history question](threads/t-0dca2a6bf4.md) — **4** of 74 msgs
+- [Sections](threads/t-5d05dff6e1.md) — **4** of 76 msgs
+- [COBOL anyone?](threads/t-1d3780c8aa.md) — **3** of 82 msgs
 
 ## #86. Tom Morrison <a id='a-c9053abb6a'></a>
 
@@ -1836,16 +1836,16 @@ _Also posted as: t.morrison@liant.com, k5tm._
 
 **Top threads:**
 
-- [Is a General File Maintenance Routine possible?](2004-09.md#t-fc06ce4141) — **5** of 74 msgs
-- [Cobol Copybook Parsing](2004-07.md#t-7f106de644) — **5** of 61 msgs
-- [Testing for optional COMP-3 fields.](1999-03.md#t-d5bea9fdb9) — **5** of 18 msgs
-- [XML Standard](2004-12.md#t-c17623a4c9) — **4** of 12 msgs
-- [Tab delimited](2002-03.md#t-e6fa89e2b8) — **4** of 10 msgs
-- [Deleted records](1999-03.md#t-81e5cfbd34) — **4** of 45 msgs
-- [utility to read cobol data files?](2004-12.md#t-dca40d9c75) — **3** of 10 msgs
-- [cobol woes](2004-07.md#t-99436e8417) — **3** of 16 msgs
-- [RM/Cobol85](2003-10.md#t-eb7600c02c) — **3** of 11 msgs
-- [UNSTRING DELMITED BY ALL SPACES, SPACES?](2002-03.md#t-8f2fab1689) — **3** of 11 msgs
+- [Is a General File Maintenance Routine possible?](threads/t-fc06ce4141.md) — **5** of 74 msgs
+- [Cobol Copybook Parsing](threads/t-7f106de644.md) — **5** of 61 msgs
+- [Testing for optional COMP-3 fields.](threads/t-d5bea9fdb9.md) — **5** of 18 msgs
+- [XML Standard](threads/t-c17623a4c9.md) — **4** of 12 msgs
+- [Tab delimited](threads/t-e6fa89e2b8.md) — **4** of 10 msgs
+- [Deleted records](threads/t-81e5cfbd34.md) — **4** of 45 msgs
+- [utility to read cobol data files?](threads/t-dca40d9c75.md) — **3** of 10 msgs
+- [cobol woes](threads/t-99436e8417.md) — **3** of 16 msgs
+- [RM/Cobol85](threads/t-eb7600c02c.md) — **3** of 11 msgs
+- [UNSTRING DELMITED BY ALL SPACES, SPACES?](threads/t-8f2fab1689.md) — **3** of 11 msgs
 
 ## #87. klshafer@att.net <a id='a-880783198a'></a>
 
@@ -1857,16 +1857,16 @@ _Also posted as: Ken._
 
 **Top threads:**
 
-- [Why read CLC?](2008-06.md#t-1418ecdc6b) — **29** of 115 msgs · _started_
-- [All X'0D' lost during reading line sequential file using microfocus se](2008-07.md#t-dd6bf37d50) — **18** of 100 msgs
-- [OT: Support Documentation](2010-09.md#t-02fa601302) — **11** of 62 msgs
-- [Mapping (CoBOL) Methodologies to Problem Domains](2008-01.md#t-20fbe6f56b) — **10** of 99 msgs · _started_
-- [Regarding EVALUATE TRUE](2007-08.md#t-5c7f626384) — **9** of 84 msgs · _started_
-- [Declining Cobol job market](2008-08.md#t-a511b9b92f) — **8** of 65 msgs
-- [OT: Do we get the Managers we deserve?](2011-08.md#t-b88150c178) — **6** of 34 msgs
-- [Indianapolis Opportunities](2008-08.md#t-cc2c0eb289) — **6** of 16 msgs · _started_
-- [COBOL Programmer,Little Rock,AR](2011-04.md#t-b5595423f0) — **5** of 52 msgs
-- [New Projects](2011-03.md#t-772d82ad94) — **5** of 18 msgs · _started_
+- [Why read CLC?](threads/t-1418ecdc6b.md) — **29** of 115 msgs · _started_
+- [All X'0D' lost during reading line sequential file using microfocus se](threads/t-dd6bf37d50.md) — **18** of 100 msgs
+- [OT: Support Documentation](threads/t-02fa601302.md) — **11** of 62 msgs
+- [Mapping (CoBOL) Methodologies to Problem Domains](threads/t-20fbe6f56b.md) — **10** of 99 msgs · _started_
+- [Regarding EVALUATE TRUE](threads/t-5c7f626384.md) — **9** of 84 msgs · _started_
+- [Declining Cobol job market](threads/t-a511b9b92f.md) — **8** of 65 msgs
+- [OT: Do we get the Managers we deserve?](threads/t-b88150c178.md) — **6** of 34 msgs
+- [Indianapolis Opportunities](threads/t-cc2c0eb289.md) — **6** of 16 msgs · _started_
+- [COBOL Programmer,Little Rock,AR](threads/t-b5595423f0.md) — **5** of 52 msgs
+- [New Projects](threads/t-772d82ad94.md) — **5** of 18 msgs · _started_
 
 ## #88. WOB <a id='a-425734a42d'></a>
 
@@ -1878,16 +1878,16 @@ _Also posted as: WOB Consulting, wobconsult@sprynet.com, wobconsult._
 
 **Top threads:**
 
-- [Unorthodoxed usage of FUNCTION SUM in CICS/COBOL](2005-09.md#t-b3bf8cbe36) — **3** of 7 msgs · _started_
-- [Dumb WAIT question](2003-08.md#t-ca98960d97) — **3** of 20 msgs
-- [PPT entry for Statically/Dynamically called subprograms in CICS.](2002-08.md#t-9cbd7113bb) — **3** of 8 msgs
-- [Occurs depending on over linkage](1999-09.md#t-0cd13b597e) — **3** of 10 msgs
-- [Passing EXTERNAL Data to AMODE(24) Assembler Sub-Program](2003-08.md#t-862badeec2) — **2** of 6 msgs · _started_
-- [Want to know length of the field passed to a program](2003-08.md#t-c267519a01) — **2** of 23 msgs
-- [Cobol positions in Denver and Colorado now only a memory?](2003-07.md#t-6145402541) — **2** of 6 msgs
-- [how to move a raw address to a pointer variable](2003-03.md#t-a16724e3c1) — **2** of 7 msgs
-- [External Table Addressability using Procedure-Pointer](2003-03.md#t-375cdb3d50) — **2** of 3 msgs · _started_
-- [HELP!](2003-01.md#t-757797536e) — **2** of 7 msgs
+- [Unorthodoxed usage of FUNCTION SUM in CICS/COBOL](threads/t-b3bf8cbe36.md) — **3** of 7 msgs · _started_
+- [Dumb WAIT question](threads/t-ca98960d97.md) — **3** of 20 msgs
+- [PPT entry for Statically/Dynamically called subprograms in CICS.](threads/t-9cbd7113bb.md) — **3** of 8 msgs
+- [Occurs depending on over linkage](threads/t-0cd13b597e.md) — **3** of 10 msgs
+- [Passing EXTERNAL Data to AMODE(24) Assembler Sub-Program](threads/t-862badeec2.md) — **2** of 6 msgs · _started_
+- [Want to know length of the field passed to a program](threads/t-c267519a01.md) — **2** of 23 msgs
+- [Cobol positions in Denver and Colorado now only a memory?](threads/t-6145402541.md) — **2** of 6 msgs
+- [how to move a raw address to a pointer variable](threads/t-a16724e3c1.md) — **2** of 7 msgs
+- [External Table Addressability using Procedure-Pointer](threads/t-375cdb3d50.md) — **2** of 3 msgs · _started_
+- [HELP!](threads/t-757797536e.md) — **2** of 7 msgs
 
 ## #89. DennisHarley <a id='a-9aa90dd468'></a>
 
@@ -1897,16 +1897,16 @@ _Also posted as: WOB Consulting, wobconsult@sprynet.com, wobconsult._
 
 **Top threads:**
 
-- [You're invited to critique my new Cobol page I started](2000-01.md#t-1aecf3832a) — **15** of 170 msgs
-- [cobol for free ??](2000-02.md#t-fc8658e269) — **10** of 120 msgs
-- [Procedural vs Object-Oriented programming](2000-03.md#t-564bf09b90) — **9** of 244 msgs
-- [STD: Leap Seconds and COBOL](2000-01.md#t-7eba4116ce) — **8** of 76 msgs
-- [GO TO](2000-05.md#t-3222d57323) — **5** of 150 msgs
-- [TYPEDEF available in OS/390 COBOL?](2000-01.md#t-a116069917) — **5** of 20 msgs
-- [Read from a empty VSAM file](2000-01.md#t-5dbf6f49d0) — **5** of 29 msgs
-- [Sorting dilema...](2000-04.md#t-89746b83b2) — **4** of 109 msgs
-- [Structured Vs OO](2000-03.md#t-9170eef001) — **4** of 47 msgs
-- [OS/390 COBOL Programmers](2000-03.md#t-ff5e72d21c) — **4** of 21 msgs
+- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **15** of 170 msgs
+- [cobol for free ??](threads/t-fc8658e269.md) — **10** of 120 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **9** of 244 msgs
+- [STD: Leap Seconds and COBOL](threads/t-7eba4116ce.md) — **8** of 76 msgs
+- [GO TO](threads/t-3222d57323.md) — **5** of 150 msgs
+- [TYPEDEF available in OS/390 COBOL?](threads/t-a116069917.md) — **5** of 20 msgs
+- [Read from a empty VSAM file](threads/t-5dbf6f49d0.md) — **5** of 29 msgs
+- [Sorting dilema...](threads/t-89746b83b2.md) — **4** of 109 msgs
+- [Structured Vs OO](threads/t-9170eef001.md) — **4** of 47 msgs
+- [OS/390 COBOL Programmers](threads/t-ff5e72d21c.md) — **4** of 21 msgs
 
 ## #90. Carlos lages <a id='a-d71a754cf6'></a>
 
@@ -1918,16 +1918,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [Pic 9(04)v999999 in Power cobol 6.1](2003-03.md#t-307a410356) — **6** of 16 msgs · _started_
-- [Cobfattr in Power Cobol](2003-05.md#t-a1fdf8e61a) — **5** of 12 msgs · _started_
-- [Dbgrid and Power Cobol](2003-07.md#t-1f9c553720) — **4** of 5 msgs · _started_
-- [Evaluate or IF,s in Power Cobol](2003-05.md#t-0411a8e93a) — **4** of 9 msgs · _started_
-- [Power x MS-SQL](2003-07.md#t-d01cf4eb60) — **3** of 6 msgs · _started_
-- [Closing the Console in PowerCobol](2003-06.md#t-37c1a8d36c) — **3** of 4 msgs · _started_
-- [Checking if Directori Exists in Power](2003-05.md#t-e4d8ec9fbe) — **3** of 4 msgs · _started_
-- [Power cobol Limitations](2002-08.md#t-5926b57c18) — **3** of 4 msgs · _started_
-- [Fuji-Cobol - Table and List -Controls](2002-06.md#t-0df3c1039b) — **3** of 7 msgs
-- [Power 6.1 Install](2001-05.md#t-05ecce14f1) — **3** of 5 msgs · _started_
+- [Pic 9(04)v999999 in Power cobol 6.1](threads/t-307a410356.md) — **6** of 16 msgs · _started_
+- [Cobfattr in Power Cobol](threads/t-a1fdf8e61a.md) — **5** of 12 msgs · _started_
+- [Dbgrid and Power Cobol](threads/t-1f9c553720.md) — **4** of 5 msgs · _started_
+- [Evaluate or IF,s in Power Cobol](threads/t-0411a8e93a.md) — **4** of 9 msgs · _started_
+- [Power x MS-SQL](threads/t-d01cf4eb60.md) — **3** of 6 msgs · _started_
+- [Closing the Console in PowerCobol](threads/t-37c1a8d36c.md) — **3** of 4 msgs · _started_
+- [Checking if Directori Exists in Power](threads/t-e4d8ec9fbe.md) — **3** of 4 msgs · _started_
+- [Power cobol Limitations](threads/t-5926b57c18.md) — **3** of 4 msgs · _started_
+- [Fuji-Cobol - Table and List -Controls](threads/t-0df3c1039b.md) — **3** of 7 msgs
+- [Power 6.1 Install](threads/t-05ecce14f1.md) — **3** of 5 msgs · _started_
 
 ## #91. Oscar T. Grouch <a id='a-9a965209ff'></a>
 
@@ -1937,16 +1937,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [MF COBOL & memory allocation & API's](2001-01.md#t-4cfb1a5f9e) — **3** of 8 msgs
-- [Success stories for Cobol](2000-06.md#t-96a5a3cd70) — **3** of 77 msgs
-- [Design Survey](2000-04.md#t-4945c81552) — **3** of 64 msgs
-- [An OO Contest!](2000-03.md#t-a4cd4f3eb3) — **3** of 65 msgs
-- [Personal COBOL animator](2000-03.md#t-57b16d7f79) — **3** of 10 msgs
-- [Learning OO COBOL - File Access Objects.](2000-03.md#t-1381bf5afa) — **3** of 29 msgs
-- [198 when using CBL_EXEC_RUN_UNIT](1999-08.md#t-a890342fe1) — **3** of 23 msgs
-- [OT: ANWR, Energy, Nuclear fuel, Greenies, tree huggers, NRA, etc......](2001-04.md#t-4f866ee2fa) — **2** of 32 msgs
-- [File opening](2001-02.md#t-9295551094) — **2** of 9 msgs
-- [Infoworld: COBOL outdated and losing support](2001-01.md#t-2522f5be08) — **2** of 64 msgs
+- [MF COBOL & memory allocation & API's](threads/t-4cfb1a5f9e.md) — **3** of 8 msgs
+- [Success stories for Cobol](threads/t-96a5a3cd70.md) — **3** of 77 msgs
+- [Design Survey](threads/t-4945c81552.md) — **3** of 64 msgs
+- [An OO Contest!](threads/t-a4cd4f3eb3.md) — **3** of 65 msgs
+- [Personal COBOL animator](threads/t-57b16d7f79.md) — **3** of 10 msgs
+- [Learning OO COBOL - File Access Objects.](threads/t-1381bf5afa.md) — **3** of 29 msgs
+- [198 when using CBL_EXEC_RUN_UNIT](threads/t-a890342fe1.md) — **3** of 23 msgs
+- [OT: ANWR, Energy, Nuclear fuel, Greenies, tree huggers, NRA, etc......](threads/t-4f866ee2fa.md) — **2** of 32 msgs
+- [File opening](threads/t-9295551094.md) — **2** of 9 msgs
+- [Infoworld: COBOL outdated and losing support](threads/t-2522f5be08.md) — **2** of 64 msgs
 
 ## #92. The Goobers <a id='a-d764527664'></a>
 
@@ -1956,16 +1956,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [New Jersey's Woes - An Example](1999-03.md#t-5dbd5c2c51) — **10** of 42 msgs
-- [Calling DD, was: COBOL COMPILED WITH DATA=31: PLUSES & MINUSES?](1999-11.md#t-1fbc38389f) — **9** of 42 msgs
-- [Please Do My Job/Homework?](1999-03.md#t-8d60b28067) — **9** of 76 msgs
-- [Nazi Tactics DocDwarf aka Michael J. Ben-Tovim, President of Binary Systems Inc](1998-07.md#t-6582e3efa6) — **9** of 39 msgs
-- [The deal with the Inline Performs](1998-07.md#t-ca926fdad0) — **5** of 37 msgs
-- [Another Point of View - 'I Won't Post Rates'](1998-07.md#t-13533b4541) — **5** of 32 msgs
-- [Y2k Death March Begins.](1998-10.md#t-92e6de34a6) — **4** of 300 msgs
-- [A Y2K 'Fix' Story](1998-09.md#t-be978d4c79) — **4** of 34 msgs · _started_
-- [The Wonderful Contributions to this NG of docdwarf@clark.net](1998-07.md#t-2b641e7033) — **4** of 17 msgs
-- [So, Here's What's Happening at PSE&G: MORONISM!](1998-12.md#t-24ad533ea7) — **3** of 67 msgs
+- [New Jersey's Woes - An Example](threads/t-5dbd5c2c51.md) — **10** of 42 msgs
+- [Calling DD, was: COBOL COMPILED WITH DATA=31: PLUSES & MINUSES?](threads/t-1fbc38389f.md) — **9** of 42 msgs
+- [Please Do My Job/Homework?](threads/t-8d60b28067.md) — **9** of 76 msgs
+- [Nazi Tactics DocDwarf aka Michael J. Ben-Tovim, President of Binary Systems Inc](threads/t-6582e3efa6.md) — **9** of 39 msgs
+- [The deal with the Inline Performs](threads/t-ca926fdad0.md) — **5** of 37 msgs
+- [Another Point of View - 'I Won't Post Rates'](threads/t-13533b4541.md) — **5** of 32 msgs
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **4** of 300 msgs
+- [A Y2K 'Fix' Story](threads/t-be978d4c79.md) — **4** of 34 msgs · _started_
+- [The Wonderful Contributions to this NG of docdwarf@clark.net](threads/t-2b641e7033.md) — **4** of 17 msgs
+- [So, Here's What's Happening at PSE&G: MORONISM!](threads/t-24ad533ea7.md) — **3** of 67 msgs
 
 ## #93. Paul Barnett <a id='a-2a80bb083e'></a>
 
@@ -1975,16 +1975,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [What is Fujitsu?](2000-06.md#t-82c995d50e) — **4** of 32 msgs
-- [COBOL v Java](2002-11.md#t-43d8c3000d) — **3** of 66 msgs
-- [OT : Nigerian Email Scams](2002-09.md#t-ce84227c11) — **3** of 93 msgs
-- [Merant Server Express - Linux](2002-07.md#t-6921412630) — **3** of 19 msgs
-- [OT - New Millennium](2001-01.md#t-85f4707c00) — **3** of 44 msgs
-- [pl/i](2003-10.md#t-55d7d1d0ec) — **2** of 6 msgs
-- [OT: Science test](2003-07.md#t-b6c6fbaf6e) — **2** of 22 msgs
-- [CICS on PC only](2003-04.md#t-4bc74f310f) — **2** of 23 msgs
-- [Follow up on RM/85 to Fujitsu file system](2002-12.md#t-9f137fb708) — **2** of 15 msgs
-- [16 bit character mode Microfocus & XP home](2003-02.md#t-fa64d74401) — **2** of 8 msgs
+- [What is Fujitsu?](threads/t-82c995d50e.md) — **4** of 32 msgs
+- [COBOL v Java](threads/t-43d8c3000d.md) — **3** of 66 msgs
+- [OT : Nigerian Email Scams](threads/t-ce84227c11.md) — **3** of 93 msgs
+- [Merant Server Express - Linux](threads/t-6921412630.md) — **3** of 19 msgs
+- [OT - New Millennium](threads/t-85f4707c00.md) — **3** of 44 msgs
+- [pl/i](threads/t-55d7d1d0ec.md) — **2** of 6 msgs
+- [OT: Science test](threads/t-b6c6fbaf6e.md) — **2** of 22 msgs
+- [CICS on PC only](threads/t-4bc74f310f.md) — **2** of 23 msgs
+- [Follow up on RM/85 to Fujitsu file system](threads/t-9f137fb708.md) — **2** of 15 msgs
+- [16 bit character mode Microfocus & XP home](threads/t-fa64d74401.md) — **2** of 8 msgs
 
 ## #94. Robert Graham <a id='a-ca96ee9fdd'></a>
 
@@ -1994,16 +1994,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [Internal vs External SORTs](2003-01.md#t-cd4ceda530) — **29** of 174 msgs
-- [Have you always dreamed of become a high payed consultant?](2002-11.md#t-148316ccab) — **20** of 111 msgs · _started_
-- [Visual Age Cobol, or Java ?](2002-12.md#t-6cbbe83a5a) — **7** of 82 msgs
-- [Off topic message (is it?)](2002-11.md#t-ec77920485) — **7** of 27 msgs
-- [OT : Nigerian Email Scams](2002-09.md#t-ce84227c11) — **7** of 93 msgs
-- [testing, one two three](2002-11.md#t-44056c794e) — **6** of 42 msgs
-- [Question on closing files](2003-01.md#t-989098aa3c) — **5** of 28 msgs
-- [OT: for your amusment](2003-01.md#t-ad27fc7ff4) — **5** of 30 msgs
-- [EXPERIENCED Fujitsu Powercobol Developer needed](2002-11.md#t-8fb6a9a6c5) — **4** of 17 msgs
-- [tandem COBOL to IBM Mainframe MVS COBOL Conversion](2003-01.md#t-2534377824) — **3** of 12 msgs
+- [Internal vs External SORTs](threads/t-cd4ceda530.md) — **29** of 174 msgs
+- [Have you always dreamed of become a high payed consultant?](threads/t-148316ccab.md) — **20** of 111 msgs · _started_
+- [Visual Age Cobol, or Java ?](threads/t-6cbbe83a5a.md) — **7** of 82 msgs
+- [Off topic message (is it?)](threads/t-ec77920485.md) — **7** of 27 msgs
+- [OT : Nigerian Email Scams](threads/t-ce84227c11.md) — **7** of 93 msgs
+- [testing, one two three](threads/t-44056c794e.md) — **6** of 42 msgs
+- [Question on closing files](threads/t-989098aa3c.md) — **5** of 28 msgs
+- [OT: for your amusment](threads/t-ad27fc7ff4.md) — **5** of 30 msgs
+- [EXPERIENCED Fujitsu Powercobol Developer needed](threads/t-8fb6a9a6c5.md) — **4** of 17 msgs
+- [tandem COBOL to IBM Mainframe MVS COBOL Conversion](threads/t-2534377824.md) — **3** of 12 msgs
 
 ## #95. Jeff Baynard <a id='a-e9dbac5bcb'></a>
 
@@ -2013,16 +2013,16 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 
 **Top threads:**
 
-- [File Sort](2000-10.md#t-9ecead0781) — **4** of 67 msgs
-- [Use of SECTION](2001-02.md#t-32502da619) — **3** of 91 msgs
-- [mainframe editors](2000-12.md#t-837b1a4cf7) — **3** of 48 msgs · _started_
-- [small question](2000-09.md#t-d3436a6a6b) — **3** of 73 msgs
-- [File Buffers on MVS](2000-09.md#t-507b72c62e) — **3** of 13 msgs · _started_
-- [Misc comments on GOTO, packed data, and flowcharts](2000-05.md#t-e64f1909a4) — **3** of 88 msgs
-- [Multiple Topics - One message -- CA-World discussed too!](2000-04.md#t-cb134a4545) — **3** of 187 msgs
-- [Sorting dilema...](2000-04.md#t-89746b83b2) — **3** of 109 msgs
-- [Case Structure?](1999-11.md#t-6bbf1180f6) — **3** of 39 msgs
-- [What is TSO/JCL?](1999-05.md#t-09ce89eadb) — **3** of 47 msgs
+- [File Sort](threads/t-9ecead0781.md) — **4** of 67 msgs
+- [Use of SECTION](threads/t-32502da619.md) — **3** of 91 msgs
+- [mainframe editors](threads/t-837b1a4cf7.md) — **3** of 48 msgs · _started_
+- [small question](threads/t-d3436a6a6b.md) — **3** of 73 msgs
+- [File Buffers on MVS](threads/t-507b72c62e.md) — **3** of 13 msgs · _started_
+- [Misc comments on GOTO, packed data, and flowcharts](threads/t-e64f1909a4.md) — **3** of 88 msgs
+- [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **3** of 187 msgs
+- [Sorting dilema...](threads/t-89746b83b2.md) — **3** of 109 msgs
+- [Case Structure?](threads/t-6bbf1180f6.md) — **3** of 39 msgs
+- [What is TSO/JCL?](threads/t-09ce89eadb.md) — **3** of 47 msgs
 
 ## #96. Bob7536 <a id='a-54be6edcf7'></a>
 
@@ -2034,16 +2034,16 @@ _Also posted as: Bob7536@aol.com._
 
 **Top threads:**
 
-- [NetExpress 3.1 Runtime Fees](2000-05.md#t-1ae4b5a1da) — **6** of 59 msgs · _started_
-- [Move the mouse pointer](1999-08.md#t-ea4bfbcb37) — **5** of 12 msgs · _started_
-- [Win95 API NetExpress](1998-10.md#t-32e48ce36b) — **5** of 11 msgs · _started_
-- [COBOL Report Writer](1999-11.md#t-dbc31a12c2) — **4** of 13 msgs · _started_
-- [Job Opening](2001-02.md#t-d834de524d) — **3** of 5 msgs · _started_
-- [COBOL vs Java](2000-08.md#t-9279126d36) — **3** of 39 msgs · _started_
-- [how do I scan using Netexpress](2000-06.md#t-07c906afad) — **3** of 7 msgs
-- [CreateProcess Win32API Call](2000-06.md#t-44bcab0887) — **3** of 6 msgs · _started_
-- [Win32API Question with NetExpress](2000-05.md#t-e74b998b1c) — **3** of 6 msgs · _started_
-- [Serial POS Printer](2000-03.md#t-404c0d6eba) — **3** of 6 msgs · _started_
+- [NetExpress 3.1 Runtime Fees](threads/t-1ae4b5a1da.md) — **6** of 59 msgs · _started_
+- [Move the mouse pointer](threads/t-ea4bfbcb37.md) — **5** of 12 msgs · _started_
+- [Win95 API NetExpress](threads/t-32e48ce36b.md) — **5** of 11 msgs · _started_
+- [COBOL Report Writer](threads/t-dbc31a12c2.md) — **4** of 13 msgs · _started_
+- [Job Opening](threads/t-d834de524d.md) — **3** of 5 msgs · _started_
+- [COBOL vs Java](threads/t-9279126d36.md) — **3** of 39 msgs · _started_
+- [how do I scan using Netexpress](threads/t-07c906afad.md) — **3** of 7 msgs
+- [CreateProcess Win32API Call](threads/t-44bcab0887.md) — **3** of 6 msgs · _started_
+- [Win32API Question with NetExpress](threads/t-e74b998b1c.md) — **3** of 6 msgs · _started_
+- [Serial POS Printer](threads/t-404c0d6eba.md) — **3** of 6 msgs · _started_
 
 ## #97. Jeff York <a id='a-a7e377a657'></a>
 
@@ -2053,16 +2053,16 @@ _Also posted as: Bob7536@aol.com._
 
 **Top threads:**
 
-- [Infinite Loops and Explicit Exits](2004-10.md#t-4e5f66a214) — **22** of 1132 msgs
-- [MF having issues?](2006-02.md#t-71bbd6783b) — **12** of 236 msgs
-- [OT - "lie" vs "error"](2005-03.md#t-1461c1cf4b) — **9** of 540 msgs
-- [OT : Making money from Java](2005-11.md#t-0c7ed12b34) — **8** of 1890 msgs
-- [Treeviews](2005-02.md#t-ade484509a) — **7** of 524 msgs
-- [COBOL anyone?](2005-03.md#t-1d3780c8aa) — **5** of 82 msgs
-- [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](2004-11.md#t-172a78fc6d) — **5** of 71 msgs
-- ["Shared" procedure division code](2005-07.md#t-d41db28e9f) — **4** of 401 msgs
-- [MF Collection Class speed](2005-02.md#t-3c3c42052b) — **4** of 135 msgs
-- [If you were inventing CoBOL...](2004-09.md#t-7c518b7005) — **4** of 873 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **22** of 1132 msgs
+- [MF having issues?](threads/t-71bbd6783b.md) — **12** of 236 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **9** of 540 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **8** of 1890 msgs
+- [Treeviews](threads/t-ade484509a.md) — **7** of 524 msgs
+- [COBOL anyone?](threads/t-1d3780c8aa.md) — **5** of 82 msgs
+- [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](threads/t-172a78fc6d.md) — **5** of 71 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **4** of 401 msgs
+- [MF Collection Class speed](threads/t-3c3c42052b.md) — **4** of 135 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **4** of 873 msgs
 
 ## #98. Robert Wessel <a id='a-1f126ebe8a'></a>
 
@@ -2074,16 +2074,16 @@ _Also posted as: robertwessel2@yahoo.com._
 
 **Top threads:**
 
-- [77 Levels](2011-10.md#t-18a7793cd8) — **24** of 161 msgs
-- [Contrarian view of COBOL](2013-02.md#t-77ddf6ab4f) — **9** of 38 msgs
-- [IT's Record of Failure Is Worse Than You Think](2013-03.md#t-130dba987f) — **5** of 128 msgs
-- [Universities are failing us with COBOL?](2013-03.md#t-3b077fb39a) — **5** of 32 msgs
-- [Math joke](2011-09.md#t-cd35279e9f) — **5** of 40 msgs
-- [Cobol today](2010-05.md#t-6667c99ef8) — **5** of 32 msgs
-- [What is your opinion regardinf touch screens?](2013-01.md#t-130c65d399) — **4** of 91 msgs
-- [OT: Baseball anyone?](2012-07.md#t-3d92ec5d7e) — **4** of 16 msgs
-- [OT: Trouble in Paradise](2011-10.md#t-11accd9aba) — **4** of 104 msgs
-- [OT: System Environment Variables](2011-08.md#t-78c3706800) — **4** of 27 msgs
+- [77 Levels](threads/t-18a7793cd8.md) — **24** of 161 msgs
+- [Contrarian view of COBOL](threads/t-77ddf6ab4f.md) — **9** of 38 msgs
+- [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **5** of 128 msgs
+- [Universities are failing us with COBOL?](threads/t-3b077fb39a.md) — **5** of 32 msgs
+- [Math joke](threads/t-cd35279e9f.md) — **5** of 40 msgs
+- [Cobol today](threads/t-6667c99ef8.md) — **5** of 32 msgs
+- [What is your opinion regardinf touch screens?](threads/t-130c65d399.md) — **4** of 91 msgs
+- [OT: Baseball anyone?](threads/t-3d92ec5d7e.md) — **4** of 16 msgs
+- [OT: Trouble in Paradise](threads/t-11accd9aba.md) — **4** of 104 msgs
+- [OT: System Environment Variables](threads/t-78c3706800.md) — **4** of 27 msgs
 
 ## #99. Rufio <a id='a-87362ddb34'></a>
 
@@ -2095,16 +2095,16 @@ _Also posted as: Dave Cawdell._
 
 **Top threads:**
 
-- [OT - Internet Explorer V6.0](2001-08.md#t-83015c1ca1) — **9** of 77 msgs
-- [Is there a way to concatenate strings?](2001-03.md#t-f60fc53a87) — **9** of 86 msgs
-- [religion and COBOL](2002-01.md#t-1d228ed79e) — **7** of 100 msgs
-- [SEQMENTATION](2002-03.md#t-e60fa15dec) — **5** of 28 msgs
-- [IBM mainframe use of OO COBOL](2001-08.md#t-f943ec26f9) — **5** of 69 msgs
-- [Nested Programs - Good or Bad?](2001-08.md#t-e9945c3dc6) — **4** of 85 msgs
-- [[job] Cobol Programmer needed-rate range](2001-07.md#t-f48340aac0) — **4** of 72 msgs
-- [Fixed Spanned Records](2001-02.md#t-41d9ec7e60) — **4** of 13 msgs
-- [SYNCSORT returns negative numbers BEFORE positive?](2002-04.md#t-bee429ae14) — **3** of 5 msgs · _started_
-- [Future of COBOL](2002-01.md#t-b6125cc663) — **3** of 76 msgs
+- [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **9** of 77 msgs
+- [Is there a way to concatenate strings?](threads/t-f60fc53a87.md) — **9** of 86 msgs
+- [religion and COBOL](threads/t-1d228ed79e.md) — **7** of 100 msgs
+- [SEQMENTATION](threads/t-e60fa15dec.md) — **5** of 28 msgs
+- [IBM mainframe use of OO COBOL](threads/t-f943ec26f9.md) — **5** of 69 msgs
+- [Nested Programs - Good or Bad?](threads/t-e9945c3dc6.md) — **4** of 85 msgs
+- [[job] Cobol Programmer needed-rate range](threads/t-f48340aac0.md) — **4** of 72 msgs
+- [Fixed Spanned Records](threads/t-41d9ec7e60.md) — **4** of 13 msgs
+- [SYNCSORT returns negative numbers BEFORE positive?](threads/t-bee429ae14.md) — **3** of 5 msgs · _started_
+- [Future of COBOL](threads/t-b6125cc663.md) — **3** of 76 msgs
 
 ## #100. Chris <a id='a-6b34fe24ac'></a>
 
@@ -2116,14 +2116,14 @@ _Also posted as: "Chris", chris, Chrisdaloa._
 
 **Top threads:**
 
-- [CANCEL Mis-behaving](2006-11.md#t-5cb1c31842) — **8** of 21 msgs · _started_
-- [Server Express Animator/Oracle Issues](2004-10.md#t-f73ab71f61) — **8** of 17 msgs · _started_
-- [Using FUNCTION-ID to create user-defined functions](2004-12.md#t-0fa293a842) — **7** of 17 msgs · _started_
-- [pstat_getproc()](2006-04.md#t-a2a0610301) — **5** of 8 msgs · _started_
-- [Problems With MF SE 4.0 SP2 License Manager and Oracle](2005-08.md#t-29e9b05186) — **5** of 6 msgs · _started_
-- [MF COBOL 132 COLUMN DISPLAY ISSUE](2003-03.md#t-1096ef1cdc) — **5** of 10 msgs · _started_
-- [Is threading the right solution for this challenge?](2006-05.md#t-13ec05f9c7) — **4** of 12 msgs · _started_
-- [Problem Calling "kill" in threaded 64-bit MF Server Express 4.0 SP2](2006-03.md#t-2e09700f5e) — **4** of 6 msgs · _started_
-- [Creating a tar file from COBOL](2005-08.md#t-4f31f0a2fe) — **4** of 8 msgs · _started_
-- [Micro Focus COBCPY Question](2005-04.md#t-10cae75d79) — **4** of 17 msgs · _started_
+- [CANCEL Mis-behaving](threads/t-5cb1c31842.md) — **8** of 21 msgs · _started_
+- [Server Express Animator/Oracle Issues](threads/t-f73ab71f61.md) — **8** of 17 msgs · _started_
+- [Using FUNCTION-ID to create user-defined functions](threads/t-0fa293a842.md) — **7** of 17 msgs · _started_
+- [pstat_getproc()](threads/t-a2a0610301.md) — **5** of 8 msgs · _started_
+- [Problems With MF SE 4.0 SP2 License Manager and Oracle](threads/t-29e9b05186.md) — **5** of 6 msgs · _started_
+- [MF COBOL 132 COLUMN DISPLAY ISSUE](threads/t-1096ef1cdc.md) — **5** of 10 msgs · _started_
+- [Is threading the right solution for this challenge?](threads/t-13ec05f9c7.md) — **4** of 12 msgs · _started_
+- [Problem Calling "kill" in threaded 64-bit MF Server Express 4.0 SP2](threads/t-2e09700f5e.md) — **4** of 6 msgs · _started_
+- [Creating a tar file from COBOL](threads/t-4f31f0a2fe.md) — **4** of 8 msgs · _started_
+- [Micro Focus COBCPY Question](threads/t-10cae75d79.md) — **4** of 17 msgs · _started_
 

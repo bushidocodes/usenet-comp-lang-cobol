@@ -68,12 +68,7 @@ def main() -> int:
             f.write("| Subject | Msgs | Span |\n|---|---:|---|\n")
             for s in entries:
                 label = trim(s["subject"])
-                ym = s["first_ym"]
-                link = (
-                    f"[{md_escape(label)}]({ym}.md#{s['anchor']})"
-                    if ym != "undated"
-                    else md_escape(label)
-                )
+                link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
                 if s["months"] and s["months"][0] != s["months"][-1]:
                     span = f"{s['months'][0]} → {s['months'][-1]}"
                 else:

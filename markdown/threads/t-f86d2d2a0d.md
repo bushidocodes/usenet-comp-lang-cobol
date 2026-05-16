@@ -1,0 +1,37 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Greater Vancouver, BC - AION Programmer - Up to $60/hr
+
+_1 message · 1 participant · 1999-12_
+
+---
+
+### Greater Vancouver, BC - AION Programmer - Up to $60/hr
+
+- **From:** "OT & T Information Systems, Inc." <cindy@ottinf.com>
+- **Date:** 1999-12-17T00:00:00
+- **Newsgroups:** bc.jobs,can.jobs,comp.lang.cobol,ont.jobs,van.jobs
+- **Message-ID:** `<01bf48e6$e4bc8020$LocalHost@QUYEN>`
+
+```
+Job Title: .................. AION Programmer
+Location: .................. Richmond, BC
+Term: ........................ 6 Months +
+Salary: ...................... D.O.E.
+Reply to: ................... cindy@ottinf.com
+
+Requirement: 
+- 1 years experience of AION in CICS/MVS/DB2 environment; 
+- Proven record of successful development in a project team; 
+- Experience in AION/DX in Windows NT and Knowledge of Rule Server are
+assets.
+- Excellent organizational and communication skills; Ability to provide
+technical mentoring to junior staff;
+- Superior diplomacy, judgement and tact.
+
+OT & T Information Systems, Inc.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

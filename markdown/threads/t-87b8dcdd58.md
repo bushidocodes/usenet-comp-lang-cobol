@@ -1,0 +1,40 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Year 2000 Jobs Information Request
+
+_1 message · 1 participant · 1998-08_
+
+**Topics:** [`Y2K and Year-2000 remediation`](../topics.md#y2k) · [`Jobs, careers, recruiting, salary`](../topics.md#jobs)
+
+---
+
+### Year 2000 Jobs Information Request
+
+- **From:** scameron@sage.ark.com (Baizeface)
+- **Date:** 1998-08-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<35e25e87.5614278@news.ark.com>`
+
+```
+   I am doing a work term report for a co-operative education program
+that I am currently completing, and part of the topic that I am
+working on  involves investigating and recording potential job
+opportunities with the Year 2000 problem in IBM mainframe information
+systems.  I am mostly interested in short term contract work, but am
+interested in any information you might have.  If you can think of any
+internet resources that may be helpful in my search, or have specific
+information regarding employment opportunities, I would be very
+interested in either hearing from you or reading a post in this group.
+
+And just as an aside, my research is focussing mainly on employment
+that is suitable for a IT diploma graduate with 12 months practical
+experience with the year 2000 problem in COBOL, GENER/OL, and
+native-CICS languages.  Platforms include VSE/DOS and CICS. Thank you
+very much.
+
+Scott Cameron
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
