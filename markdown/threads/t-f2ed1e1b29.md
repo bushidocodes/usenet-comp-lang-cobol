@@ -1,0 +1,47 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Y2K and Happy New Year to all of you
+
+_1 message · 1 participant · 2000-01_
+
+**Topics:** [`Y2K and Year-2000 remediation`](../topics.md#y2k)
+
+---
+
+### Y2K and Happy New Year to all of you
+
+- **From:** "Ib Tanding" <ib@tanding.dk>
+- **Date:** 2000-01-06T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<850n32$me5$1@news.inet.tele.dk>`
+
+```
+In Denmark, where I live, we hope to see something exciting in the papers,
+but in vain. We have had a 100 year old Y2K baby (because of some freakware
+at a hospital), that's it.
+
+At some time, 3 months ago, I said that I would take the on call duty
+myself. We had tested a large application in the financial sector for more
+than a year and I was very confident that everyting was OK.
+
+The newspapers were announcing the end of the world. Everyone were pretty
+sure that a short cut in a handmixer would start World War III. The debate
+was completely out of line, so I decided to take the money to follow our
+lovely world blow up.
+
+During the night I had 4 calls - None of them had anything to do with Y2K.
+4.250 jobs ran during the night, and I had one program error and 3 space
+problems.
+
+I managed to eat 2 lobsters and some scrimps, and I had a bottle of
+champain. 10 minutes to midnight I started a compile, celbrated the New Year
+with friends and neighbours, and went to sleep at 02.30.
+
+Happy Y2K
+
+Ib
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -1,0 +1,22 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# cancel <computer-lang/cobol-faq_1088448081@rtfm.mit.edu>
+
+_1 message · 1 participant · 2004-07_
+
+---
+
+### cancel <computer-lang/cobol-faq_1088448081@rtfm.mit.edu>
+
+- **From:** "wmklein@ix.netcom.com (William M. Klein)" <wmklein@ix.netcom.com>
+- **Date:** 2004-07-20T20:41:21+02:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<715D35324F5C6447BCF070AAC7A274AE010DD6AF@S015>`
+
+```
+
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

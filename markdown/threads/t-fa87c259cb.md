@@ -1,0 +1,51 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Database Connection
+
+_1 message · 1 participant · 2001-02_
+
+**Topics:** [`Databases and SQL`](../topics.md#databases)
+
+---
+
+### Re: Database Connection
+
+- **From:** cobolchappy@yahoo.com (Cobol Boy)
+- **Date:** 2001-02-24T11:52:47+01:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<20010224105245.89272.qmail@web12712.mail.yahoo.com>`
+
+```
+I think I've managed to get my ODBC connection set up
+now. I've coded my program according to the userguides
+that came with the compiler (i.e. declared my host
+variables and sqlstate/sqlcode) and I've got myself a
+simple program that will do a simple bit of sql.
+
+I've compiled and linked successfully but when I come
+to execute it I get an error message saying:
+"JMP0371I-U ENVIRONMENT INFORMATION FILE ERRORTO
+PERFORM SQL '@SQL_DATASRC'. PGM=DBASE ADR=004012FF"
+
+Now I thought this meant I had something wrong with in
+my ODBC.inf file that I created as it points to the
+@sql_datasrc parameter, but I've double checked this
+and it looks like I've got this all set up ok
+according to the manuals.
+
+Has anyone got any pointers for me or has anyone had
+this before and got around it ?
+
+Thanks very much.
+
+John
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

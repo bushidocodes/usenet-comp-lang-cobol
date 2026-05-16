@@ -1,0 +1,32 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# PC_WIN_SET_PFONT
+
+_1 message · 1 participant · 1998-07_
+
+---
+
+### PC_WIN_SET_PFONT
+
+- **From:** tjtony@aracnet.com (Tony Johnson)
+- **Date:** 1998-07-08T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<35a57b10.2536441@enews.newsguy.com>`
+
+```
+Hello,
+
+I would like to know if anyone has gotten the PC_WIN_SET_PFONT library
+routine to work properly.  All of the call library routines for working
+with window printers works ok, except this one.
+
+If you have any suggestions, or have any source examples for which you can
+share with me, I'll appreciate it immensely.
+
+Thanks!
+TJ
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

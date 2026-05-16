@@ -1,0 +1,29 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Creating PDS members from a batch program
+
+_1 message · 1 participant · 1998-10_
+
+---
+
+### Creating PDS members from a batch program
+
+- **From:** don_weigend@email.com (Donald Weigend)
+- **Date:** 1998-10-06T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<1105_907704992@hen.arinet.com>`
+
+```
+Greetings All,
+
+Does anyone have any COBOL code examples that create members in a PDS as output. I would like to enhance a 
+program that generates JCL for several batch jobs. This program currently stores all the JCL together in a single 
+sequential file, I then have to split these jobs up manually. I would appreciate any help anyone can give.
+
+Donald Weigend
+SPR Inc.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

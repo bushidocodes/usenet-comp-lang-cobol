@@ -202,13 +202,8 @@ def main() -> int:
                     s = summary_by_root.get(root)
                     if not s:
                         continue
-                    ym = s["first_ym"]
                     label = trim(s["subject"])
-                    link = (
-                        f"[{md_escape(label)}]({ym}.md#{s['anchor']})"
-                        if ym != "undated"
-                        else md_escape(label)
-                    )
+                    link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
                     started_marker = " · _started_" if root in group_started[gk] else ""
                     f.write(f"- {link} — **{n}** of {s['count']} msgs{started_marker}\n")
                 f.write("\n")

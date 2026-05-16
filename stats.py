@@ -9,7 +9,7 @@ import re
 from collections import Counter, defaultdict
 from datetime import datetime
 
-from archive import OUT, date_key, parse_archive, thread_summaries
+from archive import OUT, date_key, parse_archive, thread_anchor, thread_summaries
 
 # Terms whose first appearance in the archive is interesting to surface.
 # Order roughly chronological by expected first-mention to make the table read well.
@@ -92,7 +92,7 @@ def first_mention_timeline(msgs, terms):
     return first
 
 
-def write_stats(msgs, summaries, path):
+def write_stats(msgs, summaries, root_cache, path):
     total_msgs = len(msgs)
     total_threads = len(summaries)
 
@@ -201,7 +201,7 @@ def write_stats(msgs, summaries, path):
         f.write("## Busiest 25 months\n\n")
         f.write("| Month | Messages |\n|---|---:|\n")
         for ym, count in by_ym.most_common(25):
-            f.write(f"| [{ym}]({ym}.md) | {count:,} |\n")
+            f.write(f"| {ym} | {count:,} |\n")
         f.write("\n")
 
         # Thread size distribution
@@ -226,8 +226,7 @@ def write_stats(msgs, summaries, path):
                 if s["months"] and s["months"][0] != s["months"][-1]
                 else (s["months"][0] if s["months"] else "undated")
             )
-            ym = s["first_ym"] if s["first_ym"] != "undated" else None
-            link = f"[{md_escape(label)}]({ym}.md#{s['anchor']})" if ym else md_escape(label)
+            link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
             f.write(f"| {link} | {s['count']:,} | {len(s['participants'])} | {span} |\n")
         f.write("\n")
 
@@ -243,8 +242,7 @@ def write_stats(msgs, summaries, path):
                 if s["months"] and s["months"][0] != s["months"][-1]
                 else (s["months"][0] if s["months"] else "undated")
             )
-            ym = s["first_ym"] if s["first_ym"] != "undated" else None
-            link = f"[{md_escape(label)}]({ym}.md#{s['anchor']})" if ym else md_escape(label)
+            link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
             f.write(f"| {link} | {len(s['participants'])} | {s['count']:,} | {span} |\n")
         f.write("\n")
 
@@ -279,8 +277,7 @@ def write_stats(msgs, summaries, path):
             if sm < 1:
                 continue
             label = trim(s["subject"])
-            ym = s["first_ym"]
-            link = f"[{md_escape(label)}]({ym}.md#{s['anchor']})" if ym != "undated" else md_escape(label)
+            link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
             f.write(
                 f"| {link} | {sm} mo | {s['months'][0]} → {s['months'][-1]} | {s['count']:,} |\n"
             )
@@ -307,8 +304,7 @@ def write_stats(msgs, summaries, path):
         f.write("| Thread | Peak day | Peak msgs | Total | Span |\n|---|---|---:|---:|---|\n")
         for peak_day, peak_count, s in hottest:
             label = trim(s["subject"])
-            ym = s["first_ym"]
-            link = f"[{md_escape(label)}]({ym}.md#{s['anchor']})" if ym != "undated" else md_escape(label)
+            link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
             span = (
                 f"{s['months'][0]} → {s['months'][-1]}"
                 if s["months"] and s["months"][0] != s["months"][-1]
@@ -330,11 +326,15 @@ def write_stats(msgs, summaries, path):
         rows.sort(key=lambda r: date_key(r[0]))
         f.write("| Term | First mention | Thread |\n|---|---|---|\n")
         for dt, term, entry in rows:
-            ym = entry["ym"]
             subj = entry.get("subject") or "(no subject)"
             if len(subj) > 70:
                 subj = subj[:69].rstrip() + "…"
-            link = f"[{md_escape(subj)}]({ym}.md)" if ym != "undated" else md_escape(subj)
+            root = root_cache.get(entry["id"])
+            if root:
+                anchor = thread_anchor(root)
+                link = f"[{md_escape(subj)}](threads/{anchor}.md)"
+            else:
+                link = md_escape(subj)
             f.write(f"| **{md_escape(term)}** | {dt.date()} | {link} |\n")
         f.write("\n")
 
@@ -347,7 +347,7 @@ def main() -> int:
     summaries = thread_summaries(msgs, root_cache)
     out = OUT / "stats.md"
     print(f"Writing {out}...")
-    write_stats(msgs, summaries, out)
+    write_stats(msgs, summaries, root_cache, out)
     print("Done.")
     return 0
 

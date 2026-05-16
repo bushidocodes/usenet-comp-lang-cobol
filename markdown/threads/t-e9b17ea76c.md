@@ -1,0 +1,58 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Cobol - A/P's and Developers
+
+_2 messages · 2 participants · 1999-05_
+
+---
+
+### Cobol - A/P's and Developers
+
+- **From:** Element Limited <resume-cv@element-limited.com>
+- **Date:** 1999-05-17T00:00:00
+- **Newsgroups:** euro.jobs,uk.jobs,uk.jobs.offered,comp.lang.cobol,comp.databases.ibm-db2
+- **Message-ID:** `<#zZZrNHo#GA.364@nih2naad.prod2.compuserve.com>`
+
+```
+
+
+
+
+Cobol - A/P's and Developers.
+If you're Interested In pursuing opportunities with some of the UK's Leading  
+companies and have a Proven track record using Cobol, we have a  
+significant number of prospects. Specifically we are looking for Cobol under  
+IBM Mainframe.  Any experience of MF Cobol, CICS, DB2 or Cardpac, would  
+be highly advantageous.
+
+To apply for this position please forward your CV to  
+resume-cv@element-limited.com quoting the reference: "ST Cobol"
+```
+
+#### ↳ Re: Cobol - A/P's and Developers
+
+- **From:** docdwarf@clark.net ()
+- **Date:** 1999-05-17T00:00:00
+- **Newsgroups:** euro.jobs,uk.jobs,uk.jobs.offered,comp.lang.cobol,comp.databases.ibm-db2
+- **Message-ID:** `<gmY%2.940$Ku4.32247@iad-read.news.verio.net>`
+- **References:** `<#zZZrNHo#GA.364@nih2naad.prod2.compuserve.com>`
+
+```
+In article <#zZZrNHo#GA.364@nih2naad.prod2.compuserve.com>,
+Element Limited  <resume-cv@element-limited.com> wrote:
+>
+>
+…[3 more quoted lines elided]…
+>If you're Interested In pursuing opportunities with some of the UK's Leading  
+
+When posting to comp.lang.cobol please include a rate, or range of rates,
+associated with the position(s) offered; doing otherwise leads many to
+conclude that you are either trolling for resumes or running a blind ad to
+determine rates.
+
+DD
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

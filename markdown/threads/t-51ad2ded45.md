@@ -1,0 +1,45 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# COBOL FAQ
+
+_1 message · 1 participant · 2000-01_
+
+**Topics:** [`Meta: FAQs, group policy, charter`](../topics.md#meta)
+
+---
+
+### COBOL FAQ
+
+- **From:** wmklein@ix.netcom.com (William M. Klein)
+- **Date:** 2000-01-23T00:00:00
+- **Newsgroups:** comp.lang.cobol,alt.cobol,comp.answers,alt.answers,news.answers
+- **Message-ID:** `<computer-lang/cobol-faq_948622492@rtfm.mit.edu>`
+
+```
+Archive-name: computer-lang/cobol-faq
+Posting-Frequency: twice a month
+Last-Modified: 1999/09/07
+Version: 2.10
+URL: http://www.netcom.com/~wmklein/cobolfaq.htm
+Reply-To: wmklein@ix.netcom.com
+
+
+                            COBOL FAQ
+                  (Frequently Asked Questions)
+
+Last-Modified: Tuesday, September 7, 1999
+
+The COBOL FAQ is currently undergoing "major updates."  To view the most recent
+version, please look check out the web version at:
+
+  http://www.netcom.com/~wmklein/cobolfaq.htm
+
+If you have comments, corrects, deletions, or additions, please send private email
+to:
+
+    wmklein <at> ix.netcom.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

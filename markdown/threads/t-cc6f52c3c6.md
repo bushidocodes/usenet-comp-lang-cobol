@@ -1,0 +1,2017 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Going crazy need comments.
+
+_16 messages · 10 participants · 1999-10_
+
+---
+
+### Going crazy need comments.
+
+- **From:** "yourname" <tonylamm@nospam.concentric.net>
+- **Date:** 1999-10-26T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3815ea90.0@monster.zebra.net>`
+
+```
+I am trying to go from these two fd's:
+
+000100 FD  HISTORY-A
+000300     RECORD CONTAINS 512 CHARACTERS
+           LABEL RECORDS ARE STANDARD.
+000500
+000600 01  HISTORY-A-RECORD.
+000700     05  HA-KEY.
+000800         10  HA-BILLNUM             PIC 9(9).
+001300     05  ARRAY-SPACE-POINTER-A                 PIC 99  COMP-6.
+001400         88  THE-ARRAY-IS-FULL-A               VALUE 34 THRU 99.
+001500     05  CUSTOMER-HISTORY-DATA-A.
+001600         10  CUSTOMER-HISTORY-ARRAY-A          OCCURS 33 TIMES.
+001700             15  HISTORY-TRANS-DATE-A          PIC 9(6) COMP-6.
+001800             15  HISTORY-TRANS-AMT-RDG-A   PIC S9(9)V99 COMP-3.
+001900             15  HISTORY-BALANCE-CONSUM-A   PIC S9(7)V99 COMP-3.
+002000             15  HISTORY-CODE-A                PIC X.
+002100     05  COMMENT-POINTER-A                     PIC V99.
+002200     05  FILLER                                PIC X(5).
+002300
+002400 FD  HISTORY-B
+002600     RECORD CONTAINS 512 CHARACTERS
+           LABEL RECORDS ARE STANDARD.
+002800
+002900 01  HISTORY-B-RECORD.
+003000     05  HB-KEY.
+003100         10  HB-BILLNUM               PIC 9(9).
+003600     05  ARRAY-SPACE-POINTER-B                 PIC 99  COMP-6.
+003700         88  THE-ARRAY-IS-FULL-B               VALUE 34 THRU 99.
+003800     05  CUSTOMER-HISTORY-DATA-B.
+003900         10  CUSTOMER-HISTORY-ARRAY-B          OCCURS 33 TIMES.
+004000             15  HISTORY-TRANS-DATE-B          PIC 9(6) COMP-6.
+004100             15  HISTORY-TRANS-AMT-RDG-B   PIC S9(9)V99 COMP-3.
+004200             15  HISTORY-BALANCE-CONSUM-B   PIC S9(7)V99 COMP-3.
+004300             15  HISTORY-CODE-B                PIC X.
+004400     05  COMMENT-POINTER-B                     PIC V99.
+           05  FILLER                                PIC X(5).
+
+
+
+
+to this one:
+
+000100 FD  HISTORY
+000300     RECORD CONTAINS 74 CHARACTERS
+           LABEL RECORDS ARE STANDARD.
+000500
+000600 01  HISTORY-RECORD.
+000700     05  HISTORY-KEY.
+000800         10  HIST-BILLNUM                      PIC 9(9).
+               10  HISTORY-TRANS-DATE.
+                   15 HISTORY-CENTURY                PIC 9(2).
+                   15 HISTORY-YEAR                   PIC 9(2).
+                   15 HISTORY-MONTH                  PIC 9(2).
+                   15 HISTORY-DAY                    PIC 9(2).
+               10  HISTORY-DATE REDEFINES HISTORY-TRANS-DATE.
+                   15 HIST-CENT                      PIC 99.
+                   15 HISTORYDATE                    PIC 9(6).
+               10  HISTORY-TRANS-TIME.
+                   15 HISTORY-HOUR                   PIC 9(2).
+                   15 HISTORY-MINUTE                 PIC 9(2).
+                   15 HISTORY-SECOND                 PIC 9(2).
+                   15 HISTORY-HERTZ                  PIC 9(2).
+               10 HISTORY-TIME REDEFINES HISTORY-TRANS-TIME.
+                   15 HISTORYTIME                    PIC 9(8).
+           05  HIST-SEQ-NUM-KEY.
+               10  SEQ-BILL-NUM                      PIC 9(9).
+               10  SEQ-NUM                           PIC 9(7).
+001800     05  HISTORY-TRANS-AMT-RDG                 PIC S9(9)V99.
+001900     05  HISTORY-BALANCE-CONSUM                PIC S9(9)V99.
+002000     05  HISTORY-CODE                          PIC X.
+           05  HR-FILLER-1                           PIC X.
+           05  HR-FILLER-2                           PIC X(9).
+
+but the billnumber date and time are a key for the COMMENTS:
+
+
+       FD  COMMENTS
+           RECORD CONTAINS 64 CHARACTERS
+           BLOCK CONTAINS  8 RECORDS
+           LABEL RECORDS ARE STANDARD.
+
+       01  COMMENT-RECORD.
+           05  CM-KEY.
+               10  CM-BILL-NUMBER      PIC S9(9) COMP-3.
+               10  CM-DATE             PIC 9(6) COMP-6.
+               10  CM-TIME             PIC 9(8) COMP-6.
+           05  CM-COMMENT              PIC X(48).
+           05  CM-USER-CODE            PIC X(4).
+
+
+And absolutely refuses to be looked up by the data in HISTORY.
+
+For example, when I build the HISTORY from History-a and History-b:
+
+I can look up the comments.
+
+
+000736 PROCEDURE DIVISION.
+000737 0000-MAIN SECTION.
+000738*                                                                *
+000739*                     EXPANSION OF MODULE 0000                   *
+000740*                                                                *
+000741******************************************************************
+000742*                                                                *
+000743*  THIS MODULE IS THE MAIN CONTROL MODULE WHICH OPENS, PROCESSES,*
+000744*  AND CLOSES THE FILES.                                         *
+000745*                                                                *
+000746******************************************************************
+000747
+000748 0000-MAIN-PROGRAM.
+000749
+000750     PERFORM 1000-OPEN-FILES
+000751        THRU 1000-OPEN-FILES-EXIT.
+000752
+000753     PERFORM 2000-MAIN-PROCESSING
+000754        THRU 2000-MAIN-PROCESSING-EXIT.
+000755
+000756     PERFORM 3000-CLOSE-FILES
+000757        THRU 3000-CLOSE-FILES-EXIT.
+000758
+000759 0000-MAIN-PROGRAM-EXIT.
+000761     STOP RUN.
+000762/
+000763*                                                                *
+000764*                    EXPANSION OF MODULE 1000                    *
+000765*                                                                *
+000766******************************************************************
+000767*                                                                *
+000768*    THIS MODULE OPENS FILES FOR PROCESSING                      *
+000769*                                                                *
+000770******************************************************************
+000772 1000-OPEN-FILES.
+070999**     OPEN I-O   LAST-ACCT.
+      *     OPEN OUTPUT MARKER.
+10/8/99
+      *     MOVE 1  TO MARKER-KEY.
+10/8/99
+      *     MOVE 000185000 TO MARKER-BILLNUM.
+10/8/99
+      *     WRITE MARKER-RECORD.
+10/8/99
+      *     CLOSE MARKER.
+10/8/99
+           OPEN OUTPUT  HISTORY.
+9/28/99
+           CLOSE HISTORY.
+9/28/99
+
+9/22/99
+000775     OPEN INPUT HISTORY-A HISTORY-B
+8/31/99
+000776                COMMENTS.
+8/31/99
+           OPEN I-O HISTORY.
+9/28/99
+           OPEN OUTPUT PRINT-FILE.
+9/22/99
+000791 1000-OPEN-FILES-EXIT.
+000792     EXIT.
+000793/
+000797 2000-MAIN-PROCESSING.
+000800 2000-START.
+           MOVE 0 TO I.
+9/13/99
+           MOVE 0 TO L.
+9/13/99
+071399     MOVE ZEROS TO HA-KEY.
+9/1/99
+           OPEN I-O MARKER.
+9/28/99
+           READ MARKER.
+9/22/99
+           MOVE MARKER-BILLNUM TO HA-KEY.
+9/22/99
+
+9/22/99
+000804     START HISTORY-A KEY NOT < HA-KEY
+8/27/99
+                 INVALID KEY
+8/27/99
+                    MOVE ZEROS TO HA-KEY
+10/4/99
+                    CLOSE MARKER
+10/4/99
+000806              GO TO 2000-START.
+8/27/99
+           CLOSE MARKER.
+9/28/99
+000807 2000-LOOP.
+           OPEN OUTPUT MARKER.
+9/28/99
+000808     READ HISTORY-A NEXT
+9/1/99
+                AT END
+10/4/99
+      *           MOVE ZEROS TO HA-BILLNUM
+10/8/99
+                GO TO 2000-END.
+10/8/99
+           IF HA-BILLNUM = ZEROES THEN GO TO 2000-LOOP.
+9/15/99
+000812     ADD 1 TO RECORD-COUNT.
+           DISPLAY "HA KEY=" LINE 10 POSITION 30.
+9/14/99
+000814     DISPLAY HA-KEY LINE 10 POSITION 40.
+8/27/99
+000815     MOVE RECORD-COUNT TO DISP-COUNT.
+000816     DISPLAY DISP-COUNT LINE 12 POSITION 40.
+           MOVE HA-KEY  TO MARKER-BILLNUM.
+9/22/99
+           WRITE MARKER-RECORD.
+10/8/99
+           CLOSE MARKER.
+9/28/99
+
+8/30/99
+           MOVE HA-BILLNUM TO HB-BILLNUM.
+9/28/99
+           READ HISTORY-B
+9/28/99
+                   INVALID KEY MOVE ZEROS TO HB-KEY.
+9/1/99
+       2001-WRITE-HISTORY-A.
+9/1/999
+            ADD 1 TO I.
+10/13/99
+      *       IF I > ARRAY-SPACE-POINTER-A GO TO  2000-END.
+10/21/9999
+
+10/21/99
+            IF I > 33 GO TO 2001-WRITE-HISTORY-B.
+10/21/99
+            IF I > ARRAY-SPACE-POINTER-A GO TO 2000-END.
+10/21/99
+            DISPLAY "I = " LINE 15 POSITION 5.
+9/13/99
+            DISPLAY I LINE 15 POSITION 10.
+10/8/99
+            MOVE HA-BILLNUM    TO HIST-BILLNUM SEQ-BILL-NUM.
+10/20/99
+            MOVE HA-BILLNUM    TO TM-BILLNUM.
+10/25/99
+            MOVE I TO SEQ-NUM.
+10/19/99
+            MOVE HISTORY-TRANS-DATE-A(I) TO WK-DATE.
+10/15/99
+            MOVE HISTORY-TRANS-DATE-A(I) TO TM-TRANS-DATE.
+10/25/99
+            MOVE WKMM TO  WORK-MM.
+10/15/99
+            MOVE WKDD TO  WORK-DD.
+10/15/99
+            MOVE WKYY TO  WORK-YY.
+10/15/99
+            MOVE WORK-DATE TO HISTORYDATE.
+10/15/99
+            MOVE 19 TO HISTORY-CENTURY.
+10/14/99
+            MOVE ZEROES  TO HISTORYTIME.
+10/13/99
+            IF HISTORY-CODE-A (I) = "C" THEN
+10/7/99
+      *        MOVE HISTORY-TRANS-DATE-A(I) TO
+10/25/99
+      *              HISTORY-BALANCE-CONSUM
+10/25/999
+               MOVE HISTORY-TRANS-AMT-RDG-A(I) TO HISTORYTIME
+10/21/99
+               MOVE HISTORY-TRANS-AMT-RDG-A(I) TO TM-TRANS-TIME
+10/25/99
+               DISPLAY "TEMP KEY" LINE 2 POSITION 1
+10/25/99
+               DISPLAY TEMP-KEY
+10/25/99
+                    LINE 2 POSITION 10
+10/7/99
+               DISPLAY "TIME OUT" LINE 3 POSITION 1
+10/8/99
+               DISPLAY HISTORYTIME  LINE 3 POSITION 10
+10/13/99
+               DISPLAY "INPUT DATE" LINE 5 POSITION 1
+10/8/99
+               DISPLAY HISTORY-TRANS-DATE-A (I) LINE 5 POSITION 15
+10/13/99
+               DISPLAY "OUTPUT DATE" LINE 10 POSITION 1
+10/13/99
+               DISPLAY HISTORY-DATE LINE 10 POSITION 15.
+10/13/999
+            MOVE HISTORY-TRANS-AMT-RDG-A(I) TO HISTORY-TRANS-AMT-RDG.
+10/8/99
+            MOVE HISTORY-BALANCE-CONSUM-A(I) TO
+10/8/99
+                      HISTORY-BALANCE-CONSUM.
+10/8/99
+            MOVE HISTORY-CODE-A(I) TO HISTORY-CODE.
+10/8/99
+            MOVE SPACES TO HR-FILLER-1.
+10/7/99
+      *     MOVE ZEROES TO  COMMENT-POINTER.
+10/19/99
+            MOVE SPACES TO  HR-FILLER-2.
+8/30/99
+            DISPLAY "HISTORY KEY" LINE 16 POSITION 20.
+10/8/99
+            DISPLAY HISTORY-KEY LINE 17 POSITION 20.
+10/8/99
+            IF HISTORY-CODE-A(I) NOT = "C" GO TO 2005-WRITE.
+10/12/99
+
+10/12/99
+       2005-READ-COMMENT.
+10/12/99
+      *       MOVE HISTORY-TRANS-DATE-A(I) TO HISTORYDATE.
+10/19/99
+      *      MOVE HISTORY-TRANS-AMT-RDG-A(I) TO HISTORYTIME.
+10/19/99
+            MOVE HIST-BILLNUM TO CM-BILL-NUMBER.
+10/12/99
+            MOVE HISTORYDATE  TO WORK-DATE.
+10/15/99
+            MOVE WORK-DD TO WKDD.
+10/15/99
+            MOVE WORK-MM TO WKMM.
+10/15/99
+            MOVE WORK-YY TO WKYY.
+10/15/99
+            MOVE WK-DATE TO CM-DATE.
+10/15/99
+
+10/15/99
+
+10/15/99
+            MOVE HISTORYTIME  TO CM-TIME
+10/12/99
+            MOVE CM-KEY TO KEY-INFO.
+10/12/99
+            READ COMMENTS
+10/12/99
+                 INVALID KEY DISPLAY "WRONG ANSWER" LINE 2
+10/12/99
+                            POSITION 30
+10/12/99
+                        DISPLAY KEY-INFO LINE 3 POSITION 30
+10/19/99
+                        ACCEPT MS-COMMAND LINE 4 POSITION 30.
+10/12/99
+
+10/12/99
+       2005-WRITE.
+10/8/99
+             WRITE HISTORY-RECORD
+9/16/99
+             INVALID KEY
+10/19/99
+      *         REWRITE HISTORY-RECORD.
+10/19/99
+
+10/12/99
+             PERFORM 2001-BUMPKEYA
+10/19/99
+                         THROUGH 2001-BUMPKEYA-EXIT.
+10/19/99
+            MOVE HISTORY-RECORD  TO PRINT-FILE-RECORD.
+9/14/99
+            WRITE PRINT-FILE-RECORD FROM HISTORY-RECORD.
+9/14/99
+            MOVE ZEROES TO WK-TIME-ATMP, WK-TIME, WORK-TIME.
+10/8/99
+            IF HISTORY-CODE-A(I) NOT = "C" GO TO 2010-SKIP.
+10/12/99
+            CLOSE HISTORY.
+10/20/99
+            OPEN I-O HISTORY.
+10/20/99
+       2010-READ-HISTORY.
+10/19/99
+            READ HISTORY KEY IS HIST-SEQ-NUM-KEY.
+10/20/99
+            MOVE HIST-BILLNUM TO CM-BILL-NUMBER.
+10/12/99
+            MOVE HISTORYDATE  TO WORK-DATE.
+10/15/99
+            MOVE WORK-DD TO WKDD.
+10/15/99
+            MOVE WORK-MM TO WKMM.
+10/15/99
+            MOVE WORK-YY TO WKYY.
+10/15/99
+            MOVE WK-DATE TO CM-DATE.
+10/15/99
+            MOVE HISTORYTIME  TO CM-TIME.
+10/15/99
+            IF HISTORY-CODE = "C"
+10/19/99
+            READ COMMENTS
+10/12/99
+                 INVALID KEY DISPLAY "WRONG ANSWER2" LINE 2
+10/19/99
+                            POSITION 30
+10/12/99
+                        DISPLAY KEY-INFO LINE 3 POSITION 30
+10/19/99
+                        ACCEPT MS-COMMAND LINE 4 POSITION 30
+10/12/99
+                 NOT INVALID KEY DISPLAY "             1 GOOD JOB"
+10/12/99
+                     LINE 2 POSITION 30.
+10/12/99
+            DISPLAY CM-COMMENT LINE 25 POSITION 1.
+10/19/99
+
+10/19/99
+       2010-SKIP.
+10/13/99
+            MOVE ZEROES  TO HISTORY-ARRAY, WORK-TIME, WWORK-TIME.
+10/19/99
+            GO TO 2001-WRITE-HISTORY-A.
+9/1/99
+
+8/30/99
+       2001-WRITE-HISTORY-B.
+8/30/99
+            ADD 1 TO L.
+9/15/99
+            ADD 1 TO I.
+9/15/99
+
+10/7/99
+            DISPLAY "L = " LINE 20 POSITION 5.
+9/13/99
+            DISPLAY L LINE 20 POSITION 10.
+10/8/99
+            IF L > ARRAY-SPACE-POINTER-B GO TO 2000-END.
+9/13/99
+            IF I = 66 GO TO 2000-END.
+10/13/99
+            IF I >= 65 GO TO 2000-END.
+10/13/99
+            MOVE HB-BILLNUM TO HIST-BILLNUM SEQ-BILL-NUM.
+10/20/99
+            MOVE I TO SEQ-NUM.
+10/19/99
+            MOVE HISTORY-TRANS-DATE-B(L) TO WK-DATE.
+10/15/99
+            MOVE WKMM TO  WORK-MM.
+10/15/99
+            MOVE WKDD TO  WORK-DD.
+10/15/99
+            MOVE WKYY TO  WORK-YY.
+10/15/99
+            MOVE WORK-DATE TO HISTORYDATE.
+10/15/99
+            MOVE 19 TO HISTORY-CENTURY.
+10/15/99
+            MOVE ZEROES  TO HISTORYTIME.
+10/13/99
+            IF HISTORY-CODE-B (L) = "C"
+10/7/99
+                MOVE HISTORY-TRANS-DATE-B (L) TO
+10/21/99
+                     HISTORY-BALANCE-CONSUM
+10/21/99
+               MOVE HISTORY-TRANS-AMT-RDG-B (L) TO HISTORYTIME
+10/13/99
+               DISPLAY "TIME IN" LINE 2 POSITION 1
+10/7/99
+               DISPLAY HISTORY-TRANS-AMT-RDG-B (L)
+10/7/99
+                    LINE 2 POSITION 10
+10/7/99
+               DISPLAY "TIME OUT" LINE 3 POSITION 1
+10/7/99
+               DISPLAY HISTORYTIME  LINE 3 POSITION 15
+10/13/99
+               DISPLAY "INPUT DATE" LINE 5 POSITION 1
+10/7/99
+               DISPLAY HISTORY-TRANS-DATE-B (L)   LINE 5 POSITION 15
+10/13/99
+               DISPLAY "OUTPUT DATE" LINE 10 POSITION 1
+10/19/99
+               DISPLAY HISTORY-DATE LINE 10 POSITION 15.
+10/13/99
+               DISPLAY "POINTER B" LINE 10 POSITION 35.
+10/13/99
+               DISPLAY ARRAY-SPACE-POINTER-B LINE 13 POSITION 45.
+10/13/99
+            MOVE HISTORY-TRANS-AMT-RDG-B(L) TO HISTORY-TRANS-AMT-RDG.
+9/15/99
+            MOVE HISTORY-BALANCE-CONSUM-B(L) TO HISTORY-BALANCE-CONSUM.
+10/7/99
+            MOVE HISTORY-CODE-B(L) TO HISTORY-CODE.
+10/7/99
+            MOVE SPACES TO HR-FILLER-1.
+9/15/99
+      *     MOVE ZEROES TO  COMMENT-POINTER.
+10/19/99
+            MOVE SPACES TO  HR-FILLER-2.
+9/15/99
+            DISPLAY "HISTORY KEY B" LINE 16 POSITION 20.
+10/13/99
+            DISPLAY HISTORY-KEY LINE 17 POSITION 20.
+10/13/99
+            IF HISTORY-CODE-B(I) NOT = "C" GO TO 2010-WRITE.
+10/13/99
+
+10/12/99
+       2010-READ-COMMENT.
+10/12/99
+      *      MOVE HISTORY-TRANS-DATE-B(I) TO HISTORYDATE.
+10/13/999
+      *      MOVE HISTORY-TRANS-AMT-RDG-B(I) TO HISTORYTIME.
+10/13/999
+            MOVE HIST-BILLNUM TO CM-BILL-NUMBER.
+10/12/99
+            MOVE HISTORYDATE  TO WORK-DATE.
+10/15/99
+            MOVE WORK-DD TO WKDD.
+10/15/99
+            MOVE WORK-MM TO WKMM.
+10/15/99
+            MOVE WORK-YY TO WKYY.
+10/15/99
+            MOVE WK-DATE TO CM-DATE.
+10/15/99
+            MOVE HISTORYTIME  TO CM-TIME.
+10/15/999
+            MOVE CM-KEY TO KEY-INFO.
+10/12/99
+            READ COMMENTS
+10/12/99
+                 INVALID KEY DISPLAY "WRONG B ANSWER" LINE 2
+10/19/99
+                            POSITION 30
+10/12/99
+                        DISPLAY KEY-INFO LINE 3 POSITION 30
+10/19/99
+                        ACCEPT MS-COMMAND LINE 4 POSITION 30
+10/12/99
+                 NOT INVALID KEY DISPLAY "                 GOOD JOB"
+10/12/99
+                               LINE 2 POSITION 30.
+10/12/99
+
+10/12/99
+
+10/12/99
+       2010-WRITE.
+10/12/99
+             WRITE HISTORY-RECORD
+9/16/99
+                   INVALID KEY
+10/19/99
+      *        REWRITE HISTORY-RECORD.
+10/19/99
+                   PERFORM 2001-BUMPKEYB
+10/19/99
+                           THROUGH 2001-BUMPKEYB-EXIT.
+10/19/99
+            MOVE HISTORY-RECORD  TO PRINT-FILE-RECORD.
+9/15/99
+            WRITE PRINT-FILE-RECORD FROM HISTORY-RECORD.
+9/15/99
+            MOVE ZEROES TO WK-TIME-ATMP, WK-TIME, WORK-TIME.
+10/8/99
+            IF HISTORY-CODE-B(I) NOT = "C" GO TO 2010-SKIP.
+10/19/99
+            CLOSE HISTORY.
+10/20/99
+            OPEN INPUT HISTORY.
+10/20/99
+       2011-READ-HISTORY.
+10/12/99
+            READ HISTORY KEY IS HIST-SEQ-NUM-KEY.
+10/20/99
+            MOVE HIST-BILLNUM TO CM-BILL-NUMBER.
+10/12/99
+            MOVE HISTORYDATE  TO WORK-DATE.
+10/15/99
+            MOVE WORK-DD TO WKDD.
+10/15/99
+            MOVE WORK-MM TO WKMM.
+10/15/99
+            MOVE WORK-YY TO WKYY.
+10/15/99
+            MOVE WK-DATE TO CM-DATE.
+10/15/99
+            MOVE HISTORYTIME  TO CM-TIME.
+10/12/99
+            READ COMMENTS
+10/12/99
+                 INVALID KEY DISPLAY "WRONG B ANSWER2" LINE 2
+10/19/99
+                            POSITION 30
+10/12/99
+                        DISPLAY KEY-INFO LINE 3 POSITION 30
+10/19/99
+                        ACCEPT MS-COMMAND LINE 4 POSITION 30.
+10/12/99
+            CLOSE HISTORY.
+10/20/99
+
+10/12/99
+       2011-SKIP.
+10/20/99
+            OPEN I-O HISTORY.
+10/20/99   10/12/99
+            MOVE ZEROES  TO HISTORY-ARRAY, WORK-TIME, WWORK-TIME.
+10/19/99
+            GO TO 2001-WRITE-HISTORY-B.
+9/15/99
+
+9/1/99
+       2000-END.
+9/1/99
+            MOVE ZERO TO L.
+9/13/99
+            MOVE ZERO TO I.
+9/13/99
+            MOVE ZEROES  TO HISTORY-ARRAY, WORK-TIME, WWORK-TIME.
+10/7/99
+            GO TO 2000-LOOP.
+9/1/99
+
+9/15/99
+       2001-BUMPKEYB.
+10/8/99
+            ADD 1  TO HISTORY-HERTZ.
+9/27/99
+            GO TO 2010-WRITE.
+9/16/99
+
+9/16/99
+       2001-BUMPKEYB-EXIT.
+9/16/99
+           EXIT.
+9/16/99
+
+9/16/99
+       2001-BUMPKEYA.
+10/8/99
+            ADD 1  TO HISTORY-HERTZ.
+9/27/99
+            GO TO 2005-WRITE.
+9/16/99
+
+9/16/99
+       2001-BUMPKEYA-EXIT.
+9/16/99
+           EXIT.
+9/16/99
+
+8/30/99
+       23342-WRITE-MASTER.
+8/30/99
+           WRITE PRINT-FILE-RECORD FROM RECORD-LINE.
+8/31/99
+
+8/27/99
+001139 23342-WRITE-MASTER-EXIT.
+8/27/99
+001141      EXIT.
+001294 2000-MAIN-PROCESSING-EXIT.
+9/1/99
+
+9/1/99
+001303******************************************************************
+       3000-CLOSE-FILES.
+002734     CLOSE HISTORY-A HISTORY-B
+002735           COMMENTS PRINT-FILE MARKER.
+10/8/99
+002754 3000-CLOSE-FILES-EXIT.
+002755     EXIT.
+
+
+
+
+
+
+but when I turn around and use the HISTORY file by itself,
+
+000242 PROCEDURE DIVISION USING SUBROUTINE-CREDIT-RECORD.
+000243 0000-MAIN SECTION.
+000244*                                                                *
+000245*                     EXPANSION OF MODULE 0000                   *
+000246*                                                                *
+000247******************************************************************
+000248*                                                                *
+000249*  THIS MODULE IS THE MAIN CONTROL MODULE WHICH OPENS, PROCESSES,*
+000250*  AND CLOSES THE FILES FOR THIS REPORT.                         *
+000251*                                                                *
+000252******************************************************************
+000253
+000254 0000-MAIN-PROGRAM.
+000255
+081292
+000256     PERFORM 2100-CLEAR-SCREEN
+081292
+000257        THRU 2100-CLEAR-SCREEN-EXIT.
+081292
+000258
+081292
+000259     IF CR-BILL-NUMBER = ZEROS OR CR-BILL-NUMBER NOT NUMERIC
+081292
+000260        DISPLAY "You Must Look up an Account before this Function"
+081292
+000261                LINE 17 POSITION 10
+081292
+000262        DISPLAY "may be done" LINE 17 POSITION 59
+081292
+000263        DISPLAY "Please Press (NL) to Continue" LINE 18
+081292
+000264                POSITION 25
+081292
+000265        ACCEPT ANSWER-INPUT LINE 18 POSITION 56 PROMPT
+081292
+000266        GO TO 0000-MAIN-PROGRAM-EXIT.
+081292
+000267
+081292
+000268     PERFORM 1000-OPEN-FILES
+000269        THRU 1000-OPEN-FILES-EXIT.
+000270
+000271     PERFORM 2000-MAIN-PROCESSING
+000272        THRU 2000-MAIN-PROCESSING-EXIT.
+000273
+000274     PERFORM 3000-CLOSE-FILES
+000275        THRU 3000-CLOSE-FILES-EXIT.
+000276
+000277 0000-MAIN-PROGRAM-EXIT.
+000278     EXIT PROGRAM.
+000279/
+000280*                                                                *
+000281*                    EXPANSION OF MODULE 1000                    *
+000282*                                                                *
+000283******************************************************************
+000284*                                                                *
+000285*    THIS MODULE OPENS FILES FOR PROCESSING.                     *
+000286*                                                                *
+000287******************************************************************
+000288
+000289 1000-OPEN-FILES.
+000290      INITIALIZE HISTORY-WORK-ELEMENTS.
+10/19/99
+000291      OPEN OUTPUT PRINT-FILE.
+10/25/99
+000292 1000-OPEN-FILES-EXIT.
+000293     EXIT.
+000294/
+000295*                                                                *
+000296*                    EXPANSION OF MODULE 2000                    *
+000297*                                                                *
+000298******************************************************************
+000299*                                                                *
+000300*    THIS MODULE CONTROLS THE MAIN PROCESSING OF THE PROGRAM     *
+000301*                                                                *
+000302******************************************************************
+000303
+000304 2000-MAIN-PROCESSING.
+000305
+000306     PERFORM 2100-MOVE-AND-CALC
+000307        THRU 2100-MOVE-AND-CALC-EXIT.
+000308
+000309     IF HISTORY-FLAG NOT = "NO"
+000310         PERFORM 2200-DISPLAY-DATA
+000311            THRU 2200-DISPLAY-DATA-EXIT.
+000312
+000313 2000-MAIN-PROCESSING-EXIT.
+000314     EXIT.
+000315/
+081292
+000316*                                                                *
+081292
+000317*                    EXPANSION OF MODULE 2100                    *
+081292
+000318*                                                                *
+081292
+000319******************************************************************
+081292
+000320*                                                                *
+081292
+000321*    THIS MODULE DRAWS THE INITIAL SCREEN FOR THE PROGRAM        *
+081292
+000322*                                                                *
+081292
+000323******************************************************************
+081292
+000324
+081292
+000325 2100-CLEAR-SCREEN.
+081292
+000326
+081292
+000327     DISPLAY SPACE-LINE LINE 7 POSITION 1.
+081292
+000328     DISPLAY SPACE-LINE LINE 8 POSITION 1.
+081292
+000329     DISPLAY SPACE-LINE LINE 9 POSITION 1.
+081292
+000330     DISPLAY SPACE-LINE LINE 10 POSITION 1.
+081292
+000331     DISPLAY SPACE-LINE LINE 11 POSITION 1.
+081292
+000332     DISPLAY SPACE-LINE LINE 12 POSITION 1.
+081292
+000333     DISPLAY SPACE-LINE LINE 13 POSITION 1.
+081292
+000334     DISPLAY SPACE-LINE LINE 14 POSITION 1.
+081292
+000335     DISPLAY SPACE-LINE LINE 15 POSITION 1.
+081292
+000336     DISPLAY SPACE-LINE LINE 16 POSITION 1.
+081292
+000337     DISPLAY SPACE-LINE LINE 17 POSITION 1.
+081292
+000338     DISPLAY SPACE-LINE LINE 18 POSITION 1.
+081292
+000339     DISPLAY SPACE-LINE LINE 19 POSITION 1.
+081292
+000340
+081292
+000341 2100-CLEAR-SCREEN-EXIT.
+081292
+000342     EXIT.
+081292
+000343/
+000344*                                                                *
+000345*                    EXPANSION OF MODULE 2100                    *
+000346*                                                                *
+000347******************************************************************
+000348*                                                                *
+000349*  THIS MODULE SETS UP DATA TO BE DISPLAYED                      *
+000350*                                                                *
+000351******************************************************************
+000352
+000353 2100-MOVE-AND-CALC.
+000354     MOVE ZERO  TO ARRAY-PTR.
+9/17/99
+      *     ADD 1  TO ARRAY-PTR.
+10/22/999
+000355     MOVE "YES" TO HISTORY-FLAG.
+000356
+000357*     OPEN INPUT HISTORY-A.
+9/17/99
+000358     OPEN INPUT HISTORY.
+9/17/99
+000359     MOVE ZEROES TO HISTORY-KEY.
+9/17/99
+000360     MOVE CR-BILL-NUMBER TO HIST-BILLNUM.
+9/21/99
+           MOVE CR-BILL-NUMBER TO SEQ-BILL-NUM.
+10/22/99
+           MOVE ZEROES         TO SEQ-NUM.
+10/22/99
+           DISPLAY "HIST-SEQ-KEY"  LINE 19 POSITION 5.
+10/22/99
+           DISPLAY HIST-SEQ-NUM-KEY LINE 19 POSITION 17.
+10/22/99
+           START HISTORY KEY NOT < HIST-SEQ-NUM-KEY
+10/22/99
+              INVALID KEY
+9/21/99
+000371        DISPLAY "No History Records were found.  Press (NL)"
+9/21/99
+000372                LINE 20 POSITION 20
+9/21/99
+000373        ACCEPT CS-COMMAND LINE 20 POSITION 63 PROMPT
+9/21/99
+000374        DISPLAY SPACES LINE 20 POSITION 1 SIZE 79
+9/21/99
+              GO TO 2100-CONTINUE.
+9/21/99
+
+       2100-READ-HIST.
+9/17/99
+           MOVE ARRAY-PTR TO SEQ-NUM.
+10/19/99
+           MOVE "NO" TO NEW-HIST-REC.
+9/21/99
+000362     READ HISTORY NEXT
+10/19/99
+                AT END MOVE "NO" TO HISTORY-FLAG.
+10/19/99
+
+9/17/99
+           IF CR-BILL-NUMBER NOT = SEQ-BILL-NUM
+10/22/99
+               MOVE "YES" TO NEW-HIST-REC.
+9/21/99
+
+9/21/99
+           IF NEW-HIST-REC = "YES" AND  ARRAY-PTR >= 1
+10/19/99
+              THEN GO TO 2100-CONTINUE.
+9/21/99
+           IF NEW-HIST-REC = "YES"
+9/21/99
+              THEN
+9/21/99
+000371        DISPLAY "No History Records were found.  Press (NL)"
+9/21/99
+000372                LINE 20 POSITION 20
+9/21/99
+000373        ACCEPT CS-COMMAND LINE 20 POSITION 63 PROMPT
+9/21/99
+000374        DISPLAY SPACES LINE 20 POSITION 1 SIZE 79
+9/21/99
+000375        GO TO 2100-CONTINUE.
+9/21/99
+
+9/21/99
+000369
+000370     IF HISTORY-FLAG = "NO"
+000371        DISPLAY "No History Records were found.  Press (NL)"
+000372                LINE 20 POSITION 20
+000373        ACCEPT CS-COMMAND LINE 20 POSITION 63 PROMPT
+000374        DISPLAY SPACES LINE 20 POSITION 1 SIZE 79
+000375        GO TO 2100-CONTINUE.
+           IF HISTORY-CODE = "C"
+10/14/99
+              MOVE ZEROES TO CM-KEY
+10/14/99
+000546        OPEN I-O COMMENTS
+10/14/99
+000543        MOVE SEQ-BILL-NUM           TO CM-BILL-NUMBER
+10/22/99
+              MOVE HISTORY-BALANCE-CONSUM TO CM-DATE
+10/22/99
+      *        MOVE HISTORYDATE               TO  CM-DATE
+10/15/999
+              MOVE HISTORYDATE  TO WORK-DATE
+10/15/99
+              MOVE WORK-DD TO WKDD
+10/15/99
+              MOVE WORK-MM TO WKMM
+10/15/99
+              MOVE WORK-YY TO WKYY
+10/15/99
+      *        MOVE WK-DATE TO CM-DATE
+10/22/999
+
+10/15/99
+              MOVE HISTORY-TRANS-TIME        TO CM-TIME
+10/15/99
+              DISPLAY KEYINFO LINE 16 POSITION 7
+10/14/99
+              DISPLAY CM-KEY LINE 17 POSITION 7
+10/14/99
+              DISPLAY "CM-KEY" LINE 19 POSITION 1
+10/14/99
+              DISPLAY CM-BILL-NUMBER             LINE 18 POSITION 1
+10/14/99
+              DISPLAY CM-DATE                    LINE 18 POSITION 10
+10/14/99
+              DISPLAY CM-TIME                    LINE 18 POSITION 20
+10/14/99
+      *     DISPLAY HISTORY-AMT-RDG-WK (ARRAY-PTR) LINE 18 POSITION 30.
+10/14/99
+              ACCEPT ANSWER-INPUT LINE 20 POSITION 1
+10/14/99
+000547        READ COMMENTS KEY IS CM-KEY
+10/14/99/99
+000548             INVALID KEY
+10/14/99/99
+                   DISPLAY "   F*U*B*A*R*   " LINE 22 POSITION 1.
+10/14/99
+           IF HISTORY-CODE = "C"   CLOSE COMMENTS
+10/14/99
+              ACCEPT ANSWER-INPUT LINE 22 POSITION 1 PROMPT
+10/14/99
+              DISPLAY      "                " LINE 22 POSITION 1.
+10/14/99
+
+10/14/99
+000376     ADD 1  TO ARRAY-PTR.
+9/27/99
+           DISPLAY "HISTORY DATE" LINE 20 POSITION 10.
+9/28/99
+           DISPLAY HISTORY-TRANS-DATE LINE 15 POSITION 25.
+10/19/99
+           DISPLAY HISTORY-TRANS-TIME LINE 20 POSITION 40.
+10/7/99
+           ACCEPT CS-COMMAND LINE 20 POSITION 40.
+9/28/99
+
+9/28/99
+000377     MOVE HISTORY-RECORD  TO HISTORY-WK-ARRAY (ARRAY-PTR).
+9/28/99
+      *     MOVE HISTORY-CENTURY TO HISTORY-WK-CENTURY (ARRAY-PTR).
+10/22/99
+      *     MOVE HISTORY-YEAR    TO HISTORY-WK-YEAR (ARRAY-PTR).
+10/14/99
+      *     MOVE HISTORY-MONTH   TO HISTORY-WK-MONTH (ARRAY-PTR).
+10/14/99
+      *     MOVE HISTORY-DAY     TO HISTORY-WK-DAY (ARRAY-PTR).
+10/14/99
+           DISPLAY HISTORY-WK-ARRAY (ARRAY-PTR) LINE 21
+10/7/99
+           POSITION 10.
+10/7/99
+
+9/28/99
+           GO TO 2100-READ-HIST.
+9/17/99
+
+9/17/99
+000379
+000380 2100-CONTINUE.
+000381
+000382     CLOSE HISTORY.
+9/17/99
+000384
+000385 2100-MOVE-AND-CALC-EXIT.
+000386     EXIT.
+000387/
+000388*                                                                *
+000389*                    EXPANSION OF MODULE 2200                    *
+000390*                                                                *
+000391******************************************************************
+000392*                                                                *
+000393*  THIS MODULE PERFORMS MODULES WHICH CALCULATE THE HIGHEST      *
+000394*  ELEMENT POSSIBLE IN THE WORK ARRAY, DISPLAY THE ELEMENT, AND  *
+000395*  ACCEPT USER INPUT.                                            *
+000396*                                                                *
+000397******************************************************************
+000398
+000399 2200-DISPLAY-DATA.
+000400
+000401     PERFORM 2210-CALCULATE
+000402        THRU 2210-CALCULATE-EXIT.
+000403
+000404     MOVE 9 TO DISPLAY-LINE.
+000405     DISPLAY SCREEN-LINE-7 LINE 7 POSITION 1.
+000406
+000407 2200-LOOP.
+000408
+000409     IF THE-SCREEN-IS-FULL
+000410        GO TO 2200-CONTINUE.
+000411
+000412     IF ARRAY-PTR > MAX-ELEMENT
+000413        MOVE SPACES TO DETAIL-LINE
+000414        DISPLAY DETAIL-LINE LINE DISPLAY-LINE POSITION 1
+000415        ADD 1 TO DISPLAY-LINE, T-COUNT
+000416        GO TO 2200-LOOP.
+000417
+000418     MOVE SPACES TO COMMENT-LINE, DETAIL-LINE.
+000419
+000420     PERFORM 2220-DISPLAY-ELEMENT
+000421        THRU 2220-DISPLAY-ELEMENT-EXIT.
+000422
+000423     ADD 1 TO DISPLAY-LINE.
+000424     ADD 1 TO ARRAY-PTR.
+000425     GO TO 2200-LOOP.
+000426
+000427
+000428 2200-CONTINUE.
+000429
+000430     PERFORM 2230-GET-PROMPT
+000431        THRU 2230-GET-PROMPT-EXIT.
+000432
+000433     IF CS-COMMAND = "Q"
+000434        GO TO 2200-DISPLAY-DATA-EXIT.
+000435
+000436     GO TO 2200-LOOP.
+000437
+000438 2200-DISPLAY-DATA-EXIT.
+000439     EXIT.
+000440/
+000441*                                                                *
+000442*                      EXPANSION OF 2210                         *
+000443*                                                                *
+000444******************************************************************
+000445*                                                                *
+000446*  THIS MODULE CALCULATES THE HIGHEST POSSIBLE VALUE IN THE WORK *
+000447*  ARRAY.                                                        *
+000448*                                                                *
+000449******************************************************************
+000450
+000451 2210-CALCULATE.
+000452     MOVE ARRAY-PTR TO MAX-ELEMENT
+9/17/99
+000460
+000461     SUBTRACT 9 FROM MAX-ELEMENT GIVING ARRAY-PTR.
+000462
+000463     IF ARRAY-PTR < 1
+9/28/99
+000464        MOVE 1 TO ARRAY-PTR.
+9/28/99
+000465
+000466 2210-CALCULATE-EXIT.
+000467     EXIT.
+000468/
+000469*                                                                *
+000470*                      EXPANSION OF 2220                         *
+000471*                                                                *
+000472******************************************************************
+000473*                                                                *
+000474*  THIS MODULE DISPLAYS THE ELEMENTS IN THE ARRAY.  THERE ARE 4  *
+000475*  SPECIAL CASES FOR THE HISTORY CODES.  IF THE CODES DON'T MATCH*
+000476*  THESE SPECIAL CASES THEY ARE FORMATTED AND DISPLAYED NORMALLY.*
+000477*  THE WAY THE PROGRAM GOES ABOUT FORMATTING THE DISPLAY LINE IS *
+000478*  IT LOOKS THROUGH A TABLE WITH ALL OF THE CODES AND THEN JUST  *
+000479*  FORMATS AND DISPLAYS THE ELEMENT.                             *
+000480*                                                                *
+000481******************************************************************
+000482
+
+000483 2220-DISPLAY-ELEMENT.
+000484
+000485     IF HISTORY-CODE-WK(ARRAY-PTR) = "C"
+9/17/99
+000486        PERFORM 2221-DISPLAY-COMMENT
+000487           THRU 2221-DISPLAY-COMMENT-EXIT
+000488        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+000489
+000490     IF HISTORY-CODE-WK(ARRAY-PTR) = "R"
+9/17/99
+000491        IF CR-ROUTE > 9000 AND < 9011 NEXT SENTENCE ELSE
+000492        MOVE "READ" TO DL-CODE
+000493        PERFORM 2222-DISPLAY-READING
+000494           THRU 2222-DISPLAY-READING-EXIT
+000495        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+000496
+000497     IF HISTORY-CODE-WK(ARRAY-PTR) = "%"
+9/17/99
+000498        PERFORM 2222-DISPLAY-BAC THRU 2222-DISPLAY-BAC-EXIT
+000499        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+000500
+000501     IF HISTORY-CODE-WK(ARRAY-PTR) = "N"
+9/17/99
+000502        MOVE "NEW M" TO DL-CODE
+000503        PERFORM 2222-DISPLAY-READING
+000504           THRU 2222-DISPLAY-READING-EXIT
+000505        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+000506
+000507     IF HISTORY-CODE-WK(ARRAY-PTR) = "Z"
+9/17/99
+000508        PERFORM 2223-METER-CODE
+000509           THRU 2223-METER-CODE-EXIT
+000510        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+000511
+000512     IF HISTORY-CODE-WK(ARRAY-PTR) = "{"
+9/17/996
+000532        MOVE "T PMT " TO DL-CODE
+082696
+000513              PERFORM 2223-DISPLAY-PMT
+082696
+000514                 THRU 2223-DISPLAY-PMT-EXIT
+082696
+000515        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+082296
+000511
+082696
+000512     IF HISTORY-CODE-WK(ARRAY-PTR) = "}"
+9/17/996
+000532        MOVE "M PMT " TO DL-CODE
+082696
+000513              PERFORM 2223-DISPLAY-PMT
+082696
+000514                 THRU 2223-DISPLAY-PMT-EXIT
+082696
+000515        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+082696
+
+000512     IF HISTORY-CODE-WK(ARRAY-PTR) = ","
+9/17/996
+000532        MOVE "V PMT " TO DL-CODE
+082696
+000513              PERFORM 2223-DISPLAY-PMT
+082696
+000514                 THRU 2223-DISPLAY-PMT-EXIT
+082696
+000515        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+082696
+000511
+082696
+000512     IF HISTORY-CODE-WK(ARRAY-PTR) = "~"
+9/17/996
+000532        MOVE "D PMT " TO DL-CODE
+082696
+000513              PERFORM 2223-DISPLAY-PMT
+082696
+000514                 THRU 2223-DISPLAY-PMT-EXIT
+082696
+000515        GO TO 2220-DISPLAY-ELEMENT-EXIT.
+082696
+000516
+082296
+000517     SET JC-INDEX TO 1.
+000518
+000519     SEARCH JOURNAL-CODE-ELEMENTS
+000520            AT END
+000521               DISPLAY HISTORY-CODE-WK(ARRAY-PTR)
+9/17/99
+                             LINE DISPLAY-LINE  POSITION 25
+9/17/99
+000523               GO TO 2220-DISPLAY-ELEMENT-EXIT
+000524            WHEN HISTORY-CODE-WK(ARRAY-PTR) = JCA-CODE(JC-INDEX)
+9/17/99
+000525                 PERFORM 2223-DISPLAY-LINE
+000526                    THRU 2223-DISPLAY-LINE-EXIT.
+000527
+000528
+000529 2220-DISPLAY-ELEMENT-EXIT.
+000530     EXIT.
+000531/
+000532*                                                                *
+000533*                      EXPANSION OF 2221                         *
+000534*                                                                *
+000535******************************************************************
+000536*                                                                *
+000537*  THIS MODULE DISPLAYS THE COMMENT.                             *
+000538*                                                                *
+000539******************************************************************
+000540
+000541 2221-DISPLAY-COMMENT.
+
+10/19/99
+            IF HISTORY-CODE NOT = "C"  GO TO 2010-SKIP.
+10/19/99
+       2010-READ-IN-HISTORY.
+10/19/99
+            OPEN INPUT COMMENTS HISTORY.
+10/19/99
+
+10/25/99
+            MOVE ZERO TO A.
+10/19/99
+            MOVE ARRAY-PTR TO SEQ-NUM.
+10/22/99
+            ADD 1 TO A.
+10/19/99
+       2010-READ-HISTORY.
+10/19/99
+            MOVE HIST-SEQ-NUM-KEY-WK(ARRAY-PTR) TO
+10/22/99
+                 HIST-SEQ-NUM-KEY.
+10/22/99
+
+10/22/99
+            DISPLAY "HIST-SEQ-NUM-KEY" LINE 13 POSITION 1.
+10/22/99
+            DISPLAY HIST-SEQ-NUM-KEY LINE 13 POSITION 20.
+10/22/999
+            READ HISTORY KEY IS HIST-SEQ-NUM-KEY.
+10/20/99
+            MOVE SEQ-BILL-NUM TO CM-BILL-NUMBER.
+10/22/99
+            MOVE HISTORYDATE  TO WORK-DATE.
+10/19/99
+            MOVE WORK-DD TO WKDD.
+10/19/99
+            MOVE WORK-MM TO WKMM.
+10/19/99
+            MOVE WORK-YY TO WKYY.
+10/19/99
+            MOVE WK-DATE TO CM-DATE.
+10/19/99
+            MOVE HISTORYTIME  TO CM-TIME.
+10/19/99
+            MOVE HISTORY-BALANCE-CONSUM TO CM-DATE.
+10/22/99
+            MOVE "COMMENT" TO CM-COMMENT.
+10/22/99
+      *       IF HISTORY-CODE = "C"
+10/21/9999
+      *      START COMMENTS KEY NOT < CM-KEY.
+10/22/999
+            READ COMMENTS
+10/19/99
+                 INVALID KEY DISPLAY "WRONG ANSWER2" LINE 2
+10/19/99
+                            POSITION 30
+10/19/99
+                        DISPLAY CM-KEY LINE 3 POSITION 30
+10/21/99
+                        ACCEPT MS-COMMAND LINE 4 POSITION 30.
+10/22/99
+            WRITE PRINT-FILE-RECORD FROM COMMENT-RECORD.
+10/22/9922/99
+            DISPLAY CM-COMMENT LINE 25 POSITION 1.
+10/19/99
+       2010-CLOSE.
+10/19/99
+            CLOSE COMMENTS HISTORY.
+10/19/99
+       2010-SKIP.
+10/19/99
+
+10/19/99
+
+10/19/99
+      *     MOVE ZEROES TO CM-KEY.
+10/21/999
+000542
+000546      OPEN INPUT COMMENTS.
+10/21/99
+000543      MOVE HIST-BILLNUM TO CM-BILL-NUMBER.
+10/21/99
+            MOVE HISTORY-BALANCE-CONSUM TO  CM-DATE.
+10/21/99
+            MOVE HISTORY-TRANS-TIME  TO CM-TIME.
+10/21/99
+      *     DISPLAY KEYINFO LINE 16 POSITION 7.
+10/21/999
+      *     DISPLAY CM-KEY LINE 17 POSITION 7.
+10/21/999
+      *     START COMMENTS KEY = CM-KEY.
+10/21/999
+      *
+10/21/99
+      *     DISPLAY "CM-KEY" LINE 19 POSITION 1.
+10/21/9999
+      *     DISPLAY CM-BILL-NUMBER             LINE 18 POSITION 1.
+10/21/99
+      *     DISPLAY CM-DATE                    LINE 18 POSITION 10.
+10/21/99
+      *     DISPLAY CM-TIME                    LINE 18 POSITION 20.
+10/21/99
+      *     DISPLAY HISTORY-AMT-RDG-WK (ARRAY-PTR) LINE 18 POSITION 30.
+10/8/999
+            ACCEPT ANSWER-INPUT LINE 20 POSITION 1.
+10/21/99
+
+10/8/99
+000547      READ COMMENTS INVALID KEY
+10/21/99
+
+10/21/99
+      *          AT END
+10/21/999
+000548*          INVALID KEY
+10/19/99
+      *                  MOVE HISTORY-AMT-RDG-WK (ARRAY-PTR)
+10/8/999
+      *                                      TO CM-TIME
+10/8/999
+000549*                  MOVE ARRAY-PTR TO CL-SEQ
+10/7/99
+000550*                  MOVE HISTORY-DATE-WK(ARRAY-PTR) TO CL-DATE
+10/7/999
+000551*                  MOVE SPACES TO CL-COMMENT
+10/7/99
+000552*                  MOVE SPACES TO CL-USER
+10/7/99
+000553                   DISPLAY CM-KEY LINE
+10/21/99
+                                 DISPLAY-LINE POSITION 1.
+10/22/99
+      *                          CL-COMMENT      10/6/999
+10/7/99
+000554*                          POSITION 1
+10/21/99
+      *                  MOVE CM-KEY  TO DISPLAYINFO
+10/21/99
+      *                  DISPLAY DISPLAYINFO LINE
+10/21/99
+      *                          DISPLAY-LINE POSITION 20
+10/21/99
+000555*                  CLOSE COMMENTS                                    1
+0/7/99
+                         ACCEPT ANSWER-INPUT LINE DISPLAY-LINE.
+10/21/9999
+      *                         POSITION 1 PROMPT
+10/21/999
+      *                  ADD 1 TO DISPLAY-LINE
+10/7/999
+      *                  MOVE ZEROES  TO CM-DATE
+10/7/99
+      *                  MOVE ZEROES  TO CM-TIME
+10/7/999
+      *                  START COMMENTS KEY NOT < CM-KEY
+10/21/99
+      *                  READ COMMENTS
+10/21/99
+000559*                  MOVE CM-DATE TO CL-DATE
+10/21/999
+000560*                  MOVE CM-COMMENT TO CL-COMMENT
+10/21/99
+000561*                  MOVE CM-USER-CODE TO CL-USER
+10/21/99
+000562*                  IF CL-USER = LOW-VALUES MOVE SPACES TO CL-USER
+10/7/999
+000563*                  DISPLAY COMMENT-LINE LINE DISPLAY-LINE
+10/21/99
+      *                          POSITION 1
+10/21/99
+
+10/7/99
+                         CLOSE COMMENTS
+10/21/99
+000556*                  GO TO 2221-DISPLAY-COMMENT-EXIT.
+10/21/99
+000557*     CLOSE COMMENTS.
+10/21/99
+000558     MOVE ARRAY-PTR TO CL-SEQ.
+000559     MOVE CM-DATE TO CL-DATE.
+10/21/99
+000560     MOVE CM-COMMENT TO CL-COMMENT.
+000561     MOVE CM-USER-CODE TO CL-USER.
+000562     IF CL-USER = LOW-VALUES MOVE SPACES TO CL-USER.
+081495
+000563     DISPLAY COMMENT-LINE LINE DISPLAY-LINE POSITION 1.
+           DISPLAY COMMENT-LINE LINE 25 POSITION 1.
+10/21/99
+000564
+000565 2221-DISPLAY-COMMENT-EXIT.
+000566     EXIT.
+000567/
+000568*                                                                *
+000569*                      EXPANSION OF 2222                         *
+000570*                                                                *
+000571******************************************************************
+000572*                                                                *
+000573*  THIS MODULE DISPLAYS THE ELEMENT IN A READING-CONSUMPTION FORM*
+000574*                                                                *
+000575******************************************************************
+000576
+000577 2222-DISPLAY-READING.
+000578
+000579     MOVE ARRAY-PTR TO DL-SEQ.
+000580     MOVE HISTORYDATE-TB(ARRAY-PTR) TO DL-DATE.
+10/14/99
+000581     MOVE HISTORY-AMT-RDG-WK(ARRAY-PTR) TO DL-REFERENCE.
+9/17/99
+000582     MOVE HISTORY-BAL-CONSUM-WK(ARRAY-PTR) TO DL-GALLONS.
+9/17/99
+000583     DISPLAY DETAIL-LINE LINE DISPLAY-LINE POSITION 1.
+000584
+000585 2222-DISPLAY-READING-EXIT.
+000586     EXIT.
+000587
+000588 2222-DISPLAY-BAC.
+000589
+000590     MOVE ARRAY-PTR TO BL-SEQ.
+000591     MOVE HISTORYDATE-TB(ARRAY-PTR) TO BL-DATE.
+10/14/99
+000592     DISPLAY BCHG-LINE LINE DISPLAY-LINE POSITION 1.
+000593
+000594 2222-DISPLAY-BAC-EXIT.
+000595     EXIT.
+000596/
+000597*                                                                *
+000598*                      EXPANSION OF 2223                         *
+000599*                                                                *
+000600******************************************************************
+000601*                                                                *
+000602*  THIS MODULE DISPLAYS THE METER-CODE RECORD                    *
+000603*                                                                *
+000604******************************************************************
+000605
+000606 2223-METER-CODE.
+000607
+000608     MOVE ARRAY-PTR TO PL-SEQ.
+000609     MOVE HISTORYDATE-TB(ARRAY-PTR) TO PL-DATE.
+10/14/99
+000610     MOVE HISTORY-AMT-RDG-WK(ARRAY-PTR) TO PL-READING.
+9/17/99
+000611*    MOVE HISTORY-AMT-RDG(ARRAY-PTR) TO MC-WORK.
+000612*    MOVE MC-WORK TO MC-CODE.
+000613*    OPEN INPUT METERCODES.
+000614*    READ METERCODES
+000615*         INVALID KEY
+000616*                 MOVE "SERVICE PRBLM" TO MC-DESCRIPTION.
+000617*    CLOSE METERCODES.
+000618*    MOVE MC-DESCRIPTION TO WK-TEXT.
+000619     MOVE HISTORY-BAL-CONSUM-WK(ARRAY-PTR) TO MC-WORK.
+9/17/99
+000620     MOVE MC-WORK TO MC-CODE.
+000621     OPEN INPUT METERCODES.
+000622     READ METERCODES
+000623          INVALID KEY
+000624                  MOVE "READING PRBLM" TO MC-DESCRIPTION.
+000625     CLOSE METERCODES.
+000626*    STRING WK-TEXT, "----- ", MC-DESCRIPTION DELIMITED BY SIZE
+000627*           INTO PL-MESSAGE.
+000628     MOVE MC-DESCRIPTION TO PL-MESSAGE.
+000629     DISPLAY PROBLEM-LINE LINE DISPLAY-LINE POSITION 1.
+000630
+000631 2223-METER-CODE-EXIT.
+000632     EXIT.
+000633
+000634/
+000635*                                                                *
+000636*                      EXPANSION OF 2223                         *
+000637*                                                                *
+000638******************************************************************
+000639*                                                                *
+000640*  THIS MODULE DISPLAYS THE ELEMENT IN A PAYMENT-BALANCE FORM    *
+000641*                                                                *
+000642******************************************************************
+000643
+000644 2223-DISPLAY-LINE.
+000645
+000646     MOVE ARRAY-PTR TO DL-SEQ.
+000647     MOVE HISTORYDATE-TB(ARRAY-PTR) TO DL-DATE.
+10/14/99
+000650     MOVE JCA-LABEL(JC-INDEX) TO DL-CODE.
+000651     MOVE HISTORY-AMT-RDG-WK(ARRAY-PTR) TO DL-CHG-PMT.
+9/17/99
+000652     MOVE HISTORY-BAL-CONSUM-WK(ARRAY-PTR) TO DL-BAL-DUE.
+9/17/99
+000653     DISPLAY DETAIL-LINE LINE DISPLAY-LINE POSITION 1.
+000654
+000655 2223-DISPLAY-LINE-EXIT.
+000656     EXIT.
+000657/
+000635*                                                                *
+082696
+000636*                      EXPANSION OF 2223                         *
+082696
+000637*                                                                *
+082696
+000638******************************************************************
+082696
+000639*                                                                *
+082696
+000640*  THIS MODULE DISPLAYS THE ELEMENT IN A PAYMENT-BALANCE FORM    *
+082696
+000641*                                                                *
+082696
+000642******************************************************************
+082696
+000643
+082696
+000644 2223-DISPLAY-PMT.
+082696
+000645
+082696
+000646     MOVE ARRAY-PTR TO DL-SEQ.
+082696
+000647     MOVE HISTORYDATE-TB(ARRAY-PTR) TO DL-DATE.
+10/14/99
+000651     MOVE HISTORY-AMT-RDG-WK(ARRAY-PTR) TO DL-CHG-PMT.
+9/17/996
+000652     MOVE HISTORY-BAL-CONSUM-WK(ARRAY-PTR) TO DL-BAL-DUE.
+9/17/996
+000653     DISPLAY DETAIL-LINE LINE DISPLAY-LINE POSITION 1.
+082696
+000654
+082696
+000655 2223-DISPLAY-PMT-EXIT.
+082696
+000656     EXIT.
+082696
+000657/
+082696
+000658*                                                                *
+000659*                      EXPANSION OF 2230                         *
+000660*                                                                *
+000661******************************************************************
+000662*                                                                *
+000663*  THIS MODULE ACCEPTS USER INPUT AND ADJUSTS THE POINTERS       *
+000664*  ACCORDINGLY.                                                  *
+000665*                                                                *
+000666******************************************************************
+000667
+000668 2230-GET-PROMPT.
+000669
+000670     DISPLAY "ENTER Response (Forward, Backward, Seq, Quit)"
+9/21/99
+000671             LINE 20 POSITION 20.
+000672     ACCEPT CS-COMMAND LINE 20 POSITION 66 PROMPT.
+000673     IF VALID-COMMAND
+000674        GO TO 2230-CONTINUE.
+000675     GO TO 2230-GET-PROMPT.
+000676
+000677 2230-CONTINUE.
+000678      SUBTRACT T-COUNT FROM DISPLAY-LINE.
+000679
+000680     IF CS-COMMAND = "Q"
+000681        GO TO 2230-GET-PROMPT-EXIT.
+000682
+000683     IF CS-COMMAND = "B"
+000684        SUBTRACT DISPLAY-LINE FROM ARRAY-PTR GIVING ARRAY-PTR
+000685      SUBTRACT 1 FROM ARRAY-PTR.
+000686
+000687     IF CS-COMMAND = "S"
+000688        DISPLAY SPACES LINE 20 POSITION 1 SIZE 79
+000689        DISPLAY "Enter the Sequence Number" LINE 20 POSITION 25
+000690        ACCEPT ARRAY-PTR LINE 20 POSITION 51 PROMPT.
+000691
+000692     IF ARRAY-PTR > MAX-ELEMENT
+000693        SUBTRACT 9 FROM MAX-ELEMENT GIVING ARRAY-PTR.
+000694     IF ARRAY-PTR < 1
+000695        MOVE 1 TO ARRAY-PTR.
+000696
+000697     MOVE 9 TO DISPLAY-LINE.
+000698      MOVE 0 TO T-COUNT.
+000699
+000700 2230-GET-PROMPT-EXIT.
+000701     EXIT.
+000702/
+000703*                                                                *
+000704*                    EXPANSION OF MODULE 3000                    *
+000705*                                                                *
+000706******************************************************************
+000707*                                                                *
+000708*    THIS MODULE CLOSES ALL FILES AT END OF PROCESSING           *
+000709*                                                                *
+000710******************************************************************
+000711
+000712 3000-CLOSE-FILES.
+000713      CLOSE PRINT-FILE.
+10/25/99
+000714
+000715 3000-CLOSE-FILES-EXIT.
+000716     EXIT.
+
+
+
+
+It will not find the Comment.
+
+
+I know that is a lot to sift thru but any help is appreicated....
+
+Tony
+```
+
+#### ↳ Re: Going crazy need comments.
+
+- **From:** "xyz" <Suze.V@online.be>
+- **Date:** 1999-10-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<7v7dg4$u8$1@trex.antw.online.be>`
+- **References:** `<3815ea90.0@monster.zebra.net>`
+
+```
+Have you thought about making modules in it, I find it highly
+unstructurated.
+Work with screensections and modules.
+
+question for u:
+'do you know how you can build a timer in cobol?'
+```
+
+##### ↳ ↳ how you can build a timer in cobol
+
+- **From:** "Warren Porter" <warrenp123@netdoor123.com>
+- **Date:** 1999-10-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<WTIR3.524$23.38387@typ11.nn.bcandid.com>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be>`
+
+```
+xyz <Suze.V@online.be> wrote in
+> 'do you know how you can build a timer in cobol?'
+
+Define 'timer'.  Do you want to display the current time or calculate how
+long an event takes?
+```
+
+##### ↳ ↳ Re: Going crazy need comments.
+
+- **From:** "James J. Gavan" <jjgavan@home.com>
+- **Date:** 1999-10-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<38173E2F.279FECD@home.com>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be>`
+
+```
+
+
+xyz wrote:
+> 
+> Have you thought about making modules in it, I find it highly
+…[4 more quoted lines elided]…
+> 'do you know how you can build a timer in cobol?'
+
+Tell the NewsGroup what compiler you are using. If this is an assignment
+let's see the source code you have already produced. If however you are
+'experimenting', give us more details on what you are trying to achieve.
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+- **From:** "me" <dontbother@nowhere.com>
+- **Date:** 1999-10-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3817c077.0@monster.zebra.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com>`
+
+```
+I am using RM/Cobol on Windoze NT client.  On a windoze NT server
+notwork. On a Pentium II computer with 128 M of Ram Voodoo2 Banshee
+video card, ... enough?
+
+
+I am trying to build the infinite length HISTORY file from the current
+History-A and History-B file.  These files contain a history code "C" that
+denotes a that this is a comment in history.  The key to the comments
+file is the billnumber date and time of the entry in the history record.  To
+save space the time data is stored in the history-trans-amt-rdg field in the
+History-a and History-b files.
+
+The objective is to build History so that it can pull up comments from
+the comment file.  History should be built from History-A and History-B
+and contain all the records in History-A and History-B.  It should go
+without saying that the comments for the bill number should be able
+to be displayed in the proper "sequence number".
+
+
+As far as code goes, what do you want to see?
+
+What kind of timer do you want?  Do you want the kind of timer
+that displays things on a screen for say thirty seconds or the
+kind of timer that tells you how long something takes start
+to finish?
+
+
+
+James J. Gavan <jjgavan@home.com> wrote in message
+news:38173E2F.279FECD@home.com...
+>
+>
+…[11 more quoted lines elided]…
+> 'experimenting', give us more details on what you are trying to achieve.
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 4)_
+
+- **From:** "Michael Mattias" <michael.mattias@gte.net>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<y1YR3.71$hp5.4382@dfiatx1-snr1.gtei.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <3817c077.0@monster.zebra.net>`
+
+```
+Can't help you with the timer, but your history storage challenge just
+screams for a "linked list."  (How does a timer fit in this paragraph?)
+
+Do a 'net search on "linked list" and "cobol"  to get some ideas.
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 5)_
+
+- **From:** "me" <dontbother@nowhere.com>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3819144f.0@monster.zebra.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <3817c077.0@monster.zebra.net> <y1YR3.71$hp5.4382@dfiatx1-snr1.gtei.net>`
+
+```
+"linked list" in cobol?  Are we talking standard RM/Cobol?
+
+That aint your daddy's cobol....
+
+
+Tony
+
+tonylamm@zebra.net
+
+
+
+Michael Mattias <michael.mattias@gte.net> wrote in message
+news:y1YR3.71$hp5.4382@dfiatx1-snr1.gtei.net...
+> Can't help you with the timer, but your history storage challenge just
+> screams for a "linked list."  (How does a timer fit in this paragraph?)
+…[23 more quoted lines elided]…
+>
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 6)_
+
+- **From:** "Michael Mattias" <michael.mattias@gte.net>
+- **Date:** 1999-10-29T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<9qqS3.661$_94.27605@dfiatx1-snr1.gtei.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <3817c077.0@monster.zebra.net> <y1YR3.71$hp5.4382@dfiatx1-snr1.gtei.net> <3819144f.0@monster.zebra.net>`
+
+```
+me wrote in message <3819144f.0@monster.zebra.net>...
+>Michael Mattias <michael.mattias@gte.net> wrote in message
+>news:y1YR3.71$hp5.4382@dfiatx1-snr1.gtei.net...
+>> Can't help you with the timer, but your history storage challenge just
+>> screams for a "linked list."  (How does a timer fit in this paragraph?)
+>>
+
+>"linked list" in cobol?  Are we talking standard RM/Cobol?
+>
+>That aint your daddy's cobol....
+>
+
+
+"Linked List" is an application method, rather independent of source
+language. You can write a linked list application in COBOL.
+
+Or BASIC.
+
+Or any other language.
+
+If you're interested in linked lists, you may want to pick up a reprint of
+my article, "Make Haste, Not Waste" from the December, 1998 issue of
+"BASICally Speaking."  The sample code is written in BASIC, but it is
+well-commented and explains the concepts of forward and backwards pointers -
+concepts which are portable across many languages.
+
+Info on reprints at the publisher's web site: http://www.infoms.com/bsp.htm
+
+Michael Mattias
+Tal Systems
+Racine WI USA
+The views and opinions expressed herein are my own.
+As I am self-employed, they also express the views of my employer.
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 4)_
+
+- **From:** "James J. Gavan" <jjgavan@home.com>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3817CCDD.517E603@home.com>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <3817c077.0@monster.zebra.net>`
+
+```
+
+
+me wrote:
+> 
+> I am using RM/Cobol on Windoze NT client.  On a windoze NT server
+> notwork. On a Pentium II computer with 128 M of Ram Voodoo2 Banshee
+> video card, ... enough?
+> 
+
+Seeing that you are using Windoze - you've got me dozing already.....
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 5)_
+
+- **From:** "yourname" <tonylamm@nospam.concentric.net>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<38184c0a.0@monster.zebra.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <3817c077.0@monster.zebra.net> <3817CCDD.517E603@home.com>`
+
+```
+We haven't learned about screen sections or modules yet...
+
+I am really not concerned with "making it pretty" right now I just want
+it to be functional.
+
+Tony
+
+
+James J. Gavan <jjgavan@home.com> wrote in message
+news:3817CCDD.517E603@home.com...
+>
+>
+…[7 more quoted lines elided]…
+> Seeing that you are using Windoze - you've got me dozing already.....
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+- **From:** "xyz" <Suze.V@online.be>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<7va0v5$15c$2@trex.antw.online.be>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com>`
+
+```
+I can't post the assignment.
+If I do that, some of the other students who are in my school and who have
+the same assignment can see, how
+I solved several other problems.  The timer isn't necessary for the project,
+but I thought it would give the project
+another dimension
+
+compiler version
+ca-realia, version of 98
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 4)_
+
+- **From:** "Jerry P" <bismail@bisusa.com>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<zk5S3.586$%D6.17583@typhoon01.swbell.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <7va0v5$15c$2@trex.antw.online.be>`
+
+```
+
+xyz <Suze.V@online.be> wrote in message
+news:7va0v5$15c$2@trex.antw.online.be...
+> I can't post the assignment.
+> If I do that, some of the other students who are in my school and
+who have
+> the same assignment can see, how
+> I solved several other problems.
+
+And that would be good. Programming is not a zero-sum game.
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 4)_
+
+- **From:** Ken Foskey <waratah@zip.com.au>
+- **Date:** 1999-10-30T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<381ADB34.4B21EEDC@zip.com.au>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <7va0v5$15c$2@trex.antw.online.be>`
+
+```
+xyz wrote:
+> 
+> I can't post the assignment.
+…[6 more quoted lines elided]…
+> ca-realia, version of 98
+
+Be very careful about growing a program beyond the specification. 
+Great for bonuses but only when necessary.
+
+In school you need to show how smart you are, in work you need to show
+a regular reliable fast delivery to specification.
+
+But I rant,  I do nice touches too
+Ken
+```
+
+###### ↳ ↳ ↳ Re: Going crazy need comments.
+
+_(reply depth: 5)_
+
+- **From:** "Michael Mattias" <michael.mattias@gte.net>
+- **Date:** 1999-10-30T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<1fDS3.142$_U2.7039@dfiatx1-snr1.gtei.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be> <38173E2F.279FECD@home.com> <7va0v5$15c$2@trex.antw.online.be> <381ADB34.4B21EEDC@zip.com.au>`
+
+```
+
+Ken Foskey wrote in message <381ADB34.4B21EEDC@zip.com.au>...
+>
+>In school you need to show how smart you are, in work you need to show
+>a regular reliable fast delivery to specification.
+>
+>But I rant,  I do nice touches too
+
+
+There is *always* a place for panache.
+
+MCM
+```
+
+##### ↳ ↳ Re: Going crazy need comments.
+
+- **From:** docdwarf@clark.net ()
+- **Date:** 1999-10-27T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<NVGR3.3274$pp1.68347@dfw-read.news.verio.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be>`
+
+```
+In article <7v7dg4$u8$1@trex.antw.online.be>, xyz <Suze.V@online.be> wrote:
+>Have you thought about making modules in it, I find it highly
+>unstructurated.
+…[3 more quoted lines elided]…
+>'do you know how you can build a timer in cobol?'
+
+Yes... but I did my own homework, too.
+
+DD
+```
+
+##### ↳ ↳ Re: Going crazy need comments.
+
+- **From:** William Lynch <WBLynch@att.net>
+- **Date:** 1999-10-28T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3817D4D3.A4C5047B@att.net>`
+- **References:** `<3815ea90.0@monster.zebra.net> <7v7dg4$u8$1@trex.antw.online.be>`
+
+```
+xyz wrote:
+> 
+> Have you thought about making modules in it, I find it highly
+…[4 more quoted lines elided]…
+> 'do you know how you can build a timer in cobol?'
+
+"Timer"? That's hardware - wrong group.
+
+Bill Lynch:-)
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

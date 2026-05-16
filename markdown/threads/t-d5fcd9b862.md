@@ -1,0 +1,68 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# MI5 Persecution: Bernard Levin 1/6/96 (1467)
+
+_1 message · 1 participant · 2007-08_
+
+---
+
+### MI5 Persecution: Bernard Levin 1/6/96 (1467)
+
+- **From:** MI5Victim@mi5.gov.uk
+- **Date:** 2007-08-20T06:15:51+00:00
+- **Newsgroups:** alt.dk.warez,alt.buddha.short.fat.guy,alt.news.boys,alt.tv.rockford-files,comp.lang.cobol
+- **Message-ID:** `<m07072010121067@4ax.com>`
+
+```
+Subject: Re: "FANATIC'S FARE FOR THE COMMON MAN"
+Newsgroups: uk.misc,uk.media,uk.legal,uk.politics.misc
+Followup-To: uk.misc,uk.media,uk.legal,uk.politics.misc
+References: <Ds0L1o.BMF.0.bloor@torfree.net> <ADCF291096681F4E@cara.demon.co.uk>
+Organization: Toronto Free-Net
+Distribution:
+ 
+Peter Ceresole (peter@cara.demon.co.uk) wrote:
+: In article <Ds0L1o.BMF.0.bloor@torfree.net>,
+: bu765@torfree.net (Mike Corley) quoted a typical, overblown Bernard Levin
+: piece, which sounds exactly like any number of other pieces by Levin over
+: the past thirty years.
+ 
+: He then goes on to draw an anguished parallel with a totally unrelated
+: incident that had happened between him and a friend a few days earlier.
+ 
+It is in the same style as his other pieces, but it's so close to what
+actually happened a few days previously, that it's completely reasonable
+to assume that someone told Levin about the meeting, hammed it up a
+little bit and motivated him to write that article.
+ 
+Look at the parallels;
+ 
+1.  "madman running loose about London"
+ 
+2.  it's about a meeting which took place recently
+ 
+3.  the police are called (he must be controlled, however much that
+consumes in resources)
+ 
+4.  he might be violent, approach with caution, yes we're laughing but
+really we're afraid of him, or is it perhaps our own propaganda that
+we're letting manipulate us
+ 
+5.   he "bursts into tears, and swears it's all true - and it is" a very
+exaggerated impression of the conclusion of that meeting
+
+
+Don't worry if you don't believe me, neither my friend to whom I
+explained this nor my GP believe me either (until the friend found out
+otherwise!). If someone just presented this to you as I am presenting it
+now then I wouldn't find it credible (most likely), so it's not until you
+actually find out it's true that you can find it credible. And by then
+it's too late, because they've got you in their trap and explained how
+"funny" the abuse is.
+
+1467
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

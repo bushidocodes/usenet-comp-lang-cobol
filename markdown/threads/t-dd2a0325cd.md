@@ -1,0 +1,27 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# where to find "system" program for rm-cobol 8X
+
+_1 message · 1 participant · 1999-01_
+
+**Topics:** [`Compilers and vendors`](../topics.md#compilers)
+
+---
+
+### where to find "system" program for rm-cobol 8X
+
+- **From:** "Yuan" <yuanl@ms14.hinet.net>
+- **Date:** 1999-01-23T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<78bs4f$7sb@netnews.hinet.net>`
+
+```
+RM-COBOL 8X want to execute dos command , have to call "system" using
+parameter.
+Can anybody help me ? where to find the "system" program?
+Many Thanks.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

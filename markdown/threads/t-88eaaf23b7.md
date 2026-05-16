@@ -1,0 +1,75 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Portland OR: Y2K Testing Analyst
+
+_1 message · 1 participant · 1998-09_
+
+**Topics:** [`Y2K and Year-2000 remediation`](../topics.md#y2k)
+
+---
+
+### Portland OR: Y2K Testing Analyst
+
+- **From:** azad@europa.com (AZAD)
+- **Date:** 1998-09-22T00:00:00
+- **Newsgroups:** alt.cobol,comp.lang.cobol
+- **Message-ID:** `<360819c4.4175887@news2.europa.com>`
+
+```
+Y2K Testing Analyst
+
+ 
+Scope of work:	Become part of a team responsible for the Y2K testing
+		of a financial application. 
+
+Qualifications:	Ideal candidate will have the ability to assign 
+		testing requirements, review results and resolve 
+		differences.  Experience in mainframe development 
+		and analysis as well as a solid understanding of 
+		testing methodologies is required. 
+		
+Location:	Portland, Oregon
+
+Duration:	12 months+
+
+Rate:		$25 to $35 DOE
+
+Per Diem:	Possible
+
+Positions:	One 
+
+www.azad.com
+
+AZAD, Inc.
+15985 NW Schendel Avenue, Suite 120
+Beaverton, Oregon  97006-6387
+Phone:	 800-406-1785
+Phone:   503-617-9490
+Fax:	 503-617-9491
+e-mail:	 a60@azad.com
+
+AZAD is a leading high technology contract engineering 
+and consulting company offering the most rewarding and 
+exciting projects to IT professionals and engineers 
+nationwide. 
+
+With AZAD you will find the experience, professionalism, 
+and commitment to excellence necessary to ensure your 
+success in the fast paced world of high technology.
+
+Founded and managed by engineers, AZAD works closely with 
+its clients on their most cutting edge projects and is 
+able to offer you the most exciting and challenging 
+positions with the industry leaders. 
+
+Look to AZAD�s professional staff to find the project and 
+technology that will make and keep your career successful.
+
+The following is one of our current opportunities.� 
+In addition, please visit our web site at:������� 
+w w w . a z a d . c o m
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

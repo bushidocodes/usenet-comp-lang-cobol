@@ -1,0 +1,670 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# menu problem
+
+_4 messages · 1 participant · 2001-05_
+
+---
+
+### menu problem
+
+- **From:** rdenkers@home.nl (rick denkers)
+- **Date:** 2001-05-17T21:13:43+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3b043cdd.11273819@news>`
+
+```
+
+Hi,
+Im having a slight problem
+Im trying to make a menu work. 
+Im also expirimenting with the CALL statement.
+The  only problem is that the input doesnt seem to work correctly.
+after choosing 3 out of 4 inputs i cannot return to a previous value.
+Only the fourth option is available.
+Could anyone shine a light on this one?
+
+Thanks !
+
+rick
+
+main programme :
+
+	IDENTIFICATION DIVISION.
+	PROGRAM-ID ADRES.
+	AUTHOR RICK DENKERS.
+	ENVIRONMENT DIVISION.
+	CONFIGURATION SECTION.
+	SPECIAL-NAMES.
+		CRT STATUS IS KEYBOARD-STATUS.
+	DATA DIVISION.                          
+  FILE SECTION.
+	WORKING-STORAGE SECTION.
+	01 DUMMY-FIELD PIC X VALUE SPACES.
+	01 KEYBOARD-STATUS.
+		03 ACCEPT-STATUS PIC 9.
+		03 SYSTEM-USE    PIC X.
+		03 DUMMY-FILLER   PIC X.
+	01 KEY-PRESSED  PIC X.
+	
+	01 DONE-FLAG       PIC X VALUE SPACES.
+			88 ALL-DONE VALUE "Y".
+
+	SCREEN SECTION.
+
+	01 MAIN-SCREEN BLANK SCREEN
+		BACKGROUND-COLOR IS 1
+		FOREGROUND-COLOR IS 7.
+  	03 LINE 6 COLUMN 16 VALUE "                 Rick zijn Adres
+boekje ".
+          03 LINE 7 COLUMN 16 VALUE
+"____________________________________________________" .
+		03 LINE 10 COLUMN 16 VALUE "1 Naam invoeren.".
+          03 LINE 11 COLUMN 16 VALUE "2 Naam lezen. ".
+		03 LINE 12 COLUMN 16 VALUE "3 Naam wijzigen.". 
+          03 LINE 13 COLUMN 16 VALUE "4 Stoppen. ".
+		03 LINE 17 COLUMN 16 PIC X USING KEY-PRESSED.	
+          03 LINE 19 COLUMN 16 VALUE
+"____________________________________________________" .
+*
+
+	PROCEDURE DIVISION.
+* DIT IS HET HOOFDPROGRAMMA
+* IF F1 PRESSED PERFORM SCHRIJF 
+* IF F2 PRESSED PERFORM LEES.
+* IF F9 PRESSED PERFORM STOP.
+	ADRES-START.
+		PERFORM UNTIL ALL-DONE
+		MOVE SPACES TO KEY-PRESSED
+		DISPLAY MAIN-SCREEN
+		ACCEPT MAIN-SCREEN
+          IF KEY-PRESSED = "1"
+		THEN CALL "SCHRIJF"
+		 ELSE
+		IF KEY-PRESSED = "2"
+		THEN CALL "LEES"
+		ELSE
+		IF KEY-PRESSED = "3"
+		THEN CALL "HERSCHRIJF"
+		ELSE
+		IF KEY-PRESSED = "4"
+		THEN SET ALL-DONE TO TRUE
+		ELSE
+		MOVE SPACES TO KEY-PRESSED
+          END-IF
+		END-IF
+		END-IF
+	        END-IF
+		END-PERFORM
+		STOP RUN.
+
+and the sub-programs:
+
+ IDENTIFICATION DIVISION.
+	PROGRAM-ID HERSCHRIJF.
+	AUTHOR RICK DENKERS.
+	ENVIRONMENT DIVISION.
+	CONFIGURATION SECTION.
+	SPECIAL-NAMES.
+		CRT STATUS IS KEYBOARD-STATUS.
+	INPUT-OUTPUT SECTION.
+	FILE-CONTROL.
+		SELECT OPTIONAL NAME-FILE ASSIGN TO "ADRES.TXT"
+		ORGANIZATION IS  SEQUENTIAL
+		FILE STATUS IS NAME-FILE-STATUS.
+  DATA DIVISION.
+	FILE SECTION.
+	FD NAME-FILE.
+  01 NAME-RECORD.
+ 		03 ACHTERNAAM    PIC X(30).
+		03 VOORNAAM      PIC X(8).
+		03 ADRES	 PIC X(30).
+		03 POSTCODE	 PIC X(8).
+		03 WOONPLAATS    PIC X(30).
+		03 TELEFOON	 PIC X(12).
+		03 MOBIEL        PIC X(11).
+		03 EMAIL	 PIC X(20).
+		03 TEKST	 PIC X(30).
+	WORKING-STORAGE SECTION.
+	01 WERKNAAM.
+		03 WERKACHTERNAAM   PIC X(30).
+		03 WERKVOORNAAM     PIC X(8).
+		03 WERKADRES	    PIC X(30).
+		03 WERKPOSTCODE	    PIC X(8).
+		03 WERKWOONPLAATS   PIC X(30).
+		03 WERKTELEFOON	    PIC X(12).
+		03 WERKMOBIEL       PIC X(11).
+		03 WERKEMAIL	    PIC X(20).
+		03 WERKTEKST	    PIC X(30).
+	01 KEYBOARD-STATUS.
+		03 ACCEPT-STATUS PIC 9.
+		03 FUNCTION-KEY PIC X.
+			88 F9-PRESSED VALUE X"09".
+			88 F4-PRESSED VALUE X"04".
+		03 SYSTEM-USE PIC X.
+	01 FILE-ERROR-FLAG PIC X VALUE SPACE.
+			88 FILE-ERROR VALUE "Y".
+	01 NAME-FILE-STATUS PIC XX VALUE SPACES.
+			88 NAME-FILE-SUCESS VALUE "00" "05".
+			88 END-OF-FILE VALUE "10".
+	01 ERROR-MESSAGE PIC X(50) VALUE SPACES.
+	SCREEN SECTION.
+  01 NAME-ENTRY BLANK SCREEN
+		BACKGROUND-COLOR IS 1
+		FOREGROUND-COLOR IS 7.
+		03 LINE 1 COLUMN 28 VALUE "Rick zijn Adresboekje".
+          03 LINE 5 COLUMN 1 VALUE " Achternaam:".
+		03 LINE 5 COLUMN 15  PIC X(30) USING ACHTERNAAM.
+		03 LINE 7 COLUMN 1 VALUE " Voornaam:".
+		03 LINE 7 COLUMN 15 PIC X(8) USING VOORNAAM.
+		03 LINE 9 COLUMN 1 VALUE " Adres:".
+		03 LINE 9 COLUMN 15 PIC X(30) USING ADRES.
+		03 LINE 11 COLUMN 1 VALUE " Postcode:".
+		03 LINE 11  COLUMN 15 PIC X(8) USING POSTCODE.
+		03 LINE 11 COLUMN 30 VALUE "Plaats:".
+		03 LINE 11 COLUMN 37 PIC X(30) USING WOONPLAATS.
+		03 LINE 13 COLUMN 1 VALUE " Telefoon:".
+		03 LINE 13 COLUMN 15 PIC X(12) USING TELEFOON.
+          03 LINE 13 COLUMN 30 VALUE "Mobiel:".
+		03 LINE 13 COLUMN 37 PIC X(11) USING MOBIEL.
+		03 LINE 15 COLUMN 1 VALUE " Email:".
+		03 LINE 15 COLUMN 15 PIC X(20) USING EMAIL.
+		03 LINE 17 COLUMN 1 VALUE " Vrije tekst:".
+		03 LINE 17 COLUMN 15 PIC X(30) USING TEKST.
+         	03 LINE 20 COLUMN 1 PIC X(50) FROM ERROR-MESSAGE.
+		03 LINE 21 COLUMN 1 VALUE " Druk op F4 om te
+updaten.".
+		03 LINE 22 COLUMN 01 VALUE " Druk op F9 terug te keren
+naar het hoofdmenu".
+  PROCEDURE DIVISION.
+	LEES-START.
+		PERFORM OPEN-FILE
+		IF NOT FILE-ERROR
+		PERFORM PROCES-INPUT UNTIL F9-PRESSED OR FILE-ERROR OR
+END-OF-FILE
+		END-IF.
+		PERFORM CLOSE-FILE
+		GOBACK. 
+	OPEN-FILE.
+		OPEN I-O NAME-FILE
+	        IF NOT NAME-FILE-SUCESS
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING "OPEN ERROR" NAME-FILE-STATUS
+		DELIMITED BY SIZE
+		INTO ERROR-MESSAGE
+		PERFORM DISPLAY-AND-ACCEPT-ERROR
+		END-IF.
+   PROCES-INPUT. 
+	        MOVE SPACES TO ACHTERNAAM
+		MOVE SPACES TO VOORNAAM
+		MOVE SPACES TO ADRES
+		MOVE SPACES TO  POSTCODE
+		MOVE SPACES TO  WOONPLAATS
+		MOVE SPACES TO  TELEFOON
+		MOVE SPACES TO  MOBIEL
+		MOVE SPACES TO  EMAIL
+		MOVE SPACES TO  TEKST
+		PERFORM READ-RECORD
+		IF NOT FILE-ERROR
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY
+		MOVE SPACES TO ERROR-MESSAGE
+		IF F4-PRESSED AND NOT END-OF-FILE
+		PERFORM REWRITE-RECORD
+		END-IF
+		END-IF.
+	REWRITE-RECORD.
+		REWRITE NAME-RECORD FROM WERKNAAM
+		IF NAME-FILE-SUCESS
+		MOVE " Oude record geupdated" TO ERROR-MESSAGE
+		ELSE 
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING " HERSCHRIJF FOUT " NAME-FILE-STATUS
+		DELIMITED BY SIZE
+		INTO ERROR-MESSAGE
+		END-STRING
+		END-IF.
+	READ-RECORD.
+		READ NAME-FILE INTO WERKNAAM
+          AT END MOVE "END OF FILE " TO ERROR-MESSAGE
+		END-READ
+		IF NAME-FILE-SUCESS OR END-OF-FILE
+		CONTINUE
+		ELSE
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING " READ EROR " NAME-FILE-STATUS
+		DELIMITED BY SIZE INTO ERROR-MESSAGE
+		END-STRING
+		PERFORM DISPLAY-AND-ACCEPT-ERROR
+		END-IF.
+ 	DISPLAY-AND-ACCEPT-ERROR.
+		SET FILE-ERROR TO TRUE
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY.
+	CLOSE-FILE.
+		CLOSE NAME-FILE.
+	
+  IDENTIFICATION DIVISION.
+	PROGRAM-ID LEES.
+	AUTHOR RICK DENKERS.
+	ENVIRONMENT DIVISION.
+	CONFIGURATION SECTION.
+	SPECIAL-NAMES.
+		CRT STATUS IS KEYBOARD-STATUS.
+	INPUT-OUTPUT SECTION.
+	FILE-CONTROL.
+		SELECT OPTIONAL NAME-FILE ASSIGN TO "ADRES.TXT"
+		ORGANIZATION IS  SEQUENTIAL
+		FILE STATUS IS NAME-FILE-STATUS.
+  DATA DIVISION.
+	FILE SECTION.
+	FD NAME-FILE.
+  01 NAME-RECORD.
+ 		03 ACHTERNAAM    PIC X(30).
+		03 VOORNAAM      PIC X(8).
+		03 ADRES	 PIC X(30).
+		03 POSTCODE	 PIC X(8).
+		03 WOONPLAATS    PIC X(30).
+		03 TELEFOON	 PIC X(12).
+		03 MOBIEL        PIC X(11).
+		03 EMAIL	 PIC X(20).
+		03 TEKST	 PIC X(30).
+	WORKING-STORAGE SECTION.
+	01 WERKNAAM.
+		03 WERKACHTERNAAM   PIC X(30).
+		03 WERKVOORNAAM     PIC X(8).
+		03 WERKADRES	    PIC X(30).
+		03 WERKPOSTCODE	    PIC X(8).
+		03 WERKWOONPLAATS   PIC X(30).
+		03 WERKTELEFOON	    PIC X(12).
+		03 WERKMOBIEL       PIC X(11).
+		03 WERKEMAIL	    PIC X(20).
+		03 WERKTEKST	    PIC X(30).
+	01 KEYBOARD-STATUS.
+		03 ACCEPT-STATUS PIC 9.
+		03 FUNCTION-KEY PIC X.
+			88 F9-PRESSED VALUE X"09".
+		03 SYSTEM-USE PIC X.
+	01 FILE-ERROR-FLAG PIC X VALUE SPACE.
+			88 FILE-ERROR VALUE "Y".
+	01 NAME-FILE-STATUS PIC XX VALUE SPACES.
+			88 NAME-FILE-SUCESS VALUE "00" "05".
+			88 END-OF-FILE VALUE "10".
+	01 ERROR-MESSAGE PIC X(50) VALUE SPACES.
+	SCREEN SECTION.
+  01 NAME-ENTRY BLANK SCREEN
+		BACKGROUND-COLOR IS 1
+		FOREGROUND-COLOR IS 7.
+		03 LINE 1 COLUMN 28 VALUE "Rick zijn Adresboekje".
+          03 LINE 5 COLUMN 1 VALUE " Achternaam:".
+		03 LINE 5 COLUMN 15  PIC X(30) USING ACHTERNAAM.
+		03 LINE 7 COLUMN 1 VALUE " Voornaam:".
+		03 LINE 7 COLUMN 15 PIC X(8) USING VOORNAAM.
+		03 LINE 9 COLUMN 1 VALUE " Adres:".
+		03 LINE 9 COLUMN 15 PIC X(30) USING ADRES.
+		03 LINE 11 COLUMN 1 VALUE " Postcode:".
+		03 LINE 11  COLUMN 15 PIC X(8) USING POSTCODE.
+		03 LINE 11 COLUMN 30 VALUE "Plaats:".
+		03 LINE 11 COLUMN 37 PIC X(30) USING WOONPLAATS.
+		03 LINE 13 COLUMN 1 VALUE " Telefoon:".
+		03 LINE 13 COLUMN 15 PIC X(12) USING TELEFOON.
+          03 LINE 13 COLUMN 30 VALUE "Mobiel:".
+		03 LINE 13 COLUMN 37 PIC X(11) USING MOBIEL.
+		03 LINE 15 COLUMN 1 VALUE " Email:".
+		03 LINE 15 COLUMN 15 PIC X(20) USING EMAIL.
+		03 LINE 17 COLUMN 1 VALUE " Vrije tekst:".
+		03 LINE 17 COLUMN 15 PIC X(30) USING TEKST.
+         	03 LINE 20 COLUMN 1 PIC X(50) FROM ERROR-MESSAGE.
+		03 LINE 22 COLUMN 01 VALUE " Druk op F9 terug te keren
+naar het hoofdmenu".
+  PROCEDURE DIVISION.
+	LEES-START.
+		PERFORM OPEN-FILE
+		IF NOT FILE-ERROR
+		PERFORM PROCES-INPUT UNTIL F9-PRESSED OR FILE-ERROR OR
+END-OF-FILE
+		END-IF.
+		PERFORM CLOSE-FILE
+		GOBACK. 
+	OPEN-FILE.
+		OPEN INPUT NAME-FILE
+	        IF NOT NAME-FILE-SUCESS
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING "OPEN ERROR" NAME-FILE-STATUS
+		DELIMITED BY SIZE
+		INTO ERROR-MESSAGE
+		PERFORM DISPLAY-AND-ACCEPT-ERROR
+		END-IF.
+   PROCES-INPUT. 
+	        MOVE SPACES TO ACHTERNAAM
+		MOVE SPACES TO VOORNAAM
+		MOVE SPACES TO ADRES
+		MOVE SPACES TO  POSTCODE
+		MOVE SPACES TO  WOONPLAATS
+		MOVE SPACES TO  TELEFOON
+		MOVE SPACES TO  MOBIEL
+		MOVE SPACES TO  EMAIL
+		MOVE SPACES TO  TEKST
+		PERFORM READ-RECORD
+		IF NOT FILE-ERROR
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY
+		END-IF
+		MOVE SPACES TO ERROR-MESSAGE.
+	READ-RECORD.
+		READ NAME-FILE INTO WERKNAAM
+          AT END MOVE "END OF FILE " TO ERROR-MESSAGE
+		END-READ
+		IF NAME-FILE-SUCESS OR END-OF-FILE
+		CONTINUE
+		ELSE
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING " READ EROR " NAME-FILE-STATUS
+		DELIMITED BY SIZE INTO ERROR-MESSAGE
+		END-STRING
+		PERFORM DISPLAY-AND-ACCEPT-ERROR
+		END-IF.
+ 	DISPLAY-AND-ACCEPT-ERROR.
+		SET FILE-ERROR TO TRUE
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY.
+	CLOSE-FILE.
+		CLOSE NAME-FILE.
+	
+	IDENTIFICATION DIVISION.
+	PROGRAM-ID SCHRIJF.
+	AUTHOR RICK DENKERS.
+	ENVIRONMENT DIVISION.
+	CONFIGURATION SECTION.
+	SPECIAL-NAMES.
+		CRT STATUS IS KEYBOARD-STATUS.
+  INPUT-OUTPUT SECTION.
+	FILE-CONTROL.
+		SELECT NAME-FILE ASSIGN TO "ADRES.TXT"
+		ORGANIZATION IS SEQUENTIAL
+		FILE STATUS IS NAME-FILE-STATUS .
+	DATA DIVISION.                          
+  FILE SECTION.
+  FD NAME-FILE .
+  01 NAME-RECORD.
+		03 ACHTERNAAM    PIC X(30).
+		03 VOORNAAM      PIC X(8).
+		03 ADRES	 PIC X(30).
+		03 POSTCODE	 PIC X(8).
+		03 WOONPLAATS    PIC X(30).
+		03 TELEFOON	 PIC X(12).
+		03 MOBIEL        PIC X(11).
+		03 EMAIL	 PIC X(20).
+		03 TEKST	 PIC X(30).
+		
+	WORKING-STORAGE SECTION.
+	01 KEYBOARD-STATUS.
+		03 ACCEPT-STATUS PIC 9.
+		03 FUNCTION-KEY  PIC X.
+			88 F9-PRESSED VALUE X"09".
+		03 SYSTEM-USE    PIC X.
+	01 FILE-ERROR-FLAG       PIC X VALUE SPACE.
+			88 FILE-ERROR VALUE "Y".
+	01 NAME-FILE-STATUS      PIC XX VALUE SPACES.
+			88 NAME-FILE-SUCESS VALUE "00".
+	01 ERROR-MESSAGE         PIC X(50) VALUE SPACES.
+	01 KIES PIC X VALUE SPACE.
+	SCREEN SECTION.
+* HIER STAAT NAME-ENTRY. HiER KAN OOK NAME-DISPLAY BIJ. DE REWRITE
+OOK.
+	01 MAIN-SCREEN BLANK SCREEN
+		BACKGROUND-COLOR IS 1
+		FOREGROUND-COLOR IS 7.
+		.
+  01 NAME-ENTRY BLANK SCREEN
+		BACKGROUND-COLOR IS 1
+		FOREGROUND-COLOR IS 7.
+		03 LINE 1 COLUMN 28 VALUE "Rick zijn Adresboekje".
+          03 LINE 5 COLUMN 1 VALUE " Achternaam:".
+		03 LINE 5 COLUMN 15  PIC X(30) USING ACHTERNAAM.
+		03 LINE 7 COLUMN 1 VALUE " Voornaam:".
+		03 LINE 7 COLUMN 15 PIC X(8) USING VOORNAAM.
+		03 LINE 9 COLUMN 1 VALUE " Adres:".
+		03 LINE 9 COLUMN 15 PIC X(30) USING ADRES.
+		03 LINE 11 COLUMN 1 VALUE " Postcode:".
+		03 LINE 11  COLUMN 15 PIC X(8) USING POSTCODE.
+		03 LINE 11 COLUMN 30 VALUE "Plaats:".
+		03 LINE 11 COLUMN 37 PIC X(30) USING WOONPLAATS.
+		03 LINE 13 COLUMN 1 VALUE " Telefoon:".
+		03 LINE 13 COLUMN 15 PIC X(12) USING TELEFOON.
+          03 LINE 13 COLUMN 30 VALUE "Mobiel:".
+		03 LINE 13 COLUMN 37 PIC X(11) USING MOBIEL.
+		03 LINE 15 COLUMN 1 VALUE " Email:".
+		03 LINE 15 COLUMN 15 PIC X(20) USING EMAIL.
+		03 LINE 17 COLUMN 1 VALUE " Vrije tekst:".
+		03 LINE 17 COLUMN 15 PIC X(30) USING TEKST.
+ 
+		03 LINE 20 COLUMN 1 PIC X(50) FROM ERROR-MESSAGE.
+		03 LINE 22 COLUMN 01 VALUE " Druk op F9 terug te keren
+naar het hoofdmenu".
+	PROCEDURE DIVISION.
+* DIT IS HET HOOFDPROGRAMMA
+	MAIN.
+    	PERFORM OPEN-FILE
+		IF NOT FILE-ERROR
+		PERFORM PROCES-INPUT UNTIL F9-PRESSED OR FILE-ERROR
+		PERFORM CLOSE-FILE
+		END-IF.
+		GOBACK.
+* HIER KOMEN DE MODULES	
+	OPEN-FILE.
+		OPEN OUTPUT NAME-FILE
+	        IF NOT NAME-FILE-SUCESS
+		MOVE SPACES TO ERROR-MESSAGE
+		STRING "OPEN ERROR" NAME-FILE-STATUS
+		DELIMITED BY SIZE
+		INTO ERROR-MESSAGE
+		PERFORM DISPLAY-AND-ACCEPT-ERROR
+		END-IF.
+	PROCES-INPUT. 
+	        MOVE SPACES TO ACHTERNAAM
+		MOVE SPACES TO VOORNAAM
+		MOVE SPACES TO ADRES
+		MOVE SPACES TO POSTCODE
+		MOVE SPACES TO WOONPLAATS
+		MOVE SPACES TO TELEFOON
+		MOVE SPACES TO MOBIEL
+		MOVE SPACES TO EMAIL
+		MOVE SPACES TO TEKST
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY
+		MOVE SPACES TO ERROR-MESSAGE
+		IF NOT F9-PRESSED
+		PERFORM WRITE-RECORD
+		END-IF.
+	WRITE-RECORD.
+		WRITE NAME-RECORD
+		IF NAME-FILE-SUCESS
+		MOVE "RECORD WRITTEN" TO ERROR-MESSAGE
+		ELSE
+		STRING " WRITE ERROR" NAME-FILE-STATUS
+	        DELIMITED BY SIZE 
+		INTO ERROR-MESSAGE
+		END-IF.
+	DISPLAY-AND-ACCEPT-ERROR.
+		SET FILE-ERROR TO TRUE
+		DISPLAY NAME-ENTRY
+		ACCEPT NAME-ENTRY.
+	CLOSE-FILE.
+		CLOSE NAME-FILE.
+```
+
+#### ↳ Re: menu problem
+
+- **From:** goble@gtech (David. E. Goble)
+- **Date:** 2001-05-20T08:00:24+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3b0678d5.2565627@news.adelaide.on.net>`
+- **References:** `<3b043cdd.11273819@news>`
+
+```
+On Thu, 17 May 2001 21:13:43 GMT, rdenkers@home.nl (rick denkers)
+wrote:
+>
+>Im having a slight problem
+…[6 more quoted lines elided]…
+>
+Hi rick;
+
+Your posts format was all over the place...
+
+ PROCEDURE DIVISION.
+* DIT IS HET HOOFDPROGRAMMA
+* IF F1 PRESSED PERFORM SCHRIJF 
+* IF F2 PRESSED PERFORM LEES.
+* IF F9 PRESSED PERFORM STOP.
+ ADRES-START.
+*============
+	PERFORM UNTIL ALL-DONE
+		MOVE SPACES TO KEY-PRESSED
+		DISPLAY MAIN-SCREEN
+		ACCEPT MAIN-SCREEN
+		IF KEY-PRESSED = "1"
+		THEN CALL "SCHRIJF"
+		ELSE
+		    IF KEY-PRESSED = "2"
+		    THEN CALL "LEES"
+		    ELSE
+		        IF KEY-PRESSED = "3"
+		        THEN CALL "HERSCHRIJF"
+		        ELSE
+		            IF KEY-PRESSED = "4"
+		            THEN SET ALL-DONE TO TRUE
+		            ELSE
+		                MOVE SPACES TO KEY-PRESSED
+                            END-IF
+		        END-IF
+		    END-IF
+	        END-IF
+	END-PERFORM.
+STOP RUN.
+
+I think you will see it is your nested if statements that is giving
+you grief. Try this...
+
+ ADRES-START.
+*============
+	PERFORM UNTIL ALL-DONE
+		MOVE SPACES TO KEY-PRESSED
+		DISPLAY MAIN-SCREEN
+		ACCEPT MAIN-SCREEN
+	        EVALUATE KEY-PRESSED
+			WHEN "1"
+				CALL "SCHRIJF"
+			WHEN "2"
+				CALL "LEES"
+			WHEN "3"
+				CALL "HERSCHRIJF"
+			WHEN "4"
+				SET ALL-DONE TO TRUE
+		END-EVALUATE	
+		MOVE SPACES TO KEY-PRESSED	
+	END-PERFORM.
+STOP RUN.
+
+Anyway I hope this helps :>
+```
+
+##### ↳ ↳ Re: menu problem
+
+- **From:** rdenkers@home.nl (rick denkers)
+- **Date:** 2001-05-20T12:34:45+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3b07b722.3856076@news>`
+- **References:** `<3b043cdd.11273819@news> <3b0678d5.2565627@news.adelaide.on.net>`
+
+```
+Hi david,
+
+Thanks for the advise. In an earlier stage i used the evaluate- end
+evaluate. It didnt solve the problem.
+But youre advise inspired me to look again at the program.
+As allways the answer of a problem lays in the problem itself !.
+Silly me !. Forgot that my input screen uses a record that is
+specified in the working storage. 
+It brought me closer to solve it. It still doenst work fine.
+Ive also changed  open -file piece.
+Thane Hubbells  (great) book also pointed out that i cannot write to a
+file in a "output" . Changed it to extend. It works better.
+( yes i am a true hubbell believer .. :)  )
+
+But i keep in mind that rome wasnt build in a day either !
+
+regards,
+
+rick
+
+
+On Sun, 20 May 2001 08:00:24 GMT, goble@gtech (David. E. Goble) wrote:
+
+>On Thu, 17 May 2001 21:13:43 GMT, rdenkers@home.nl (rick denkers)
+>wrote:
+…[68 more quoted lines elided]…
+>
+```
+
+###### ↳ ↳ ↳ Re: menu problem
+
+- **From:** goble@gtech (David. E. Goble)
+- **Date:** 2001-05-22T05:03:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3b08dec5.9780277@news.adelaide.on.net>`
+- **References:** `<3b043cdd.11273819@news> <3b0678d5.2565627@news.adelaide.on.net> <3b07b722.3856076@news>`
+
+```
+On Sun, 20 May 2001 12:34:45 GMT, rdenkers@home.nl (rick denkers)
+wrote:
+>
+>Thanks for the advise. In an earlier stage i used the evaluate- end
+>evaluate. It didnt solve the problem.
+>But youre advise inspired me to look again at the program.
+>
+Hi Rick;
+
+Your welcome.
+>
+>As allways the answer of a problem lays in the problem itself !.
+…[4 more quoted lines elided]…
+>
+Which program is having the problem, what should the program be doing
+and what is it doing instead?
+
+Try walking thru the program manually and with a tracing/debug
+program. Taking note of the varables involved in the problem, before
+and after the problem.
+>
+>Thane Hubbells  (great) book also pointed out that i cannot write to a
+>file in a "output" . Changed it to extend. It works better.
+>( yes i am a true hubbell believer .. :)  )
+>
+I do not know Hubbels book, I learnt Cobol with Stern & Stern (fifth
+edition) I have thier 8th edition too, but it is more brief, like an
+upgrade. So I guess Iam a true Stern & Stern believer :>
+
+I would have thought attempping to write to a file opened for output
+would produce an error at compile time.
+
+FMI: what compiler are you using? I only have Microfouces personal
+Cobol.
+>
+>But i keep in mind that rome wasnt build in a day either !
+>
+That is true. Good luck, Feel free to email me if you still have
+problems.
+
+I just had another look at your code. I have never used goback and I
+was not able to fine it in my copies of Stern & Stern. However I did
+find it in the online help of Microfouce Personnal cobol.
+
+I have always used exit program. The information I found in the online
+help shows them to be similar. But there must be a difference.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

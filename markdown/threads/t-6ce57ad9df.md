@@ -1,0 +1,44 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Random Number Generator
+
+_1 message · 1 participant · 1998-07_
+
+---
+
+### Re: Random Number Generator
+
+- **From:** "Dave Johnson" <systemad@globalnet.co.uk>
+- **Date:** 1998-07-09T00:00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<6o391j$hba$1@heliodor.xara.net>`
+- **References:** `<rdavis.63.001BF99D@ozemail.com.au> <Jl0PnHJ5PvPd-pn2-NodoJlmGri8J@Dwight_Miller.iix.com>`
+
+```
+Thane Hubbell wrote in message ...
+>On Tue, 7 Jul 1998 21:58:24, rdavis@ozemail.com.au (Ron Davis) wrote:
+>
+>> Hi all,
+>> I need a random number generator, (rough and ready will do, only for test
+data
+>> generation) that  I can run under Cobol 2 on an MVS platform. Source code
+>> preferrred, either COBOL or Assembler.  (I know one is available in the
+…[3 more quoted lines elided]…
+>
+If you are *really* into this stuff, I think it was Simon Orebi Gann who
+wrote a
+series of articles (probably in the (19)80's). He must have done a book as
+well.
+The main thrust was how to get a *really* random number - apparently most
+compilers don't do this (I could never stay awake long enough to check, nor
+to
+get to the end of the articles either, but that's another story). Anyone
+esle
+remeber this? Think it was in Computing or Computer Weekly or similar.
+
+DaveJ.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

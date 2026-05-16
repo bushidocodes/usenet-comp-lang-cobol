@@ -1,0 +1,43 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Known problems with Y2K SEEC product
+
+_1 message · 1 participant · 1998-07_
+
+**Topics:** [`Y2K and Year-2000 remediation`](../topics.md#y2k)
+
+---
+
+### Re: Known problems with Y2K SEEC product
+
+- **From:** SM <manjigani@earthlink.com>
+- **Date:** 1998-07-06T00:00:00
+- **Newsgroups:** alt.cobol,comp.lang.cobol
+- **Message-ID:** `<35A159E5.74B5C3AB@earthlink.com>`
+- **References:** `<359E710E.60902490@with.spammers.com> <6nlsiq$218@bgtnsc01.worldnet.att.net>`
+
+```
+What version of SEEC are you using????
+
+I have been using SEEC (till ACCUFIND part), and fixing with a different
+tool.  It usually gives a lot of false positives, particularly after ADD
+Indirects.... (This is really pain in the ****).
+
+But regarding your problem, I had many instances of hardcoded 19s and 20s,
+and never it failed to capture them.  Also, it flags all the move statements
+with years in leading position (A century neighbour concept, as SEEC calls).
+
+I think you need to do more work on rules file and cleaning up the initial
+seeds / dsv file(like any of these new tools).
+
+Bill Lynch wrote:
+
+> No Spam wrote:
+> >
+…[23 more quoted lines elided]…
+> > address, so I've had to resort to doing this.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

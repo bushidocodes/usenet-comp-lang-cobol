@@ -1,0 +1,55 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# MI5 Persecution: BA984 LHR->TXL 13/6/98 (497)
+
+_1 message · 1 participant · 2007-11_
+
+---
+
+### MI5 Persecution: BA984 LHR->TXL 13/6/98 (497)
+
+- **From:** MI5Victim@mi5.gov.uk
+- **Date:** 2007-11-17T02:29:42+00:00
+- **Newsgroups:** alt.bainaries.pictures.erotica.midgets,alt.buddha.short.fat.guy,alt.news.boys,alt.tv.rockford-files,comp.lang.cobol
+- **Message-ID:** `<m07101706260237@4ax.com>`
+
+```
+
+BA984 LHR->TXL 13/June/1998
+
+Certainty level: 100%
+
+In June 1998 I travelled on the above British Airways flight to Berlin
+with my mother, to visit her family. There were two women in seats 30D/E,
+about 4/5 rows behind us. It was quite obvious from the torrent of abuse
+during these flight that these women had been instructed to harass me
+and attempt to obtain a reaction.
+
+I did manage to record much of the flight, but unfortunately much of the
+recording is unclear because of high background noise on the aircraft.
+The following three excerpts from the recording  are the best I can do.
+
+The segment at position 11:34 minutes on my recording contains a fairly
+quiet word "paranoid", followed immediately by a much louder
+"yeah, he's paranoid, yeah". During the flight the abuse was not sexual,
+as it so often is elsewhere, but attacking my mental health.
+
+One of the women in seats 30D/E said "paranoid" very clearly towards the
+end of the flight, but unfortunately I had run out of minidisc space and
+stopped recording by then. There is absolutely no doubt in my mind that
+these women were directed to harass me. This harassment happens without
+fail on British Airways flights; I've been on something like three or
+four BA flights in the last 5 years and it's happened each time.
+Presumably this is because of international law which says incidents on
+aircraft during flight are actionable in the airline's country of
+origin - so my persecutors want a reaction from me, and they want to see
+me "done" in the UK where they can influence the justice system.
+
+These incidents never happen on foreign-domiciled carriers.
+
+497
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
