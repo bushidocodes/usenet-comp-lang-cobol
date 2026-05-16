@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large data files (exceed GitHub's 100MB limit)
+.archive_cache.pickle
+comp.lang.cobol.mbox
+
+# Tool artifacts
+.playwright-mcp/
+.claude/
