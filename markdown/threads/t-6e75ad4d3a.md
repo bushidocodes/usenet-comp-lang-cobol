@@ -16,8 +16,8 @@ _2 messages · 2 participants · 2013-05_
 - **Message-ID:** `<98OdnQfyht4z_wvMnZ2dnUVZ_qidnZ2d@earthlink.com>`
 
 ```
-See link below:
-
+See link below:
+
 http://www.kurzweilai.net/which-is-faster-conventional-or-quantum-computer?utm_source=KurzweilAI+Daily+Newsletter&utm_campaign=51f8c22f8a-UA-946742-1&utm_medium=email&utm_term=0_6de721fb33-51f8c22f8a-281914161
 ```
 
@@ -31,16 +31,16 @@ http://www.kurzweilai.net/which-is-faster-conventional-or-quantum-computer?utm_s
 - **References:** `<98OdnQfyht4z_wvMnZ2dnUVZ_qidnZ2d@earthlink.com>`
 
 ```
-On 17-05-2013 19:02, Charles Hottel wrote:
-> See link below:
->
+On 17-05-2013 19:02, Charles Hottel wrote:
+> See link below:
+>
 …[3 more quoted lines elided]…
->
-
-which is faster,
-a 2CV
-http://goo.gl/bn4dn
-or a ferrari:
+>
+
+which is faster,
+a 2CV
+http://goo.gl/bn4dn
+or a ferrari:
 http://goo.gl/vTbwZ
 ```
 

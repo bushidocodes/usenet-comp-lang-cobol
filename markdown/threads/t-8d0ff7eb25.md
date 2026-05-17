@@ -14,8 +14,8 @@ _1 message · 1 participant · 2012-07_
 - **Message-ID:** `<71927742-3a06-46be-bd05-a4222fe774fb@a34g2000yqi.googlegroups.com>`
 
 ```
-I noticed you have the Instructors Manual and Test Bank for this book,
-Explorations: An Introduction to Astronomy, 6th Edition, Arny,
+I noticed you have the Instructors Manual and Test Bank for this book,
+Explorations: An Introduction to Astronomy, 6th Edition, Arny,
 Schneider.  Is there a way to see, buy, or rent this copy?
 ```
 

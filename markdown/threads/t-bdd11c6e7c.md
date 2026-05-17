@@ -108,35 +108,37 @@ Ken
 - **References:** `<287076f9-8442-4d1b-b916-3b31159a0f9c@l6g2000vbd.googlegroups.com> <9372e903-7290-4691-ba19-bc708deb8dfe@y12g2000prh.googlegroups.com> <5750a267-6197-493a-ae78-974fd2379ba7@y36g2000pro.googlegroups.com>`
 
 ```
-Ken wrote:
-> On Oct 11, 3:18 pm, Charlie <foxgr...@shaw.ca> wrote:
->> It is refreshing to see rates, thanks.
+Ken wrote:
+> On Oct 11, 3:18 pm, Charlie <foxgr...@shaw.ca> wrote:
+>> It is refreshing to see rates, thanks.
 …[22 more quoted lines elided]…
-> Ken
-
-This would have to be the fairest and most honest recruitment posting I have 
-ever seen. Well done, Ken.
-
-The "maddening" thing is that people who don't really understand what is 
-needed, or the fact that certain skills can be leveraged into different 
-environments, are the ones who post requirements and have to vet the 
-applicants. They do it by keywords they have no understanding of and then 
-wonder why they can't get "good" applicants. (The fact is they DO get good 
-applicants, but they don't recognise or value them).
-
-I have fought this in a number of organizations and insisted that the 
-technical job specs should be formulated by the programming team with 
-PREFERRED experience listed but with other experience considered. Recruiting 
-someone who will be on your team for over a year should NEVER be done on the 
-basis of "keywords".
-
-Sometimes I won this battle, sometimes I didn't. The sad fact is that most 
-organizations do it by Keyword because HR jealously guards their province of 
-recruitment, whether they understand the requirements or not...
-
-I hope you find some good people for this, Ken.
-
-Pete.
+> Ken
+
+This would have to be the fairest and most honest recruitment posting I have 
+ever seen. Well done, Ken.
+
+The "maddening" thing is that people who don't really understand what is 
+needed, or the fact that certain skills can be leveraged into different 
+environments, are the ones who post requirements and have to vet the 
+applicants. They do it by keywords they have no understanding of and then 
+wonder why they can't get "good" applicants. (The fact is they DO get good 
+applicants, but they don't recognise or value them).
+
+I have fought this in a number of organizations and insisted that the 
+technical job specs should be formulated by the programming team with 
+PREFERRED experience listed but with other experience considered. Recruiting 
+someone who will be on your team for over a year should NEVER be done on the 
+basis of "keywords".
+
+Sometimes I won this battle, sometimes I didn't. The sad fact is that most 
+organizations do it by Keyword because HR jealously guards their province of 
+recruitment, whether they understand the requirements or not...
+
+I hope you find some good people for this, Ken.
+
+Pete.
+-- 
+"I used to write COBOL...now I can do anything."
 ```
 
 ###### ↳ ↳ ↳ Re: Honeywell Bull CoBOL Project in Indianapolis
@@ -173,48 +175,48 @@ _(reply depth: 4)_
 - **References:** `<287076f9-8442-4d1b-b916-3b31159a0f9c@l6g2000vbd.googlegroups.com> <9372e903-7290-4691-ba19-bc708deb8dfe@y12g2000prh.googlegroups.com> <5750a267-6197-493a-ae78-974fd2379ba7@y36g2000pro.googlegroups.com> <9fjtmkF5ipU1@mid.individual.net>`
 
 ```
-On Oct 11, 6:18 pm, "Pete Dashwood"
-<dashw...@removethis.enternet.co.nz> wrote:
-> This would have to be the fairest and most honest recruitment posting I have
-> ever seen. Well done, Ken.
-
-Well, it might have something to do with the fact that I'm just making
-"referrals", with the chance of only a "finders fee", and I'm not
-really the contracting firm. Just trying to help the client out and
-also any CLC'ers that are interested.
-
->
-> Sometimes I won this battle, sometimes I didn't. The sad fact is that most
-> organizations do it by Keyword because HR jealously guards their province of
-> recruitment, whether they understand the requirements or not...
-
-An extreme perversion of this behavior can be seen when a
-"supervendor", a "manager of vendors", is interjected into the mix to
-"screen" and to "recommend" submissions for the client. It makes for
-another step removed from the end client, with commensurate
-"information loss" in the process.
-
-One super-vendor I know had an automated process to scan resumes and
-assign a "score" as to how well they
-fit the "acronym keyword requirements" of the client.
-
-Thing is, it would do things like _count_ the number of occurrences of
-"COBOL" in the resume, and the higher the count, the better the fit.
-So an individual who entered his hardware/OS/language experience under
-every project might have ten or more COBOL's in his resume. And an
-individual who listed it only once, as "COBOL, multiple variants - 25
-years", would get a count of ONE.
-
->
-> I hope you find some good people for this, Ken.
->
-
-Well, sure, why do you suppose I posted on CLC? :-)
-
-> Pete.
-> --
-> "I used to write COBOL...now I can do anything."- Hide quoted text -
->
+On Oct 11, 6:18 pm, "Pete Dashwood"
+<dashw...@removethis.enternet.co.nz> wrote:
+> This would have to be the fairest and most honest recruitment posting I have
+> ever seen. Well done, Ken.
+
+Well, it might have something to do with the fact that I'm just making
+"referrals", with the chance of only a "finders fee", and I'm not
+really the contracting firm. Just trying to help the client out and
+also any CLC'ers that are interested.
+
+>
+> Sometimes I won this battle, sometimes I didn't. The sad fact is that most
+> organizations do it by Keyword because HR jealously guards their province of
+> recruitment, whether they understand the requirements or not...
+
+An extreme perversion of this behavior can be seen when a
+"supervendor", a "manager of vendors", is interjected into the mix to
+"screen" and to "recommend" submissions for the client. It makes for
+another step removed from the end client, with commensurate
+"information loss" in the process.
+
+One super-vendor I know had an automated process to scan resumes and
+assign a "score" as to how well they
+fit the "acronym keyword requirements" of the client.
+
+Thing is, it would do things like _count_ the number of occurrences of
+"COBOL" in the resume, and the higher the count, the better the fit.
+So an individual who entered his hardware/OS/language experience under
+every project might have ten or more COBOL's in his resume. And an
+individual who listed it only once, as "COBOL, multiple variants - 25
+years", would get a count of ONE.
+
+>
+> I hope you find some good people for this, Ken.
+>
+
+Well, sure, why do you suppose I posted on CLC? :-)
+
+> Pete.
+> --
+> "I used to write COBOL...now I can do anything."- Hide quoted text -
+>
 > - Show quoted text -
 ```
 
@@ -230,17 +232,17 @@ _(reply depth: 5)_
 - **References:** `<287076f9-8442-4d1b-b916-3b31159a0f9c@l6g2000vbd.googlegroups.com> <9372e903-7290-4691-ba19-bc708deb8dfe@y12g2000prh.googlegroups.com> <5750a267-6197-493a-ae78-974fd2379ba7@y36g2000pro.googlegroups.com> <9fjtmkF5ipU1@mid.individual.net> <b7a0a982-d65c-4116-89ad-7c425d8db70e@p29g2000pra.googlegroups.com>`
 
 ```
-On 10/12/2011 9:57 AM, Ken wrote:
-> On Oct 11, 6:18 pm, "Pete Dashwood"
-> <dashw...@removethis.enternet.co.nz>  wrote:
+On 10/12/2011 9:57 AM, Ken wrote:
+> On Oct 11, 6:18 pm, "Pete Dashwood"
+> <dashw...@removethis.enternet.co.nz>  wrote:
 …[41 more quoted lines elided]…
->
-
-I have heard rumours of a technique that is employed to sabotage word 
-counters: submit resume via an MS WORD document with a number of useful 
-keywords that have their text colour changed to match the document 
-background (usually white) so that they do not appear when the document 
-is viewed or printed, but show up in the "count". I will say right now, 
+>
+
+I have heard rumours of a technique that is employed to sabotage word 
+counters: submit resume via an MS WORD document with a number of useful 
+keywords that have their text colour changed to match the document 
+background (usually white) so that they do not appear when the document 
+is viewed or printed, but show up in the "count". I will say right now, 
 with my hand on my heart, that I have never used this technique ...
 ```
 

@@ -1,0 +1,38 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# !!!DFW JOBS!!!COBOL; COBOL II; Realia; Microfocus
+
+_1 message · 1 participant · 1997-02_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs) · [`Compilers and vendors`](../topics.md#compilers)
+
+---
+
+### !!!DFW JOBS!!!COBOL; COBOL II; Realia; Microfocus
+
+- **From:** "ar..." <ua-author-17071339@usenetarchives.gap>
+- **Date:** 1997-02-09T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<5dnkjn$hnf@library.airnews.net>`
+
+```
+
+Over 25 Openings!
+All Skill Levels
+Temp to Hire/Contract/Perm
+Major telecommications company is expanding and needs many talented
+programmers to assist in growth.
+
+Fax/e-mail /call today!
+
+Contact: Jeanie
+ARISE International
+(972) 233-9020
+(972) 233-9029 FAX
+For a complete listing of our jobs:
+http://www.arise-intl.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

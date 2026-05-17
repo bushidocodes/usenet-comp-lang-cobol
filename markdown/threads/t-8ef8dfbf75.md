@@ -1,0 +1,27 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Cobol Coders
+
+_1 message · 1 participant · 1997-02_
+
+---
+
+### Cobol Coders
+
+- **From:** "rcl..." <ua-author-13498592@usenetarchives.gap>
+- **Date:** 1997-02-21T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<5el524$p6a@camel2.mindspring.com>`
+
+```
+
+Are you a COBOL coding machine??!! Immediate need for Cobol and IMS
+DB/DC programmer/analyst to assist in billing/collection application.
+If you have at least six years of solid mainframe COBOL and IMS DB/DC
+experience, then trade your snow shovel in for sun glasses and sun
+screen because this position is in the sunny south!
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

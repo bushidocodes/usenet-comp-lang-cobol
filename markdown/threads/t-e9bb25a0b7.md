@@ -16,14 +16,14 @@ _15 messages · 9 participants · 2012-11_
 - **Message-ID:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com>`
 
 ```
-Hi everybody,
-
-I just beginning learning COBOL and want to help me and others with example source code for studying. Therefore, I set up a website which shall contain a small database with code: https://sites.google.com/site/cobolcode/
-
-Any code "donation" (not meant in a transfer of copy rights, but showing at the homepage) would be highly appreciated. Thanks a lot!
-
-Kind regards,
-
+Hi everybody,
+
+I just beginning learning COBOL and want to help me and others with example source code for studying. Therefore, I set up a website which shall contain a small database with code: https://sites.google.com/site/cobolcode/
+
+Any code "donation" (not meant in a transfer of copy rights, but showing at the homepage) would be highly appreciated. Thanks a lot!
+
+Kind regards,
+
 Christopher
 ```
 
@@ -36,15 +36,15 @@ Christopher
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com>`
 
 ```
-
-"Christopher Bahn" <cbbahn@gmail.com> wrote in message 
-news:b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com...
-> Hi everybody,
->
+
+"Christopher Bahn" <cbbahn@gmail.com> wrote in message 
+news:b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com...
+> Hi everybody,
+>
 …[10 more quoted lines elided]…
-> Christopher
-
-The short program at your link looks like Java.  How does that help anyone 
+> Christopher
+
+The short program at your link looks like Java.  How does that help anyone 
 learn COBOL?
 ```
 
@@ -58,12 +58,12 @@ learn COBOL?
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <L7KdnRkSfrs6RQLNnZ2dnUVZ_tqdnZ2d@earthlink.com>`
 
 ```
-Am Sonntag, 11. November 2012 17:56:08 UTC+1 schrieb Charles Hottel:
-> "Christopher Bahn" <cbbahn@gmail.com> wrote in message 
-> 
+Am Sonntag, 11. November 2012 17:56:08 UTC+1 schrieb Charles Hottel:
+> "Christopher Bahn" <cbbahn@gmail.com> wrote in message 
+> 
 …[32 more quoted lines elided]…
-> learn COBOL?
-
+> learn COBOL?
+
 That is true, but it is meant only as illustration of "source code".
 ```
 
@@ -77,40 +77,40 @@ That is true, but it is meant only as illustration of "source code".
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com>`
 
 ```
-On 11-11-2012 10:49, Christopher Bahn wrote:
-> Hi everybody,
->
+On 11-11-2012 10:49, Christopher Bahn wrote:
+> Hi everybody,
+>
 …[7 more quoted lines elided]…
->
-
-As Charles said, it looks like Java,
-so maybe you should heve use Google,
-because than you would have found:
-http://groups.engin.umd.umich.edu/CIS/course.des/cis400/cobol/hworld.html
-
-000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID.     HELLOWORLD.
-000300
-000400*
-000500 ENVIRONMENT DIVISION.
-000600 CONFIGURATION SECTION.
-000700 SOURCE-COMPUTER. RM-COBOL.
-000800 OBJECT-COMPUTER. RM-COBOL.
-000900
-001000 DATA DIVISION.
-001100 FILE SECTION.
-001200
-100000 PROCEDURE DIVISION.
-100100
-100200 MAIN-LOGIC SECTION.
-100300 BEGIN.
-100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
-100500     DISPLAY "Hello world!" LINE 15 POSITION 10.
-100600     STOP RUN.
-100700 MAIN-LOGIC-EXIT.
-100800     EXIT.
-
-and is 'hello world' not the standard first program that anyone wants to 
+>
+
+As Charles said, it looks like Java,
+so maybe you should heve use Google,
+because than you would have found:
+http://groups.engin.umd.umich.edu/CIS/course.des/cis400/cobol/hworld.html
+
+000100 IDENTIFICATION DIVISION.
+000200 PROGRAM-ID.     HELLOWORLD.
+000300
+000400*
+000500 ENVIRONMENT DIVISION.
+000600 CONFIGURATION SECTION.
+000700 SOURCE-COMPUTER. RM-COBOL.
+000800 OBJECT-COMPUTER. RM-COBOL.
+000900
+001000 DATA DIVISION.
+001100 FILE SECTION.
+001200
+100000 PROCEDURE DIVISION.
+100100
+100200 MAIN-LOGIC SECTION.
+100300 BEGIN.
+100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
+100500     DISPLAY "Hello world!" LINE 15 POSITION 10.
+100600     STOP RUN.
+100700 MAIN-LOGIC-EXIT.
+100800     EXIT.
+
+and is 'hello world' not the standard first program that anyone wants to 
 write when he (or she) is learning a 'new' language ?
 ```
 
@@ -123,16 +123,16 @@ write when he (or she) is learning a 'new' language ?
 - **References:** `<rj35n9-gd5.ln1@luuk.invalid.lan>`
 
 ```
-Luuk <luuk@invalid.lan> wrote:
-
-> and is 'hello world' not the standard first program that anyone wants to 
-> write when he (or she) is learning a 'new' language ?
-
-No, it is not, especially not in this case since COBOL came out in 1959 and
-"Hello, World!" didn't come out until K&R in 1978.
-
-Do the math!
-
+Luuk <luuk@invalid.lan> wrote:
+
+> and is 'hello world' not the standard first program that anyone wants to 
+> write when he (or she) is learning a 'new' language ?
+
+No, it is not, especially not in this case since COBOL came out in 1959 and
+"Hello, World!" didn't come out until K&R in 1978.
+
+Do the math!
+
 >
 ```
 
@@ -146,14 +146,14 @@ Do the math!
 - **References:** `<rj35n9-gd5.ln1@luuk.invalid.lan> <fca69f60120d6f459bd57cad3040a29e@remailer.paranoici.org>`
 
 ```
-On 12-11-2012 14:19, Anonymous wrote:
-> Luuk <luuk@invalid.lan> wrote:
->
+On 12-11-2012 14:19, Anonymous wrote:
+> Luuk <luuk@invalid.lan> wrote:
+>
 …[9 more quoted lines elided]…
->
-
-Can i borrow someone's calculator?
-
+>
+
+Can i borrow someone's calculator?
+
 ;)
 ```
 
@@ -168,12 +168,12 @@ _(reply depth: 4)_
 - **References:** `<rj35n9-gd5.ln1@luuk.invalid.lan> <fca69f60120d6f459bd57cad3040a29e@remailer.paranoici.org> <1iu7n9-7li.ln1@luuk.invalid.lan>`
 
 ```
-Luuk wrote:
-> On 12-11-2012 14:19, Anonymous wrote:
->> Luuk <luuk@invalid.lan> wrote:
+Luuk wrote:
+> On 12-11-2012 14:19, Anonymous wrote:
+>> Luuk <luuk@invalid.lan> wrote:
 …[13 more quoted lines elided]…
->
-
+>
+
 You could write a program ...
 ```
 
@@ -189,36 +189,36 @@ _(reply depth: 5)_
 - **References:** `<rj35n9-gd5.ln1@luuk.invalid.lan> <fca69f60120d6f459bd57cad3040a29e@remailer.paranoici.org> <1iu7n9-7li.ln1@luuk.invalid.lan> <jfCdnXvncvvOBz_NnZ2dnUVZ_rSdnZ2d@earthlink.com>`
 
 ```
-On 13-11-2012 20:06, HeyBub wrote:
-> Luuk wrote:
->> On 12-11-2012 14:19, Anonymous wrote:
+On 13-11-2012 20:06, HeyBub wrote:
+> Luuk wrote:
+>> On 12-11-2012 14:19, Anonymous wrote:
 …[18 more quoted lines elided]…
->
-
-000100 IDENTIFICATION DIVISION.
-000200 PROGRAM-ID.     HELLOWORLD.
-000300
-000400*
-000500 ENVIRONMENT DIVISION.
-000600 CONFIGURATION SECTION.
-000700 SOURCE-COMPUTER. RM-COBOL.
-000800 OBJECT-COMPUTER. RM-COBOL.
-000900
-001000 DATA DIVISION.
-001100 FILE SECTION.
-001200
-100000 PROCEDURE DIVISION.
-100100
-100200 MAIN-LOGIC SECTION.
-100300 BEGIN.
-100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
-100500     DISPLAY "What time  has past between 1959 and 1978:", 	100600 
-         1978-1959 .
-100700     STOP RUN.
-100800 MAIN-LOGIC-EXIT.
-100900     EXIT.
-
-
+>
+
+000100 IDENTIFICATION DIVISION.
+000200 PROGRAM-ID.     HELLOWORLD.
+000300
+000400*
+000500 ENVIRONMENT DIVISION.
+000600 CONFIGURATION SECTION.
+000700 SOURCE-COMPUTER. RM-COBOL.
+000800 OBJECT-COMPUTER. RM-COBOL.
+000900
+001000 DATA DIVISION.
+001100 FILE SECTION.
+001200
+100000 PROCEDURE DIVISION.
+100100
+100200 MAIN-LOGIC SECTION.
+100300 BEGIN.
+100400     DISPLAY " " LINE 1 POSITION 1 ERASE EOS.
+100500     DISPLAY "What time  has past between 1959 and 1978:", 	100600 
+         1978-1959 .
+100700     STOP RUN.
+100800 MAIN-LOGIC-EXIT.
+100900     EXIT.
+
+
 But my coding skills are a bit...... not used for some time...
 ```
 
@@ -232,29 +232,29 @@ But my coding skills are a bit...... not used for some time...
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <rj35n9-gd5.ln1@luuk.invalid.lan>`
 
 ```
-On Sunday, November 11, 2012 12:30:02 PM UTC-5, Luuk wrote:
-
-[snip]
-
-> 000100 IDENTIFICATION DIVISION.
-> 000200 PROGRAM-ID.     HELLOWORLD.
+On Sunday, November 11, 2012 12:30:02 PM UTC-5, Luuk wrote:
+
+[snip]
+
+> 000100 IDENTIFICATION DIVISION.
+> 000200 PROGRAM-ID.     HELLOWORLD.
 …[18 more quoted lines elided]…
-> 100800     EXIT.
-
-FYI, the minimum program conforming to the COBOL 85 standard is:
------
-       identification division.
-       program-id. hello.
-       procedure division.
-       begin.
-           display "Hello world!".
------
-
-For COBOL 2002, it is (or should be):
------
-       program-id. hello.
-       procedure division.
-           display "Hello world!".
+> 100800     EXIT.
+
+FYI, the minimum program conforming to the COBOL 85 standard is:
+-----
+       identification division.
+       program-id. hello.
+       procedure division.
+       begin.
+           display "Hello world!".
+-----
+
+For COBOL 2002, it is (or should be):
+-----
+       program-id. hello.
+       procedure division.
+           display "Hello world!".
 -----
 ```
 
@@ -268,12 +268,12 @@ For COBOL 2002, it is (or should be):
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <rj35n9-gd5.ln1@luuk.invalid.lan> <0c93ca2d-164c-4fb5-a2e6-faa4cf856099@googlegroups.com>`
 
 ```
-Am Mittwoch, 14. November 2012 00:31:13 UTC+1 schrieb Rick Smith:
-> On Sunday, November 11, 2012 12:30:02 PM UTC-5, Luuk wrote:
-> 
+Am Mittwoch, 14. November 2012 00:31:13 UTC+1 schrieb Rick Smith:
+> On Sunday, November 11, 2012 12:30:02 PM UTC-5, Luuk wrote:
+> 
 …[78 more quoted lines elided]…
-> -----
-
+> -----
+
 Thanks!
 ```
 
@@ -286,18 +286,18 @@ Thanks!
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com>`
 
 ```
-On 11/11/12 09:49, Christopher Bahn wrote:
-> Hi everybody,
->
+On 11/11/12 09:49, Christopher Bahn wrote:
+> Hi everybody,
+>
 …[10 more quoted lines elided]…
-> Christopher
-
-
-Back in the day i wrote a COBOL compiler for a now obscure platform, the 
-amiga. I ported the program to linux but never got around to
-publishing it.
-
-It came with a number of reasonable programming examples, if you're
+> Christopher
+
+
+Back in the day i wrote a COBOL compiler for a now obscure platform, the 
+amiga. I ported the program to linux but never got around to
+publishing it.
+
+It came with a number of reasonable programming examples, if you're
 interested you could have those in a zip.
 ```
 
@@ -310,21 +310,36 @@ interested you could have those in a zip.
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <k8bhrq$s85$2@speranza.aioe.org>`
 
 ```
-On Sun, 18 Nov 2012 20:53:18 +0000, TruthSlave <TS@home.com> wrote:
-
->On 11/11/12 09:49, Christopher Bahn wrote:
->> Hi everybody,
+On Sun, 18 Nov 2012 20:53:18 +0000, TruthSlave <TS@home.com> wrote:
+
+>On 11/11/12 09:49, Christopher Bahn wrote:
+>> Hi everybody,
 …[17 more quoted lines elided]…
->
-
-Too bad the Amiga is now obscure.  It was far better than Windows or
-Apple but had a bunch of knuckleheads as CEOs.
-
-
->It came with a number of reasonable programming examples, if you're
->interested you could have those in a zip.
-
-Regards,
+>
+
+Too bad the Amiga is now obscure.  It was far better than Windows or
+Apple but had a bunch of knuckleheads as CEOs.
+
+
+>It came with a number of reasonable programming examples, if you're
+>interested you could have those in a zip.
+
+Regards,
+-- 
+
+          ////
+         (o o)
+-oOO--(_)--OOo-
+  
+"After eating an entire bull, a mountain lion felt so good he started 
+roaring. He kept it up until a hunter came along and shot him... The moral: 
+When you're full of bull, keep your mouth shut."
+--Will Rogers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Remove nospam to email me.
+
+Steve
 ```
 
 ##### ↳ ↳ Re: New learning website for COBOL in the making
@@ -337,14 +352,14 @@ Regards,
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <k8bhrq$s85$2@speranza.aioe.org>`
 
 ```
-Am Sonntag, 18. November 2012 21:53:20 UTC+1 schrieb TruthSlave:
-> On 11/11/12 09:49, Christopher Bahn wrote:
-> 
+Am Sonntag, 18. November 2012 21:53:20 UTC+1 schrieb TruthSlave:
+> On 11/11/12 09:49, Christopher Bahn wrote:
+> 
 …[40 more quoted lines elided]…
-> interested you could have those in a zip.
-
-Hi,
-
+> interested you could have those in a zip.
+
+Hi,
+
 that would be great: christopher.bahn@aol.com
 ```
 
@@ -358,17 +373,17 @@ that would be great: christopher.bahn@aol.com
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com>`
 
 ```
-Christopher, 
-
-I would advise you to always use a Monospace font, while displaying Cobol Code Samples on your site.
-
-Thank you very much,
-
-Quasar Chunawala
-
-On Sunday, November 11, 2012 3:19:05 PM UTC+5:30, Christopher Bahn wrote:
-> Hi everybody,
-> 
+Christopher, 
+
+I would advise you to always use a Monospace font, while displaying Cobol Code Samples on your site.
+
+Thank you very much,
+
+Quasar Chunawala
+
+On Sunday, November 11, 2012 3:19:05 PM UTC+5:30, Christopher Bahn wrote:
+> Hi everybody,
+> 
 …[14 more quoted lines elided]…
 > Christopher
 ```
@@ -383,12 +398,12 @@ On Sunday, November 11, 2012 3:19:05 PM UTC+5:30, Christopher Bahn wrote:
 - **References:** `<b8117739-d5ce-4041-90ca-98dc5e729a14@googlegroups.com> <be06a56a-50db-4eef-94b2-ea4bd0dfdbf8@googlegroups.com>`
 
 ```
-Am Dienstag, 20. November 2012 07:48:58 UTC+1 schrieb quasar.c...@gmail.com:
-> Christopher, 
-> 
+Am Dienstag, 20. November 2012 07:48:58 UTC+1 schrieb quasar.c...@gmail.com:
+> Christopher, 
+> 
 …[48 more quoted lines elided]…
-> > Christopher
-
+> > Christopher
+
 Thanks for the hint!
 ```
 

@@ -105,24 +105,24 @@ City of Vancouver
 
 ```
 
-In article <3bl5da$slk@hpchase.rose.hp.com>, <walterm@hprctbs3.rose.hp.com> 
+In article <3bl5da$slk@hpchase.rose.hp.com>, <walterm@hprctbs3.rose.hp.com> 
 writes:
 > 
 > I'm curious whether someone who's "in the know" can explain the
 …[4 more quoted lines elided]…
 > use apostrophes in place of quotation marks for nonnumeric literals?
 
-It might be an IBM thing.  I don't know whether my experience counts for the 
-"early days of COBOL", but I started just about 25 years ago programming in 
-COBOL in our office at Purdue (then Administrative Data Processing Center).  
-The default to delimit non-numeric literals has always been the single quote or 
-apostrophe mark.  This can be changed as an option when you run the compiler.  
-The default is set by the people who install the compiler.  Based on our 
-typical practice to use IBM defaults (except where we have specific different 
+It might be an IBM thing.  I don't know whether my experience counts for the 
+"early days of COBOL", but I started just about 25 years ago programming in 
+COBOL in our office at Purdue (then Administrative Data Processing Center).  
+The default to delimit non-numeric literals has always been the single quote or 
+apostrophe mark.  This can be changed as an option when you run the compiler.  
+The default is set by the people who install the compiler.  Based on our 
+typical practice to use IBM defaults (except where we have specific different 
 needs), I would expect that this is the default.
 
-I tried to remember if there was any reasons given for this, but I can't think 
-of any.  I even checked with another long-term person in the office, but he 
+I tried to remember if there was any reasons given for this, but I can't think 
+of any.  I even checked with another long-term person in the office, but he 
 couldn't think of why, either.
 ```
 

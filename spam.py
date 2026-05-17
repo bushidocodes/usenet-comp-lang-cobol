@@ -54,6 +54,15 @@ SPAM_HOSTS: frozenset[str] = frozenset([
     "adultisp.com",
     "asians.usatown.net",
     "my-black.we.bs",
+    # Escort/dating spam clusters (added when UA-supplemental scrape surfaced
+    # 2015–2020 threads with subjects like "Adult Search", "Married Women
+    # Seeking Men", "Find Girlfriend Near Me"). Each domain appears only
+    # inside that handful of clearly-spam threads in this archive.
+    "vipmodel-escorts.com",
+    "jaipurescorts.club",
+    "jaipurescortsservice.net.in",
+    "juhi-escorts.com",
+    "seniorsizzle.com",
     # Specific spam .tk hosts (tcl.tk is the legitimate TCL programming
     # language site — so we list bad .tk hosts explicitly rather than
     # banning the whole TLD)
@@ -94,11 +103,11 @@ _SUBSTANTIVE_WORD_MIN = 3
 _WORD_RE = re.compile(r"\b[a-zA-Z]{3,}\b")
 
 # Real Usenet/email quote lines start at column 0 with one or more `>` (or
-# `|`) followed by a space — `> reply text`, `>> grandparent`. Spam
-# decoration like `   > http://link <` or `>>> link <<<` has leading
-# whitespace (or no trailing space after the chevrons), so it stays as
-# part of the original message content.
-_QUOTE_LINE_RE = re.compile(r"^[>|]+(\s|$)")
+# `|`, or `›` for UsenetArchives.com gap-period scrapes) followed by a space
+# — `> reply text`, `›› grandparent`. Spam decoration like `   > http://link <`
+# or `>>> link <<<` has leading whitespace (or no trailing space after the
+# chevrons), so it stays as part of the original message content.
+_QUOTE_LINE_RE = re.compile(r"^[>|›]+(\s|$)")
 
 # Lines that are unambiguously auto-generated quote headers from common
 # clients ("On <date>, <name> wrote:", "Name wrote:", Chinese "X 写道：", etc.).

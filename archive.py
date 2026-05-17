@@ -22,12 +22,18 @@ from dateutil import parser as dateutil_parser
 
 PROJECT_DIR = Path(__file__).resolve().parent
 SRC = PROJECT_DIR / "comp.lang.cobol.mbox"
+# Supplementary mboxes merged in at parse time (e.g., the 1994–1998 + 2013–2022
+# scrape from UsenetArchives.com). Order matters only for the X-Source header
+# disambiguation if a message appears in more than one source — first wins.
+EXTRA_SRCS = [
+    PROJECT_DIR / "comp.lang.cobol.gap.mbox",
+]
 CACHE = PROJECT_DIR / ".archive_cache.pickle"
 OUT = PROJECT_DIR / "markdown"
 THREADS_DIR = OUT / "threads"
 
 # Bump to invalidate older caches when the parser semantics change.
-CACHE_VERSION = 3
+CACHE_VERSION = 4
 
 FROM_LINE_RE = re.compile(rb"^From -?[0-9]+[ \t]*\r?\n", re.MULTILINE)
 MSGID_RE = re.compile(r"<[^<>\s]+>")
@@ -142,11 +148,15 @@ SIG_DELIM_RE = re.compile(r"^-- ?$")
 
 
 def _is_quote_line(line: str) -> bool:
-    """Detect a quoted line (Usenet/email reply prefix)."""
+    """Detect a quoted line (Usenet/email reply prefix).
+
+    `>` and `|` are the standard prefixes; `›` (U+203A) is used by
+    UsenetArchives.com when rendering quoted text in the gap-period scrape.
+    """
     s = line.lstrip()
     if not s:
         return False
-    return s[0] in ">|"
+    return s[0] in ">|›"
 
 
 def clean_body(body: str, quote_threshold: int = 5) -> str:
@@ -222,60 +232,69 @@ def thread_anchor(root_id: str) -> str:
 
 
 def _parse_full():
-    print(f"Parsing {SRC} ({SRC.stat().st_size / 1e6:.1f} MB)...")
     msgs = {}
     errors = 0
     parsed = 0
-    for idx, raw in enumerate(iter_messages(SRC)):
-        try:
-            m = email.message_from_bytes(raw, policy=email.policy.compat32)
-            mid = extract_msgid(m.get("Message-ID") or "")
-            subject = normalize_whitespace(
-                decode_header_str(m.get("Subject")).strip() or "(no subject)"
-            )
-            sender = normalize_whitespace(decode_header_str(m.get("From")).strip())
-            email_addr = extract_email(sender)
-            display_name = extract_display_name(sender)
-            date_raw = m.get("Date", "")
-            references = parse_refs(m.get("References", ""))
-            irt_raw = (m.get("In-Reply-To") or "").strip()
-            irt_list = parse_refs(irt_raw)
-            parent = irt_list[0] if irt_list else (references[-1] if references else None)
-            newsgroups = (m.get("Newsgroups") or "").strip()
-            dt = parse_date(date_raw)
-            ym = f"{dt.year:04d}-{dt.month:02d}" if dt else "undated"
-            date_iso = dt.isoformat() if dt else (date_raw or "(unknown)")
-            body = strip_dotall(get_body(m))
-            key = mid or f"<__noid_{idx}__>"
-            if key in msgs:
-                key = f"<__dup_{idx}__{key.strip('<>')}>"
-            msgs[key] = {
-                "id": key,
-                "original_id": mid,
-                "subject": subject,
-                "norm_subject": normalize_subject(subject),
-                "sender": sender,
-                "email": email_addr,
-                "display_name": display_name,
-                "date_iso": date_iso,
-                "date_raw": date_raw,
-                "dt": dt,
-                "ym": ym,
-                "body": body,
-                "body_len": len(body),
-                "references": references,
-                "in_reply_to_raw": irt_raw,
-                "parent": parent,
-                "newsgroups": newsgroups,
-                "idx": idx,
-            }
-            parsed += 1
-            if parsed % 20000 == 0:
-                print(f"  ...{parsed} parsed")
-        except Exception as exc:
-            errors += 1
-            if errors <= 5:
-                print(f"  [warn] message {idx}: {exc}", file=sys.stderr)
+    idx = 0  # global across all source mboxes
+
+    sources = [SRC] + [p for p in EXTRA_SRCS if p.exists()]
+    for src in sources:
+        print(f"Parsing {src.name} ({src.stat().st_size / 1e6:.1f} MB)...")
+        for raw in iter_messages(src):
+            try:
+                m = email.message_from_bytes(raw, policy=email.policy.compat32)
+                mid = extract_msgid(m.get("Message-ID") or "")
+                subject = normalize_whitespace(
+                    decode_header_str(m.get("Subject")).strip() or "(no subject)"
+                )
+                sender = normalize_whitespace(decode_header_str(m.get("From")).strip())
+                email_addr = extract_email(sender)
+                display_name = extract_display_name(sender)
+                date_raw = m.get("Date", "")
+                references = parse_refs(m.get("References", ""))
+                irt_raw = (m.get("In-Reply-To") or "").strip()
+                irt_list = parse_refs(irt_raw)
+                parent = irt_list[0] if irt_list else (references[-1] if references else None)
+                newsgroups = (m.get("Newsgroups") or "").strip()
+                dt = parse_date(date_raw)
+                ym = f"{dt.year:04d}-{dt.month:02d}" if dt else "undated"
+                date_iso = dt.isoformat() if dt else (date_raw or "(unknown)")
+                body = strip_dotall(get_body(m))
+                # X-Source distinguishes scraped UA threads from the Giganews
+                # base mbox so downstream consumers can branch on provenance.
+                source = (m.get("X-Source") or "giganews").strip().lower()
+                key = mid or f"<__noid_{idx}__>"
+                if key in msgs:
+                    key = f"<__dup_{idx}__{key.strip('<>')}>"
+                msgs[key] = {
+                    "id": key,
+                    "original_id": mid,
+                    "subject": subject,
+                    "norm_subject": normalize_subject(subject),
+                    "sender": sender,
+                    "email": email_addr,
+                    "display_name": display_name,
+                    "date_iso": date_iso,
+                    "date_raw": date_raw,
+                    "dt": dt,
+                    "ym": ym,
+                    "body": body,
+                    "body_len": len(body),
+                    "references": references,
+                    "in_reply_to_raw": irt_raw,
+                    "parent": parent,
+                    "newsgroups": newsgroups,
+                    "idx": idx,
+                    "source": source,
+                }
+                parsed += 1
+                if parsed % 20000 == 0:
+                    print(f"  ...{parsed} parsed")
+            except Exception as exc:
+                errors += 1
+                if errors <= 5:
+                    print(f"  [warn] message {idx}: {exc}", file=sys.stderr)
+            idx += 1
     print(f"Parsed {parsed} messages, {errors} errors")
     return msgs
 

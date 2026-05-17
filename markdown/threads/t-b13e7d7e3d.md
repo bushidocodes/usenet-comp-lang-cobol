@@ -16,11 +16,11 @@ _1 message · 1 participant · 2012-09_
 - **Message-ID:** `<j9WdnbHdxYlEY8rNnZ2dnUVZ_o2dnZ2d@earthlink.com>`
 
 ```
-Did you every wish you knew more about some famous person.  I ran into this 
-website recently:
-
-http://www.webofstories.com/
-
+Did you every wish you knew more about some famous person.  I ran into this 
+website recently:
+
+http://www.webofstories.com/
+
 I just finished watching te one from Donald Knuth.
 ```
 

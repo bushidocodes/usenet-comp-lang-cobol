@@ -16,9 +16,11 @@ _7 messages · 3 participants · 2012-10_
 - **Message-ID:** `<ad2drbFes6oU1@mid.individual.net>`
 
 ```
-http://www.theatlantic.com/health/archive/2012/09/tin-foil-hats-actually-make-it-easier-for-the-government-to-track-your-thoughts/262998/
-
-Pete.
+http://www.theatlantic.com/health/archive/2012/09/tin-foil-hats-actually-make-it-easier-for-the-government-to-track-your-thoughts/262998/
+
+Pete.
+-- 
+"I used to write COBOL...now I can do anything."
 ```
 
 #### ↳ Re: OT: Check your tin foil hat...
@@ -31,9 +33,9 @@ Pete.
 - **References:** `<ad2drbFes6oU1@mid.individual.net>`
 
 ```
-On Wednesday, October 3, 2012 10:12:14 AM UTC+1, Pete Dashwood wrote:
-> http://www.theatlantic.com/health/archive/2012/09/tin-foil-hats-actually-make-it-easier-for-the-government-to-track-your-thoughts/262998/ Pete. -- "I used to write COBOL...now I can do anything."
-
+On Wednesday, October 3, 2012 10:12:14 AM UTC+1, Pete Dashwood wrote:
+> http://www.theatlantic.com/health/archive/2012/09/tin-foil-hats-actually-make-it-easier-for-the-government-to-track-your-thoughts/262998/ Pete. -- "I used to write COBOL...now I can do anything."
+
 I can just imagine DD running mesh sheets up the walls of his condo now.
 ```
 
@@ -46,19 +48,19 @@ I can just imagine DD running mesh sheets up the walls of his condo now.
 - **References:** `<ad2drbFes6oU1@mid.individual.net> <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>`
 
 ```
-In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>,
-Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
->On Wednesday, October 3, 2012 10:12:14 AM UTC+1, Pete Dashwood wrote:
->>
+In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>,
+Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
+>On Wednesday, October 3, 2012 10:12:14 AM UTC+1, Pete Dashwood wrote:
+>>
 …[3 more quoted lines elided]…
->I can just imagine DD running mesh sheets up the walls of his condo now.
-
-To confirm or deny this imagining would give an indication of a highly 
-successful countermeasure.
-
-No need to ask 'Are you one of the 'They', Mr Maclean?'... as any answer 
-would provide the obvious conclusion.
-
+>I can just imagine DD running mesh sheets up the walls of his condo now.
+
+To confirm or deny this imagining would give an indication of a highly 
+successful countermeasure.
+
+No need to ask 'Are you one of the 'They', Mr Maclean?'... as any answer 
+would provide the obvious conclusion.
+
 DD
 ```
 
@@ -72,9 +74,9 @@ DD
 - **References:** `<ad2drbFes6oU1@mid.individual.net> <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com> <k4hus8$oqj$1@reader1.panix.com>`
 
 ```
-On Wednesday, October 3, 2012 7:07:05 PM UTC+1, (unknown) wrote:
-> In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>, Alistair Maclean <alistair.j.l.maclean@gmail.com> wrote: >I can just imagine DD running mesh sheets up the walls of his condo now. To confirm or deny this imagining would give an indication of a highly successful countermeasure. No need to ask 'Are you one of the 'They', Mr Maclean?'... as any answer would provide the obvious conclusion. DD
-
+On Wednesday, October 3, 2012 7:07:05 PM UTC+1, (unknown) wrote:
+> In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>, Alistair Maclean <alistair.j.l.maclean@gmail.com> wrote: >I can just imagine DD running mesh sheets up the walls of his condo now. To confirm or deny this imagining would give an indication of a highly successful countermeasure. No need to ask 'Are you one of the 'They', Mr Maclean?'... as any answer would provide the obvious conclusion. DD
+
 I have nothing to hide. The government and the Bilderberger Group know where I am and what I am doing.
 ```
 
@@ -89,16 +91,16 @@ _(reply depth: 4)_
 - **References:** `<ad2drbFes6oU1@mid.individual.net> <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com> <k4hus8$oqj$1@reader1.panix.com> <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com>`
 
 ```
-In article <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com>,
-Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
->On Wednesday, October 3, 2012 7:07:05 PM UTC+1, (unknown) wrote:
->> In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>,
+In article <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com>,
+Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
+>On Wednesday, October 3, 2012 7:07:05 PM UTC+1, (unknown) wrote:
+>> In article <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com>,
 …[8 more quoted lines elided]…
->
-
-Is that what you want me to think, Mr Maclean, or is that what you think I 
-think you want me to think?
-
+>
+
+Is that what you want me to think, Mr Maclean, or is that what you think I 
+think you want me to think?
+
 DD
 ```
 
@@ -113,19 +115,22 @@ _(reply depth: 5)_
 - **References:** `<ad2drbFes6oU1@mid.individual.net> <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com> <k4hus8$oqj$1@reader1.panix.com> <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com> <k4pgs8$e3s$1@reader1.panix.com>`
 
 ```
-docdwarf@panix.com wrote:
-> In article <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com>,
-> Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
+docdwarf@panix.com wrote:
+> In article <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com>,
+> Alistair Maclean  <alistair.j.l.maclean@gmail.com> wrote:
 …[16 more quoted lines elided]…
-> DD
-
-This exchange reminded me of the old Laurel and Hardy slogan...
-
-"Two minds without a single thought."
-
-:-)
-
-Pete.
+> DD
+
+This exchange reminded me of the old Laurel and Hardy slogan...
+
+"Two minds without a single thought."
+
+:-)
+
+Pete.
+
+-- 
+"I used to write COBOL...now I can do anything."
 ```
 
 ###### ↳ ↳ ↳ Re: OT: Check your tin foil hat...
@@ -140,13 +145,13 @@ _(reply depth: 5)_
 - **References:** `<ad2drbFes6oU1@mid.individual.net> <04d92d7b-f451-4dd0-870e-ecb1f389010c@googlegroups.com> <k4hus8$oqj$1@reader1.panix.com> <df795b2c-4103-4f67-96cd-79f61fb4a4a4@googlegroups.com> <k4pgs8$e3s$1@reader1.panix.com>`
 
 ```
-On Saturday, October 6, 2012 3:57:12 PM UTC+1, (unknown) wrote:
->I have nothing to hide. The government and the Bilderberger Group know 
->where I am and what I am doing. 
-> Is that what you want me to think, Mr Maclean, or is that what you think I think you want me to think? DD
-
-I barely know what I think. And, as I have considerable doubts about the nature of existence, the act of thinking is questionable.
-
+On Saturday, October 6, 2012 3:57:12 PM UTC+1, (unknown) wrote:
+>I have nothing to hide. The government and the Bilderberger Group know 
+>where I am and what I am doing. 
+> Is that what you want me to think, Mr Maclean, or is that what you think I think you want me to think? DD
+
+I barely know what I think. And, as I have considerable doubts about the nature of existence, the act of thinking is questionable.
+
 I am not a Buddhist but Pete's comment re L&H seems apt.
 ```
 

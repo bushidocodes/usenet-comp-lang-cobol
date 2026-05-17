@@ -14,13 +14,13 @@ _6 messages · 2 participants · 2011-10_
 - **Message-ID:** `<GfydnVj2W6bwRhPTnZ2dnUVZ_gCdnZ2d@earthlink.com>`
 
 ```
-"We don't allow faster-than-light neutrinos in here," says the bartender.
-
-A neutrino walks into a bar.
-
--------
-Charles Krauthammer has an interesting observation on a recent physical 
-discovery.
+"We don't allow faster-than-light neutrinos in here," says the bartender.
+
+A neutrino walks into a bar.
+
+-------
+Charles Krauthammer has an interesting observation on a recent physical 
+discovery.
 http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10/06/gIQAf1RERL_story.html
 ```
 
@@ -33,17 +33,17 @@ http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10/06/gIQAf1R
 - **References:** `<GfydnVj2W6bwRhPTnZ2dnUVZ_gCdnZ2d@earthlink.com>`
 
 ```
-On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
-> "We don't allow faster-than-light neutrinos in here," says the bartender.
->
+On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
+> "We don't allow faster-than-light neutrinos in here," says the bartender.
+>
 …[4 more quoted lines elided]…
-> discovery.http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10...
-
-That should be:
-
- "We don't allow faster-than-light neutrinos in here," says the
-bartender.
-
+> discovery.http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10...
+
+That should be:
+
+ "We don't allow faster-than-light neutrinos in here," says the
+bartender.
+
  A neutrino is seen to walk into a bar.
 ```
 
@@ -56,25 +56,25 @@ bartender.
 - **References:** `<GfydnVj2W6bwRhPTnZ2dnUVZ_gCdnZ2d@earthlink.com> <a9b47741-e0f8-4961-933d-108b2713ee87@j31g2000vbl.googlegroups.com>`
 
 ```
-Alistair Maclean wrote:
-> On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
->> "We don't allow faster-than-light neutrinos in here," says the
+Alistair Maclean wrote:
+> On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
+>> "We don't allow faster-than-light neutrinos in here," says the
 …[14 more quoted lines elided]…
->  A neutrino is seen to walk into a bar.
-
-Well, cut him some slack; Krauthammer isn't a physicist.
-
-Although sometime back, Krauthammer accused someone of being "delusional," 
-about a proposed economic program. This prompted one liberal blogger to 
-exclaim: "What the fuck does a TV commentator know about economics or mental 
-problems, unless he's a mental problem himself!"
-
-I posted a small note to the effect:
-Charles Krauthammer:
-McGill University, BA - Economics, with honors
-Harvard Medical School, MD, Board Certified American Board of Psychiatry and 
-Neurology
-
+>  A neutrino is seen to walk into a bar.
+
+Well, cut him some slack; Krauthammer isn't a physicist.
+
+Although sometime back, Krauthammer accused someone of being "delusional," 
+about a proposed economic program. This prompted one liberal blogger to 
+exclaim: "What the fuck does a TV commentator know about economics or mental 
+problems, unless he's a mental problem himself!"
+
+I posted a small note to the effect:
+Charles Krauthammer:
+McGill University, BA - Economics, with honors
+Harvard Medical School, MD, Board Certified American Board of Psychiatry and 
+Neurology
+
 Which generated silence.
 ```
 
@@ -142,18 +142,18 @@ JD from Georgetown Law. Appellate Court clerkship.
 - **References:** `<GfydnVj2W6bwRhPTnZ2dnUVZ_gCdnZ2d@earthlink.com>`
 
 ```
-On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
-> "We don't allow faster-than-light neutrinos in here," says the bartender.
->
+On Oct 7, 11:58 am, "HeyBub" <hey...@NOSPAMgmail.com> wrote:
+> "We don't allow faster-than-light neutrinos in here," says the bartender.
+>
 …[4 more quoted lines elided]…
-> discovery.http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10...
-
-Interesting. The observation had already been made by another
-experiment where the experimenters were not quite sure of the location
-of their detector and presumed that it was experimental error.
-
-Also "It means that the “standard model” of subatomic particles that
-stands at the center of all modern physics is wrong" is already known
+> discovery.http://www.washingtonpost.com/opinions/gone-in-60-nanoseconds/2011/10...
+
+Interesting. The observation had already been made by another
+experiment where the experimenters were not quite sure of the location
+of their detector and presumed that it was experimental error.
+
+Also "It means that the “standard model” of subatomic particles that
+stands at the center of all modern physics is wrong" is already known
 to be wrong because of dark matter, dark energy and now dark flow.
 ```
 

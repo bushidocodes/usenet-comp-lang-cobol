@@ -16,10 +16,10 @@ _1 message · 1 participant · 2012-02_
 - **Message-ID:** `<0b1edcc8-cf9c-4097-a63b-cc2b1f1028ec@t15g2000yqi.googlegroups.com>`
 
 ```
-Hello,
-
-does anyone have a fujitsu cobol fastcgi sample to share?
-
+Hello,
+
+does anyone have a fujitsu cobol fastcgi sample to share?
+
 Regards, Emerson
 ```
 

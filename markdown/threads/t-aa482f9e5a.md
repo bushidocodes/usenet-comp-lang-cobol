@@ -1,0 +1,294 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Bitwise Operations
+
+_4 messages · 4 participants · 1997-01_
+
+---
+
+### Bitwise Operations
+
+- **From:** "nightshadow" <ua-author-5617200@usenetarchives.gap>
+- **Date:** 1997-01-12T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<32DADBE2.45F7@pacific.net.sg>`
+
+```
+
+Just wondering, does Cobol support bitwise ops like
+AND, OR, XOR and stuff?
+		       /\                 <    " Men who drive like
+	   /vvvvvvvvvvvv \---------------- >     Hell bound to get
+	   `^^^^^^^^^^^^ /================<          there."
+		       \/  Nightshadow     >	    - Confucius
+```
+
+#### ↳ Re: Bitwise Operations
+
+- **From:** "jo..." <ua-author-526950@usenetarchives.gap>
+- **Date:** 1997-01-12T19:00:02+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<gap-aa482f9e5a-p2@usenetarchives.gap>`
+- **In-Reply-To:** `<32DADBE2.45F7@pacific.net.sg>`
+- **References:** `<32DADBE2.45F7@pacific.net.sg>`
+
+```
+
+On Mon, 13 Jan 1997 17:05:38 -0800, Nightshadow
+wrote:
+
+› Just wondering, does Cobol support bitwise ops like
+› AND, OR, XOR and stuff?
+
+I don't know of a compiler on the mainframe side that does, and I've
+worked with Burroughs and IBM. Burroughs (now Unisys) has a way to set
+individual bits within a word, but I don't know of any sort of bitwise
+operations that you can do with it.
+-----------
+John Holton
+jo··.@a··.com, jo··.@i··.net
+http://members.aol.com/johlt
+```
+
+##### ↳ ↳ Re: Bitwise Operations
+
+- **From:** "don nelson" <ua-author-20234@usenetarchives.gap>
+- **Date:** 1997-01-14T19:00:03+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<gap-aa482f9e5a-p3@usenetarchives.gap>`
+- **In-Reply-To:** `<gap-aa482f9e5a-p2@usenetarchives.gap>`
+- **References:** `<32DADBE2.45F7@pacific.net.sg> <gap-aa482f9e5a-p2@usenetarchives.gap>`
+
+```
+
+John Holton wrote:
+› 
+› On Mon, 13 Jan 1997 17:05:38 -0800, Nightshadow
+…[8 more quoted lines elided]…
+› operations that you can do with it.
+
+An old CDC implementation did. An old ICL one did too. I don't know
+of any that do it without calling an external routine. The next
+standard will definitely have boolean operations (B-AND, B-OR, and
+B-XOR). Note that I said boolean, not bitwise. Boolean characters
+(described with PIC 1) can be bytes or bits (USAGE BIT). Some people
+have tried to get this removed from the proposed standard because they
+feel that COBOL does not need boolean operations. The latest attempt
+failed by a 9-1 vote.
+
+Don Nelson
+COBOL Development, Tandem Computers, Inc.
+Member, ANSI X3J4 and ISO/IEC JTC1/SC22 WG4 COBOL Committees
+nel··.@tan··m.com
+No clever quotes here
+```
+
+#### ↳ Re: Bitwise Operations
+
+- **From:** "le..." <ua-author-782493@usenetarchives.gap>
+- **Date:** 1997-01-18T19:00:04+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<gap-aa482f9e5a-p4@usenetarchives.gap>`
+- **In-Reply-To:** `<32DADBE2.45F7@pacific.net.sg>`
+- **References:** `<32DADBE2.45F7@pacific.net.sg>`
+
+```
+
+Nightshadow wrote:
+›
+› Just wondering, does Cobol support bitwise ops like
+› AND, OR, XOR and stuff?
+
+
+Here is code which will run on any platform and do bit operations.
+
+000100 IDENTIFICATION DIVISION.
+000200 PROGRAM-ID. BITPK.
+000300
+000400 AUTHOR. LEIF SVALGAARD.
+000500 DATE-WRITTEN. 96/12/06
+000600 -REVISED: 96/12/07.
+000700
+000800 ENVIRONMENT DIVISION.
+000900
+001000 CONFIGURATION SECTION.
+001100 SOURCE-COMPUTER. PORTABLE.
+001200 OBJECT-COMPUTER. PORTABLE.
+001300
+001400 DATA DIVISION.
+001500
+001600 WORKING-STORAGE SECTION.
+001700
+001800 01 BIT-HANDLING.
+001900 02 BIT-VALUE PIC 9(10) COMP.
+002000 02 BIT-TOP PIC 9(10) COMP VALUE ZEROES.
+002100 02 THE-WEIGHT PIC 9(10) COMP.
+002200 02 BIT-WEIGHTS.
+002300 03 BIT-WEIGHT PIC 9(10) COMP OCCURS 32 TIMES.
+002400
+002500 02 BIT-COUNT PIC S9(3) COMP.
+002600 02 BIT-MATCH PIC S9(3) COMP.
+002700 02 BIT-NBR PIC S9(3) COMP.
+002800
+002900 02 BIT-WANTED PIC X.
+003000 02 BIT-STRING.
+003100 03 THE-BIT PIC X OCCURS 32 TIMES.
+003200
+003300 LINKAGE SECTION.
+003400
+003500 01 BITPK-CONTROL.
+003600 02 SESSION-TASK-ID PIC X(4).
+003700 02 BITPK-OPERATION PIC X(1).
+003800 02 BITPK-FEEDBACK PIC X(1).
+003900
+004000 02 BITPK-PATTERN PIC 9(10) COMP.
+004100 02 BITPK-BITS.
+004200 03 BITPK-BIT PIC X OCCURS 32 TIMES.
+004300
+004400 PROCEDURE DIVISION
+004500 USING BITPK-CONTROL.
+004600 BEGIN-PROGRAM.
+004700 IF BIT-TOP = ZEROES
+004800 PERFORM INITIALIZE-BIT-WEIGHTS
+004900 .
+005000 MOVE SPACE TO BITPK-FEEDBACK
+005100 IF BITPK-OPERATION = "G"
+005200 PERFORM GET-THE-BITS
+005300 MOVE BIT-STRING TO BITPK-BITS
+005400 ELSE
+005500 IF BITPK-OPERATION = "S"
+005600 PERFORM SET-THE-BITS
+005700 ELSE
+005800 IF BITPK-OPERATION = "C"
+005900 PERFORM CLEAR-THE-BITS
+006000 ELSE
+006100 IF BITPK-OPERATION = "1"
+006200 PERFORM TEST-IF-ONES
+006300 ELSE
+006400 IF BITPK-OPERATION = "0"
+006500 PERFORM TEST-IF-ZEROES
+006600 ELSE
+006700 IF BITPK-OPERATION = "P"
+006800 PERFORM PACK-THE-BITS
+006900 ELSE
+007000 MOVE "OPERR" TO BITPK-FEEDBACK
+007100 .
+007200 RETURN-TO-CALLER.
+007300 EXIT PROGRAM
+007400 .
+007500
+007600 INITIALIZE-BIT-WEIGHTS.
+007700 MOVE 1 TO THE-WEIGHT
+007800 PERFORM SET-BIT-WEIGHT
+007900 VARYING BIT-NBR FROM 32 BY -1
+008000 UNTIL BIT-NBR < 1
+008100
+008200 MOVE THE-WEIGHT TO BIT-TOP
+008300 .
+008400
+008500 SET-BIT-WEIGHT.
+008600 MOVE THE-WEIGHT TO BIT-WEIGHT (BIT-NBR)
+008700 ADD THE-WEIGHT TO THE-WEIGHT
+008800 .
+008900
+009000 GET-THE-BITS.
+009100 MOVE BITPK-PATTERN TO BIT-VALUE
+009200 IF BIT-VALUE < BIT-TOP
+009300 PERFORM GET-THE-BIT
+009400 VARYING BIT-NBR FROM 1 BY 1
+009500 UNTIL BIT-NBR > 32
+009600 ELSE
+009700 MOVE "RANGE" TO BITPK-FEEDBACK
+009800 MOVE ZEROES TO BIT-STRING
+009900 .
+010000
+010100 GET-THE-BIT.
+010200 IF BIT-VALUE < BIT-WEIGHT (BIT-NBR)
+010300 MOVE "0" TO THE-BIT (BIT-NBR)
+010400 ELSE
+010500 SUBTRACT BIT-WEIGHT (BIT-NBR) FROM BIT-VALUE
+010600 MOVE "1" TO THE-BIT (BIT-NBR)
+010700 .
+010800
+010900 SET-THE-BITS.
+011000 PERFORM GET-THE-BITS
+011100 IF BITPK-FEEDBACK = SPACE
+011200 PERFORM SET-THE-BIT
+011300 VARYING BIT-NBR FROM 1 BY 1
+011400 UNTIL BIT-NBR > 32
+011500 .
+011600
+011700 SET-THE-BIT.
+011800 IF BITPK-BIT (BIT-NBR) = "1"
+011900 IF THE-BIT (BIT-NBR) = "0"
+012000 MOVE "1" TO THE-BIT (BIT-NBR)
+012100 ADD BIT-WEIGHT (BIT-NBR) TO BITPK-PATTERN
+012200 .
+012300
+012400 CLEAR-THE-BITS.
+012500 PERFORM GET-THE-BITS
+012600 IF BITPK-FEEDBACK = SPACE
+012700 PERFORM CLEAR-THE-BIT
+012800 VARYING BIT-NBR FROM 1 BY 1
+012900 UNTIL BIT-NBR > 32
+013000 .
+013100
+013200 CLEAR-THE-BIT.
+013300 IF BITPK-BIT (BIT-NBR) = "1"
+013400 IF THE-BIT (BIT-NBR) = "1"
+013500 MOVE "0" TO THE-BIT (BIT-NBR)
+013600 SUBTRACT BIT-WEIGHT (BIT-NBR) FROM BITPK-PATTERN
+013700 .
+013800
+013900 TEST-IF-ONES.
+014000 PERFORM GET-THE-BITS
+014100 IF BITPK-FEEDBACK = SPACE
+014200 MOVE "1" TO BIT-WANTED
+014300 PERFORM TEST-THE-BITS
+014400 .
+014500
+014600 TEST-THE-BITS.
+014700 MOVE ZEROES TO BIT-COUNT, BIT-MATCH
+014800 PERFORM TEST-IF-BIT-IS-WANTED
+014900 VARYING BIT-NBR FROM 1 BY 1
+015000 UNTIL BIT-NBR > 32
+015100
+015200 IF BIT-COUNT = BIT-MATCH
+015300 MOVE "ALL" TO BITPK-FEEDBACK
+015400 ELSE
+015500 IF BIT-MATCH = ZEROES
+015600 MOVE "NONE" TO BITPK-FEEDBACK
+015700 ELSE
+015800 MOVE "SOME" TO BITPK-FEEDBACK
+015900 .
+016000
+016100 TEST-IF-BIT-IS-WANTED.
+016200 IF BITPK-BIT (BIT-NBR) = "1"
+016300 ADD 1 TO BIT-COUNT
+016400 IF THE-BIT (BIT-NBR) = BIT-WANTED
+016500 ADD 1 TO BIT-MATCH
+016600 .
+016700
+016800 TEST-IF-ZEROES.
+016900 PERFORM GET-THE-BITS
+017000 IF BITPK-FEEDBACK = SPACE
+017100 MOVE "0" TO BIT-WANTED
+017200 PERFORM TEST-THE-BITS
+017300 .
+017400
+017500 PACK-THE-BITS.
+017600 MOVE ZEROES TO BITPK-PATTERN
+017700 PERFORM PACK-THE-BIT
+017800 VARYING BIT-NBR FROM 1 BY 1
+017900 UNTIL BIT-NBR > 32
+018000 .
+018100
+018200 PACK-THE-BIT.
+018300 IF BITPK-BIT (BIT-NBR) = "1"
+018400 ADD BIT-WEIGHT (BIT-NBR) TO BITPK-PATTERN
+018500 .
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

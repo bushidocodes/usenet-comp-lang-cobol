@@ -1,0 +1,37 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# TAMPA MF COBOL WANTED
+
+_1 message · 1 participant · 1998-02_
+
+**Topics:** [`Compilers and vendors`](../topics.md#compilers)
+
+---
+
+### TAMPA MF COBOL WANTED
+
+- **From:** "recru..." <ua-author-6588888@usenetarchives.gap>
+- **Date:** 1998-02-17T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<6cfppq$gc4$1@gte1.gte.net>`
+
+```
+
+COBOL on Unix and Micro Focus exp. preferred (5 yrs +)
+COBOL on Mainframe experience will be considered.
+C Programming strongly desired
+
+Company develops c/s apps using Micro Focus COBOL on Unix
+
+Contract to hire / Direct hire considered
+No relocation
+Compensation - up to 60K
+Local candidates encuraged to apply
+
+Marc Eckberg
+mec··.@jam··h.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

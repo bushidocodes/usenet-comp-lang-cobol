@@ -12,6 +12,12 @@ comp.lang.cobol.gap.mbox
 gap_state.json
 scrape.log
 
+# build.py log (stdout/stderr redirect from rebuilds)
+build.log
+
+# build.py sentinel — tracks last successful thread.py run; regenerated each build
+markdown/threads/.stamp
+
 # Tool artifacts
 .playwright-mcp/
 .claude/

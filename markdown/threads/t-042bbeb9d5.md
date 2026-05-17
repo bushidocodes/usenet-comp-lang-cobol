@@ -1,0 +1,52 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# NOVELL ADMIN / SOFTWARE ENGINEERS - IMMEDIATE HIRE (NY AREA)
+
+_1 message · 1 participant · 1995-06_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs)
+
+---
+
+### NOVELL ADMIN / SOFTWARE ENGINEERS - IMMEDIATE HIRE (NY AREA)
+
+- **From:** "croo..." <ua-author-919326@usenetarchives.gap>
+- **Date:** 1995-06-08T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<3rallm$73t@newsbf02.news.aol.com>`
+
+```
+
+PERMANENT POSITION - IMMEDIATE HIRE - TOP SALARIES!!!!!
+New York Tri-State Companies
+
+1. UNIX/NOVELL Network Administrator
+WAN Routing, INTERNET Access and DOS Windows
+Excellent Verbal and Written Skills required
+Responsible for maintaining existing systems that include applications,
+hardware, software and operating environments.
+UNIX PLATFORMS, Knowledge of MACINTOSH and WINDOWS NT. MULTIPLE MAIL
+SYSTEMS, (DA VINCI, SENDMAIL, MSMAIL)
+
+2. SOFTWARE ENGINEER
+STRONG VSE and AS/400 with MVS a DEFINITE PLUS.
+IBN SNA LU6.2 programming a MUST, TCP/IP a PLUS
+COBOL (for the above platforms) with C desirable
+Incumbent must be able to work independently, work within project schedule
+and support customers
+
+
+Forward, Fax Resume or contact:
+Ms Barbara Gaines
+Network and Company
+18 East 41st Street, Suite #200
+New York, NY 10017
+Phone (212) 683-2300
+Fax (212) 889-6367
+
+Note: DO NOT respond to this E-Mail Address
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

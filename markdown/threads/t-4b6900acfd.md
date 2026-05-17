@@ -1,0 +1,58 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Distance Learning Course -> Traditional CICS Application Programming
+
+_1 message · 1 participant · 1996-01_
+
+**Topics:** [`Mainframe, z/OS, JCL, CICS`](../topics.md#mainframe) · [`Tutorials, books, learning`](../topics.md#learning)
+
+---
+
+### Distance Learning Course -> Traditional CICS Application Programming
+
+- **From:** "wein..." <ua-author-15050514@usenetarchives.gap>
+- **Date:** 1996-01-04T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<4ciov8$8bk@news1.mnsinc.com>`
+
+```
+* * * P r e s s R e l e a s e * * *
+
+What: Distance Learning Course
+Traditional CICS Application Programming
+
+When: Begins February 1, 1996
+
+Cost: No charge for first three lessons. $150 (group rate is available)
+to continue AFTER third lesson. No financial obligation until
+start of fourth lesson
+
+Registration: http://www.thenumberco.com
+(register once for free first three lessons,
+register again for lessons four through fifteen)
+
+Topics: BMS Mapping, Pseudo-Conversational Design, File Access,
+Temporary Storage, Transient Data, Error Detection/Recovery,
+Dynamic Storage Allocation, and more...
+
+Taught in COBOL. You must have access to CICS and COBOL
+software products at your installation.
+
+Ideal: For self-motivated adult learner who desires an alternative
+to formal classroom training
+
+Lessons: Delivered by e-mail (zip file). Contains well-written,
+richly illustrated reading material, sample programs, and
+exercises. Access to course instructor by e-mail, and
+optionally, by telephone.
+
+More Info: contact Howard Weiner
+703.754.9500 x1226
+703.754.1226
+or
+wei··.@the··o.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

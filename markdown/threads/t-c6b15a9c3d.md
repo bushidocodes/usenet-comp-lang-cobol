@@ -14,23 +14,23 @@ _1 message · 1 participant · 2013-04_
 - **Message-ID:** `<419294c0-d652-4591-ba2d-402619c30d14@a6g2000vbm.googlegroups.com>`
 
 ```
-The Story of Jesus and Mary in the Holy Quran
-
-The following three part series consists entirely of verses from the
-Holy Quran about Mary (Mother of
-Jesus) including her birth, childhood, personal qualities, and the
-miraculous birth of Jesus.
-This part explores the life of the Prophet Jesus, his message,
-miracles, his disciples and what is mentioned about them in the Holy
-Quran.
-This part explores the verses of the Holy Quran that talk about God’s
-protection of Jesus, his followers, his second coming in this world
-and what will happen to him on the day of resurrection.
-
-
-http://www.islamhouse.com/p/409136
-
-
+The Story of Jesus and Mary in the Holy Quran
+
+The following three part series consists entirely of verses from the
+Holy Quran about Mary (Mother of
+Jesus) including her birth, childhood, personal qualities, and the
+miraculous birth of Jesus.
+This part explores the life of the Prophet Jesus, his message,
+miracles, his disciples and what is mentioned about them in the Holy
+Quran.
+This part explores the verses of the Holy Quran that talk about God’s
+protection of Jesus, his followers, his second coming in this world
+and what will happen to him on the day of resurrection.
+
+
+http://www.islamhouse.com/p/409136
+
+
 thank you
 ```
 

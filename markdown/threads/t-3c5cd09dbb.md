@@ -1,0 +1,62 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# VAX/COBOL and RDBMS - help !
+
+_2 messages · 2 participants · 1996-04_
+
+---
+
+### VAX/COBOL and RDBMS - help !
+
+- **From:** "bhar..." <ua-author-8582495@usenetarchives.gap>
+- **Date:** 1996-04-18T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<4l8raf$imk@news.cerf.net>`
+
+```
+I need help finding people with solid VAX/Cobol & RDBMS
+development experience. This a great location and is the
+perfect OPPORTUNITY for the right individual.
+
+Do you know of anyone that can point me in the right direction ?
+Please pass along their name or phone number to me via e-mail.
+This is a permanent position with Ategra Systems, Inc. Some
+long-term contractors will be considered.
+
+A BRIEF DESCRIPTION OF THE PROJECT:
+Analysis and design & construction using
+Cobol & DBMS database in a VAX/VMS environment.
+Location: Phoenix AZ
+
+My Contact Data:
+EMAIL: bha··.@ce··f.net (E-Mail is given priority.)
+FAX: 1-407-682-7599 - High Resolution Mode is Best
+Phone: 1-800-466-9919 x222
+
+Thanks for your help,
+
+Brady Hartman
+
+** This article is Copyright (c)1996 by Ategra Systems, Inc.  **
+** ATEGRA is a Registered Trademark of Ategra Systems, Inc. **
+** NOTE: PLEASE NO E-MAIL ATTACHMENTS ! Sometimes encoded e-mail is not 
+** readable - Please cut ASCII resume and paste directly into your e-mail.
+```
+
+#### ↳ Re: VAX/COBOL and RDBMS - help !
+
+- **From:** "john_da..." <ua-author-5496461@usenetarchives.gap>
+- **Date:** 1996-04-22T20:00:02+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<gap-3c5cd09dbb-p2@usenetarchives.gap>`
+- **In-Reply-To:** `<4l8raf$imk@news.cerf.net>`
+- **References:** `<4l8raf$imk@news.cerf.net>`
+
+```
+Please label your job postings as just that, in the subject line, before
+someone sics a cancelbot on them.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

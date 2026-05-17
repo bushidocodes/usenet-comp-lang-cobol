@@ -1,0 +1,69 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# 1st International Cobol salary Survey
+
+_1 message · 1 participant · 1997-02_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs)
+
+---
+
+### 1st International Cobol salary Survey
+
+- **From:** "steve wray" <ua-author-48440@usenetarchives.gap>
+- **Date:** 1997-02-11T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<33026947.68A7@cris.com>`
+
+```
+
+Okay, you guys win!!!! I don't understand the international telephone
+system nor do I pretend to understand international taxation. The US tax
+code alone is Rubic's Cube in 5 dimensions.
+
+So far, the average for US Cobol programmers w/ 2 years experience is
+between 50K and 75K US/year.
+Some statistcal outliers are the crisis programmers working mega
+overtime. Any suggestions on how to itegrate their data would be
+apprecriated.
+
+This survey is open to EVERYONE in the international community!!! We've
+expanded our medium to include fax#'s
+and a TOLL-FREE NUMBER.
+
+Please compute your earnings into US$ using the applicable exchange rate
+at 12/31/96
+
+Fax your anonymous info to (810)358-0890 or
+call TOLL FREE NUMBER (800)238-0890 and refer to "COBOL SURVEY"
+or email me at rn··.@cr··s.com
+
+Please input data for these 5 fields:
+
+1)Please submit your gross earnings for 1996 (W-2 or 1099)
+you can be assured of complete confidentiality
+2)Indicate whether earnings are:
+a)W-2 b)1099
+3)Please indicate the number of years WORK experience:
+a)0-2 years b)3-5 years c)6 or more
+4)If US, Please indicate your primary region of employment, eg.
+West, East,
+Mideast, North...
+5)Please indicate the nearest major city
+
+Please don't exaggerate-there will be NO PRIZES AWARDED or friends
+impressed
+
+No fancy statistical methods or mind-numbing regression analysis.
+I'll just add all the numbers by catagory and divide by the number of
+respondents - I think that this might be interesting, albeit somewhat
+unscientific.
+
+Regards,
+Steve "the recruiter" Wray
+800-238-0890
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

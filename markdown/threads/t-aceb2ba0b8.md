@@ -17,11 +17,11 @@ _1 message · 1 participant · 1999-01_
 
 ```
 I'm trying to generate screens using FORM and display them using straight
-cobol not POWER cobol.
+cobol not POWER cobol.
 The documentation that came with the software does not help me.... I'm a
-little slow.
-Does anyone have any sample code which does this?
-Thanks,
+little slow.
+Does anyone have any sample code which does this?
+Thanks,
 Mark
 
 
