@@ -6,6 +6,11 @@ __pycache__/
 # Large data files (exceed GitHub's 100MB limit)
 .archive_cache.pickle
 comp.lang.cobol.mbox
+comp.lang.cobol.gap.mbox
+
+# scrape_gap.py runtime state — regeneratable, only useful while a scrape is in flight
+gap_state.json
+scrape.log
 
 # Tool artifacts
 .playwright-mcp/
