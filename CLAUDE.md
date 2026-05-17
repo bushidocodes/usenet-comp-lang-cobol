@@ -44,10 +44,10 @@ generated Markdown is filtered.
 When adding a new spam pattern:
 
 1. Append to `SPAM_HOSTS` or `SPAM_HOST_SUFFIXES`.
-2. Re-run the generators. The pickle cache stays valid since filtering
-   happens at summary time, not at parse time.
-3. Delete the now-orphaned `markdown/threads/t-*.md` files manually —
-   `thread.py` only creates files, it doesn't sweep obsolete ones.
+2. Re-run `python thread.py`. The pickle cache stays valid since filtering
+   happens at summary time, not at parse time. Orphaned thread files are
+   swept automatically at the end of the run. Use `--dry-run` to preview
+   deletions before they happen.
 
 ## Running the pipeline
 

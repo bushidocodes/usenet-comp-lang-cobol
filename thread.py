@@ -8,6 +8,7 @@ per-thread file.
 """
 from __future__ import annotations
 
+import argparse
 import re
 from collections import defaultdict
 
@@ -141,7 +142,37 @@ def write_thread(summary, msgs, children, depth):
         f.write(" · ".join(nav) + "\n")
 
 
+def sweep_orphans(summaries: list, dry_run: bool) -> int:
+    """Delete (or report) thread files not present in the current summary set.
+
+    Only touches files matching the generated name pattern t-[0-9a-f]{10}.md
+    to avoid accidental deletion of hand-maintained files.
+    """
+    expected = {f'{s["anchor"]}.md' for s in summaries}
+    orphan_pattern = re.compile(r'^t-[0-9a-f]{10}\.md$')
+    orphans = [
+        p for p in THREADS_DIR.glob("t-*.md")
+        if p.name not in expected and orphan_pattern.match(p.name)
+    ]
+    label = "[dry-run] would delete" if dry_run else "Deleted"
+    for path in orphans:
+        print(f"  {label}: {path.name}")
+        if not dry_run:
+            path.unlink()
+    action = "Found" if dry_run else "Swept"
+    print(f"{action} {len(orphans)} orphan thread file{'s' if len(orphans) != 1 else ''}.")
+    return len(orphans)
+
+
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Write per-thread Markdown files.")
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Report orphan thread files that would be deleted, but do not delete them.",
+    )
+    args = parser.parse_args()
+
     msgs, children, root_cache, depth = parse_archive()
     summaries = thread_summaries(msgs, root_cache)
 
@@ -155,6 +186,7 @@ def main() -> int:
             print(f"  ...{i:,} threads written")
 
     print(f"Done. {len(summaries):,} thread files written.")
+    sweep_orphans(summaries, dry_run=args.dry_run)
     return 0
 
 
