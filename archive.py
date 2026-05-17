@@ -20,11 +20,10 @@ from pathlib import Path
 
 from dateutil import parser as dateutil_parser
 
-PROJECT_DIR = Path(r"C:\Users\sean\projects\usenet-cobol")
-SCRIPT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parent
 SRC = PROJECT_DIR / "comp.lang.cobol.mbox"
 CACHE = PROJECT_DIR / ".archive_cache.pickle"
-OUT = SCRIPT_DIR / "markdown"
+OUT = PROJECT_DIR / "markdown"
 THREADS_DIR = OUT / "threads"
 
 # Bump to invalidate older caches when the parser semantics change.
