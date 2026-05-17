@@ -1,6 +1,6 @@
 # comp.lang.cobol Usenet Archive
 
-Converted from mbox to Markdown. **140,555 messages** across **16,646 thread files**, one file per conversation.
+Converted from mbox to Markdown. **140,296 messages** across **16,388 thread files**, one file per conversation.
 
 ## Browse
 

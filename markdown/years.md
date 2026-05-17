@@ -1004,7 +1004,6 @@ For each year: total activity, monthly message counts, top conversations, domina
 - [IBM COBOL Migration to Windows COBOL](threads/t-a0671b354d.md) — **30** msgs, into 2010-01
 - [Converting COBOL print file to HTML help](threads/t-429453a420.md) — **21** msgs, into 2010-01
 - [use of INVALID KEY clause](threads/t-c6fa9d4850.md) — **16** msgs, into 2013-05
-- [~~~~~~~~~~~~~~ REFLECTIVE TAPE ~~~~~~~~~~~~~~](threads/t-01832e440c.md) — **2** msgs, into 2012-07
 
 ## 2010 <a id='y2010'></a>
 

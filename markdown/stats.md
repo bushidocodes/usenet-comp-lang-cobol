@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — Statistics
 
-**140,555 messages** in **16,646 threads** from **1994-11-30** to **2013-06-11** (183 active months).
+**140,296 messages** in **16,388 threads** from **1994-11-30** to **2013-06-11** (183 active months).
 
 **10,131 unique email senders** (932 messages had no parseable email).
 
@@ -433,7 +433,6 @@ Threads whose conversation kept going (or kept getting revived) over the widest 
 | [free access to mainframe with tso and cics](threads/t-5e4281d859.md) | 49 mo | 2008-07 → 2012-08 | 5 |
 | [COBOL compiler written in COBOL](threads/t-fa472d648c.md) | 38 mo | 2003-09 → 2006-11 | 31 |
 | [~~~~~~~~~~~~~ USED CARS ~~~~~~~~~~~~~](threads/t-8a6165c638.md) | 38 mo | 2010-01 → 2013-03 | 4 |
-| [~~~~~~~~~~~~~~ REFLECTIVE TAPE ~~~~~~~~~~~~~~](threads/t-01832e440c.md) | 31 mo | 2009-12 → 2012-07 | 2 |
 | [cannot build opencobol-1.1 under cygwin](threads/t-d72d25cd11.md) | 30 mo | 2010-04 → 2012-10 | 84 |
 | [Checking RACF for CICS TS](threads/t-ad582efab7.md) | 28 mo | 2003-03 → 2005-07 | 6 |
 | [COBOL and uni-SPF - migration to HP-UX](threads/t-ee5ac3b509.md) | 26 mo | 2005-08 → 2007-10 | 2 |
