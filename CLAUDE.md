@@ -44,12 +44,23 @@ generated Markdown is filtered.
 When adding a new spam pattern:
 
 1. Append to `SPAM_HOSTS` or `SPAM_HOST_SUFFIXES`.
-2. Re-run `python thread.py`. The pickle cache stays valid since filtering
+2. Re-run `python build.py`. The pickle cache stays valid since filtering
    happens at summary time, not at parse time. Orphaned thread files are
-   swept automatically at the end of the run. Use `--dry-run` to preview
-   deletions before they happen.
+   swept automatically at the end of the run.
 
 ## Running the pipeline
+
+```bash
+python build.py              # rebuild only stale outputs (recommended)
+python build.py --force      # rebuild everything unconditionally
+python build.py --dry-run    # preview what would run without running it
+```
+
+`build.py` runs `thread.py` first (indexes link to its output), then runs
+the six index generators in parallel. It skips any generator whose output
+is newer than `archive.py`, `spam.py`, and the generator's own source file.
+
+To run generators individually:
 
 ```bash
 python thread.py             # ~30s, writes 16K+ files
@@ -60,10 +71,6 @@ python authors.py
 python stats.py
 python links.py
 ```
-
-Indexes are independent and can run in parallel. `thread.py` should be
-first since the indexes link to its output, but nothing crashes if it's
-out of date.
 
 ## Cache invalidation
 
@@ -91,4 +98,5 @@ this constant and will re-parse on version mismatch.
 1. Import `parse_archive`, `thread_summaries` (and `filter_msgs` if you
    also iterate over raw `msgs.values()`).
 2. Write output to `markdown/<name>.md` via `OUT / "<name>.md"`.
-3. Add to the README's pipeline diagram and the "How to run" list.
+3. Add an entry to `INDEX_SPECS` in `build.py`.
+4. Add to the README's pipeline diagram and the "How to run" list.
