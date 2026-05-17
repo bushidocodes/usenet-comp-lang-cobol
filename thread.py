@@ -9,8 +9,11 @@ per-thread file.
 from __future__ import annotations
 
 import argparse
+import os
 import re
+import time
 from collections import defaultdict
+from concurrent.futures import ProcessPoolExecutor
 
 from archive import (
     OUT,
@@ -142,6 +145,21 @@ def write_thread(summary, msgs, children, depth):
         f.write(" · ".join(nav) + "\n")
 
 
+# Worker-process globals populated by the pool initializer (once per worker).
+_w_msgs = None
+_w_children = None
+_w_depth = None
+
+
+def _init_worker(msgs, children, depth):
+    global _w_msgs, _w_children, _w_depth
+    _w_msgs, _w_children, _w_depth = msgs, children, depth
+
+
+def _write_one(summary):
+    write_thread(summary, _w_msgs, _w_children, _w_depth)
+
+
 def sweep_orphans(summaries: list, dry_run: bool) -> int:
     """Delete (or report) thread files not present in the current summary set.
 
@@ -179,13 +197,21 @@ def main() -> int:
     THREADS_DIR.mkdir(parents=True, exist_ok=True)
 
     summaries.sort(key=lambda s: -s["count"])
-    print(f"Writing {len(summaries):,} thread files to {THREADS_DIR}...")
-    for i, s in enumerate(summaries, 1):
-        write_thread(s, msgs, children, depth)
-        if i % 2000 == 0:
-            print(f"  ...{i:,} threads written")
-
-    print(f"Done. {len(summaries):,} thread files written.")
+    n = len(summaries)
+    workers = min(8, os.cpu_count() or 1)
+    chunksize = max(1, n // (workers * 4))
+    print(f"Writing {n:,} thread files to {THREADS_DIR} ({workers} workers)...")
+    t0 = time.perf_counter()
+    with ProcessPoolExecutor(
+        max_workers=workers,
+        initializer=_init_worker,
+        initargs=(msgs, children, depth),
+    ) as pool:
+        for i, _ in enumerate(pool.map(_write_one, summaries, chunksize=chunksize), 1):
+            if i % 2000 == 0:
+                print(f"  ...{i:,} threads written")
+    elapsed = time.perf_counter() - t0
+    print(f"Done. {n:,} thread files written in {elapsed:.1f}s.")
     sweep_orphans(summaries, dry_run=args.dry_run)
     return 0
 
