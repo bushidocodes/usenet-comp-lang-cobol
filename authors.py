@@ -12,7 +12,7 @@ import hashlib
 import re
 from collections import Counter, defaultdict
 
-from archive import OUT, date_key, parse_archive, thread_summaries
+from archive import OUT, date_key, filter_msgs, parse_archive, thread_summaries
 
 TOP_AUTHORS = 100
 TOP_THREADS_PER_AUTHOR = 10
@@ -57,6 +57,7 @@ def main() -> int:
     msgs, _, root_cache, _ = parse_archive()
     summaries = thread_summaries(msgs, root_cache)
     summary_by_root = {s["root"]: s for s in summaries}
+    msgs = filter_msgs(msgs, summaries)
 
     # Per-email display name distribution → pick canonical per email
     email_names: dict[str, Counter] = defaultdict(Counter)

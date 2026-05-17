@@ -9,7 +9,7 @@ import re
 from collections import Counter, defaultdict
 from datetime import datetime
 
-from archive import OUT, date_key, parse_archive, thread_anchor, thread_summaries
+from archive import OUT, date_key, filter_msgs, parse_archive, thread_anchor, thread_summaries
 
 # Terms whose first appearance in the archive is interesting to surface.
 # Order roughly chronological by expected first-mention to make the table read well.
@@ -345,6 +345,7 @@ def write_stats(msgs, summaries, root_cache, path):
 def main() -> int:
     msgs, _, root_cache, _ = parse_archive()
     summaries = thread_summaries(msgs, root_cache)
+    msgs = filter_msgs(msgs, summaries)
     out = OUT / "stats.md"
     print(f"Writing {out}...")
     write_stats(msgs, summaries, root_cache, out)

@@ -9,22 +9,22 @@ For each year: total activity, monthly message counts, top conversations, domina
 | Year | Messages | Threads | Months |
 |---|---:|---:|---:|
 | [1994](#y1994) | 250 | 93 | 2 |
-| [1998](#y1998) | 9,846 | 1,884 | 7 |
+| [1998](#y1998) | 9,845 | 1,883 | 7 |
 | [1999](#y1999) | 17,856 | 3,548 | 12 |
-| [2000](#y2000) | 15,280 | 2,211 | 12 |
+| [2000](#y2000) | 15,279 | 2,210 | 12 |
 | [2001](#y2001) | 11,038 | 1,600 | 12 |
 | [2002](#y2002) | 9,893 | 1,325 | 12 |
 | [2003](#y2003) | 17,345 | 1,332 | 12 |
 | [2004](#y2004) | 11,635 | 961 | 12 |
-| [2005](#y2005) | 10,937 | 683 | 12 |
+| [2005](#y2005) | 10,929 | 675 | 12 |
 | [2006](#y2006) | 7,393 | 611 | 12 |
-| [2007](#y2007) | 8,779 | 648 | 12 |
-| [2008](#y2008) | 7,808 | 524 | 12 |
-| [2009](#y2009) | 4,035 | 448 | 12 |
-| [2010](#y2010) | 3,464 | 320 | 12 |
-| [2011](#y2011) | 2,232 | 168 | 12 |
-| [2012](#y2012) | 1,781 | 216 | 12 |
-| [2013](#y2013) | 983 | 74 | 6 |
+| [2007](#y2007) | 8,778 | 647 | 12 |
+| [2008](#y2008) | 7,784 | 500 | 12 |
+| [2009](#y2009) | 3,934 | 347 | 12 |
+| [2010](#y2010) | 3,359 | 215 | 12 |
+| [2011](#y2011) | 2,210 | 146 | 12 |
+| [2012](#y2012) | 1,769 | 205 | 12 |
+| [2013](#y2013) | 982 | 73 | 6 |
 
 ## 1994 <a id='y1994'></a>
 
@@ -83,7 +83,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 1998 <a id='y1998'></a>
 
-**9,846 messages in 1,884 threads** · active 1998-06 → 1998-12
+**9,845 messages in 1,883 threads** · active 1998-06 → 1998-12
 
 ### Months
 
@@ -93,7 +93,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **1998-09** — 2,447 msgs
 - **1998-10** — 1,946 msgs
 - **1998-11** — 2,166 msgs
-- **1998-12** — 1,790 msgs
+- **1998-12** — 1,789 msgs
 
 ### Top 15 threads
 
@@ -234,11 +234,11 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2000 <a id='y2000'></a>
 
-**15,280 messages in 2,211 threads** · active 2000-01 → 2000-12
+**15,279 messages in 2,210 threads** · active 2000-01 → 2000-12
 
 ### Months
 
-- **2000-01** — 1,581 msgs
+- **2000-01** — 1,580 msgs
 - **2000-02** — 1,324 msgs
 - **2000-03** — 1,761 msgs
 - **2000-04** — 1,902 msgs
@@ -624,13 +624,13 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2005 <a id='y2005'></a>
 
-**10,937 messages in 683 threads** · active 2005-01 → 2005-12
+**10,929 messages in 675 threads** · active 2005-01 → 2005-12
 
 ### Months
 
 - **2005-01** — 864 msgs
 - **2005-02** — 1,022 msgs
-- **2005-03** — 1,375 msgs
+- **2005-03** — 1,367 msgs
 - **2005-04** — 1,128 msgs
 - **2005-05** — 612 msgs
 - **2005-06** — 624 msgs
@@ -664,7 +664,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - Compilers and vendors — 78 threads
 - Mainframe, z/OS, JCL, CICS — 59 threads
 - Meta: FAQs, group policy, charter — 48 threads
-- Off-topic and spam — 45 threads
+- Off-topic and spam — 44 threads
 - Language features and syntax — 36 threads
 - Databases and SQL — 26 threads
 - Jobs, careers, recruiting, salary — 24 threads
@@ -778,7 +778,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2007 <a id='y2007'></a>
 
-**8,779 messages in 648 threads** · active 2007-01 → 2007-12
+**8,778 messages in 647 threads** · active 2007-01 → 2007-12
 
 ### Months
 
@@ -788,7 +788,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2007-04** — 478 msgs
 - **2007-05** — 800 msgs
 - **2007-06** — 538 msgs
-- **2007-07** — 478 msgs
+- **2007-07** — 477 msgs
 - **2007-08** — 888 msgs
 - **2007-09** — 1,727 msgs
 - **2007-10** — 860 msgs
@@ -856,22 +856,22 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2008 <a id='y2008'></a>
 
-**7,808 messages in 524 threads** · active 2008-01 → 2008-12
+**7,784 messages in 500 threads** · active 2008-01 → 2008-12
 
 ### Months
 
-- **2008-01** — 1,541 msgs
+- **2008-01** — 1,540 msgs
 - **2008-02** — 1,355 msgs
 - **2008-03** — 812 msgs
 - **2008-04** — 285 msgs
 - **2008-05** — 638 msgs
 - **2008-06** — 349 msgs
-- **2008-07** — 661 msgs
-- **2008-08** — 402 msgs
-- **2008-09** — 550 msgs
-- **2008-10** — 433 msgs
-- **2008-11** — 400 msgs
-- **2008-12** — 382 msgs
+- **2008-07** — 656 msgs
+- **2008-08** — 401 msgs
+- **2008-09** — 544 msgs
+- **2008-10** — 427 msgs
+- **2008-11** — 396 msgs
+- **2008-12** — 381 msgs
 
 ### Top 15 threads
 
@@ -894,15 +894,15 @@ For each year: total activity, monthly message counts, top conversations, domina
 ### Dominant topics
 
 - Compilers and vendors — 58 threads
-- Off-topic and spam — 54 threads
+- Off-topic and spam — 47 threads
 - Mainframe, z/OS, JCL, CICS — 36 threads
 - Help requests and how-to — 21 threads
 - Language features and syntax — 19 threads
 - Databases and SQL — 19 threads
 - Jobs, careers, recruiting, salary — 19 threads
 - COBOL standards (ANS, ISO, 74/85/2002/2014) — 15 threads
-- Web, XML, modern integration — 13 threads
 - VSAM, files, sorting — 13 threads
+- Web, XML, modern integration — 12 threads
 
 ### Most active thread starters
 
@@ -910,10 +910,10 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 - William M. Klein \`wmklein@nospam.netcom.com\` — **38** new threads
 - Pete Dashwood \`dashwood@removethis.enternet.co.nz\` — **35** new threads
-- fernandena@gmail.com \`fernandena@gmail.com\` — **28** new threads
 - Frank Swarbrick \`frank.swarbrick@efirstbank.com\` — **26** new threads
 - Robert \`no@e.mail\` — **17** new threads
 - Peter Lacey \`lacey@mts.net\` — **13** new threads
+- fernandena@gmail.com \`fernandena@gmail.com\` — **12** new threads
 - mario \`mmc_vw1200@hotmail.com\` — **10** new threads
 - William M. Klein \`wmklein@nospam.ix.netcom.com\` — **9** new threads
 - cobol_rasurop \`infodynamics_ph@yahoo.com\` — **8** new threads
@@ -932,22 +932,22 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2009 <a id='y2009'></a>
 
-**4,035 messages in 448 threads** · active 2009-01 → 2009-12
+**3,934 messages in 347 threads** · active 2009-01 → 2009-12
 
 ### Months
 
 - **2009-01** — 292 msgs
-- **2009-02** — 299 msgs
-- **2009-03** — 425 msgs
-- **2009-04** — 291 msgs
-- **2009-05** — 430 msgs
+- **2009-02** — 294 msgs
+- **2009-03** — 421 msgs
+- **2009-04** — 270 msgs
+- **2009-05** — 421 msgs
 - **2009-06** — 495 msgs
 - **2009-07** — 500 msgs
-- **2009-08** — 134 msgs
-- **2009-09** — 286 msgs
-- **2009-10** — 300 msgs
-- **2009-11** — 240 msgs
-- **2009-12** — 343 msgs
+- **2009-08** — 130 msgs
+- **2009-09** — 275 msgs
+- **2009-10** — 284 msgs
+- **2009-11** — 224 msgs
+- **2009-12** — 328 msgs
 
 ### Top 15 threads
 
@@ -971,10 +971,10 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 - Compilers and vendors — 27 threads
 - Mainframe, z/OS, JCL, CICS — 19 threads
-- Off-topic and spam — 18 threads
 - Web, XML, modern integration — 16 threads
+- Off-topic and spam — 15 threads
 - Language features and syntax — 13 threads
-- Migration and conversion — 9 threads
+- Migration and conversion — 8 threads
 - Help requests and how-to — 7 threads
 - VSAM, files, sorting — 7 threads
 - Databases and SQL — 6 threads
@@ -988,12 +988,12 @@ For each year: total activity, monthly message counts, top conversations, domina
 - Pete Dashwood \`dashwood@removethis.enternet.co.nz\` — **24** new threads
 - Frank Swarbrick \`frank.swarbrick@efirstbank.com\` — **16** new threads
 - HeyBub \`heybub@nospamgmail.com\` — **13** new threads
-- faisal4jabbar@gmail.com \`faisal4jabbar@gmail.com\` — **9** new threads
 - Paul H \`nospamphobergnospam@att.net\` — **8** new threads
 - Clark F Morris \`cfmpublic@ns.sympatico.ca\` — **6** new threads
 - Howard Brazee \`howard@brazee.net\` — **6** new threads
 - satya \`sang10867@gmail.com\` — **6** new threads
-- alexisduhon@gmail.com \`alexisduhon@gmail.com\` — **5** new threads
+- Paul \`paul-nospamatall.raulerson@mac.com\` — **4** new threads
+- charles hottel \`chottel@earthlink.net\` — **4** new threads
 
 ### Threads that escaped the year
 
@@ -1007,22 +1007,22 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2010 <a id='y2010'></a>
 
-**3,464 messages in 320 threads** · active 2010-01 → 2010-12
+**3,359 messages in 215 threads** · active 2010-01 → 2010-12
 
 ### Months
 
-- **2010-01** — 325 msgs
-- **2010-02** — 539 msgs
+- **2010-01** — 293 msgs
+- **2010-02** — 536 msgs
 - **2010-03** — 124 msgs
-- **2010-04** — 165 msgs
+- **2010-04** — 159 msgs
 - **2010-05** — 254 msgs
-- **2010-06** — 174 msgs
+- **2010-06** — 172 msgs
 - **2010-07** — 236 msgs
-- **2010-08** — 465 msgs
-- **2010-09** — 380 msgs
-- **2010-10** — 316 msgs
-- **2010-11** — 292 msgs
-- **2010-12** — 194 msgs
+- **2010-08** — 461 msgs
+- **2010-09** — 368 msgs
+- **2010-10** — 300 msgs
+- **2010-11** — 279 msgs
+- **2010-12** — 177 msgs
 
 ### Top 15 threads
 
@@ -1044,16 +1044,16 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ### Dominant topics
 
-- Off-topic and spam — 49 threads
+- Off-topic and spam — 32 threads
 - Compilers and vendors — 19 threads
-- Help requests and how-to — 9 threads
 - Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 8 threads
+- Help requests and how-to — 8 threads
 - Databases and SQL — 8 threads
-- Tutorials, books, learning — 7 threads
-- Web, XML, modern integration — 7 threads
-- Jobs, careers, recruiting, salary — 6 threads
 - Mainframe, z/OS, JCL, CICS — 6 threads
 - Language features and syntax — 5 threads
+- Object-oriented COBOL — 5 threads
+- Meta: FAQs, group policy, charter — 5 threads
+- Tutorials, books, learning — 5 threads
 
 ### Most active thread starters
 
@@ -1065,10 +1065,10 @@ For each year: total activity, monthly message counts, top conversations, domina
 - Alistair Maclean \`alistair@ld50macca.demon.co.uk\` — **7** new threads
 - James J. Gavan \`jgavandeletethis@shaw.ca\` — **7** new threads
 - HeyBub \`heybub@nospamgmail.com\` — **6** new threads
-- paypal cash \`m.ramulamma@gmail.com\` — **5** new threads
-- paypal cash \`magguri.ramulamma@gmail.com\` — **5** new threads
 - cobol_rasurop \`infodynamics_ph@yahoo.com\` — **4** new threads
 - btiffin@canada.com \`btiffin@canada.com\` — **4** new threads
+- charles hottel \`chottel@earthlink.net\` — **4** new threads
+- docdwarf@panix.com \`docdwarf@panix.com\` — **4** new threads
 
 ### Threads that escaped the year
 
@@ -1084,18 +1084,18 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2011 <a id='y2011'></a>
 
-**2,232 messages in 168 threads** · active 2011-01 → 2011-12
+**2,210 messages in 146 threads** · active 2011-01 → 2011-12
 
 ### Months
 
-- **2011-01** — 246 msgs
-- **2011-02** — 148 msgs
+- **2011-01** — 227 msgs
+- **2011-02** — 147 msgs
 - **2011-03** — 57 msgs
 - **2011-04** — 64 msgs
 - **2011-05** — 96 msgs
 - **2011-06** — 243 msgs
 - **2011-07** — 274 msgs
-- **2011-08** — 213 msgs
+- **2011-08** — 211 msgs
 - **2011-09** — 137 msgs
 - **2011-10** — 357 msgs
 - **2011-11** — 191 msgs
@@ -1121,9 +1121,9 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ### Dominant topics
 
-- Off-topic and spam — 27 threads
+- Off-topic and spam — 25 threads
 - Compilers and vendors — 15 threads
-- Web, XML, modern integration — 7 threads
+- Web, XML, modern integration — 6 threads
 - Mainframe, z/OS, JCL, CICS — 5 threads
 - Tutorials, books, learning — 4 threads
 - Jobs, careers, recruiting, salary — 3 threads
@@ -1159,21 +1159,21 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2012 <a id='y2012'></a>
 
-**1,781 messages in 216 threads** · active 2012-01 → 2012-12
+**1,769 messages in 205 threads** · active 2012-01 → 2012-12
 
 ### Months
 
 - **2012-01** — 266 msgs
-- **2012-02** — 211 msgs
-- **2012-03** — 178 msgs
+- **2012-02** — 208 msgs
+- **2012-03** — 172 msgs
 - **2012-04** — 128 msgs
 - **2012-05** — 241 msgs
-- **2012-06** — 164 msgs
-- **2012-07** — 121 msgs
+- **2012-06** — 163 msgs
+- **2012-07** — 120 msgs
 - **2012-08** — 102 msgs
 - **2012-09** — 99 msgs
 - **2012-10** — 54 msgs
-- **2012-11** — 116 msgs
+- **2012-11** — 115 msgs
 - **2012-12** — 101 msgs
 
 ### Top 15 threads
@@ -1216,9 +1216,9 @@ For each year: total activity, monthly message counts, top conversations, domina
 - Web Master \`wmaster711@gmail.com\` — **16** new threads
 - BV BV \`bv8bv8bv8@gmail.com\` — **12** new threads
 - charles hottel \`chottel@earthlink.net\` — **9** new threads
-- Constantine \`warem2888@gmail.com\` — **6** new threads
 - docdwarf@panix.com \`docdwarf@panix.com\` — **6** new threads
 - Daniel Tyasmoko \`danie2401@gmail.com\` — **6** new threads
+- Constantine \`warem2888@gmail.com\` — **5** new threads
 - racha moview \`rachafilm@gmail.com\` — **5** new threads
 - BV BV \`bv4bv4bv4@gmail.com\` — **4** new threads
 
@@ -1230,11 +1230,11 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2013 <a id='y2013'></a>
 
-**983 messages in 74 threads** · active 2013-01 → 2013-06
+**982 messages in 73 threads** · active 2013-01 → 2013-06
 
 ### Months
 
-- **2013-01** — 193 msgs
+- **2013-01** — 192 msgs
 - **2013-02** — 114 msgs
 - **2013-03** — 252 msgs
 - **2013-04** — 97 msgs

@@ -68,6 +68,10 @@ def main() -> int:
 
     scanned = 0
     for mid, entry in msgs.items():
+        # Skip messages whose thread was filtered out as spam (otherwise
+        # we'd count their URLs and link to deleted thread files).
+        if root_cache[mid] not in summary_by_root:
+            continue
         scanned += 1
         if scanned % 20000 == 0:
             print(f"  ...{scanned} scanned")

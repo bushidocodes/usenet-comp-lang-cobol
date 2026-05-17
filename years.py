@@ -7,7 +7,7 @@ from __future__ import annotations
 
 from collections import Counter, defaultdict
 
-from archive import OUT, date_key, parse_archive, thread_summaries
+from archive import OUT, date_key, filter_msgs, parse_archive, thread_summaries
 from topics import TOPIC_RULES, categorize
 
 TOP_THREADS_PER_YEAR = 15
@@ -28,6 +28,7 @@ def thread_link(s):
 def main() -> int:
     msgs, _, root_cache, _ = parse_archive()
     summaries = thread_summaries(msgs, root_cache)
+    msgs = filter_msgs(msgs, summaries)
 
     # Group threads by year. A thread is "in" a year if its first message is in that year.
     by_year_threads: dict[int, list] = defaultdict(list)
