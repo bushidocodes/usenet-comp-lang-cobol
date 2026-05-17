@@ -73,10 +73,9 @@ this constant and will re-parse on version mismatch.
 
 ## Watch out for
 
-- **`markdown/README.md` is hand-maintained**, not generated. Its totals
-  (`140,279 messages` / `16,371 thread files`) drift when spam patterns
-  change; update by hand. Anything else there (the gap-year research,
-  the layout description) is human-written.
+- **`markdown/README.md` is hand-maintained**, not generated. It contains
+  the gap-year research and layout description; it has no counts that drift
+  with spam changes (those live in the generated `stats.md`).
 - **`convert.py` is legacy.** It writes `markdown/YYYY-MM.md` monthly
   files (the old flat layout) **and overwrites `markdown/README.md`**.
   Do not run it as part of the per-thread pipeline.
