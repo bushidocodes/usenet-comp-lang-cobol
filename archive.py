@@ -369,13 +369,31 @@ def parse_archive(use_cache: bool = True):
     return msgs, children, root_cache, depth
 
 
-def thread_summaries(msgs, root_cache):
-    """Compute one summary per thread: subject, count, span, months, participants."""
+def filter_msgs(msgs, summaries):
+    """Return only the messages belonging to the given thread summaries.
+
+    Use this in generators that iterate over `msgs.values()` directly,
+    so they see the same spam-filtered subset that `thread_summaries()`
+    returned.
+    """
+    kept = {mid for s in summaries for mid in s["msg_ids"]}
+    return {mid: msgs[mid] for mid in kept if mid in msgs}
+
+
+def thread_summaries(msgs, root_cache, include_spam: bool = False):
+    """Compute one summary per thread: subject, count, span, months, participants.
+
+    Spam threads are dropped by default — see `spam.thread_is_spam`. Pass
+    `include_spam=True` to recover them (useful for diagnostics).
+    """
+    from spam import thread_is_spam
+
     by_root: dict[str, list[str]] = defaultdict(list)
     for mid in msgs:
         by_root[root_cache[mid]].append(mid)
 
     out = []
+    dropped = 0
     for root, mids in by_root.items():
         mids_sorted = sorted(mids, key=lambda x: date_key(msgs[x]["dt"]))
         first = msgs[mids_sorted[0]]
@@ -388,20 +406,24 @@ def thread_summaries(msgs, root_cache):
             subj = "(no subject)"
         months = sorted({msgs[mid]["ym"] for mid in mids if msgs[mid]["ym"] != "undated"})
         participants = {msgs[mid]["email"] for mid in mids if msgs[mid]["email"]}
-        out.append(
-            {
-                "root": root,
-                "anchor": thread_anchor(root),
-                "subject": subj,
-                "count": len(mids),
-                "first_ym": first["ym"],
-                "last_ym": last["ym"],
-                "first_dt": first["dt"],
-                "months": months,
-                "participants": participants,
-                "msg_ids": mids,
-            }
-        )
+        summary = {
+            "root": root,
+            "anchor": thread_anchor(root),
+            "subject": subj,
+            "count": len(mids),
+            "first_ym": first["ym"],
+            "last_ym": last["ym"],
+            "first_dt": first["dt"],
+            "months": months,
+            "participants": participants,
+            "msg_ids": mids,
+        }
+        if not include_spam and thread_is_spam(summary, msgs):
+            dropped += 1
+            continue
+        out.append(summary)
+    if dropped:
+        print(f"  filtered {dropped} spam threads")
     return out
 
 

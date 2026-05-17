@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — External Links
 
-URLs extracted from 140,555 message bodies. **57,146 total mentions** across **12,134 unique URLs** and **5,115 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
+URLs extracted from 140,279 message bodies. **56,702 total mentions** across **11,780 unique URLs** and **4,997 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
 
 ## Top 75 domains by mention count
 
@@ -15,7 +15,7 @@ URLs extracted from 140,555 message bodies. **57,146 total mentions** across **1
 | `flexus.com` | 1,296 | 595 | 1999 (386) |
 | `geocities.com` | 1,198 | 576 | 2000 (545) |
 | `usenet.com` | 1,077 | 267 | 2002 (577) |
-| `google.com` | 1,015 | 462 | 2000 (523) |
+| `google.com` | 1,014 | 461 | 2000 (523) |
 | `personal.bhm.bellsouth.net` | 970 | 398 | 1999 (593) |
 | `dbforums.com` | 950 | 333 | 2003 (785) |
 | `publibz.boulder.ibm.com` | 922 | 328 | 2003 (247) |
@@ -24,8 +24,8 @@ URLs extracted from 140,555 message bodies. **57,146 total mentions** across **1
 | `knology.net` | 707 | 218 | 2004 (502) |
 | `newsfeeds.com` | 638 | 196 | 2001 (502) |
 | `dissensoftware.com` | 622 | 390 | 2003 (155) |
-| `groups.google.com` | 572 | 205 | 2008 (114) |
 | `arnold.trembley.home.att.net` | 571 | 323 | 2003 (77) |
+| `groups.google.com` | 569 | 202 | 2008 (111) |
 | `en.wikipedia.org` | 549 | 157 | 2007 (122) |
 | `trainersfriend.com` | 547 | 259 | 1999 (117) |
 | `microfocus.com` | 541 | 248 | 2002 (114) |
@@ -546,7 +546,6 @@ URLs extracted from 140,555 message bodies. **57,146 total mentions** across **1
 - [http://www.pitt.edu/~dash/grimm053.html](http://www.pitt.edu/~dash/grimm053.html) — **9** mentions · [first cited 2009-03](threads/t-9bd30e0af0.md)
 - [http://www.microsoft.com/windows/windows-xp/future.aspx](http://www.microsoft.com/windows/windows-xp/future.aspx) — **9** mentions · [first cited 2009-03](threads/t-9bd30e0af0.md)
 - [http://primacomputing.co.nz/cobdata/security.aspx?SourcePage=x&request=S2N](http://primacomputing.co.nz/cobdata/security.aspx?SourcePage=x&request=S2N) — **9** mentions · [first cited 2008-12](threads/t-495bb61d01.md)
-- [http://tutorialweb.50webs.com/](http://tutorialweb.50webs.com/) — **9** mentions · [first cited 2008-01](threads/t-ef3e863862.md)
 - [http://www.hng-shoes.com](http://www.hng-shoes.com) — **9** mentions · [first cited 2008-01](threads/t-7c78b0b474.md)
 - [http://publibz.boulder.ibm.com/cgi-bin/bookmgr_OS390/FRAMESET/IGY3LR10/CCONTENTS?DT=20020920180651](http://publibz.boulder.ibm.com/cgi-bin/bookmgr_OS390/FRAMESET/IGY3LR10/CCONTENTS?DT=20020920180651) — **9** mentions · [first cited 2007-12](threads/t-5819de7ba7.md)
 - [http://www.gutenberg.org/files/1232/1232.txt](http://www.gutenberg.org/files/1232/1232.txt) — **9** mentions · [first cited 2007-10](threads/t-d6fa3f3bad.md)
@@ -1083,4 +1082,8 @@ URLs extracted from 140,555 message bodies. **57,146 total mentions** across **1
 - [http://www.vantageforce.com](http://www.vantageforce.com) — **5** mentions · [first cited 2010-02](threads/t-419d6dd03f.md)
 - [http://www.support.microfocus.com/xmlloader.asp?type=home#](http://www.support.microfocus.com/xmlloader.asp?type=home#) — **5** mentions · [first cited 2010-02](threads/t-09bafe8ad5.md)
 - [http://en.wikipedia.org/wiki/Miranda_v._Arizona#The_Miranda_Warnings](http://en.wikipedia.org/wiki/Miranda_v._Arizona#The_Miranda_Warnings) — **5** mentions · [first cited 2010-02](threads/t-a65cb82c7d.md)
+- [http://www.hplusmagazine.com/print/1051](http://www.hplusmagazine.com/print/1051) — **5** mentions · [first cited 2010-01](threads/t-a65cb82c7d.md)
+- [http://www.hplusmagazine.com/articles/ai/ray-kurzweil-h-interview](http://www.hplusmagazine.com/articles/ai/ray-kurzweil-h-interview) — **5** mentions · [first cited 2010-01](threads/t-a65cb82c7d.md)
+- [http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471475815.html](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471475815.html) — **5** mentions · [first cited 2009-12](threads/t-d62c719fb6.md)
+- [http://www.cbsnews.com/blogs/2009/11/24/taking_liberties/entry5761180.shtml](http://www.cbsnews.com/blogs/2009/11/24/taking_liberties/entry5761180.shtml) — **5** mentions · [first cited 2009-11](threads/t-2e0eb1bbaa.md)
 
