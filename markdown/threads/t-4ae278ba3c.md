@@ -1,0 +1,49 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# US_AZ-Phoenix --> VAX/COBOL and RDBMS - help !
+
+_1 message · 1 participant · 1996-07_
+
+---
+
+### US_AZ-Phoenix --> VAX/COBOL and RDBMS - help !
+
+- **From:** "bhar..." <ua-author-8582495@usenetarchives.gap>
+- **Date:** 1996-07-27T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<4tg63t$l0@news.cerf.net>`
+
+```
+
+I need help finding people with solid VAX/Cobol & RDBMS
+development experience. This a great location and is the
+perfect OPPORTUNITY for the right individual.
+
+Do you know of anyone that can point me in the right direction ?
+Please pass along their name or phone number to me via e-mail.
+This is a permanent position with Ategra Systems, Inc. Some
+long-term contractors will be considered.
+
+A BRIEF DESCRIPTION OF THE PROJECT:
+Analysis and design & construction using
+Cobol & DBMS database in a VAX/VMS environment.
+Location: Phoenix AZ
+
+My Contact Data:
+EMAIL: bha··.@ce··f.net (E-Mail is given priority.)
+FAX: 1-407-682-7599 - High Resolution Mode is Best
+Phone: 1-800-466-9919 x222
+
+Thanks for your help,
+
+Brady Hartman
+
+** For best results, paste your ascii resume directly into an e-mail message.
+** This article is Copyright (c)1996 by Ategra Systems, Inc.  
+** ATEGRA is a Registered Trademark of Ategra Systems, Inc. 
+** All other Trademarks are the properties of their respective holders.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

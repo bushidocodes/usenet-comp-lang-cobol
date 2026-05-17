@@ -14,11 +14,11 @@ _1 message · 1 participant · 2012-05_
 - **Message-ID:** `<3ace5ae2-fbf0-43e9-92d2-5b3a99073b04@rn12g2000pbb.googlegroups.com>`
 
 ```
-Try our free practice match your favorite roulette strategies, systems
-and distribution of tokens. Put your chips and spin the wheel, you
-have access to running statistics on the numbers taken, such as hot
-spots and more. Free for you provided by Casino.de
-
+Try our free practice match your favorite roulette strategies, systems
+and distribution of tokens. Put your chips and spin the wheel, you
+have access to running statistics on the numbers taken, such as hot
+spots and more. Free for you provided by Casino.de
+
 http://www.casino.de/roulette
 ```
 

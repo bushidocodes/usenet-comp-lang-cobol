@@ -14,13 +14,13 @@ _4 messages · 4 participants · 2012-12_
 - **Message-ID:** `<163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com>`
 
 ```
-have you seen an amazing miracle like this before...!!?
-
-
-http://www.youtube.com/watch?v=tPT7fjskipg&feature=BFa&list=PLB95C1C59E12FBA96
-
-
-
+have you seen an amazing miracle like this before...!!?
+
+
+http://www.youtube.com/watch?v=tPT7fjskipg&feature=BFa&list=PLB95C1C59E12FBA96
+
+
+
 thank you
 ```
 
@@ -33,12 +33,12 @@ thank you
 - **References:** `<163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com>`
 
 ```
-In article <163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com>,
-BV BV  <bv8bv8bv8@gmail.com> wrote:
->have you seen an amazing miracle like this before...!!?
-
-In the Universe of Miracles my experience is negligible.
-
+In article <163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com>,
+BV BV  <bv8bv8bv8@gmail.com> wrote:
+>have you seen an amazing miracle like this before...!!?
+
+In the Universe of Miracles my experience is negligible.
+
 DD
 ```
 
@@ -52,13 +52,13 @@ DD
 - **References:** `<163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com>`
 
 ```
-On Sunday, December 16, 2012 1:24:03 PM UTC, BV BV wrote:
-> have you seen an amazing miracle like this before...!!? 
-
-The link leads to a propaganda video for Islam claiming that only Islam is founded on truth and not faith (unlike Christianity and Judaism which are foundations of Islam, IIRC). That the Koran details "scientific miracles" which on examination are woolly befuddled confuscations based on ignorance and not based on science (see "three darknesses of creation"). 
-
-There is a guest appearance by Barak Obama and an attempted conversation with someone who looks like the propagandist's twin brother.
-
+On Sunday, December 16, 2012 1:24:03 PM UTC, BV BV wrote:
+> have you seen an amazing miracle like this before...!!? 
+
+The link leads to a propaganda video for Islam claiming that only Islam is founded on truth and not faith (unlike Christianity and Judaism which are foundations of Islam, IIRC). That the Koran details "scientific miracles" which on examination are woolly befuddled confuscations based on ignorance and not based on science (see "three darknesses of creation"). 
+
+There is a guest appearance by Barak Obama and an attempted conversation with someone who looks like the propagandist's twin brother.
+
 Definitely not worth the bother but I thought I'd spare you the agony.
 ```
 
@@ -71,20 +71,26 @@ Definitely not worth the bother but I thought I'd spare you the agony.
 - **References:** `<163e26b3-0c1b-454f-881d-939f38b90793@gu9g2000vbb.googlegroups.com> <e1bdd9be-835a-438c-b7ae-188ad745cb16@googlegroups.com>`
 
 ```
-In article <e1bdd9be-835a-438c-b7ae-188ad745cb16@googlegroups.com>,
-	Alistair Maclean <alistair.j.l.maclean@gmail.com> writes:
-> On Sunday, December 16, 2012 1:24:03 PM UTC, BV BV wrote:
->> have you seen an amazing miracle like this before...!!? 
-> The link leads to a propaganda video for Islam claiming that only Islam is founded on truth and not faith (unlike Christianity and Judaism which are foundations of Islam, IIRC). That the Koran details "scientific miracles" which on examination are woolly befuddled confuscations based on ignorance and not based on science (see "three darknesses of creation"). 
-> There is a guest appearance by Barak Obama and an attempted conversation with someone who looks like the propagandist's twin brother.
-> Definitely not worth the bother but I thought I'd spare you the agony.
-
-And if people didn't follow-up this crap those of us with real news servers
-would never have seen anything about it anyway.  One more thing we can thank
-Google Groups for.  They won't be satisfied until they  have made Usenet
-totally uniusable.
-
-bill
+In article <e1bdd9be-835a-438c-b7ae-188ad745cb16@googlegroups.com>,
+	Alistair Maclean <alistair.j.l.maclean@gmail.com> writes:
+> On Sunday, December 16, 2012 1:24:03 PM UTC, BV BV wrote:
+>> have you seen an amazing miracle like this before...!!? 
+> The link leads to a propaganda video for Islam claiming that only Islam is founded on truth and not faith (unlike Christianity and Judaism which are foundations of Islam, IIRC). That the Koran details "scientific miracles" which on examination are woolly befuddled confuscations based on ignorance and not based on science (see "three darknesses of creation"). 
+> There is a guest appearance by Barak Obama and an attempted conversation with someone who looks like the propagandist's twin brother.
+> Definitely not worth the bother but I thought I'd spare you the agony.
+
+And if people didn't follow-up this crap those of us with real news servers
+would never have seen anything about it anyway.  One more thing we can thank
+Google Groups for.  They won't be satisfied until they  have made Usenet
+totally uniusable.
+
+bill
+
+-- 
+Bill Gunshannon          |  de-moc-ra-cy (di mok' ra see) n.  Three wolves
+billg999@cs.scranton.edu |  and a sheep voting on what's for dinner.
+University of Scranton   |
+Scranton, Pennsylvania   |         #include <std.disclaimer.h>
 ```
 
 ---

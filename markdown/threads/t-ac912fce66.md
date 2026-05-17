@@ -1,0 +1,94 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Boston, MA - Technical Support Analysts - PC/Network Support - Financial Services
+
+_2 messages · 2 participants · 1996-06_
+
+---
+
+### Boston, MA - Technical Support Analysts - PC/Network Support - Financial Services
+
+- **From:** "s..." <ua-author-98378@usenetarchives.gap>
+- **Date:** 1996-06-06T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<31b895c0.4550426@news.ultranet.com>`
+
+```
+
+Employment Opening
+
+(2) TECHNICAL SUPPORT ANALYSTS
+
+Description:
+This position will be part of a team of analysts within our client魹ｽs
+魹ｽClient Custody Delivery II魹ｽ group responsible for support of
+BIDS/GUI, BIDS 2000, and Braid. The technical analyst will participate
+in the installation and support, integration testing, implementation,
+and some future development for the system.
+
+Qualifications:
+魹ｽMust have 3+ years experience in a PC/Network Support role. PC
+configuration a plus.
+魹ｽMust be familiar with the concepts of Windows-based and graphic user
+interface design and LAN environments. (System setup and
+configuration).
+魹ｽ3+ years business experience in the securities industry a plus.
+魹ｽMust be able to perform multiple tasks and adapt in a fast-paced
+environment.
+魹ｽBIDS 2000 experience a plus (for internal candidates)
+魹ｽC, C++ programming a plus.
+魹ｽMust have excellent writing and communication skills, strong
+analytical and troubleshooting skills and strong interpersonal skills
+- team player attitude.
+魹ｽThe analyst must be extremely detail-oriented while being able to
+meet aggressive deadlines when applicable.
+
+Responsibilities:
+魹ｽResponsible for preparing and executing test cases for integration
+testing with minimum guidance.
+魹ｽAnalyst will be expected to review and refine specifications and work
+with other analysts, business contacts and the development group to
+insure that the application meets the business requirements.
+魹ｽWhen applicable, the analyst will be responsible for preparing and
+installing the application to internal and external clients. Must be
+able to field business or system related questions from the clients.
+魹ｽThe analyst will be responsible for supporting internal and external
+clients using the application.
+PC and LAN troubleshooting at client site.
+
+For additional details or to be considered for the position described
+above, please contact:
+
+David J. Marzo, Staffing Consultant
+Software Connections, Inc.
+69 Milk Street
+Westboro, MA 01581
+Fax (508) 898-2820
+
+SCI and client companies are AA/EOE.
+```
+
+#### ↳ Re: Boston, MA - Technical Support Analysts - PC/Network Support - Financial Services
+
+- **From:** "gregory vincent" <ua-author-17086701@usenetarchives.gap>
+- **Date:** 1996-06-09T20:00:02+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<gap-ac912fce66-p2@usenetarchives.gap>`
+- **In-Reply-To:** `<31b895c0.4550426@news.ultranet.com>`
+- **References:** `<31b895c0.4550426@news.ultranet.com>`
+
+```
+
+My company and I are lokking for someone who has developed or is
+devloping COBOL Parsing technology that would show data flow through a
+program (the slant is towards the Year 2000 dillemma). We are a
+software vendor and interested in purchasing such technology as well as
+potentially employing the developer(s). RSVP either here or to
+gr··.@ti··c.net.
+
+Gregory Vincent
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

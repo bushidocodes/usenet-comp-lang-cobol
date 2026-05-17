@@ -1,0 +1,52 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Cobol/DB2 Positions in Philadelphia!
+
+_1 message · 1 participant · 1996-01_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs) · [`Databases and SQL`](../topics.md#databases)
+
+---
+
+### Cobol/DB2 Positions in Philadelphia!
+
+- **From:** "greg sullivan" <ua-author-1664911@usenetarchives.gap>
+- **Date:** 1996-01-03T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<4chbff$d2e@nn.fast.net>`
+
+```
+DB2 OPPORTUNITIES IN THE PHILADELPHIA AREA!
+
+EDP Contract Services, one of the leading national suppliers of contract
+professionals in applications software and systems development, is seeking
+experienced profesional DB2 Developers for immediate opportunities.
+
+*Cobol/DB2
+*Cobol/CICS/DB2
+*Cobol II/CICS/DB2
+*Natural DB2
+*DB2 DBAs
+
+These are long and short term opportunities for talented individuals who
+possess at least 2 years experience. PC &/or mainframe, Programmers,
+Programmer/Analysts, Senior Programmer/Analysts, Database Administrators
+
+Check out our Website; http://edpcs.com
+
+Please send your resume to:
+Greg Sullivan
+Senior Technical Recruiter
+EDP Contract Services
+401 City Line Ave
+Suite 915
+Bala Cynwyd PA 19004
+
+610 667-8735 (fax)
+610 667-2990 (voice)
+bal··.@ed··s.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

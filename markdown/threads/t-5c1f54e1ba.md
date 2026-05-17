@@ -1,0 +1,32 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# TX-DALLAS Cobol Programmers (E060)
+
+_1 message · 1 participant · 1997-02_
+
+---
+
+### TX-DALLAS Cobol Programmers (E060)
+
+- **From:** "ar..." <ua-author-17071339@usenetarchives.gap>
+- **Date:** 1997-02-27T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<5f72l4$j4d@library.airnews.net>`
+
+```
+
+Multiple openings for Cobol Programmers with experience in Microfocus;
+Realia and Cobol II
+
+RE: E060
+Contact: Jeanie
+ARISE International
+(972) 233-9020
+(972) 233-9029 FAX
+For a complete listing of our jobs:
+http://www.arise-intl.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -14,21 +14,21 @@ _12 messages · 10 participants · 1999-06_
 - **Message-ID:** `<r1493.1763$S7.880732@WReNphoon3>`
 
 ```
-Does anybody know how to trim fields?
-
+Does anybody know how to trim fields?
+
 I've to transfer name details and need to lose the spaces between first name
-and surname.
-
+and surname.
+
 The first name is a field of 15 characters and the surname is 20 characters.
 I need to make the new field be a concatenation of both with extra spaces
-inbetween..
-
-Example
-First Name 'James          '
-Surname 'Brown                    '
-
-New Field 'James Brown'
-
+inbetween..
+
+Example
+First Name 'James          '
+Surname 'Brown                    '
+
+New Field 'James Brown'
+
 Thanks!
 
 
@@ -341,8 +341,8 @@ Share what you know. Learn what you don't.
 - **References:** `<7k61od$rvg$1@nnrp1.deja.com> <r1493.1763$S7.880732@WReNphoon3>`
 
 ```
-Thanks everyone -  I got this to work.
-
+Thanks everyone -  I got this to work.
+
 Martina
 
 
@@ -360,9 +360,9 @@ Martina
 - **References:** `<7k61od$rvg$1@nnrp1.deja.com> <r1493.1763$S7.880732@WReNphoon3>`
 
 ```
-Thanks Everyone.
-I got it to work.
-
+Thanks Everyone.
+I got it to work.
+
 Martina
 
 

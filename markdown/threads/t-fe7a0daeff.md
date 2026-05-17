@@ -34,7 +34,7 @@ Bye
 
 ```
 Hi Danny.  I'm currently working on a similar program using Rm-cobol on
-unix.  Did you ever get any help on this?
+unix.  Did you ever get any help on this?
 
 
 

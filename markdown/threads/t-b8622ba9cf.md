@@ -1,0 +1,35 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Microsoft Vers. 5.0 - Stack Size Swittch
+
+_1 message · 1 participant · 1998-05_
+
+---
+
+### Microsoft Vers. 5.0 - Stack Size Swittch
+
+- **From:** "news.nepustil.net" <ua-author-17074391@usenetarchives.gap>
+- **Date:** 1998-05-05T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<6isvl7$ops$1@news.LF.net>`
+
+```
+
+I use Microsoft Cobol version 5.0.
+In the system Reference handbook
+a Stack Size Switch is described.
+
+Unfortunately, in the System Reference handbook
+is not describe, for what of the Stack Size
+from the run- time system is used.
+
+Certainly, this knows somebody.
+
+I last gratefully for a short explanation.
+Arnim Karberg
+a.··.@tec··t.de
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

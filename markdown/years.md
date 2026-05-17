@@ -8,9 +8,12 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 | Year | Messages | Threads | Months |
 |---|---:|---:|---:|
-| [1994](#y1994) | 250 | 93 | 2 |
-| [1998](#y1998) | 9,845 | 1,883 | 7 |
-| [1999](#y1999) | 17,856 | 3,548 | 12 |
+| [1994](#y1994) | 508 | 196 | 2 |
+| [1995](#y1995) | 2,749 | 1,280 | 12 |
+| [1996](#y1996) | 4,718 | 1,935 | 12 |
+| [1997](#y1997) | 8,111 | 2,669 | 12 |
+| [1998](#y1998) | 18,339 | 3,828 | 12 |
+| [1999](#y1999) | 17,858 | 3,547 | 12 |
 | [2000](#y2000) | 15,279 | 2,210 | 12 |
 | [2001](#y2001) | 11,038 | 1,600 | 12 |
 | [2002](#y2002) | 9,893 | 1,325 | 12 |
@@ -24,122 +27,377 @@ For each year: total activity, monthly message counts, top conversations, domina
 | [2010](#y2010) | 3,359 | 215 | 12 |
 | [2011](#y2011) | 2,210 | 146 | 12 |
 | [2012](#y2012) | 1,769 | 205 | 12 |
-| [2013](#y2013) | 982 | 73 | 6 |
+| [2013](#y2013) | 1,399 | 125 | 12 |
+| [2014](#y2014) | 469 | 65 | 12 |
+| [2015](#y2015) | 462 | 67 | 12 |
+| [2016](#y2016) | 184 | 30 | 11 |
+| [2017](#y2017) | 475 | 48 | 12 |
+| [2018](#y2018) | 675 | 46 | 12 |
+| [2019](#y2019) | 169 | 29 | 12 |
+| [2020](#y2020) | 563 | 39 | 11 |
+| [2021](#y2021) | 282 | 42 | 12 |
+| [2022](#y2022) | 60 | 12 | 4 |
 
 ## 1994 <a id='y1994'></a>
 
-**250 messages in 93 threads** · active 1994-11 → 1994-12
+**508 messages in 196 threads** · active 1994-11 → 1994-12
 
 ### Months
 
-- **1994-11** — 1 msgs
-- **1994-12** — 249 msgs
+- **1994-11** — 154 msgs
+- **1994-12** — 354 msgs
 
 ### Top 15 threads
 
 - [How to do GO TO in ANSI85 COBOL](threads/t-53c69a32f7.md) — **33** msgs
+- [How to do Non-COBOL](threads/t-ada2330de7.md) — **15** msgs
 - [Cobol->C or Linux Compiler](threads/t-837ccfad6a.md) — **14** msgs
+- [Cobol->C or Linux Compiler](threads/t-d6dd9cb365.md) — **13** msgs
 - [How to do GO TO in ANSI85 COBOL](threads/t-7c70ce5c62.md) — **12** msgs
 - [How to do GOTO in ANSI85 COBOL](threads/t-78625c7c47.md) — **12** msgs
+- [End of the century](threads/t-cdf3fe00e3.md) — **12** msgs
+- [End of the century](threads/t-79029b7ad1.md) — **11** msgs
 - [How to do GO TO in AN](threads/t-18aee643db.md) — **11** msgs
+- [Q: How do I convert between types in Cobol?](threads/t-97832ea910.md) — **9** msgs
+- [Value clause](threads/t-2bff0c8e4c.md) — **8** msgs
+- [COBOL DB Engines](threads/t-f52049ea0f.md) — **8** msgs (continues into 1995)
 - [Is Acucobol available for Linux?](threads/t-41547d6da4.md) — **7** msgs
 - [COBOL650 where is the linker](threads/t-a30ebc2935.md) — **7** msgs
-- [How to do GOTO in ANSI85 COBOL](threads/t-fba7fceb62.md) — **6** msgs
-- [How to do GO TO in AN](threads/t-2c6d5609d1.md) — **6** msgs
-- [end of the century](threads/t-578ee0561c.md) — **5** msgs
-- [Why GOBACK?](threads/t-91c6c489cb.md) — **5** msgs
-- [Apostrophes and quotation marks](threads/t-2fec4fcbe0.md) — **4** msgs
-- [Converting HEX into Text](threads/t-160ab528ef.md) — **4** msgs
-- [Reading Indexed Files Using Alternate Keys](threads/t-8137d9a55e.md) — **4** msgs
-- [How to do GO TO in ANSI85 COBOL](threads/t-2b668d6f34.md) — **3** msgs
+- [Micro Focus Workbench](threads/t-15f1da528d.md) — **7** msgs
 
 ### Dominant topics
 
-- Help requests and how-to — 30 threads
-- Language features and syntax — 21 threads
-- Compilers and vendors — 19 threads
-- COBOL standards (ANS, ISO, 74/85/2002/2014) — 10 threads
-- Y2K and Year-2000 remediation — 9 threads
-- Migration and conversion — 9 threads
-- Databases and SQL — 6 threads
-- AS/400, iSeries, RPG — 1 threads
-- COBOL's future, legacy, and obsolescence — 1 threads
-- Mainframe, z/OS, JCL, CICS — 1 threads
+- Help requests and how-to — 47 threads
+- Compilers and vendors — 35 threads
+- Language features and syntax — 23 threads
+- Migration and conversion — 17 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 15 threads
+- Y2K and Year-2000 remediation — 10 threads
+- Databases and SQL — 10 threads
+- Mainframe, z/OS, JCL, CICS — 8 threads
+- Meta: FAQs, group policy, charter — 7 threads
+- Tutorials, books, learning — 3 threads
 
 ### Most active thread starters
 
 (People who started the most distinct conversations this year.)
 
 - Marty Tabnik \`marty.tabnik@greatesc.com\` — **9** new threads
-- Robert Dewar \`dewar@cs.nyu.edu\` — **4** new threads
+- joe.k... \`ua-author-12816976@usenetarchives.gap\` — **6** new threads
 - Walter Murray \`walterm@hprctbs3.rose.hp.com\` — **4** new threads
+- tda... \`ua-author-98523@usenetarchives.gap\` — **4** new threads
+- jf... \`ua-author-6589786@usenetarchives.gap\` — **4** new threads
+- Anonymous \`ua-author-9618@usenetarchives.gap\` — **4** new threads
+- Robert Dewar \`dewar@cs.nyu.edu\` — **3** new threads
 - Michael G. Phillips \`mgphl@crl.com\` — **3** new threads
 - MICHAEL HICKS \`michaelhicks@delphi.com\` — **3** new threads
 - Joe Klemmer \`joe.klemmer@f370.n109.z1.fidonet.org\` — **3** new threads
-- Bruce Arbuckle \`brucea@atlas.com\` — **2** new threads
-- Frederic Brunelle \`brunelle@info.polymtl.ca\` — **2** new threads
-- 6848830@LMSC5.IS.LMSC.LOCKHEED.COM \`6848830@lmsc5.is.lmsc.lockheed.com\` — **2** new threads
-- Dan Jones \`jonesd@corp.hp.com\` — **2** new threads
 
-## 1998 <a id='y1998'></a>
+### Threads that escaped the year
 
-**9,845 messages in 1,883 threads** · active 1998-06 → 1998-12
+(Started this year, but conversation continued into the next.)
+
+- [COBOL DB Engines](threads/t-f52049ea0f.md) — **8** msgs, into 1995-01
+- [COBOL to C](threads/t-d363fc2f58.md) — **3** msgs, into 1995-01
+
+## 1995 <a id='y1995'></a>
+
+**2,749 messages in 1,280 threads** · active 1995-01 → 1995-12
 
 ### Months
 
-- **1998-06** — 250 msgs
-- **1998-07** — 800 msgs
-- **1998-08** — 447 msgs
-- **1998-09** — 2,447 msgs
-- **1998-10** — 1,946 msgs
-- **1998-11** — 2,166 msgs
-- **1998-12** — 1,789 msgs
+- **1995-01** — 175 msgs
+- **1995-02** — 262 msgs
+- **1995-03** — 250 msgs
+- **1995-04** — 205 msgs
+- **1995-05** — 216 msgs
+- **1995-06** — 223 msgs
+- **1995-07** — 226 msgs
+- **1995-08** — 277 msgs
+- **1995-09** — 257 msgs
+- **1995-10** — 188 msgs
+- **1995-11** — 219 msgs
+- **1995-12** — 251 msgs
 
 ### Top 15 threads
 
-- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **300** msgs
-- [First COBOL compiler](threads/t-97a7b592f4.md) — **274** msgs
-- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **151** msgs
-- [Go To depending](threads/t-122e02a93c.md) — **106** msgs
-- [Another proposal](threads/t-77a27b205b.md) — **99** msgs
-- [COBOL GUI front end](threads/t-5faa305718.md) — **96** msgs
-- [ELIF Proposal](threads/t-8ecfce6e34.md) — **91** msgs
-- [Need some advice - COBOL beginners - read also.](threads/t-a7a5074be3.md) — **77** msgs
-- [How many bytes is S9(03)....](threads/t-9b7e3c9498.md) — **72** msgs
-- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **72** msgs
-- [origin of 88 level](threads/t-9e44c98f45.md) — **68** msgs
-- [So, Here's What's Happening at PSE&G: MORONISM!](threads/t-24ad533ea7.md) — **67** msgs (continues into 1999)
-- [Parts of a program that break in Y2K?](threads/t-a385d34ff8.md) — **67** msgs
-- [Would you want to work here?](threads/t-6b7f5c5442.md) — **62** msgs
-- ["structured programming" & code reusability](threads/t-3537ec0cf1.md) — **60** msgs
+- [I Need Professional Help!](threads/t-ad2cc15b21.md) — **38** msgs
+- [Future for COBOL?](threads/t-7ab8c3ab36.md) — **23** msgs
+- [Determning length of varable length string](threads/t-f264fe72eb.md) — **20** msgs
+- [Is COBOL obselete? Help from the experts...](threads/t-ac1ab04253.md) — **19** msgs
+- [COMPUTATIONAL clause](threads/t-b80da7409c.md) — **19** msgs
+- [Scope Terminators](threads/t-735d70beeb.md) — **17** msgs
+- [How can one trap an arithmetic error?](threads/t-214d20a463.md) — **16** msgs
+- [Shareware/freeware COBOL wanted](threads/t-d41ffd17c9.md) — **14** msgs
+- [Report on May XJ4 Meeting](threads/t-33b2af6981.md) — **13** msgs
+- [A cobol question -- perform](threads/t-29365a4109.md) — **12** msgs
+- [A question about variable names in cobol ...](threads/t-85ed427373.md) — **12** msgs
+- [Year 2000 issue](threads/t-1e1564d2b0.md) — **11** msgs
+- [Anyone using CA-Visual Realia?](threads/t-08cd2829af.md) — **11** msgs
+- [COBOL Standard - Qualification of names](threads/t-d1eed5ac9c.md) — **11** msgs
+- [Tabs](threads/t-9b61a9dca0.md) — **10** msgs
 
 ### Dominant topics
 
-- Compilers and vendors — 299 threads
-- Help requests and how-to — 176 threads
-- Mainframe, z/OS, JCL, CICS — 144 threads
-- Jobs, careers, recruiting, salary — 131 threads
-- Y2K and Year-2000 remediation — 129 threads
-- Tutorials, books, learning — 94 threads
-- Language features and syntax — 56 threads
-- Databases and SQL — 55 threads
-- VSAM, files, sorting — 30 threads
-- Meta: FAQs, group policy, charter — 29 threads
+- Compilers and vendors — 283 threads
+- Jobs, careers, recruiting, salary — 114 threads
+- Help requests and how-to — 108 threads
+- Mainframe, z/OS, JCL, CICS — 93 threads
+- Databases and SQL — 53 threads
+- Meta: FAQs, group policy, charter — 43 threads
+- Language features and syntax — 35 threads
+- Tutorials, books, learning — 35 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 35 threads
+- VSAM, files, sorting — 28 threads
 
 ### Most active thread starters
 
 (People who started the most distinct conversations this year.)
 
-- William M. Klein \`wmklein@ix.netcom.com\` — **53** new threads
+- gt... \`ua-author-2476667@usenetarchives.gap\` — **23** new threads
+- dta... \`ua-author-2523490@usenetarchives.gap\` — **19** new threads
+- tur... \`ua-author-525017@usenetarchives.gap\` — **13** new threads
+- marty... \`ua-author-17073867@usenetarchives.gap\` — **12** new threads
+- jf... \`ua-author-6589786@usenetarchives.gap\` — **12** new threads
+- don nelson \`ua-author-20234@usenetarchives.gap\` — **12** new threads
+- 684... \`ua-author-5610386@usenetarchives.gap\` — **11** new threads
+- dan... \`ua-author-15699386@usenetarchives.gap\` — **11** new threads
+- cts... \`ua-author-10973126@usenetarchives.gap\` — **11** new threads
+- orc... \`ua-author-1997702@usenetarchives.gap\` — **10** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Survey -- pLease help a friend!](threads/t-0895bbc82d.md) — **9** msgs, into 1996-01
+- [Help with a conditional expression](threads/t-29d19799c0.md) — **8** msgs, into 1996-01
+- [Student needs help wtih Modulo 11 check digit.](threads/t-70bd3f2212.md) — **7** msgs, into 1996-08
+- [CALL X"F5"](threads/t-30e393a53f.md) — **7** msgs, into 1996-01
+- [PC Double to Cobol COMP-3](threads/t-73f719b5e2.md) — **6** msgs, into 1997-06
+- [DLY280 - What the heck is it ?](threads/t-82736e3a9f.md) — **6** msgs, into 1996-01
+- [How to clear the screen ?](threads/t-0353f84c1c.md) — **6** msgs, into 1996-01
+- [NEED TO CONVERT .DAT FILE !](threads/t-0e9a73c3f4.md) — **4** msgs, into 1996-01
+
+## 1996 <a id='y1996'></a>
+
+**4,718 messages in 1,935 threads** · active 1996-01 → 1996-12
+
+### Months
+
+- **1996-01** — 325 msgs
+- **1996-02** — 267 msgs
+- **1996-03** — 289 msgs
+- **1996-04** — 462 msgs
+- **1996-05** — 400 msgs
+- **1996-06** — 295 msgs
+- **1996-07** — 361 msgs
+- **1996-08** — 337 msgs
+- **1996-09** — 397 msgs
+- **1996-10** — 470 msgs
+- **1996-11** — 512 msgs
+- **1996-12** — 603 msgs
+
+### Top 15 threads
+
+- [COBOL <->Perl Interface...](threads/t-eec6a017a9.md) — **28** msgs
+- [Real Men eat COBOL](threads/t-4e274752bb.md) — **28** msgs
+- [Will 2000 kill cobol?](threads/t-c4cf66d930.md) — **24** msgs
+- [GOTO-less C form rapes COBOL](threads/t-33aa5fa74b.md) — **23** msgs
+- [Learning Cobol](threads/t-737753408f.md) — **20** msgs
+- [YEAR 2000 avnd the food industry](threads/t-c7fe185938.md) — **19** msgs (continues into 1997)
+- [Finding perfect numbers](threads/t-ae11b34246.md) — **18** msgs
+- [Sample cobol programs](threads/t-d809c3b0fb.md) — **18** msgs
+- [Fellow mainframe COBOL programmers, what next?](threads/t-9f0d58989a.md) — **17** msgs
+- [Lower Case Conversion](threads/t-d5e032161a.md) — **17** msgs
+- [Flex, Bison, Ebcdic, IBM/MVS](threads/t-ccc5fae54f.md) — **17** msgs
+- [Fujitsi COBOL](threads/t-9a041dce5b.md) — **17** msgs
+- [Free cobal](threads/t-fcf50e18f8.md) — **16** msgs
+- [FOR ALL THE MVS COBOL II EXPERTS](threads/t-711aad2a65.md) — **15** msgs
+- [DAY OF WEEK FUNCTION - Post if you've got one - Please](threads/t-09d66e6c96.md) — **15** msgs (continues into 1997)
+
+### Dominant topics
+
+- Compilers and vendors — 403 threads
+- Jobs, careers, recruiting, salary — 285 threads
+- Mainframe, z/OS, JCL, CICS — 179 threads
+- Help requests and how-to — 152 threads
+- Databases and SQL — 99 threads
+- Tutorials, books, learning — 58 threads
+- VSAM, files, sorting — 57 threads
+- Language features and syntax — 44 threads
+- Migration and conversion — 43 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 38 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- s... \`ua-author-98378@usenetarchives.gap\` — **29** new threads
+- i... \`ua-author-4623156@usenetarchives.gap\` — **27** new threads
+- e... \`ua-author-4476541@usenetarchives.gap\` — **25** new threads
+- bhar... \`ua-author-8582495@usenetarchives.gap\` — **21** new threads
+- don nelson \`ua-author-20234@usenetarchives.gap\` — **18** new threads
+- ehu... \`ua-author-982910@usenetarchives.gap\` — **17** new threads
+- Anonymous \`ua-author-9618@usenetarchives.gap\` — **16** new threads
+- rsc... \`ua-author-1375899@usenetarchives.gap\` — **14** new threads
+- jl... \`ua-author-17072453@usenetarchives.gap\` — **13** new threads
+- lsv... \`ua-author-13441627@usenetarchives.gap\` — **12** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [YEAR 2000 avnd the food industry](threads/t-c7fe185938.md) — **19** msgs, into 1997-01
+- [DAY OF WEEK FUNCTION - Post if you've got one - Please](threads/t-09d66e6c96.md) — **15** msgs, into 1997-01
+- [Mainframe virus?](threads/t-ea80ec4f53.md) — **13** msgs, into 1997-01
+- [Cobol Book](threads/t-1655e25c3b.md) — **11** msgs, into 1997-01
+- [In-line performs](threads/t-dcb5ffcc87.md) — **7** msgs, into 1997-01
+- [Wanted . Free cobol compiler...](threads/t-45c43e30e6.md) — **6** msgs, into 1997-01
+- [FS: COBOL Books](threads/t-b1002af097.md) — **6** msgs, into 1997-02
+- [Need +250 COBOL Prgmrs ASAP!](threads/t-f9cca21fdf.md) — **6** msgs, into 1997-01
+
+## 1997 <a id='y1997'></a>
+
+**8,111 messages in 2,669 threads** · active 1997-01 → 1997-12
+
+### Months
+
+- **1997-01** — 675 msgs
+- **1997-02** — 685 msgs
+- **1997-03** — 593 msgs
+- **1997-04** — 586 msgs
+- **1997-05** — 614 msgs
+- **1997-06** — 663 msgs
+- **1997-07** — 643 msgs
+- **1997-08** — 453 msgs
+- **1997-09** — 655 msgs
+- **1997-10** — 889 msgs
+- **1997-11** — 812 msgs
+- **1997-12** — 843 msgs
+
+### Top 15 threads
+
+- [How important is speed?](threads/t-4438faa3ba.md) — **71** msgs
+- ["GO TO" the most powerful verb in COBOL](threads/t-5c8eb7b1a0.md) — **48** msgs
+- [GOTO less programming](threads/t-947610938e.md) — **45** msgs
+- [GO TO less purists, how would you do this?](threads/t-4178dbd7cb.md) — **45** msgs
+- [Year 2000](threads/t-93d277b451.md) — **40** msgs
+- [Will COBOL Out-dated](threads/t-a1f2ffd615.md) — **39** msgs
+- [Incentive Schemes for retention of Staff - Enquiry](threads/t-2f57a7fe37.md) — **39** msgs
+- [Efficient COBOL programming techniques?](threads/t-500c7b76d3.md) — **36** msgs
+- [Closing END statements](threads/t-afb5ea0107.md) — **36** msgs
+- [Date standardizing or patching?](threads/t-bfcd7848cc.md) — **35** msgs
+- [How many COBOLers](threads/t-d1d6da0395.md) — **34** msgs
+- [Cobol on Mac](threads/t-aaaca28d1e.md) — **34** msgs (continues into 1998)
+- [Use of the Period](threads/t-8b65d92e6a.md) — **32** msgs
+- [Salaries for COBOL programmers](threads/t-2597b67a67.md) — **32** msgs
+- [Uncatalog tape dataset from JCL level](threads/t-516b1d1a5b.md) — **31** msgs
+
+### Dominant topics
+
+- Compilers and vendors — 451 threads
+- Jobs, careers, recruiting, salary — 285 threads
+- Mainframe, z/OS, JCL, CICS — 200 threads
+- Help requests and how-to — 193 threads
+- Y2K and Year-2000 remediation — 132 threads
+- Databases and SQL — 118 threads
+- Tutorials, books, learning — 95 threads
+- Language features and syntax — 89 threads
+- VSAM, files, sorting — 68 threads
+- Web, XML, modern integration — 49 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- ehu... \`ua-author-982910@usenetarchives.gap\` — **19** new threads
+- rcl... \`ua-author-13498592@usenetarchives.gap\` — **19** new threads
+- Anonymous \`ua-author-9618@usenetarchives.gap\` — **18** new threads
+- ar... \`ua-author-17071339@usenetarchives.gap\` — **18** new threads
+- alberto magalhaes \`ua-author-13460321@usenetarchives.gap\` — **16** new threads
+- steve wray \`ua-author-48440@usenetarchives.gap\` — **15** new threads
+- gimini \`ua-author-13406934@usenetarchives.gap\` — **14** new threads
+- thane hubbell \`ua-author-1728640@usenetarchives.gap\` — **14** new threads
+- natasha \`ua-author-21769@usenetarchives.gap\` — **13** new threads
+- tommy nilsen \`ua-author-17072129@usenetarchives.gap\` — **12** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Cobol on Mac](threads/t-aaaca28d1e.md) — **34** msgs, into 1998-01
+- [(no subject)](threads/t-45f535798e.md) — **22** msgs, into 1998-01
+- [Submit Jobs From CICS Programs?](threads/t-9da992a7e0.md) — **20** msgs, into 1998-01
+- [01 Level vs. 77 Level](threads/t-e1e9a54c68.md) — **17** msgs, into 1998-01
+- [Am I being screwed at $45K](threads/t-0d23753e51.md) — **15** msgs, into 1998-01
+- [Rates](threads/t-949aa642b2.md) — **13** msgs, into 1998-01
+- [Help about funtion keys](threads/t-9f1af19819.md) — **11** msgs, into 1998-01
+- [Unknown DCB](threads/t-9f9130fce8.md) — **8** msgs, into 1998-01
+
+## 1998 <a id='y1998'></a>
+
+**18,339 messages in 3,828 threads** · active 1998-01 → 1998-12
+
+### Months
+
+- **1998-01** — 920 msgs
+- **1998-02** — 1,028 msgs
+- **1998-03** — 1,319 msgs
+- **1998-04** — 1,167 msgs
+- **1998-05** — 1,178 msgs
+- **1998-06** — 1,246 msgs
+- **1998-07** — 1,501 msgs
+- **1998-08** — 1,493 msgs
+- **1998-09** — 2,576 msgs
+- **1998-10** — 1,948 msgs
+- **1998-11** — 2,170 msgs
+- **1998-12** — 1,793 msgs
+
+### Top 15 threads
+
+- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **300** msgs
+- [First COBOL compiler](threads/t-97a7b592f4.md) — **274** msgs
+- [!! Please Help!!](threads/t-5098fbaa28.md) — **158** msgs
+- [Is one period per paragraph a good idea?](threads/t-e1a5f5c7c8.md) — **151** msgs
+- [A Favor (please)](threads/t-023bda184b.md) — **123** msgs
+- [Go To depending](threads/t-122e02a93c.md) — **106** msgs
+- [Another proposal](threads/t-77a27b205b.md) — **99** msgs
+- [COBOL GUI front end](threads/t-5faa305718.md) — **96** msgs
+- [ELIF Proposal](threads/t-8ecfce6e34.md) — **91** msgs
+- [CNN questions for COBOL programmers](threads/t-68d3c8323d.md) — **81** msgs
+- [Need some advice - COBOL beginners - read also.](threads/t-a7a5074be3.md) — **77** msgs
+- [How many bytes is S9(03)....](threads/t-9b7e3c9498.md) — **72** msgs
+- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **72** msgs
+- [origin of 88 level](threads/t-9e44c98f45.md) — **68** msgs
+- [So, Here's What's Happening at PSE&G: MORONISM!](threads/t-24ad533ea7.md) — **67** msgs (continues into 1999)
+
+### Dominant topics
+
+- Compilers and vendors — 623 threads
+- Help requests and how-to — 330 threads
+- Jobs, careers, recruiting, salary — 300 threads
+- Mainframe, z/OS, JCL, CICS — 300 threads
+- Y2K and Year-2000 remediation — 225 threads
+- Tutorials, books, learning — 175 threads
+- Databases and SQL — 137 threads
+- Language features and syntax — 91 threads
+- Meta: FAQs, group policy, charter — 91 threads
+- VSAM, files, sorting — 70 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- William M. Klein \`wmklein@ix.netcom.com\` — **52** new threads
 - Donald Tees \`donald@willmack.com\` — **42** new threads
-- Thane Hubbell \`redsky@ibm.net\` — **40** new threads
+- william m. klein \`ua-author-3041905@usenetarchives.gap\` — **39** new threads
+- Thane Hubbell \`redsky@ibm.net\` — **38** new threads
 - William Gray \`wrg@ncinter.net\` — **38** new threads
 - mike ganas \`skidmike@mindspring.com\` — **36** new threads
-- Leif Svalgaard \`leif@ibm.net\` — **19** new threads
-- "Cobol Frog (Huib Klink)" <H.Klink@IMN.nl> \`h.klink@imn.nl\` — **19** new threads
-- docdwarf@clark.net () \`docdwarf@clark.net\` — **19** new threads
-- Charles F Hankel \`charles@hankel.mersinet.co.uk\` — **17** new threads
-- G Moore \`gvwmoore@ix.netcom.com\` — **13** new threads
+- bob... \`ua-author-47816@usenetarchives.gap\` — **23** new threads
+- Leif Svalgaard \`leif@ibm.net\` — **18** new threads
+- docdwarf@clark.net () \`docdwarf@clark.net\` — **18** new threads
+- wmk... \`ua-author-14039938@usenetarchives.gap\` — **18** new threads
 
 ### Threads that escaped the year
 
@@ -156,14 +414,14 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 1999 <a id='y1999'></a>
 
-**17,856 messages in 3,548 threads** · active 1999-01 → 1999-12
+**17,858 messages in 3,547 threads** · active 1999-01 → 1999-12
 
 ### Months
 
-- **1999-01** — 1,775 msgs
+- **1999-01** — 1,776 msgs
 - **1999-02** — 1,648 msgs
 - **1999-03** — 1,768 msgs
-- **1999-04** — 1,663 msgs
+- **1999-04** — 1,664 msgs
 - **1999-05** — 1,340 msgs
 - **1999-06** — 1,204 msgs
 - **1999-07** — 1,056 msgs
@@ -193,7 +451,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ### Dominant topics
 
-- Compilers and vendors — 669 threads
+- Compilers and vendors — 668 threads
 - Help requests and how-to — 309 threads
 - Mainframe, z/OS, JCL, CICS — 226 threads
 - Tutorials, books, learning — 157 threads
@@ -1230,7 +1488,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2013 <a id='y2013'></a>
 
-**982 messages in 73 threads** · active 2013-01 → 2013-06
+**1,399 messages in 125 threads** · active 2013-01 → 2013-12
 
 ### Months
 
@@ -1239,51 +1497,689 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2013-03** — 252 msgs
 - **2013-04** — 97 msgs
 - **2013-05** — 318 msgs
-- **2013-06** — 9 msgs
+- **2013-06** — 16 msgs
+- **2013-07** — 85 msgs
+- **2013-08** — 34 msgs
+- **2013-09** — 82 msgs
+- **2013-10** — 58 msgs
+- **2013-11** — 129 msgs
+- **2013-12** — 22 msgs
 
 ### Top 15 threads
 
 - [Useless skills](threads/t-943b6f1aec.md) — **182** msgs
 - [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **128** msgs
+- [EXEC SQL](threads/t-523be6cb18.md) — **92** msgs
 - [What is your opinion regardinf touch screens?](threads/t-130c65d399.md) — **91** msgs
 - [a couple of strange standards](threads/t-277f7d9331.md) — **66** msgs
 - [Getting started with Cobol 2002 +](threads/t-c1d04665fc.md) — **65** msgs
 - [Inaccurate math results in Micro Focus Unix](threads/t-eda27e7c85.md) — **46** msgs
+- [COBOL '59](threads/t-3e0dd7e582.md) — **43** msgs
+- [Be thankful for COBOL](threads/t-f289e075a0.md) — **42** msgs
 - [Contrarian view of COBOL](threads/t-77ddf6ab4f.md) — **38** msgs
 - [[OT] Paying Attention to What is Important](threads/t-d76016170a.md) — **35** msgs
+- [(OT) Was Agile used in Obama website development?: [Was: An Open Request to HeyBub]](threads/t-aa36e593de.md) — **34** msgs
 - [Universities are failing us with COBOL?](threads/t-3b077fb39a.md) — **32** msgs
+- [OpenCOBOL usage](threads/t-346b7c2de7.md) — **31** msgs
 - [My case against using COPY](threads/t-717a310f67.md) — **27** msgs
-- [Receiving e-mails from group](threads/t-5d9e2cf4dd.md) — **24** msgs
-- [Object Oriented pre-compiler, request for feedback](threads/t-f396e39b95.md) — **21** msgs
-- [???????? Did Muhammad Author the Quran](threads/t-b680a1a4a2.md) — **16** msgs
-- [Character Table to Match ISPF - COBOL or DFSORT?](threads/t-ae129e94c6.md) — **14** msgs
-- [sharepoint architecture](threads/t-3248adb132.md) — **12** msgs
 
 ### Dominant topics
 
-- Off-topic and spam — 13 threads
-- Help requests and how-to — 4 threads
-- Language features and syntax — 4 threads
-- Web, XML, modern integration — 3 threads
+- Off-topic and spam — 20 threads
+- Help requests and how-to — 9 threads
+- Language features and syntax — 6 threads
+- Web, XML, modern integration — 5 threads
+- Compilers and vendors — 5 threads
+- Migration and conversion — 4 threads
 - COBOL standards (ANS, ISO, 74/85/2002/2014) — 3 threads
-- Compilers and vendors — 2 threads
+- Databases and SQL — 3 threads
 - Tutorials, books, learning — 2 threads
-- AS/400, iSeries, RPG — 1 threads
-- Object-oriented COBOL — 1 threads
-- Migration and conversion — 1 threads
+- Mainframe, z/OS, JCL, CICS — 2 threads
 
 ### Most active thread starters
 
 (People who started the most distinct conversations this year.)
 
 - Pete Dashwood \`dashwood@removethis.enternet.co.nz\` — **14** new threads
+- dashwood \`ua-author-2154790@usenetarchives.gap\` — **12** new threads
 - BV BV \`bv8bv8bv8@gmail.com\` — **8** new threads
 - Constantine \`warem2888@gmail.com\` — **8** new threads
+- bv8bv8bv8 \`ua-author-174033@usenetarchives.gap\` — **7** new threads
 - BV BV \`bv4bv4bv4@gmail.com\` — **6** new threads
+- rs847925 \`ua-author-14501579@usenetarchives.gap\` — **5** new threads
+- bv4bv4bv4 \`ua-author-174910@usenetarchives.gap\` — **5** new threads
 - charles hottel \`chottel@earthlink.net\` — **4** new threads
-- Patrick \`halfmaddad@gmail.com\` — **3** new threads
-- docdwarf@panix.com \`docdwarf@panix.com\` — **3** new threads
-- bhanu@iconsoftgroup.com \`bhanu@iconsoftgroup.com\` — **3** new threads
-- Rick Smith \`rs847925@gmail.com\` — **2** new threads
-- SkippyPB \`swiegand@nospam.neo.rr.com\` — **2** new threads
+- alistair.j.l.maclean \`ua-author-14501550@usenetarchives.gap\` — **4** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [BIGINT in COBOL pgm](threads/t-038348bc2d.md) — **6** msgs, into 2014-01
+- [WHAT DO MUSLIMS THINK ABOUT JESUS ??????????????](threads/t-790cc56a35.md) — **3** msgs, into 2014-05
+- [Some extra cash from home](threads/t-2b8d3c418e.md) — **3** msgs, into 2016-07
+
+## 2014 <a id='y2014'></a>
+
+**469 messages in 65 threads** · active 2014-01 → 2014-12
+
+### Months
+
+- **2014-01** — 36 msgs
+- **2014-02** — 95 msgs
+- **2014-03** — 14 msgs
+- **2014-04** — 63 msgs
+- **2014-05** — 47 msgs
+- **2014-06** — 49 msgs
+- **2014-07** — 10 msgs
+- **2014-08** — 81 msgs
+- **2014-09** — 34 msgs
+- **2014-10** — 10 msgs
+- **2014-11** — 9 msgs
+- **2014-12** — 21 msgs
+
+### Top 15 threads
+
+- [Senior COBOL programmer wanted](threads/t-d42ee94a93.md) — **46** msgs (continues into 2019)
+- [Extra ZAPs generated by COBOL after packed arithmetic function](threads/t-4e61c2a6d9.md) — **42** msgs
+- [OpenCOBOL/GNUCobol](threads/t-966fa9427d.md) — **38** msgs
+- [Cobol in near real time ?](threads/t-7766b265f7.md) — **33** msgs (continues into 2015)
+- [OT: Another Indian Phone Scam](threads/t-469b4a10a3.md) — **30** msgs
+- [GNU COBOL and PostgreSQL](threads/t-84278ac2f8.md) — **29** msgs
+- [Access a third-party DLL in Fujitsu Cobol](threads/t-c453ad1701.md) — **24** msgs
+- [OT: The Indian phone scam](threads/t-dc2148d19d.md) — **24** msgs
+- [10 error on a CLOSE statement????](threads/t-3c4005eed2.md) — **22** msgs
+- [DATA RECORD IS](threads/t-6e8c57321c.md) — **16** msgs
+- [(OT) Software License Contracts and Trade Secrets](threads/t-bad2feadcc.md) — **16** msgs
+- [OT: We happy few, we band of brothers.](threads/t-70f0bf5c84.md) — **15** msgs
+- [SQL performance](threads/t-011330ddc8.md) — **14** msgs
+- [(OT?) Politics Makes Strange "Bedfellows", aka How to Save CoBOL](threads/t-74f80e9af7.md) — **13** msgs
+- [Updated OpenCOBOL 1.1 MinGw Installer for Windows](threads/t-5d167e7782.md) — **13** msgs
+
+### Dominant topics
+
+- Off-topic and spam — 8 threads
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 6 threads
+- Databases and SQL — 4 threads
+- Compilers and vendors — 3 threads
+- Help requests and how-to — 3 threads
+- Mainframe, z/OS, JCL, CICS — 1 threads
+- VSAM, files, sorting — 1 threads
+- Web, XML, modern integration — 1 threads
+- Migration and conversion — 1 threads
+- Tutorials, books, learning — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- bv8bv8bv8 \`ua-author-174033@usenetarchives.gap\` — **12** new threads
+- dashwood \`ua-author-2154790@usenetarchives.gap\` — **11** new threads
+- bv4bv4bv4 \`ua-author-174910@usenetarchives.gap\` — **7** new threads
+- klshafer \`ua-author-14501353@usenetarchives.gap\` — **4** new threads
+- steeveave \`ua-author-9175585@usenetarchives.gap\` — **3** new threads
+- razor1965.2 \`ua-author-14501695@usenetarchives.gap\` — **2** new threads
+- cfmpublic \`ua-author-127808@usenetarchives.gap\` — **2** new threads
+- bill \`ua-author-12423647@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- charles.goodman \`ua-author-14501743@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Senior COBOL programmer wanted](threads/t-d42ee94a93.md) — **46** msgs, into 2019-03
+- [Cobol in near real time ?](threads/t-7766b265f7.md) — **33** msgs, into 2015-09
+
+## 2015 <a id='y2015'></a>
+
+**462 messages in 67 threads** · active 2015-01 → 2015-12
+
+### Months
+
+- **2015-01** — 24 msgs
+- **2015-02** — 13 msgs
+- **2015-03** — 45 msgs
+- **2015-04** — 18 msgs
+- **2015-05** — 29 msgs
+- **2015-06** — 87 msgs
+- **2015-07** — 78 msgs
+- **2015-08** — 16 msgs
+- **2015-09** — 44 msgs
+- **2015-10** — 40 msgs
+- **2015-11** — 22 msgs
+- **2015-12** — 46 msgs
+
+### Top 15 threads
+
+- [A Hex function for COBOL](threads/t-3a0f90e47a.md) — **40** msgs
+- [UPPERCASE vs lowercase vs CamelCase vs snake_case](threads/t-700e46f29f.md) — **29** msgs
+- [Question on IBM Enterprise COBOL INSPECT..REPLACING](threads/t-7f417a1273.md) — **29** msgs
+- [IBM Enterprise COBOL, Requests for Enhancements](threads/t-d038bfc32f.md) — **27** msgs
+- [LINQ DAL arrives](threads/t-ef59bd6413.md) — **19** msgs
+- [Need help in coding a cobol code to create a flat file with XML tags.](threads/t-11f18935bb.md) — **18** msgs
+- [XML support in Cobol - problem with real field length between tags](threads/t-7dd1150405.md) — **17** msgs
+- [COBOL IP address locator](threads/t-1c3495a65d.md) — **17** msgs
+- [COBOL outlived the dinosaurs](threads/t-a03f4d2f10.md) — **16** msgs
+- [PowerCOBOL wakes up.](threads/t-b855b38f42.md) — **16** msgs
+- [Static analysis of COBOL source programs](threads/t-d060b54b31.md) — **13** msgs
+- [PowerCOBOL: Jam tomorrow...](threads/t-2009c4000e.md) — **13** msgs (continues into 2016)
+- [Non-contiguous fields and alternate record keys...](threads/t-07919f3038.md) — **12** msgs
+- [(OT) E911 Software License Contracts and Trade Secrets, part 2](threads/t-918f49ebae.md) — **11** msgs
+- [Languages that refuse to die](threads/t-2225d91f31.md) — **11** msgs
+
+### Dominant topics
+
+- Web, XML, modern integration — 6 threads
+- Off-topic and spam — 3 threads
+- Jobs, careers, recruiting, salary — 2 threads
+- Compilers and vendors — 2 threads
+- Language features and syntax — 2 threads
+- Help requests and how-to — 2 threads
+- VSAM, files, sorting — 1 threads
+- Migration and conversion — 1 threads
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 1 threads
+- AS/400, iSeries, RPG — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-2154790@usenetarchives.gap\` — **15** new threads
+- bv8bv8bv8 \`ua-author-174033@usenetarchives.gap\` — **10** new threads
+- ginolampascione \`ua-author-6130915@usenetarchives.gap\` — **3** new threads
+- bv4bv4bv4 \`ua-author-174910@usenetarchives.gap\` — **3** new threads
+- user \`ua-author-86839@usenetarchives.gap\` — **2** new threads
+- klshafer \`ua-author-14501353@usenetarchives.gap\` — **2** new threads
+- rs847925 \`ua-author-14501579@usenetarchives.gap\` — **2** new threads
+- doctrinsograce \`ua-author-6402540@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- bwtiffin \`ua-author-14501766@usenetarchives.gap\` — **2** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [PowerCOBOL: Jam tomorrow...](threads/t-2009c4000e.md) — **13** msgs, into 2016-01
+
+## 2016 <a id='y2016'></a>
+
+**184 messages in 30 threads** · active 2016-01 → 2016-12
+
+### Months
+
+- **2016-01** — 23 msgs
+- **2016-02** — 17 msgs
+- **2016-03** — 14 msgs
+- **2016-04** — 1 msgs
+- **2016-05** — 8 msgs
+- **2016-07** — 14 msgs
+- **2016-08** — 22 msgs
+- **2016-09** — 22 msgs
+- **2016-10** — 15 msgs
+- **2016-11** — 19 msgs
+- **2016-12** — 29 msgs
+
+### Top 15 threads
+
+- [Glade - Have you experience](threads/t-2eafecfbb2.md) — **30** msgs
+- [COBOL Unbounded Loops: A Diatribe On Their Omission From the COBOL Standard (and a Plea f…](threads/t-918236d5f3.md) — **15** msgs
+- [Zombie COBOL](threads/t-ac0a83e67c.md) — **14** msgs
+- [Anyone for XP?](threads/t-5120c672f5.md) — **13** msgs
+- [Newbie Cobol85 problem - "** Error 189 ** 01 or 77 level data item too large for section"](threads/t-7758958d99.md) — **13** msgs
+- [Prepare your stones....here it is a game written in Cobol...PowerCOBOL 3.0](threads/t-bb471e9919.md) — **12** msgs (continues into 2017)
+- [How do I speed up this code?](threads/t-9e687754fa.md) — **12** msgs
+- [New Zealand earthquake](threads/t-dca7d940d2.md) — **12** msgs
+- [Person of interest](threads/t-72523d754b.md) — **11** msgs (continues into 2017)
+- [GnuCOBOL Interactive Development environment - new version](threads/t-d9dc897579.md) — **10** msgs (continues into 2017)
+- [Anomalous COMMAND-LINE behaviour in GnuCOBOL](threads/t-59e821fc9d.md) — **9** msgs
+- [COBOL HELP](threads/t-9a6e19fd1f.md) — **8** msgs
+- [Fiserv is hring COBOL Software Development Engineers Fulltime in Lake Mary, FL and King o…](threads/t-9d94b85ede.md) — **6** msgs
+- [Home use of COBOL](threads/t-d80e70c075.md) — **5** msgs
+- [OT: Book Recomendation](threads/t-a9a666f491.md) — **5** msgs
+
+### Dominant topics
+
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 4 threads
+- Tutorials, books, learning — 2 threads
+- Off-topic and spam — 2 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 2 threads
+- Help requests and how-to — 1 threads
+- Compilers and vendors — 1 threads
+- Jobs, careers, recruiting, salary — 1 threads
+- Language features and syntax — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-2154790@usenetarchives.gap\` — **4** new threads
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **3** new threads
+- bruce.axtens \`ua-author-12894444@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- emersonlopes \`ua-author-14501767@usenetarchives.gap\` — **1** new threads
+- 0robert.jones \`ua-author-14501639@usenetarchives.gap\` — **1** new threads
+- aleksandar.zubic \`ua-author-14501789@usenetarchives.gap\` — **1** new threads
+- shally.steckerl \`ua-author-14501800@usenetarchives.gap\` — **1** new threads
+- chottel \`ua-author-3267354@usenetarchives.gap\` — **1** new threads
+- lrz1035 \`ua-author-14501793@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Prepare your stones....here it is a game written in Cobol...PowerCOBOL 3.0](threads/t-bb471e9919.md) — **12** msgs, into 2017-05
+- [Person of interest](threads/t-72523d754b.md) — **11** msgs, into 2017-01
+- [GnuCOBOL Interactive Development environment - new version](threads/t-d9dc897579.md) — **10** msgs, into 2017-01
+
+## 2017 <a id='y2017'></a>
+
+**475 messages in 48 threads** · active 2017-01 → 2017-12
+
+### Months
+
+- **2017-01** — 33 msgs
+- **2017-02** — 44 msgs
+- **2017-03** — 3 msgs
+- **2017-04** — 94 msgs
+- **2017-05** — 46 msgs
+- **2017-06** — 17 msgs
+- **2017-07** — 4 msgs
+- **2017-08** — 29 msgs
+- **2017-09** — 73 msgs
+- **2017-10** — 16 msgs
+- **2017-11** — 71 msgs
+- **2017-12** — 45 msgs
+
+### Top 15 threads
+
+- [Report Writer](threads/t-9e8ab3ead3.md) — **55** msgs (continues into 2018)
+- [Numeric fields Fujitsu/MF](threads/t-b251666735.md) — **52** msgs (continues into 2018)
+- [Simplifying IFs in COBOL](threads/t-db5f7e5839.md) — **43** msgs
+- [EQUAL TO in COBOL](threads/t-c6d64c8dd4.md) — **37** msgs (continues into 2018)
+- [There is a future for COBOL](threads/t-25c1a482c6.md) — **29** msgs
+- [New revision to the COBOL standard has just begun](threads/t-495f17f4b5.md) — **28** msgs
+- [Some numbers to consider](threads/t-8ec35220f1.md) — **20** msgs
+- [A mainframe mystery](threads/t-804fbbfe61.md) — **19** msgs
+- [Veryant isCOBOL](threads/t-1c8ddc0345.md) — **18** msgs
+- [Random cobol code generators](threads/t-b866fb0ca7.md) — **17** msgs
+- [[OT] Help with MS Help is really unHelpful](threads/t-fcd236c23a.md) — **15** msgs
+- [Using COBOL with Relational Databases](threads/t-ebed4892c1.md) — **13** msgs
+- [Fujitsu Cobol & Sqlite](threads/t-951f07c772.md) — **13** msgs
+- [So, you call yourself a "Software Developer"?](threads/t-dd1175dc92.md) — **11** msgs
+- [Macro assembler written in cobol](threads/t-38cdafc774.md) — **11** msgs
+
+### Dominant topics
+
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 5 threads
+- Compilers and vendors — 3 threads
+- Migration and conversion — 2 threads
+- Off-topic and spam — 2 threads
+- Jobs, careers, recruiting, salary — 2 threads
+- Tutorials, books, learning — 1 threads
+- Language features and syntax — 1 threads
+- Databases and SQL — 1 threads
+- Mainframe, z/OS, JCL, CICS — 1 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **22** new threads
+- bwtiffin \`ua-author-14501766@usenetarchives.gap\` — **6** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **3** new threads
+- docdwarf \`ua-author-6588713@usenetarchives.gap\` — **3** new threads
+- jmfg11 \`ua-author-14501829@usenetarchives.gap\` — **2** new threads
+- surplus.parts.by.ron \`ua-author-14501820@usenetarchives.gap\` — **1** new threads
+- chottel \`ua-author-14486646@usenetarchives.gap\` — **1** new threads
+- rs847925 \`ua-author-14501579@usenetarchives.gap\` — **1** new threads
+- kerryliles \`ua-author-11668611@usenetarchives.gap\` — **1** new threads
+- hsweeney \`ua-author-14501823@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Report Writer](threads/t-9e8ab3ead3.md) — **55** msgs, into 2018-09
+- [Numeric fields Fujitsu/MF](threads/t-b251666735.md) — **52** msgs, into 2018-06
+- [EQUAL TO in COBOL](threads/t-c6d64c8dd4.md) — **37** msgs, into 2018-09
+- [It's virtually impossible...](threads/t-69fa92c9de.md) — **8** msgs, into 2018-09
+- [Eliza in COBOL](threads/t-680d5e6717.md) — **5** msgs, into 2018-09
+
+## 2018 <a id='y2018'></a>
+
+**675 messages in 46 threads** · active 2018-01 → 2018-12
+
+### Months
+
+- **2018-01** — 5 msgs
+- **2018-02** — 6 msgs
+- **2018-03** — 36 msgs
+- **2018-04** — 95 msgs
+- **2018-05** — 118 msgs
+- **2018-06** — 168 msgs
+- **2018-07** — 22 msgs
+- **2018-08** — 5 msgs
+- **2018-09** — 102 msgs
+- **2018-10** — 79 msgs
+- **2018-11** — 29 msgs
+- **2018-12** — 10 msgs
+
+### Top 15 threads
+
+- [Need some intuition here --- sections in the procedure division](threads/t-aa6095fcc2.md) — **78** msgs
+- [Can mighty COBOL carry an elephant?](threads/t-437e9731e4.md) — **76** msgs
+- [OT: Mainframes may be coming back?](threads/t-07bd56f377.md) — **51** msgs
+- [Mighty COBOL is completely naked...](threads/t-ef1c694813.md) — **32** msgs
+- [I have a Report Writer program...](threads/t-154fd242de.md) — **26** msgs (continues into 2019)
+- [Object oriented programming is a load of Obfuscation](threads/t-90bc15859a.md) — **25** msgs
+- [OT: Weight Loss](threads/t-e2b2f0dcfc.md) — **22** msgs
+- [(OT - sort of) Federal Reserve Looks to Update Payment System](threads/t-135780ea55.md) — **22** msgs (continues into 2019)
+- [Constant Section.](threads/t-41ca5b4628.md) — **20** msgs
+- [Life in the old dog still ...](threads/t-b6ba241893.md) — **19** msgs
+- [Installing RainCode COBOL](threads/t-40870fb2c0.md) — **17** msgs
+- [Holding you hostage with Math](threads/t-2ba8cfa850.md) — **17** msgs
+- [Initializing tables](threads/t-dffa7dd5da.md) — **17** msgs
+- [A fat finger mistake](threads/t-2f9ccb4e47.md) — **16** msgs
+- [GnuCOBOL 3.0 Release Candidate 1 for Windows, with COBOL Report Writer](threads/t-d7f18f40de.md) — **16** msgs
+
+### Dominant topics
+
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 5 threads
+- Off-topic and spam — 4 threads
+- Language features and syntax — 3 threads
+- Web, XML, modern integration — 2 threads
+- Jobs, careers, recruiting, salary — 2 threads
+- Help requests and how-to — 1 threads
+- Databases and SQL — 1 threads
+- Migration and conversion — 1 threads
+- Mainframe, z/OS, JCL, CICS — 1 threads
+- VSAM, files, sorting — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **12** new threads
+- kelliefitton \`ua-author-12692448@usenetarchives.gap\` — **11** new threads
+- mayer.goldberg \`ua-author-14501850@usenetarchives.gap\` — **5** new threads
+- gregwebace \`ua-author-14501803@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- ronald.s.draper \`ua-author-14501841@usenetarchives.gap\` — **2** new threads
+- vonnie.bartlett \`ua-author-14501838@usenetarchives.gap\` — **1** new threads
+- spamtrap \`ua-author-10735832@usenetarchives.gap\` — **1** new threads
+- tariqemarketing \`ua-author-989892@usenetarchives.gap\` — **1** new threads
+- kerry.liles \`ua-author-7511031@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [I have a Report Writer program...](threads/t-154fd242de.md) — **26** msgs, into 2019-01
+- [(OT - sort of) Federal Reserve Looks to Update Payment System](threads/t-135780ea55.md) — **22** msgs, into 2019-03
+- [COM problem with web based COBOL component String2Num](threads/t-e9bc6bc903.md) — **2** msgs, into 2019-01
+
+## 2019 <a id='y2019'></a>
+
+**169 messages in 29 threads** · active 2019-01 → 2019-12
+
+### Months
+
+- **2019-01** — 3 msgs
+- **2019-02** — 15 msgs
+- **2019-03** — 33 msgs
+- **2019-04** — 17 msgs
+- **2019-05** — 1 msgs
+- **2019-06** — 9 msgs
+- **2019-07** — 18 msgs
+- **2019-08** — 11 msgs
+- **2019-09** — 18 msgs
+- **2019-10** — 30 msgs
+- **2019-11** — 1 msgs
+- **2019-12** — 13 msgs
+
+### Top 15 threads
+
+- [When COBOL disaster strikes](threads/t-a717343304.md) — **39** msgs
+- [Next Language after Cobol](threads/t-23a6cb4791.md) — **28** msgs
+- [Still think COBOL is dead (or should be!)](threads/t-2e1c5e92d6.md) — **17** msgs
+- [Seasons greetings](threads/t-8e0f8b87fb.md) — **14** msgs (continues into 2020)
+- [Urgent Need Data Quality Lead, Memphis,TN](threads/t-472bedc696.md) — **8** msgs
+- [Function ABS in COBOL 85](threads/t-0d321e1f6c.md) — **7** msgs
+- [Next step: Python?](threads/t-7715927c19.md) — **7** msgs
+- [Cobol Manual](threads/t-684d13d834.md) — **6** msgs
+- [PowerCobol & Internet](threads/t-0b3bc85ef3.md) — **5** msgs (continues into 2020)
+- [Free software - COBDATA tool](threads/t-a732287a98.md) — **5** msgs
+- [[OT] History Doesn't Repeat Itsself](threads/t-afaa36dc51.md) — **5** msgs (continues into 2020)
+- [COBOL evangelism - exercism.io](threads/t-bce54edb82.md) — **4** msgs
+- [Urgent Need!! COBOL Developer in Salt Lake city for Contract to hire position with my dir…](threads/t-077d49acf1.md) — **4** msgs (continues into 2020)
+- [60th Anniversary](threads/t-80eba63c33.md) — **3** msgs
+- [Running code that is "safe" gnucobol/tcl](threads/t-f905719148.md) — **3** msgs
+
+### Dominant topics
+
+- Web, XML, modern integration — 3 threads
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 3 threads
+- Help requests and how-to — 2 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 1 threads
+- Jobs, careers, recruiting, salary — 1 threads
+- Compilers and vendors — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **7** new threads
+- books.solutions.s.m \`ua-author-557513@usenetarchives.gap\` — **4** new threads
+- kintalken \`ua-author-7420269@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- james.recruiter04 \`ua-author-14501857@usenetarchives.gap\` — **1** new threads
+- rs847925 \`ua-author-14501579@usenetarchives.gap\` — **1** new threads
+- houten.van \`ua-author-14501871@usenetarchives.gap\` — **1** new threads
+- jmfg11 \`ua-author-14501829@usenetarchives.gap\` — **1** new threads
+- docdwarf \`ua-author-6588713@usenetarchives.gap\` — **1** new threads
+- snetxa \`ua-author-7470312@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Seasons greetings](threads/t-8e0f8b87fb.md) — **14** msgs, into 2020-01
+- [PowerCobol & Internet](threads/t-0b3bc85ef3.md) — **5** msgs, into 2020-02
+- [[OT] History Doesn't Repeat Itsself](threads/t-afaa36dc51.md) — **5** msgs, into 2020-01
+- [Urgent Need!! COBOL Developer in Salt Lake city for Contract to hire position with my dir…](threads/t-077d49acf1.md) — **4** msgs, into 2020-01
+- [GnuCOBOL 3.1-dev free compiler for Windows](threads/t-55ebe7a673.md) — **2** msgs, into 2020-03
+
+## 2020 <a id='y2020'></a>
+
+**563 messages in 39 threads** · active 2020-01 → 2020-12
+
+### Months
+
+- **2020-01** — 18 msgs
+- **2020-02** — 16 msgs
+- **2020-03** — 13 msgs
+- **2020-04** — 97 msgs
+- **2020-05** — 19 msgs
+- **2020-06** — 10 msgs
+- **2020-07** — 20 msgs
+- **2020-08** — 22 msgs
+- **2020-09** — 209 msgs
+- **2020-10** — 134 msgs
+- **2020-12** — 5 msgs
+
+### Top 15 threads
+
+- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs (continues into 2022)
+- [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) — **90** msgs (continues into 2022)
+- [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) — **84** msgs (continues into 2022)
+- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs (continues into 2022)
+- [If you're reading this newsgroup, New Jersey needs YOU!](threads/t-2a2e3bca73.md) — **42** msgs
+- [What is COBOL and WHY should I learn it.](threads/t-68b2fc6598.md) — **34** msgs
+- [And Yet It's Still Moving COBOL](threads/t-3faf3caee2.md) — **29** msgs
+- [It has come to this...](threads/t-3aa4646a7b.md) — **14** msgs
+- [Looking for ncr century programmers](threads/t-a461452568.md) — **13** msgs (continues into 2022)
+- [Rosetta Code](threads/t-16dd3bcd67.md) — **12** msgs
+- [GuiCOBOL](threads/t-da6c23439c.md) — **10** msgs
+- [Question for the wisdom of the group](threads/t-7870c5ac1a.md) — **10** msgs
+- [Ping Pete Dashwood](threads/t-5e08f853f8.md) — **9** msgs
+- [How do a send a "formal event message" to collector $0?](threads/t-b953f6dc88.md) — **9** msgs
+- [OT: The end of an era for me.](threads/t-b13de1de4e.md) — **9** msgs
+
+### Dominant topics
+
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 5 threads
+- Off-topic and spam — 3 threads
+- Jobs, careers, recruiting, salary — 3 threads
+- Help requests and how-to — 2 threads
+- VSAM, files, sorting — 2 threads
+- Meta: FAQs, group policy, charter — 1 threads
+- Tutorials, books, learning — 1 threads
+- Compilers and vendors — 1 threads
+- Databases and SQL — 1 threads
+- Date and calendar processing — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **5** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **5** new threads
+- roland \`ua-author-4387559@usenetarchives.gap\` — **3** new threads
+- bill.gunshannon \`ua-author-12020547@usenetarchives.gap\` — **2** new threads
+- kerry.liles \`ua-author-7511031@usenetarchives.gap\` — **2** new threads
+- d.raj...@gmail.com \`d.raj...@gmail.com\` — **2** new threads
+- cathrinejessi83 \`ua-author-14501900@usenetarchives.gap\` — **2** new threads
+- lkrupp \`ua-author-10879362@usenetarchives.gap\` — **1** new threads
+- federico.priolo \`ua-author-14501445@usenetarchives.gap\` — **1** new threads
+- vleon101 \`ua-author-14501881@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs, into 2022-02
+- [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) — **90** msgs, into 2022-02
+- [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) — **84** msgs, into 2022-02
+- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs, into 2022-02
+- [Looking for ncr century programmers](threads/t-a461452568.md) — **13** msgs, into 2022-03
+
+## 2021 <a id='y2021'></a>
+
+**282 messages in 42 threads** · active 2021-01 → 2021-12
+
+### Months
+
+- **2021-01** — 24 msgs
+- **2021-02** — 72 msgs
+- **2021-03** — 14 msgs
+- **2021-04** — 1 msgs
+- **2021-05** — 7 msgs
+- **2021-06** — 13 msgs
+- **2021-07** — 26 msgs
+- **2021-08** — 36 msgs
+- **2021-09** — 40 msgs
+- **2021-10** — 18 msgs
+- **2021-11** — 24 msgs
+- **2021-12** — 7 msgs
+
+### Top 15 threads
+
+- [INSPECT](threads/t-22d8c596b4.md) — **61** msgs
+- [Find Girls Sex Dating Near Me In Local | Adult Hookup Dating](threads/t-709edd2eed.md) — **41** msgs
+- [CA Realia Workbench Debug Setup - Data Inspector Issue](threads/t-0d5ee02957.md) — **21** msgs
+- [News for COBOL Migrations](threads/t-24caec34df.md) — **11** msgs
+- [Some COBOL-related observations...](threads/t-84330f2a47.md) — **11** msgs
+- [Urgent Hiring !! Sr. Sailpoint Developer (With Java Exp.) for our DIRECT client in Philad…](threads/t-3cb6da56aa.md) — **10** msgs
+- [End-to-end FULLY AUTOMATED PowerCOBOL Migration to .Net. NO Code required. Mouse clicks o…](threads/t-2eca80b395.md) — **10** msgs (continues into 2022)
+- [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSI…](threads/t-cc86b9a05a.md) — **9** msgs (continues into 2022)
+- [PowerCOBOL people](threads/t-1e9b604c1d.md) — **8** msgs
+- [OT: A chapter of accidents...](threads/t-a3ca6f7dc3.md) — **7** msgs
+- [Unit test frameworks for GnuCOBOL](threads/t-7ccb97c8c8.md) — **6** msgs
+- [Iterating an array](threads/t-3b3c836dc9.md) — **6** msgs
+- [ON 1 in COBOL](threads/t-d44792831f.md) — **5** msgs
+- [HP tandem Cobol85 convert date-time to timestamp](threads/t-15990228e1.md) — **4** msgs
+- [Survey on how software engineers search for architectural information](threads/t-27c81e1565.md) — **4** msgs
+
+### Dominant topics
+
+- Migration and conversion — 3 threads
+- Off-topic and spam — 2 threads
+- Language features and syntax — 2 threads
+- Meta: FAQs, group policy, charter — 2 threads
+- Compilers and vendors — 2 threads
+- Jobs, careers, recruiting, salary — 1 threads
+- Help requests and how-to — 1 threads
+- Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 1 threads
+- COBOL standards (ANS, ISO, 74/85/2002/2014) — 1 threads
+- Date and calendar processing — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **7** new threads
+- bruce.axtens \`ua-author-12894444@usenetarchives.gap\` — **4** new threads
+- truffatidapaolobarrai \`ua-author-11582407@usenetarchives.gap\` — **3** new threads
+- johnnypeponny \`ua-author-6344768@usenetarchives.gap\` — **2** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
+- snetxa \`ua-author-7470312@usenetarchives.gap\` — **2** new threads
+- docdwarf \`ua-author-6588713@usenetarchives.gap\` — **2** new threads
+- jessicawlyam89 \`ua-author-8321573@usenetarchives.gap\` — **1** new threads
+- andy.paul \`ua-author-3752794@usenetarchives.gap\` — **1** new threads
+- mkeles84 \`ua-author-22318812@usenetarchives.gap\` — **1** new threads
+
+### Threads that escaped the year
+
+(Started this year, but conversation continued into the next.)
+
+- [End-to-end FULLY AUTOMATED PowerCOBOL Migration to .Net. NO Code required. Mouse clicks o…](threads/t-2eca80b395.md) — **10** msgs, into 2022-02
+- [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSI…](threads/t-cc86b9a05a.md) — **9** msgs, into 2022-01
+
+## 2022 <a id='y2022'></a>
+
+**60 messages in 12 threads** · active 2022-01 → 2022-04
+
+### Months
+
+- **2022-01** — 17 msgs
+- **2022-02** — 25 msgs
+- **2022-03** — 7 msgs
+- **2022-04** — 11 msgs
+
+### Top 12 threads
+
+- [OT: Told you so...](threads/t-9d5f27cfb9.md) — **17** msgs
+- [PowerCobol & Status 30](threads/t-9de6b0bf01.md) — **7** msgs
+- [WINCOBOL](threads/t-0d01c5af6e.md) — **4** msgs
+- [PRIMA Company re-direction and the Migration Calculator](threads/t-886515e8be.md) — **3** msgs
+- [�� FIGLIO DI PUTTANA: #PIERSILVIOBERLUSCONI DI CRIMINALISSIMA #MFE, CRIMINALISSIMA #MEDIA…](threads/t-0685ed2b18.md) — **1** msgs
+- [�� SBORRATISSIMA IN CULO #SILVIASARDONE! SI LEI, IL PUTTANONE CHE �� ENTRATO IN POLITICA…](threads/t-d7ff9262cb.md) — **1** msgs
+- [#PIERSILVIOBERLUSCONI �� UN FIGLIO DI PUTTANA, SI, PROPRIO COS��! �� FIGLIO DI TROIONA, P…](threads/t-6ef7ecf83c.md) — **1** msgs
+- [#LEOZAGAMI �� PEDOFILO ASSASSINO, SATANISTA, NAZISTA, SATA���NAZISTA, FILO MAFIOSO, COCAI…](threads/t-2d92e38a51.md) — **1** msgs
+- [#MARINABERLUSCONI �� ASSASSINA, LESBICA E PEDOFILA! SI, PROPRIO PROPRIO COS��! �� COCAINO…](threads/t-20ee13dff2.md) — **1** msgs
+- [#GIOELEMAGALDI �� ASSASSINO E PEDOFILO! SI, PROPRIO COS��! �� PEDERASTA OMICIDA: GIOELE M…](threads/t-7acd0c3ac1.md) — **1** msgs
+- [#PIERSILVIOBERLUSCONI �� FIGLIO DI TROIA! SI, PROPRIO COS��! �� FIGLIO DI PUTTANONA, PIER…](threads/t-5a25687092.md) — **1** msgs
+- [CARPEORO #CARPEORO �� MASSONE PEDOFILO, DI NDRANGHETA! ED ASSASSINO! SI, �� PROPRIO COS��…](threads/t-483b68898d.md) — **1** msgs
+
+### Dominant topics
+
+- Migration and conversion — 1 threads
+- Off-topic and spam — 1 threads
+
+### Most active thread starters
+
+(People who started the most distinct conversations this year.)
+
+- dashwood \`ua-author-14501808@usenetarchives.gap\` — **2** new threads
+- genpatapen \`ua-author-558923@usenetarchives.gap\` — **2** new threads
+- jmfg11 \`ua-author-14501829@usenetarchives.gap\` — **1** new threads
+- arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **1** new threads
+- gennarinozacquaglia \`ua-author-14657441@usenetarchives.gap\` — **1** new threads
+- massoni.assassini \`ua-author-3631520@usenetarchives.gap\` — **1** new threads
+- ascialorbador \`ua-author-12889118@usenetarchives.gap\` — **1** new threads
+- ineshkaparesh \`ua-author-7013817@usenetarchives.gap\` — **1** new threads
+- jespodesh \`ua-author-6037474@usenetarchives.gap\` — **1** new threads
+- joebadoe \`ua-author-10708786@usenetarchives.gap\` — **1** new threads
 

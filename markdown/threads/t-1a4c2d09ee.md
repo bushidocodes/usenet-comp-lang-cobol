@@ -1,0 +1,44 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# File Handles
+
+_1 message · 1 participant · 1997-07_
+
+---
+
+### File Handles
+
+- **From:** "tapan desai" <ua-author-17071682@usenetarchives.gap>
+- **Date:** 1997-07-14T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<33CB004E.42E1@lasata.com.au>`
+
+```
+
+I am using 32-bit Microfocus COBOL 4.0 to create my DLL's which is
+interfaced by VB front-end.
+
+I would like to find out if there is any way I can get the file handle
+(presumably a number) from Operating System.
+
+The front-end VB has various calls for a file with a naming convention
+of the file containing different database.
+
+The first call is to open the file with a name XXXX-DEM.DAT where DEM is
+a database.
+
+The same call is then made for XXXX-CCS.DAT (again CCS as the database).
+
+All the further read/s, writes, and close will refer to individual
+databases.
+
+If I could grab the file-handle at the open, and use the handle to read
+/ write, close then that will solve my problem.
+
+Is there any way, I can do ? I know, there is a way to do it using
+ExtFH Can someone please help ?
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -2,30 +2,30 @@
 
 # comp.lang.cobol — Topic Index
 
-Topical groupings of the 16,371 threads (140,279 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
+Topical groupings of the 24,732 threads (168,367 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
 
 ## Topics
 
-- [Y2K and Year-2000 remediation](#y2k) — 288 threads
-- [COBOL's future, legacy, and obsolescence](#future) — 77 threads
-- [Jobs, careers, recruiting, salary](#jobs) — 599 threads
-- [Compilers and vendors](#compilers) — 2,466 threads
-- [Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL)](#open-source) — 61 threads
-- [Object-oriented COBOL](#oo) — 191 threads
-- [Language features and syntax](#syntax) — 630 threads
-- [COBOL standards (ANS, ISO, 74/85/2002/2014)](#standards) — 298 threads
-- [Migration and conversion](#migration) — 269 threads
-- [Mainframe, z/OS, JCL, CICS](#mainframe) — 1,060 threads
-- [AS/400, iSeries, RPG](#as400) — 84 threads
-- [Databases and SQL](#databases) — 557 threads
-- [VSAM, files, sorting](#files) — 380 threads
-- [Date and calendar processing](#dates) — 107 threads
-- [Web, XML, modern integration](#web) — 338 threads
-- [Tutorials, books, learning](#learning) — 575 threads
-- [Help requests and how-to](#help) — 1,111 threads
-- [Off-topic and spam](#spam) — 508 threads
-- [Meta: FAQs, group policy, charter](#meta) — 440 threads
-- [Uncategorized (top by message count)](#uncategorized) — 8,047 threads
+- [Y2K and Year-2000 remediation](#y2k) — 553 threads
+- [COBOL's future, legacy, and obsolescence](#future) — 111 threads
+- [Jobs, careers, recruiting, salary](#jobs) — 1,468 threads
+- [Compilers and vendors](#compilers) — 3,958 threads
+- [Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL)](#open-source) — 95 threads
+- [Object-oriented COBOL](#oo) — 238 threads
+- [Language features and syntax](#syntax) — 846 threads
+- [COBOL standards (ANS, ISO, 74/85/2002/2014)](#standards) — 435 threads
+- [Migration and conversion](#migration) — 435 threads
+- [Mainframe, z/OS, JCL, CICS](#mainframe) — 1,700 threads
+- [AS/400, iSeries, RPG](#as400) — 139 threads
+- [Databases and SQL](#databases) — 923 threads
+- [VSAM, files, sorting](#files) — 581 threads
+- [Date and calendar processing](#dates) — 188 threads
+- [Web, XML, modern integration](#web) — 444 threads
+- [Tutorials, books, learning](#learning) — 851 threads
+- [Help requests and how-to](#help) — 1,752 threads
+- [Off-topic and spam](#spam) — 573 threads
+- [Meta: FAQs, group policy, charter](#meta) — 609 threads
+- [Uncategorized (top by message count)](#uncategorized) — 11,721 threads
 
 ## Top threads overall (by message count)
 
@@ -62,73 +62,73 @@ Topical groupings of the 16,371 threads (140,279 messages) in this archive. Thre
 
 ## Y2K and Year-2000 remediation <a id='y2k'></a>
 
-_288 threads · 1,833 messages._
+_553 threads · 2,682 messages._
 
 - [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **300** msgs · 1998-10 → 1998-11
 - [Non-programmers think Y2K was hype... and I'm angry!](threads/t-88f6ada26b.md) — **104** msgs · 2000-01
 - [No panic - but .. Y2K + 4](threads/t-173000e80e.md) — **87** msgs · 2003-12 → 2004-01
 - [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **72** msgs · 1998-08 → 1998-09
 - [Parts of a program that break in Y2K?](threads/t-a385d34ff8.md) — **67** msgs · 1998-09 → 1998-10
+- [Is there still good Cobal career after year 2000?](threads/t-da394e01f2.md) — **61** msgs · 1998-06 → 1998-07
 - [How will Y2K affect ME?????](threads/t-d81f4ce272.md) — **59** msgs · 1998-12 → 1999-01
 - [Y2K: Preban Yugo AK-47 in .308 == perfect survival gun?](threads/t-0d93f9cd1f.md) — **50** msgs · 1998-12
 - [y2k rant](threads/t-396bf6ac1d.md) — **48** msgs · 1998-09 → 1998-10
 - [OT - New Millennium](threads/t-85f4707c00.md) — **44** msgs · 2001-01 → 2001-02
 - [Another Y2K defect](threads/t-d0e9e631a9.md) — **43** msgs · 2000-01
 - [Interesting Date Routine](threads/t-3c8eb9b34e.md) — **41** msgs · 2000-08 → 2000-09
+- [Year 2000](threads/t-93d277b451.md) — **40** msgs · 1997-12
 - [A Y2K 'Fix' Story](threads/t-be978d4c79.md) — **34** msgs · 1998-09
 - [1999 DATE PROBLEM AT LEVEL II COBOL](threads/t-7da998c81d.md) — **33** msgs · 1999-01
 - [Y2K Bug found in ACCEPT FROM DATE](threads/t-d2cb3a7bcd.md) — **32** msgs · 1999-11
 - [y2k examples](threads/t-e3711382a6.md) — **29** msgs · 1999-10
 - [Who has had Y2K problems yet?](threads/t-bbca65d5e5.md) — **26** msgs · 1999-12 → 2000-01
+- [Demand for COBOL progammers --->AFTER<--- Y2K.](threads/t-881b741729.md) — **25** msgs · 1997-01 → 1997-02
 - [How is *your* shop's Y2K work going?](threads/t-1bbd9b104f.md) — **24** msgs · 1999-02 → 1999-03
+- [Y2k file expansion](threads/t-25fd83e420.md) — **22** msgs · 1998-05 → 1998-06
+- [YEAR 2000 avnd the food industry](threads/t-c7fe185938.md) — **19** msgs · 1996-12 → 1997-01
+- [PIMPS in general or clueless in y2k!](threads/t-1a81d01b32.md) — **19** msgs · 1998-05
 - [y2k-proofing my programs](threads/t-b06e7ec23f.md) — **19** msgs · 1998-09
 - [Y2K](threads/t-acfec38c12.md) — **18** msgs · 1999-12 → 2000-01
 - [Making Cobol Programs Y2k compliant](threads/t-e6b4275b55.md) — **17** msgs · 1999-12 → 2000-01
 - [how do i get a 4 digit year to appear in cobol](threads/t-39e20bf49a.md) — **17** msgs · 2004-01
 - [The Maximum Beta release of COBOL Millennium Edition](threads/t-53cf55a958.md) — **17** msgs · 2006-11 → 2006-12
 - [Whats Happening with Y2K?](threads/t-d61f85d75a.md) — **16** msgs · 1999-03
+- [Y2K awareness in the UK](threads/t-76b3f65fc4.md) — **15** msgs · 1997-04
 - [Determine Day-of-Week for Y2K](threads/t-b876243cf7.md) — **15** msgs · 1999-11
 - [Getting System date in 4 digit year format](threads/t-ad2f74d9b2.md) — **14** msgs · 1999-03
 - [y2k code expansion](threads/t-90e52a281e.md) — **14** msgs · 1999-10 → 1999-11
 - [2000 = millennium?](threads/t-6f3b897a46.md) — **14** msgs · 1999-12
 - [Experts Say VIN Problem Bigger Than Y2K!](threads/t-e4910527bc.md) — **14** msgs · 2004-07
+- [End of the century](threads/t-cdf3fe00e3.md) — **12** msgs · 1994-11 → 1994-12
+- [COBOL Year 2000](threads/t-0fb85dfd6d.md) — **12** msgs · 1997-03 → 1997-04
+- [Y2K:Cobol->C++](threads/t-ea07b7af0b.md) — **12** msgs · 1998-06
 - [Parts of a program that break in Y2K?](threads/t-1988d9cf4d.md) — **12** msgs · 1998-09
 - [Y2K ERROR QUESTIONS](threads/t-1b3b9e669c.md) — **12** msgs · 1999-03 → 1999-04
 - [Y2K](threads/t-4d9cc10b9c.md) — **12** msgs · 2000-01 → 2000-02
+- [End of the century](threads/t-79029b7ad1.md) — **11** msgs · 1994-11 → 1994-12
+- [Year 2000 issue](threads/t-1e1564d2b0.md) — **11** msgs · 1995-02
+- [Year 2000](threads/t-f26f0bc93c.md) — **11** msgs · 1997-03
+- [Year 2000](threads/t-6a94fe21b7.md) — **11** msgs · 1997-05 → 1997-06
+- [Year 2000 Issues](threads/t-a14739460d.md) — **11** msgs · 1997-12
 - [Vancouver - Y2K consultant - up to $40/hr](threads/t-7a1614c4b5.md) — **11** msgs · 1999-03
+- [Pre- y2k rates](threads/t-52e0f94df4.md) — **10** msgs · 1997-12
+- [Y2K Cobol Programmers needed.](threads/t-4cf4c1fa6b.md) — **10** msgs · 1998-03
 - [Is there still good Cobal career after year 2000?](threads/t-24fe469664.md) — **9** msgs · 1998-06
 - [now that y2k is . . . .](threads/t-e9acc72673.md) — **9** msgs · 1999-03
 - [Y2K Woes](threads/t-ac33739b6f.md) — **9** msgs · 2000-01
+- [Julian date routine](threads/t-9999489c84.md) — **8** msgs · 1995-08
+- [Year 2000 sales strategy.](threads/t-a7375db226.md) — **8** msgs · 1996-05
+- [Purdue university's solution to the "year 2000 problem"](threads/t-a3ba2c0d1c.md) — **8** msgs · 1997-04
 - [A Y2K 'Fix' Story](threads/t-ef4e078330.md) — **8** msgs · 1998-09
-- [Post-Y2K Employment Prospects](threads/t-3e5393d887.md) — **7** msgs · 1998-10 → 1998-11
-- [Date Windowing problem](threads/t-ac96a06754.md) — **7** msgs · 1998-11
-- [Help! Cobol y2k error](threads/t-d45b6b7b45.md) — **7** msgs · 1999-01 → 1999-02
-- [Revised Y2K Date...9/9/99?](threads/t-77216cb99b.md) — **7** msgs · 1999-04
-- [Y2K Bonus (and sour grapes) OT](threads/t-33400d2a59.md) — **7** msgs · 1999-11
-- [more y2k problems](threads/t-abcbc7fd6c.md) — **7** msgs · 1999-12 → 2000-01
-- [TOPIC 2000 Cobol Y2K](threads/t-092361de00.md) — **7** msgs · 1999-12
-- [Non-programmers think Y2K was hype... and I'm angry!](threads/t-f3dca5e219.md) — **7** msgs · 2000-01
-- [Is there still good Cobal career after year 2000?](threads/t-c29ef9cb9c.md) — **6** msgs · 1998-06
-- [MFC Y2k](threads/t-3c7a1ae942.md) — **6** msgs · 1998-07
-- [Y2K: History, what's being done, how](threads/t-1ebb88d4a1.md) — **6** msgs · 1998-08
-- [Is COBOL 3.1.35 Y2K compliant?](threads/t-0867c6802d.md) — **6** msgs · 1998-09
-- [Y2K solution in Microfocus Cobol under Unix](threads/t-1e5336402a.md) — **6** msgs · 1998-11 → 1998-12
-- [ACCEPT / Y2K](threads/t-656b51565e.md) — **6** msgs · 1999-02
-- [y2k](threads/t-112f1690c1.md) — **6** msgs · 1999-12 → 2000-01
-- [end of the century](threads/t-578ee0561c.md) — **5** msgs · 1994-12
-- [Y2K:Cobol->C++](threads/t-a64f5e6d16.md) — **5** msgs · 1998-06
-- [Doomsday y2k discussion forums](threads/t-87879a4075.md) — **5** msgs · 1998-07
-- [The Cobol year 2000 solution !!!](threads/t-86a8a9a8b7.md) — **5** msgs · 1998-09
-- [DFSORT Y2K options for Internal Sorts](threads/t-62886d119f.md) — **5** msgs · 1998-11
-- [Y2K cobol year 2000 compliance.](threads/t-3107e3b5f5.md) — **5** msgs · 1999-02
-- [SPECIAL-NAMES/Y2K](threads/t-9b4c9118cd.md) — **5** msgs · 1999-02
-- [Need Date Routine](threads/t-2e7fb54026.md) — **5** msgs · 1999-02
-- [Y2K - 3 digit years in 2 bytes](threads/t-c6412402c6.md) — **5** msgs · 1999-03
-- _…and 228 more threads (showing top 60 by message count)._
+- [Need a Gregorian to Julian Date Conversion PGM](threads/t-5432677065.md) — **7** msgs · 1996-11 → 1996-12
+- [Info on Linc available - a 4GL for Y2K?](threads/t-a4682184ca.md) — **7** msgs · 1997-07
+- [Date malfuntion after the year 2000](threads/t-7205168c22.md) — **7** msgs · 1997-07
+- [Stories/Experiences/Horror Stories of Y2K conversions!!!](threads/t-3c089c9aa2.md) — **7** msgs · 1997-09
+- _…and 493 more threads (showing top 60 by message count)._
 
 ## COBOL's future, legacy, and obsolescence <a id='future'></a>
 
-_77 threads · 1,525 messages._
+_111 threads · 1,737 messages._
 
 - [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) — **195** msgs · 2003-05 → 2003-12
 - [Why COBOL is losing the POWER struggle](threads/t-43fdea805c.md) — **122** msgs · 2009-06 → 2009-07
@@ -142,28 +142,42 @@ _77 threads · 1,525 messages._
 - [Cobol - legacy software](threads/t-2f4779b7ce.md) — **52** msgs · 2000-02 → 2000-03
 - [Wang COBOL alive and well as Wang VS makes a comeback](threads/t-a9f817f2ad.md) — **49** msgs · 2009-04 → 2009-05
 - [Why COBOL is still there ?](threads/t-6ddb58b9d3.md) — **47** msgs · 1998-08 → 1998-09
+- [Will COBOL Out-dated](threads/t-a1f2ffd615.md) — **39** msgs · 1997-10 → 1997-11
 - [Cobol Forever!](threads/t-1965af118b.md) — **36** msgs · 1998-08 → 1998-09
 - [Dinosaur Alert - Error Issue](threads/t-8f6cef9cce.md) — **34** msgs · 2012-03
 - [will cobol stick around?](threads/t-6230375fdb.md) — **29** msgs · 1999-06
 - [XML and Legacy](threads/t-feca21bf59.md) — **26** msgs · 2003-07
 - [Future of COBOL?](threads/t-1e1c1f482f.md) — **23** msgs · 1998-11
+- [History of cobol](threads/t-d5e418d986.md) — **22** msgs · 1998-06
 - [The future of Cobol](threads/t-68a3da8077.md) — **22** msgs · 1998-10
 - [Accelerated legacy code](threads/t-ffe5986c39.md) — **21** msgs · 2009-12
 - [Skills advancing for legacy programmers](threads/t-33be275da8.md) — **19** msgs · 2000-06
 - [Giving legacy cobol code a web interface](threads/t-41494233be.md) — **19** msgs · 2002-09 → 2002-10
 - [Is Cobol Dead?](threads/t-fc885943ee.md) — **18** msgs · 2010-08 → 2010-09
+- [Really Legacy code](threads/t-44ece54a10.md) — **17** msgs · 1997-09
 - [Obsolete coding methods](threads/t-a70469f2a8.md) — **17** msgs · 1999-03
 - [ISO/IEC/NCITS/ANSI dinosaur. Was many threads](threads/t-a6b7fbc6ac.md) — **17** msgs · 2001-06
 - [Legacy migration to latest technologies!](threads/t-6dc1df4c2e.md) — **16** msgs · 2003-05
 - [Obsolete elements of COBOL language](threads/t-fe3d58b552.md) — **16** msgs · 2005-10
+- [COBOL outlived the dinosaurs](threads/t-a03f4d2f10.md) — **16** msgs · 2015-06
 - [Cobol Forever!](threads/t-bbba4d3332.md) — **13** msgs · 1998-09
 - [[Fwd: Re: Mainframe not a good architecture for interactive was Re: What is the future of COBOL? An…](threads/t-41fb0a8657.md) — **13** msgs · 2004-01
 - [Working with Legacy Code](threads/t-0ebf604282.md) — **13** msgs · 2007-07
+- [Legacy Modernization Survey!](threads/t-8c6e44aa22.md) — **12** msgs · 2013-08
+- [Why is COBOL still around?](threads/t-f8aec9f6b4.md) — **11** msgs · 1996-06
+- [What is Legacy system?](threads/t-3c6829d5bf.md) — **10** msgs · 1997-06
 - [history of cobol](threads/t-908a4b4e0c.md) — **10** msgs · 1998-06 → 1998-07
 - [OT - Mainframe Programers Obsolete](threads/t-1ed728dadd.md) — **10** msgs · 2004-05
+- [Is COBOL Dead?](threads/t-230da52a5f.md) — **9** msgs · 1995-02 → 1995-03
+- [When will COBOL die??](threads/t-25b756d32a.md) — **9** msgs · 1996-01
 - [What is the future of Cobol?](threads/t-7626340967.md) — **9** msgs · 1999-04
 - [Dinosaur Code!](threads/t-28c09829ed.md) — **9** msgs · 2000-02
 - [.NET Programming or Teaching an Old Dinosaur New Tricks](threads/t-a52a41fcbe.md) — **9** msgs · 2002-01 → 2002-02
+- [How do you convert Legacy Cobol To SQL](threads/t-789f9cd016.md) — **8** msgs · 1998-04
+- [Is COBOL Dead?](threads/t-a201292e34.md) — **7** msgs · 1995-03
+- [COBOL is definitely not obsolete](threads/t-4f1adad4d7.md) — **6** msgs · 1995-05
+- [Obsolete platforms and skills transfer: Need Advice](threads/t-db74ed6972.md) — **6** msgs · 1996-01
+- [Why CoBOL](threads/t-69abf1a9c0.md) — **6** msgs · 1997-03
 - [Cobol, the legacy](threads/t-f58f6e2865.md) — **6** msgs · 2001-04
 - [java as subroutines for legacy programs.](threads/t-7d0ebe1afb.md) — **5** msgs · 1999-11
 - [The Future of COBOL](threads/t-86047edcf4.md) — **5** msgs · 2000-06
@@ -173,28 +187,14 @@ _77 threads · 1,525 messages._
 - [New GUI/BUI on Legacy Business Logic???](threads/t-2330089288.md) — **4** msgs · 2001-01 → 2001-02
 - [Is COBOL Dying?](threads/t-5ba1220fac.md) — **4** msgs · 2001-03 → 2001-04
 - [Call for Papers (Future of COBOL)](threads/t-733b6c06c6.md) — **4** msgs · 2003-02 → 2003-03
-- [Fujitsu COBOL still leashed](threads/t-8c2cd5b6cf.md) — **3** msgs · 1999-01
-- [Is COBOL obsolete](threads/t-57b1151929.md) — **3** msgs · 2006-04
-- [history of cobol](threads/t-c84ac50ce0.md) — **2** msgs · 1998-06
-- [history of cobol](threads/t-463863ddb2.md) — **2** msgs · 1998-06
-- [history of cobol](threads/t-204050b225.md) — **2** msgs · 1998-06
-- [Cobol Forever!](threads/t-47bb86d29a.md) — **2** msgs · 1998-09
-- [Future of COBOL on PCs](threads/t-db9eca63c7.md) — **2** msgs · 1999-02
-- [will cobol stick around?](threads/t-d554149a6c.md) — **2** msgs · 1999-06
-- [Does AWO option in IBM COBOL still matter?](threads/t-4bf3281043.md) — **2** msgs · 1999-07
-- [Everyone Sing - "Give Me That Old-Time Dinosaur Code, It's Good Enough For Me!"](threads/t-b8e3392f50.md) — **2** msgs · 2000-02
-- [Dinosaur Code!](threads/t-96f8956a35.md) — **2** msgs · 2000-03
-- [Is COBOL Dying?](threads/t-d2318d9255.md) — **2** msgs · 2001-03 → 2001-04
-- [Is COBOL Dying?](threads/t-a995680769.md) — **2** msgs · 2001-03
-- [program-id obsolete?](threads/t-8e23539eb7.md) — **2** msgs · 2001-10
-- [Legacy systems - Mainframe to Unix](threads/t-5b3360c1d7.md) — **1** msgs · 1994-12
-- [history of cobol](threads/t-c423434ff7.md) — **1** msgs · 1998-06
-- [history of cobol](threads/t-d3e3cc039b.md) — **1** msgs · 1998-06
-- _…and 17 more threads (showing top 60 by message count)._
+- [LOC in legacy systems?](threads/t-68c688bbec.md) — **3** msgs · 1996-04
+- [Migrating Legacy Applications to Client/Server](threads/t-f48b65d494.md) — **3** msgs · 1996-08
+- [Is COBOL dead](threads/t-7b52b8f391.md) — **3** msgs · 1996-11
+- _…and 51 more threads (showing top 60 by message count)._
 
 ## Jobs, careers, recruiting, salary <a id='jobs'></a>
 
-_599 threads · 3,389 messages._
+_1,468 threads · 5,289 messages._
 
 - [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **360** msgs · 2000-09 → 2000-10
 - [JPMorgan Chase to strengthen offshoring to India](threads/t-fccc5af541.md) — **107** msgs · 2005-12
@@ -204,6 +204,7 @@ _599 threads · 3,389 messages._
 - [[job] Cobol Programmer needed-rate range](threads/t-f48340aac0.md) — **72** msgs · 2001-07 → 2001-08
 - [Help! How to get first job](threads/t-6b7720a3a3.md) — **70** msgs · 1999-04
 - [Declining Cobol job market](threads/t-a511b9b92f.md) — **65** msgs · 2008-08 → 2008-09
+- [Is there still good Cobal career after year 2000?](threads/t-da394e01f2.md) — **61** msgs · 1998-06 → 1998-07
 - [Cobol Opportunity Available](threads/t-c95932f854.md) — **59** msgs · 2004-06 → 2004-07
 - [OT typical salary scale for COBOL mainframe programmers](threads/t-1ff7ff18d8.md) — **56** msgs · 2006-09
 - [What matters most when getting a job done?](threads/t-cec549b0eb.md) — **46** msgs · 2007-10
@@ -219,12 +220,18 @@ _599 threads · 3,389 messages._
 - [Rates and Salaries being Cut by H-1B Visa'd People](threads/t-d3f0da23d4.md) — **27** msgs · 1999-09
 - [position available](threads/t-e17620b188.md) — **25** msgs · 1999-04 → 1999-05
 - [***Great Opportunity*** TRAINING & PLACEMENTS FOR OPT/CPT CANDIDATES***GC Filing and H1 Transfer](threads/t-7b2ad13988.md) — **25** msgs · 2012-08
+- [Pay Rates for COBOL jobs in Ohio](threads/t-923c2517e2.md) — **24** msgs · 1998-08
 - [Hiring developers, database administrators and systems architects in central Connecticut.](threads/t-9b0772b7c4.md) — **24** msgs · 2001-08
 - [Job advice for old hack, please?](threads/t-657d4652c1.md) — **23** msgs · 2001-10
+- [PC COBOL - Cost of Compilers - Market for them, etc...](threads/t-3636c8adbe.md) — **21** msgs · 1997-09
+- [How do you strip leading zeroes from a field so that the 1st significant digit will occupy the 1st…](threads/t-2532fc0e56.md) — **21** msgs · 1998-04
 - [Cobol convert program Job Request](threads/t-aa6dc674ac.md) — **21** msgs · 2007-02
+- [Submit Jobs From CICS Programs?](threads/t-9da992a7e0.md) — **20** msgs · 1997-12 → 1998-01
+- [Cobol job in Tampa!](threads/t-ef4406c915.md) — **19** msgs · 1997-11 → 1997-12
 - [Mainframe Programming Opportunities - Not!](threads/t-c74a150729.md) — **19** msgs · 2000-03 → 2000-04
 - [COBOL Jobs](threads/t-0eb2d37041.md) — **19** msgs · 2000-05 → 2000-06
 - [No wonder we can't get jobs...](threads/t-7560553529.md) — **19** msgs · 2009-05
+- [Salary wage rates](threads/t-225e44c79f.md) — **18** msgs · 1997-12
 - [3 Mainframe experts looking for Job opportunity](threads/t-f99abf9384.md) — **18** msgs · 1998-07
 - [Where are there COBOL Jobs??](threads/t-4d37482bf5.md) — **18** msgs · 2001-03 → 2001-04
 - [(Job) Web / COBOL developer position in Texas - Immediate Need!](threads/t-cdd9f0a708.md) — **18** msgs · 2005-03 → 2005-07
@@ -235,32 +242,25 @@ _599 threads · 3,389 messages._
 - [Less COBOL Jobs out there?](threads/t-865feb21d4.md) — **16** msgs · 2000-03 → 2000-05
 - [Indianapolis Opportunities](threads/t-cc2c0eb289.md) — **16** msgs · 2008-08
 - [Learning Opportunity - Follow-up](threads/t-86fe53fda2.md) — **16** msgs · 2010-01
+- [(OT) Software License Contracts and Trade Secrets](threads/t-bad2feadcc.md) — **16** msgs · 2014-11 → 2014-12
+- [TAMPA MF COBOL JOB](threads/t-be2a6dc342.md) — **15** msgs · 1998-02
 - [Wanted: Algorithm for *Combinations* of a series of numbers](threads/t-41556e660d.md) — **15** msgs · 1999-08
 - [Hiring CoBOL coders laughable](threads/t-ddf56769d4.md) — **15** msgs · 2012-05 → 2012-06
+- [Give us the job and we will finish the tools...](threads/t-d6302d7184.md) — **15** msgs · 2018-05 → 2018-07
+- [How much COBOL should one know to put it on a Resume?](threads/t-338b0b5f52.md) — **14** msgs · 1996-09 → 1996-10
+- [Job offers](threads/t-a62583fa53.md) — **14** msgs · 1998-05
 - [Tampa Programming Positions](threads/t-b61a347c82.md) — **14** msgs · 2000-06
 - [5 COBOL,CICS,DB2 CONTRACT OPENINGS in KANSAS CITY, MISSOURI / 1-800-676-662 #309](threads/t-f3e7efb300.md) — **14** msgs · 2002-12
 - [OT: The Global Job Shift](threads/t-4d1798c0a6.md) — **14** msgs · 2003-02
 - [Jobs - Mainframe Developer](threads/t-6d26cad828.md) — **14** msgs · 2006-10
 - [Salary Question](threads/t-8432453595.md) — **14** msgs · 2006-12 → 2007-01
 - [[OT] IBM Mainframe - Batch Job to Generate Data Set List?](threads/t-92675fd956.md) — **14** msgs · 2007-01 → 2007-02
-- [would you hire me to code? I use a magic crystal ball!](threads/t-df270c1db2.md) — **13** msgs · 1999-03
-- [OT (Humor) RESUME 2001](threads/t-003417d488.md) — **13** msgs · 2001-09 → 2001-10
-- [job postings, gene webb, DD, and all readers of this newsgoup](threads/t-5ef2ec7cb3.md) — **12** msgs · 1998-07
-- [Job market](threads/t-17704161f6.md) — **12** msgs · 1999-11
-- [JOB >> Consulting >> 1 Year+ >> Brooklyn NY](threads/t-57a529a31c.md) — **12** msgs · 2001-02
-- [Submitting JOB from COBOL program ?](threads/t-05f2907e99.md) — **12** msgs · 2002-09
-- [Direct client req : Sr. Business Analyst at Baltimore, MD a Multiple Years Position.](threads/t-20d83a2368.md) — **12** msgs · 2011-11 → 2011-12
-- [US-PA-HARRISBURG-UNISYS, COBOL, SQL, RDMS, $$$ UNISYS $$$ (0766) <Recruiter>](threads/t-e437332195.md) — **11** msgs · 1999-07
-- [NY Times article on outsourcing](threads/t-bfd408c878.md) — **11** msgs · 2004-04
-- [Non-US Jobs seeking?](threads/t-b84bbdf4d1.md) — **11** msgs · 2007-01
-- [Looking for a job?](threads/t-deb732f095.md) — **11** msgs · 2008-07
-- [Stupid Headhunter Tricks - anything else](threads/t-6325499a71.md) — **10** msgs · 1998-06
-- [URGENT HELP: Monthly salary report](threads/t-20a8b9e92e.md) — **10** msgs · 1998-10
-- _…and 539 more threads (showing top 60 by message count)._
+- [Job](threads/t-995c92efbf.md) — **13** msgs · 1997-05 → 1997-06
+- _…and 1,408 more threads (showing top 60 by message count)._
 
 ## Compilers and vendors <a id='compilers'></a>
 
-_2,466 threads · 13,449 messages._
+_3,958 threads · 17,445 messages._
 
 - [First COBOL compiler](threads/t-97a7b592f4.md) — **274** msgs · 1998-11 → 1998-12
 - [I need a new compiler...](threads/t-3fa470349d.md) — **146** msgs · 2008-12
@@ -283,6 +283,7 @@ _2,466 threads · 13,449 messages._
 - [Fujitsu following MERANT's nefarious licensing prectices?](threads/t-8dc6be7c1f.md) — **54** msgs · 2001-02 → 2001-03
 - [Moving Microfocus 3.1 to a better laptop](threads/t-acacddfc25.md) — **53** msgs · 2008-09
 - [Fujitsu cobol debugging](threads/t-54e92c8dcc.md) — **53** msgs · 2008-10
+- [Numeric fields Fujitsu/MF](threads/t-b251666735.md) — **52** msgs · 2017-12 → 2018-06
 - [FREE: COBOL compiler](threads/t-5dd5c98c37.md) — **49** msgs · 1999-08
 - [Cobol's future - Microfocus, actually](threads/t-56f948b40a.md) — **48** msgs · 2005-03 → 2005-04
 - [Inaccurate math results in Micro Focus Unix](threads/t-eda27e7c85.md) — **46** msgs · 2013-05
@@ -321,78 +322,77 @@ _2,466 threads · 13,449 messages._
 - [Fujitsu Woes](threads/t-33476914ca.md) — **27** msgs · 1998-11 → 1998-12
 - [Reading MF Files from Powercobol7](threads/t-6bc49cdbc7.md) — **27** msgs · 2003-02 → 2003-03
 - [Fujitsu - asking for business case for ANSI/ISO conformance](threads/t-0f53b381af.md) — **27** msgs · 2003-03 → 2003-04
-- [reading COMP-3 data on UNIX using microfocus](threads/t-41b2706ac6.md) — **27** msgs · 2007-06
-- _…and 2,406 more threads (showing top 60 by message count)._
+- _…and 3,898 more threads (showing top 60 by message count)._
 
 ## Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) <a id='open-source'></a>
 
-_61 threads · 403 messages._
+_95 threads · 630 messages._
 
 - [cannot build opencobol-1.1 under cygwin](threads/t-d72d25cd11.md) — **84** msgs · 2010-04 → 2012-10
 - [Experience with "cobol-it" cobol?](threads/t-77a3de52b9.md) — **38** msgs · 2009-07 → 2009-08
 - [OpenCOBOL problem](threads/t-0afc0f3a1f.md) — **38** msgs · 2010-11
+- [OpenCOBOL/GNUCobol](threads/t-966fa9427d.md) — **38** msgs · 2014-04
+- [OpenCOBOL usage](threads/t-346b7c2de7.md) — **31** msgs · 2013-09
 - [ANN: OpenCOBOL Programmer's Guide](threads/t-b4823b4ffe.md) — **30** msgs · 2010-02
+- [GNU COBOL and PostgreSQL](threads/t-84278ac2f8.md) — **29** msgs · 2014-04 → 2014-05
 - [COBOL standard text (writing usage manuals for OpenCOBOL)](threads/t-96b4f052bf.md) — **23** msgs · 2008-10
 - [TinyCobol and OpenCobol](threads/t-c4defbcfb6.md) — **18** msgs · 2002-12 → 2003-01
 - [Open Cobol is free and standard.](threads/t-62b0a8e483.md) — **17** msgs · 2010-02
+- [GnuCOBOL 3.0 Release Candidate 1 for Windows, with COBOL Report Writer](threads/t-d7f18f40de.md) — **16** msgs · 2018-05 → 2018-10
+- [Updated OpenCOBOL 1.1 MinGw Installer for Windows](threads/t-5d167e7782.md) — **13** msgs · 2014-04
 - [Can Open COBOL do this...?](threads/t-89bf87d6a2.md) — **11** msgs · 2008-12
 - [Using OpenCobol to convert a fixed size EBCDIC file to ASCII?](threads/t-2a88d385a4.md) — **11** msgs · 2011-08 → 2011-09
+- [Gnu cobol --- multiple screens overwriting each other --- please help!](threads/t-78df025ec3.md) — **11** msgs · 2018-09 → 2018-10
+- [GnuCOBOL Interactive Development environment - new version](threads/t-d9dc897579.md) — **10** msgs · 2016-12 → 2017-01
 - [Newbie opencobol question re Pic Z9](threads/t-639417eb2b.md) — **9** msgs · 2011-06 → 2011-07
+- [Anomalous COMMAND-LINE behaviour in GnuCOBOL](threads/t-59e821fc9d.md) — **9** msgs · 2016-09
+- [GnuCOBOL 2.2 released](threads/t-5686457a59.md) — **9** msgs · 2017-09
 - [tiny cobol](threads/t-7abb4a1a60.md) — **8** msgs · 2000-08
+- [Exec sql connect :username identified by :password at :db-id using :db-string not working in gnu co…](threads/t-8b1fed3f47.md) — **8** msgs · 2018-01 → 2018-02
 - [TINYCOBOL: MOVE CORR](threads/t-00aa356d0f.md) — **6** msgs · 2001-02 → 2001-03
 - [OpenCobol install problems](threads/t-0eca7161a8.md) — **6** msgs · 2004-03
 - [Opensource cobol debugger for opencobol...written in opencobol.](threads/t-31569db1b9.md) — **6** msgs · 2010-04
+- [Unit test frameworks for GnuCOBOL](threads/t-7ccb97c8c8.md) — **6** msgs · 2021-06 → 2021-07
 - [compile static binaries +opencobol](threads/t-ccf4fed4db.md) — **5** msgs · 2005-09
 - [OpenCOBOL, MINGW/Cygwin and gmp.h problem](threads/t-73f967fac0.md) — **5** msgs · 2006-03 → 2006-04
 - [ALLOCATE/FREE/BASED OpenCOBOL](threads/t-5b1488a890.md) — **5** msgs · 2006-07
 - [OpenCOBOL Compile Problem](threads/t-bf758d31a6.md) — **5** msgs · 2008-11
 - [Comments requested - OpenCOBOL Getting Started for Windowsusers (dox](threads/t-1ada81a47e.md) — **5** msgs · 2009-02
+- [GNU COBOL on Windows](threads/t-cb3e1d2ecf.md) — **5** msgs · 2014-05
+- [Intrinsic REXX from GnuCOBOL](threads/t-33b16fe923.md) — **5** msgs · 2017-03 → 2017-04
+- [Utf-8 support in gnu cobol (3.0, under linux)](threads/t-3569eac370.md) — **5** msgs · 2018-09
 - [TinyCOBOL release 0.53](threads/t-c49e550c05.md) — **4** msgs · 2001-05 → 2001-06
 - [Taking direct input from the keyboard using TinyCobol](threads/t-9df2edebdc.md) — **4** msgs · 2002-10
 - [TinyCobol---What is this error?](threads/t-24da715813.md) — **4** msgs · 2003-11
 - [Zero supression and tinyCobol](threads/t-9726707d62.md) — **4** msgs · 2005-12
 - [OpenCobol 0.33 binaries](threads/t-d6c7ee0224.md) — **4** msgs · 2006-05
 - [opencobol language reference](threads/t-a263b97d1f.md) — **4** msgs · 2009-05 → 2009-06
+- [Opencobol (Gnucobol) error](threads/t-e98efb74ee.md) — **4** msgs · 2016-05
 - [OpenCOBOL 1.1 pre-release surpasses 9000 NIST standard tests](threads/t-70947bdf8a.md) — **3** msgs · 2008-12
 - ["Hello World" OpenCobol query](threads/t-596771c68f.md) — **3** msgs · 2009-11
 - [Open Cobol is free and standar](threads/t-ff4d24d992.md) — **3** msgs · 2010-02
 - [OpenCOBOL objects?](threads/t-ffe39156f6.md) — **3** msgs · 2011-09
+- [Need example of GnuCOBOL's CALL STDCALL](threads/t-25ac5e03d1.md) — **3** msgs · 2015-10
+- [Running code that is "safe" gnucobol/tcl](threads/t-f905719148.md) — **3** msgs · 2019-08
+- [New GnuCOBOL 3.1 MinGW Compiler builds for Windows](threads/t-d8c7b089be.md) — **3** msgs · 2020-07
 - [LINUX/GNU COBOL](threads/t-dd5bacbfd9.md) — **2** msgs · 2000-02 → 2000-03
 - [TinyCobol to generate C source. Any progress?](threads/t-b4d48daacd.md) — **2** msgs · 2001-04
 - [OpenCobol (Windows) and DB2](threads/t-82154b1ed4.md) — **2** msgs · 2006-09
 - [address exception in Windows in OpenCobol attempting to commit to DB2 database](threads/t-ed12aead55.md) — **2** msgs · 2010-10
 - [which editor are used for FAQ example in opencobol ?](threads/t-8777e2a37d.md) — **2** msgs · 2012-05
+- [GNU Cobol formally Open Cobol](threads/t-200729e8e9.md) — **2** msgs · 2014-01
+- [GnuCOBOL 3.1-dev free compiler for Windows](threads/t-55ebe7a673.md) — **2** msgs · 2019-09 → 2020-03
+- [GnuCOBOL Linux maximum indexed file size?](threads/t-713ba90ae4.md) — **2** msgs · 2020-03
+- [Open COBOL Migrations](threads/t-625c732f16.md) — **1** msgs · 1997-09
+- [GNU Cobol](threads/t-eee3ad610c.md) — **1** msgs · 1998-02
+- [Status of X/Open COBOL](threads/t-c5213d4ebf.md) — **1** msgs · 1998-03
 - [Announce: Tiny COBOL release (0.1.0.1)](threads/t-171bb86340.md) — **1** msgs · 2000-06
 - [Announce: Tiny COBOL release (0.1.0.1)](threads/t-02caf1a29a.md) — **1** msgs · 2000-06
-- [Announce: Tiny COBOL release (0.1.5)](threads/t-a6db814f65.md) — **1** msgs · 2000-07
-- [Announce: Tiny COBOL compiler release (0.1.5)](threads/t-203ced0dab.md) — **1** msgs · 2000-07
-- [Tiny Cobol 0.1.5.5 released](threads/t-4a9267b19f.md) — **1** msgs · 2000-08
-- [Announce: TinyCOBOL release (0.1.5.3)](threads/t-dea601de8f.md) — **1** msgs · 2000-08
-- [TinyCOBOL release (0.1.5.3)](threads/t-fbcde985b9.md) — **1** msgs · 2000-08
-- [TinyCOBOL release 0.2](threads/t-dd2762d02a.md) — **1** msgs · 2000-09
-- [Tiny Cobol 0.3 released](threads/t-cfe591a1f3.md) — **1** msgs · 2000-10
-- [TinyCOBOL release 0.50](threads/t-4185220c4e.md) — **1** msgs · 2001-02
-- [Tiny Cobol](threads/t-60fa3e813c.md) — **1** msgs · 2001-03
-- [Announce: TinyCOBOL release 0.51](threads/t-0eb457e4b8.md) — **1** msgs · 2001-03
-- [TinyCOBOL release 0.52](threads/t-6fb5d2c9ef.md) — **1** msgs · 2001-04
-- [Announce: TinyCOBOL release 0.54](threads/t-9f4a71b195.md) — **1** msgs · 2001-07
-- [TinyCOBOL release 0.55](threads/t-a7796e742b.md) — **1** msgs · 2001-10
-- [TinyCOBOL release 0.56](threads/t-fef063a1b6.md) — **1** msgs · 2002-01
-- [TinyCOBOL release 0.57](threads/t-f086b72cc4.md) — **1** msgs · 2002-02
-- [TinyCOBOL release 0.58 - Newsgroups](threads/t-7d52e86785.md) — **1** msgs · 2002-06
-- [TinyCOBOL release version 0.59](threads/t-b12a5ab1fa.md) — **1** msgs · 2002-10
-- [TinyCOBOL: new release 0.60](threads/t-d81a4546d0.md) — **1** msgs · 2003-02
-- [Tiny COBOL and Open COBOL inquiry.](threads/t-8936b133ac.md) — **1** msgs · 2003-10
-- [Open Cobol 0.31 released](threads/t-7bed9d6cb6.md) — **1** msgs · 2005-02
-- [Alpha-release of OpenCOBOL Lua interface](threads/t-4be47899af.md) — **1** msgs · 2008-10
-- [SQLite wrapper for OpenCOBOL](threads/t-008e0d3656.md) — **1** msgs · 2008-11
-- [Alpha release of Regina Rexx embedded in OpenCOBOL 1.1](threads/t-1865f1abe7.md) — **1** msgs · 2008-11
-- [OpenCOBOL, Vala, GPS and limitless potential](threads/t-5ec53eb872.md) — **1** msgs · 2009-03
-- _…and 1 more threads (showing top 60 by message count)._
+- _…and 35 more threads (showing top 60 by message count)._
 
 ## Object-oriented COBOL <a id='oo'></a>
 
-_191 threads · 2,635 messages._
+_238 threads · 2,786 messages._
 
 - [CoBOL moved to OO](threads/t-5edd33d66f.md) — **259** msgs · 2003-12 → 2004-01
 - [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **244** msgs · 2000-03 → 2000-04
@@ -421,6 +421,7 @@ _191 threads · 2,635 messages._
 - [Learning OO COBOL - File Access Objects.](threads/t-1381bf5afa.md) — **29** msgs · 2000-03
 - [inherited cobol app., can't run (xm.exe)?](threads/t-5ca0abca55.md) — **27** msgs · 2008-03
 - [Mainframe OO](threads/t-b09bc1b424.md) — **25** msgs · 2003-01
+- [Object oriented programming is a load of Obfuscation](threads/t-90bc15859a.md) — **25** msgs · 2018-10
 - [OO-Cobol ">> define ..." understood?](threads/t-61d0ee3443.md) — **23** msgs · 2000-07 → 2000-08
 - [Learning OO COBOL - Dissimilar Implementations.](threads/t-9651ed88eb.md) — **22** msgs · 2000-03
 - [Object Oriented pre-compiler, request for feedback](threads/t-f396e39b95.md) — **21** msgs · 2013-05
@@ -442,8 +443,10 @@ _191 threads · 2,635 messages._
 - [Develop Java class for COBOL/CICS](threads/t-8e7fdc7ce6.md) — **11** msgs · 2007-01
 - [Thoughts on teaching OO concepts to COBOL programmers](threads/t-1c454c0165.md) — **11** msgs · 2008-04
 - [Phase 1 - OO Rosetta Bottles of Beer](threads/t-13f4edaf36.md) — **11** msgs · 2010-11
+- [MicroFocus OO Compiler (4.0.32) or Any OO COBOL Compiler](threads/t-b0c9be262a.md) — **10** msgs · 1998-03 → 1998-04
 - [NetExpress Dialog vs. OO GUI](threads/t-c510a0a5be.md) — **10** msgs · 1999-06
 - [COBOL calling JAVA classes](threads/t-108a28f6bc.md) — **10** msgs · 2001-08
+- [Random Number Generator for Sample OO Program](threads/t-47f8eae618.md) — **9** msgs · 1998-08
 - [OO COBOL for NetExpress 3.0](threads/t-b83141d8c9.md) — **9** msgs · 1999-09
 - [OO COBOL using Fujitsu 4.0](threads/t-0c0fcaea10.md) — **9** msgs · 1999-09
 - [OO COBOL on the 390](threads/t-2f5a404147.md) — **9** msgs · 2001-02
@@ -451,14 +454,11 @@ _191 threads · 2,635 messages._
 - [what is the status of oo cobol?](threads/t-fc511b8831.md) — **9** msgs · 2003-07 → 2003-08
 - [[NOT OT] Collection Classes](threads/t-278653055e.md) — **9** msgs · 2007-02
 - [SQL wrapper in OO cobol](threads/t-25f91ac436.md) — **9** msgs · 2009-04
-- [OO Coding Techniques](threads/t-dcd945d43b.md) — **8** msgs · 2000-03
-- [OO & EXTFH (SPANISH)](threads/t-8539f2ae98.md) — **8** msgs · 2000-07
-- [Excel Sort method](threads/t-354bdf1145.md) — **8** msgs · 2002-02 → 2002-03
-- _…and 131 more threads (showing top 60 by message count)._
+- _…and 178 more threads (showing top 60 by message count)._
 
 ## Language features and syntax <a id='syntax'></a>
 
-_630 threads · 9,807 messages._
+_846 threads · 11,212 messages._
 
 - [Code problems with Perform Thru Exit causes fall through](threads/t-f8b0e547d0.md) — **318** msgs · 2007-07 → 2007-08
 - [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **235** msgs · 2001-06 → 2001-07
@@ -485,6 +485,7 @@ _630 threads · 9,807 messages._
 - [END-IF](threads/t-c74a1b7822.md) — **85** msgs · 2005-06 → 2006-04
 - [Regarding EVALUATE TRUE](threads/t-5c7f626384.md) — **84** msgs · 2007-08
 - [Periods and COPY statements](threads/t-838e6864ab.md) — **81** msgs · 2003-03
+- [Need some intuition here --- sections in the procedure division](threads/t-aa6095fcc2.md) — **78** msgs · 2018-09 → 2018-10
 - [Cobol as a structured language](threads/t-444b383f65.md) — **76** msgs · 2001-04 → 2001-05
 - [Sections](threads/t-5d05dff6e1.md) — **76** msgs · 2002-03
 - [Perform "Standards" question](threads/t-c76e7c73e1.md) — **74** msgs · 1999-02
@@ -494,6 +495,7 @@ _630 threads · 9,807 messages._
 - [Screen Section](threads/t-3db31f7b9c.md) — **66** msgs · 1999-10 → 1999-11
 - [Trying to use STRING](threads/t-579eaa6f84.md) — **66** msgs · 2007-03
 - [Structured Coding](threads/t-7c1bf90d24.md) — **61** msgs · 2006-02
+- [INSPECT](threads/t-22d8c596b4.md) — **61** msgs · 2021-01 → 2021-02
 - ["structured programming" & code reusability](threads/t-3537ec0cf1.md) — **60** msgs · 1998-11 → 1998-12
 - [Need help with REDEFINES (I think)....](threads/t-54f7ab081d.md) — **58** msgs · 2004-11 → 2004-12
 - [Paragraph Recursion with IBM Cobol for OS/390?](threads/t-af29778c9b.md) — **57** msgs · 2002-11 → 2002-12
@@ -506,25 +508,23 @@ _630 threads · 9,807 messages._
 - [MVS Packed Decimal with no sign nibble?](threads/t-bfef1c2909.md) — **49** msgs · 2003-12
 - [R: GOBACK (was: Perform Thru/Go to vs. Perform - Compile Speed](threads/t-d281a991d5.md) — **49** msgs · 2004-05
 - [PERFORM and performance](threads/t-db3ceb8c07.md) — **49** msgs · 2010-08 → 2010-09
+- ["GO TO" the most powerful verb in COBOL](threads/t-5c8eb7b1a0.md) — **48** msgs · 1997-05 → 1997-07
 - [Structured Vs OO](threads/t-9170eef001.md) — **47** msgs · 2000-03
 - [[Std]; PERFORM ... THRU is Archaic](threads/t-211e7d0e1b.md) — **46** msgs · 2001-02
 - [Is COMP ITEMS BETTER THAN COMP3 ITEMS IN MEMORY USAGE?](threads/t-60b0c8bb94.md) — **46** msgs · 2004-11 → 2004-12
+- [GOTO less programming](threads/t-947610938e.md) — **45** msgs · 1997-04 → 1997-05
+- [GO TO less purists, how would you do this?](threads/t-4178dbd7cb.md) — **45** msgs · 1997-10 → 1997-11
 - [Avoiding the "wrong" Go To XYZ-EXIT problem](threads/t-f7d586e6e1.md) — **45** msgs · 2002-12 → 2003-04
 - [Paragraphs vs Sections](threads/t-562d1f0eab.md) — **43** msgs · 1998-09
 - [Dumb COPY issue...](threads/t-df9821173f.md) — **43** msgs · 1999-02
 - [Sections vs Paragraphs](threads/t-c3e5a88d63.md) — **43** msgs · 1999-04
 - [Structured Programming](threads/t-c4007d9f32.md) — **43** msgs · 2001-05 → 2001-06
 - [Ultimate efficiency using INITIALIZE statement in COBOL](threads/t-4273db675e.md) — **43** msgs · 2007-08
-- [string mixed to string in CAPITALS](threads/t-c8ef6b335e.md) — **41** msgs · 1999-04
-- [Making Table Searches Efficient Using Perform Varying](threads/t-7fcb60289e.md) — **41** msgs · 1999-11
-- [inspect v's unstring](threads/t-de0021125f.md) — **40** msgs · 1998-10
-- [EXIT PERFORM Help, please](threads/t-01cc7f3515.md) — **39** msgs · 2004-11
-- [Nested "Occurs Depending On"](threads/t-c978cedb85.md) — **39** msgs · 2010-12 → 2011-03
-- _…and 570 more threads (showing top 60 by message count)._
+- _…and 786 more threads (showing top 60 by message count)._
 
 ## COBOL standards (ANS, ISO, 74/85/2002/2014) <a id='standards'></a>
 
-_298 threads · 2,790 messages._
+_435 threads · 3,238 messages._
 
 - [J4 - presentation/discussion on "Future of the COBOL Standard"](threads/t-d3b4388d7c.md) — **201** msgs · 2008-03 → 2008-04
 - [J4 paper on "symbols"](threads/t-3cc145252a.md) — **179** msgs · 2003-05 → 2003-06
@@ -551,10 +551,12 @@ _298 threads · 2,790 messages._
 - [XML proposal initial input for future COBOL Standard](threads/t-6b1c0957a0.md) — **30** msgs · 2003-05
 - [Converting old IBM code to ANSI 85](threads/t-47c5ffabba.md) — **29** msgs · 2011-12 → 2012-01
 - [Standard way to implement ASCII control chars](threads/t-5b0b7b42a5.md) — **28** msgs · 2003-12
+- [New revision to the COBOL standard has just begun](threads/t-495f17f4b5.md) — **28** msgs · 2017-11
 - [Problem ansi cobol 85](threads/t-c7e6233562.md) — **23** msgs · 1998-12
 - [Who cares about the ANSI/ISO Standard?](threads/t-b2eeac7974.md) — **23** msgs · 2003-04
 - [COBOL standard text (writing usage manuals for OpenCOBOL)](threads/t-96b4f052bf.md) — **23** msgs · 2008-10
 - [COBOL 74](threads/t-3d39278271.md) — **19** msgs · 1998-10 → 1998-11
+- [Standard Cost of Development Per Line of Code ???????](threads/t-187855f48b.md) — **18** msgs · 1997-10 → 1997-11
 - [(Next) COBOL Standard - is it dead or just in serious need of CPR?](threads/t-54da8bf620.md) — **18** msgs · 1998-11
 - [COBOL 85 - compiler error](threads/t-8c59302749.md) — **18** msgs · 2000-07
 - [Open Cobol is free and standard.](threads/t-62b0a8e483.md) — **17** msgs · 2010-02
@@ -566,6 +568,8 @@ _298 threads · 2,790 messages._
 - [(replacement) Paper for J4 on "symbols"](threads/t-01da46495e.md) — **15** msgs · 2003-06
 - [Misnomers in the COBOL standard](threads/t-2f1668eef9.md) — **15** msgs · 2006-07
 - [Cobol 85 Standard](threads/t-3a9bca16d0.md) — **15** msgs · 2008-03
+- [COBOL Unbounded Loops: A Diatribe On Their Omission From the COBOL Standard (and a Plea for Underst…](threads/t-918236d5f3.md) — **15** msgs · 2016-08
+- [Section Naming standards](threads/t-18b89d0db9.md) — **14** msgs · 1997-02
 - [!!! Everything you wanted to know about the current J4 work and status !!!](threads/t-8cdcc713b5.md) — **14** msgs · 1998-12
 - [SAME AS ('02 Standard) Clause - and circulatiy](threads/t-c84cee021b.md) — **14** msgs · 2007-08
 - [J4 - presentation/discussion on "Future of the COBOL Standard"](threads/t-2b426ec720.md) — **14** msgs · 2008-03
@@ -573,24 +577,20 @@ _298 threads · 2,790 messages._
 - [Cheap Ansi standard Cobol for single user.](threads/t-d43e3d092e.md) — **13** msgs · 2001-04 → 2001-05
 - [Standard, Revision, Process, et al](threads/t-2cea0cf5b5.md) — **13** msgs · 2002-05
 - [DB2 joins w/"standard" working-storage](threads/t-4aeb4407d4.md) — **13** msgs · 2002-08
+- [Newbie Cobol85 problem - "** Error 189 ** 01 or 77 level data item too large for section"](threads/t-7758958d99.md) — **13** msgs · 2016-11 → 2016-12
 - [How to do GO TO in ANSI85 COBOL](threads/t-7c70ce5c62.md) — **12** msgs · 1994-12
 - [How to do GOTO in ANSI85 COBOL](threads/t-78625c7c47.md) — **12** msgs · 1994-12
+- [Differences between COBOL 74 and COBOL 85 - where can I find a list ?](threads/t-5bbbece6b5.md) — **12** msgs · 1998-01
 - [Is the Standards process broken?](threads/t-20d10f0dc7.md) — **12** msgs · 2001-05
 - [XML Standard](threads/t-c17623a4c9.md) — **12** msgs · 2004-12
 - [COBOL Standards](threads/t-66d24814ac.md) — **12** msgs · 2007-06
 - [Search all verb: Micro Focus vs Standard ?](threads/t-f583fac71c.md) — **12** msgs · 2008-06
 - [fujitsu 5.0 standard POST getting value](threads/t-219d4fa9f2.md) — **12** msgs · 2012-05
-- [NEXT SENTENCE and END-IF (and Standard COBOL)](threads/t-63bc6200bd.md) — **11** msgs · 1998-11
-- [Cobol standards document as hypertext?](threads/t-45214f8ea9.md) — **11** msgs · 1998-11
-- [Maybe J4 has a sense of humor after all](threads/t-b05413d848.md) — **11** msgs · 1999-08
-- [RM/Cobol85](threads/t-eb7600c02c.md) — **11** msgs · 2003-10
-- [Cobol history question -- lawsuit against standards committee](threads/t-82287ed83e.md) — **11** msgs · 2005-05
-- [(new) ANY LENGTH in draft Standard](threads/t-03a20af827.md) — **11** msgs · 2007-02
-- _…and 238 more threads (showing top 60 by message count)._
+- _…and 375 more threads (showing top 60 by message count)._
 
 ## Migration and conversion <a id='migration'></a>
 
-_269 threads · 3,436 messages._
+_435 threads · 4,010 messages._
 
 - [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **1161** msgs · 2003-03 → 2003-10
 - [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **123** msgs · 2003-06 → 2003-07
@@ -618,9 +618,11 @@ _269 threads · 3,436 messages._
 - [Cobol2Java: a Cobol to Java source code converter is available for evaluation](threads/t-267862c07c.md) — **22** msgs · 2003-12
 - [Cobol convert program Job Request](threads/t-aa6dc674ac.md) — **21** msgs · 2007-02
 - [Converting COBOL print file to HTML help](threads/t-429453a420.md) — **21** msgs · 2009-12 → 2010-01
+- [Survey: Cobol migration and development tools](threads/t-1c21c73342.md) — **20** msgs · 1997-08 → 1997-09
 - [COBOL to VB converter?](threads/t-af79f80722.md) — **19** msgs · 2002-06
 - [Terminal format to ANSI Format converter](threads/t-1cedc358d8.md) — **19** msgs · 2002-12
 - [Converting Cobol programs to pl/sql procedures or pakages](threads/t-738dce2e7c.md) — **18** msgs · 2009-07
+- [Converting to UPPER or lower case ?](threads/t-15de02581d.md) — **17** msgs · 1997-01 → 1997-02
 - [COBOL Modernization Tools](threads/t-952e447a87.md) — **17** msgs · 2005-01
 - [Rewriting data using REWRITE ?](threads/t-9bb19dd8dc.md) — **16** msgs · 2001-09
 - [Legacy migration to latest technologies!](threads/t-6dc1df4c2e.md) — **16** msgs · 2003-05
@@ -630,7 +632,12 @@ _269 threads · 3,436 messages._
 - [Migrating to COBOL for OS390](threads/t-c4a6131efd.md) — **14** msgs · 1999-07 → 1999-08
 - [converting 1 byte binary to display](threads/t-4a183e51b5.md) — **14** msgs · 1999-11
 - [Converting Index Flat File to CSV](threads/t-29ea444915.md) — **14** msgs · 2002-07
+- [Cobol->C or Linux Compiler](threads/t-d6dd9cb365.md) — **13** msgs · 1994-11 → 1994-12
+- [Convert lowcase to upcase](threads/t-d40ff267e2.md) — **13** msgs · 1998-04
 - [Newbie: Help w/ WRITE, REWRITE and DELETE statements.](threads/t-4ac8d46738.md) — **13** msgs · 1999-06
+- [Help converting a copylib](threads/t-7c40fe7acf.md) — **12** msgs · 1998-05
+- [RPG to COBOL converter](threads/t-81643c14a7.md) — **12** msgs · 1998-05
+- [Y2K:Cobol->C++](threads/t-ea07b7af0b.md) — **12** msgs · 1998-06
 - [Converting COMP to numeric and alphanumeric](threads/t-dd27380fe3.md) — **12** msgs · 1998-10
 - [ISO Utility to convert FDs to layout format](threads/t-a8bdb7071f.md) — **12** msgs · 1998-11
 - [migrating to oracle](threads/t-497d8a610f.md) — **12** msgs · 2000-04
@@ -644,19 +651,12 @@ _269 threads · 3,436 messages._
 - [convert packed CHAR to unpacked DIGIT](threads/t-9f3bbb4d51.md) — **12** msgs · 2005-04
 - [IBM's CCCA and customized LCPs for Enterprise COBOL migration](threads/t-50898ee875.md) — **12** msgs · 2007-09
 - [In search of - Suggestions on Micro Focus Dialog Systems to C# / .NET migrations](threads/t-867713c01f.md) — **12** msgs · 2009-07
-- [Porting problem](threads/t-8e43eb612f.md) — **11** msgs · 1999-05
-- [Help converting COBOL data to ASCII text.](threads/t-655ed0a494.md) — **11** msgs · 1999-12
-- [Converting ISAM -> Oracle RDBMS](threads/t-6a3718c876.md) — **11** msgs · 2002-02 → 2002-05
-- [REWRITE query](threads/t-69ea82ba7e.md) — **11** msgs · 2004-01
-- [Cobol2Java 2.0 --- COBOL to Java Source Code Translator](threads/t-84161a6a2d.md) — **11** msgs · 2004-11 → 2004-12
-- [Using OpenCobol to convert a fixed size EBCDIC file to ASCII?](threads/t-2a88d385a4.md) — **11** msgs · 2011-08 → 2011-09
-- [Help... VB -> COBOL -> Access ???](threads/t-40601e2d61.md) — **10** msgs · 1998-09
-- [Is there any better way to convert mainframe Comp-3 or comp data type into UNIX or NT comp-3 or com…](threads/t-d967a23d97.md) — **10** msgs · 1999-04
-- _…and 209 more threads (showing top 60 by message count)._
+- [Legacy Modernization Survey!](threads/t-8c6e44aa22.md) — **12** msgs · 2013-08
+- _…and 375 more threads (showing top 60 by message count)._
 
 ## Mainframe, z/OS, JCL, CICS <a id='mainframe'></a>
 
-_1,060 threads · 8,003 messages._
+_1,700 threads · 9,787 messages._
 
 - [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **1161** msgs · 2003-03 → 2003-10
 - [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) — **155** msgs · 2004-12
@@ -671,7 +671,9 @@ _1,060 threads · 8,003 messages._
 - [z/OS and OS/VS Cobol](threads/t-56fd376fca.md) — **58** msgs · 2004-08 → 2005-01
 - [Paragraph Recursion with IBM Cobol for OS/390?](threads/t-af29778c9b.md) — **57** msgs · 2002-11 → 2002-12
 - [OT typical salary scale for COBOL mainframe programmers](threads/t-1ff7ff18d8.md) — **56** msgs · 2006-09
+- [IBM mainframe COBOL - how to close an output file and reopen it with a different DSN](threads/t-264e2e8f73.md) — **55** msgs · 1998-08 → 1998-09
 - [IBM Mainframe JCL Conversion Tools](threads/t-5a3c43f8ec.md) — **54** msgs · 2004-01 → 2005-01
+- [OT: Mainframes may be coming back?](threads/t-07bd56f377.md) — **51** msgs · 2018-03 → 2018-05
 - [MVS Packed Decimal with no sign nibble?](threads/t-bfef1c2909.md) — **49** msgs · 2003-12
 - [JCL, Cobol and "Call Parameters"](threads/t-5de676cbae.md) — **49** msgs · 2007-01 → 2007-02
 - [mainframe editors](threads/t-837b1a4cf7.md) — **48** msgs · 2000-12 → 2001-01
@@ -692,6 +694,8 @@ _1,060 threads · 8,003 messages._
 - [Runtime crash in z/OS](threads/t-7b74e68215.md) — **33** msgs · 2012-01
 - [Dynamic file allocation on IBM mainframe](threads/t-40c4eb4022.md) — **32** msgs · 2002-07 → 2002-08
 - [Mainframes requirement](threads/t-c33a700f42.md) — **32** msgs · 2007-11
+- [Uncatalog tape dataset from JCL level](threads/t-516b1d1a5b.md) — **31** msgs · 1997-10 → 1997-11
+- [Coding hex in pic (mvs cobol2)](threads/t-b1b0b95b70.md) — **29** msgs · 1998-01
 - [Visual JCL?](threads/t-1972a7a58e.md) — **29** msgs · 1999-09
 - [Creating Excel files in Mainframes](threads/t-ad35ba462b.md) — **29** msgs · 2001-10
 - [specifying z/OS load libraries](threads/t-552876ebed.md) — **29** msgs · 2009-08
@@ -700,7 +704,10 @@ _1,060 threads · 8,003 messages._
 - [OS/390 Emulator](threads/t-994534f7b5.md) — **27** msgs · 1999-02 → 1999-03
 - [MVS JCL](threads/t-cd0e681c51.md) — **27** msgs · 2002-06 → 2002-09
 - [New Mainframe Blog Site -- mainframeblogger.com](threads/t-3526d8469e.md) — **27** msgs · 2008-04 → 2008-05
+- [TSO ISPF, CLISTs and/or REXX exec](threads/t-3bbcd1b1c8.md) — **26** msgs · 1998-08
 - [Mainframe OO](threads/t-b09bc1b424.md) — **25** msgs · 2003-01
+- [Long Live mainframe!!](threads/t-8e39def55a.md) — **24** msgs · 1998-04 → 1998-05
+- [Problem with cobol cics program calling assembler module](threads/t-9e3ffc33de.md) — **24** msgs · 1998-06
 - [In search of a PL/I - COBOL for OS/390 comparison](threads/t-4305df7e18.md) — **24** msgs · 1999-09 → 1999-10
 - [[OT] JCL-ish Difficulties - VSAM Index & Data not Associated w/ Cluster](threads/t-59489e21d2.md) — **24** msgs · 2010-09 → 2010-10
 - [Cobol II on MVS Platform](threads/t-14c007b6c6.md) — **23** msgs · 1999-08 → 1999-09
@@ -710,35 +717,33 @@ _1,060 threads · 8,003 messages._
 - [Getting SQLCODE -302 after migrating DB2 V7 to V8 IN ibm z/os](threads/t-eb41546704.md) — **23** msgs · 2007-06
 - [How to send files from a mainframe to a Unix server from Cobol program?](threads/t-5a21e1ad15.md) — **23** msgs · 2008-07
 - [Barcode on Mainframe](threads/t-00c2aa80b4.md) — **23** msgs · 2010-05
-- [OSVS Cobol vs COBOL II under MVS](threads/t-b945e3ee67.md) — **22** msgs · 1999-01
-- [JCL Question about the RC system Variable](threads/t-8eda05008b.md) — **22** msgs · 2000-03 → 2000-04
-- [IBM, CICS, COBOL, et al](threads/t-23231ad2d3.md) — **22** msgs · 2004-12
-- [OS/390 COBOL Programmers](threads/t-ff5e72d21c.md) — **21** msgs · 2000-03 → 2000-04
-- [DSN access in program during runtime](threads/t-3cd87664c6.md) — **21** msgs · 2001-12
-- [Initializing a Linkage Section variable (On OS/390)](threads/t-ef35efc3cc.md) — **21** msgs · 2003-06
-- [(For Amir) - "esplorinng IBM Mainframe COBOL Language Capabilities"](threads/t-28b9d9118e.md) — **21** msgs · 2008-05
-- [TYPEDEF available in OS/390 COBOL?](threads/t-a116069917.md) — **20** msgs · 2000-01
-- _…and 1,000 more threads (showing top 60 by message count)._
+- [MVS: EBCDIC to ASCII conversion for Cd-ROM creation](threads/t-0a81f098ac.md) — **22** msgs · 1997-10 → 1997-11
+- _…and 1,640 more threads (showing top 60 by message count)._
 
 ## AS/400, iSeries, RPG <a id='as400'></a>
 
-_84 threads · 342 messages._
+_139 threads · 460 messages._
 
 - [Micro Focus now supports Microsoft .NET and IBM eSeries and iSeries](threads/t-cfc98d97c5.md) — **38** msgs · 2002-10 → 2002-11
 - [AS/400 to Semi-GUI recommendations](threads/t-d3cde1c2f1.md) — **19** msgs · 2000-04
 - [COBOL vs RPG](threads/t-a5da07d4f3.md) — **16** msgs · 2002-03 → 2002-06
 - [OT - AS400](threads/t-b0c92eb991.md) — **16** msgs · 2002-09 → 2002-10
+- [RPG? What is the new fever...](threads/t-1d337233e0.md) — **14** msgs · 1998-08
 - [Cobol AS/400 BNF Help Please](threads/t-2e7b2b3272.md) — **14** msgs · 2004-07 → 2004-08
+- [US-Tx-Dallas- Cobol/as400](threads/t-3c6aebd062.md) — **13** msgs · 1997-12
+- [RPG to COBOL converter](threads/t-81643c14a7.md) — **12** msgs · 1998-05
 - [Learn RPG/400 for Free](threads/t-60e11ff462.md) — **10** msgs · 2000-06 → 2001-05
 - [VMS to AS400 conversion](threads/t-06342b8441.md) — **10** msgs · 2004-06
 - [AS400 C++ calling COBOL - MCH0802](threads/t-f3adb64746.md) — **10** msgs · 2013-05
 - [Writing out packed decimal data on os/390 and importing into as/400](threads/t-b8d2629d5b.md) — **9** msgs · 2001-07 → 2001-08
 - [Who can tell me the difference for COBOL between NT and AS400 environment!!!!!!!](threads/t-4490037c77.md) — **9** msgs · 2002-07
 - [Praca COBOL, AS400, Warszawa](threads/t-489f7093ba.md) — **9** msgs · 2005-09 → 2005-11
+- [RPG and COBOL compilors](threads/t-489c1d3e29.md) — **8** msgs · 1996-11
 - [COBOL 2002 for the AS/400](threads/t-fb6a5e7f16.md) — **8** msgs · 2002-01
 - [Where can I find a Windows Editor that hooks into the AS/400 to edit Cobol Code?](threads/t-3331771cf2.md) — **7** msgs · 2002-01
 - [Cobol on the AS/400 ?](threads/t-8f3357f686.md) — **7** msgs · 2002-12
 - [OT: Anyone know how to buy a used iSeries machine and get a good deal?](threads/t-3d818c0058.md) — **7** msgs · 2010-10 → 2010-11
+- [RPG](threads/t-3d3b616de6.md) — **6** msgs · 1995-05 → 1995-06
 - [COBOL on AS/400...HELP!!!!](threads/t-5acf5cd487.md) — **6** msgs · 1998-09
 - [Difference between Cobol and AS/400 Cobol](threads/t-c29c7826b2.md) — **6** msgs · 1999-03 → 1999-04
 - [AS/400 COBOL](threads/t-5c351a2761.md) — **6** msgs · 1999-10
@@ -746,11 +751,16 @@ _84 threads · 342 messages._
 - [retrieve as/400 cobol object to source](threads/t-d42b28c932.md) — **5** msgs · 2000-04
 - [AS400](threads/t-567868147b.md) — **5** msgs · 2000-08 → 2000-09
 - [AS/400 COBOL question](threads/t-5162879804.md) — **5** msgs · 2009-06
+- [Cobol on a AS/400 system](threads/t-11daba9015.md) — **4** msgs · 1996-01
 - [cobol AS/400](threads/t-96bec094e0.md) — **4** msgs · 1999-10
 - [Cobol on Manual for AS/400...?](threads/t-6c4db8a6d3.md) — **4** msgs · 1999-11
 - [as/400 cobol object without a source found](threads/t-cb39614449.md) — **4** msgs · 2000-04 → 2000-05
 - [Data file from AS/400 to PC](threads/t-67dd389801.md) — **4** msgs · 2000-04
 - [COBOL/400 on IBM AS/400](threads/t-07671a0a56.md) — **4** msgs · 2002-03 → 2002-06
+- [IBM Mainframe COBOL vs. AS/400 COBOL](threads/t-f3be8efa73.md) — **3** msgs · 1995-03
+- [Rpg/400 to cobol/400 conversion?](threads/t-4fc8d26d10.md) — **3** msgs · 1997-02 → 1997-03
+- [RPG/400 ? Does anyone know related newsgroup ?](threads/t-c27e3b8239.md) — **3** msgs · 1997-07
+- [Need AS400/COBOL programmer](threads/t-cba2fdaefb.md) — **3** msgs · 1998-06
 - [Cobol people know RPG](threads/t-bc1df0846d.md) — **3** msgs · 1998-09
 - [COBOL for AS/400?](threads/t-fc0180be11.md) — **3** msgs · 1998-11
 - [RPG vs. COBOL](threads/t-2a1834e573.md) — **3** msgs · 1999-01
@@ -763,6 +773,9 @@ _84 threads · 342 messages._
 - [AS/400 (I Series) Support](threads/t-13fe03de1f.md) — **3** msgs · 2003-03
 - [Cobol AS/400 hard](threads/t-f1e1603719.md) — **3** msgs · 2004-07
 - [calling SOAP services (or TCP messages in general) from iSeries Cobol](threads/t-bb14a00471.md) — **3** msgs · 2006-10
+- [COBOL vs RPG. Performance on AS/400.](threads/t-da9a7359aa.md) — **2** msgs · 1995-03
+- [AS/400 cobol question](threads/t-1ae83aaf92.md) — **2** msgs · 1996-04
+- [Problem with AS/400 ILE-COBOL.](threads/t-022d2b5d15.md) — **2** msgs · 1998-05
 - [US-NC-PROG ANALYST-AS/400](threads/t-6179c4c0f7.md) — **2** msgs · 1998-07
 - [AS400 PROGRAMMER W/JD EDWARDS NEEDED FOR MIGRATION PROJECT](threads/t-561b1c45c8.md) — **2** msgs · 1998-08
 - [AS400 PROGRAMMERS NEEDED FOR MIGRATION PROJECT](threads/t-fffccdd10a.md) — **2** msgs · 1998-08
@@ -771,27 +784,15 @@ _84 threads · 342 messages._
 - [Looking for PC RPG Compiler](threads/t-625cc07976.md) — **2** msgs · 1999-02
 - [AS/400 Related](threads/t-31334d81eb.md) — **2** msgs · 1999-10
 - [AS400 info needed](threads/t-ab0974381a.md) — **2** msgs · 2000-02
-- [GUI in ILE Cobol for AS400](threads/t-80c39dccd9.md) — **2** msgs · 2000-03
-- [free source for AS/400?](threads/t-4629cac9cd.md) — **2** msgs · 2000-04
-- [AS400 - Cobol Programmer - Sydney Australia - Required](threads/t-5de75156c3.md) — **2** msgs · 2002-11
-- [AS400 - follow-up](threads/t-d5eceefb55.md) — **2** msgs · 2002-11
-- [COBOL JOB - AS400 environment](threads/t-769485517d.md) — **2** msgs · 2005-02
-- [Cobol AS/400 Montreal](threads/t-c4799b879e.md) — **2** msgs · 2007-05
-- [RPG to COBOL](threads/t-a78162884c.md) — **1** msgs · 1994-12
-- [RPG? What is the new fever...](threads/t-6645a58f6b.md) — **1** msgs · 1998-08
-- [RPG? What is the new fever...](threads/t-6dd353e3a4.md) — **1** msgs · 1998-08
-- [COBOL/RPG job in US + work visa](threads/t-a63a05b2d5.md) — **1** msgs · 1998-09
-- [Needed: Cobol & AS/400 professionals](threads/t-88f4815231.md) — **1** msgs · 1998-09
-- [US-MN-job to$50K's-Sr.AS/400 Programmer/Analyst-Manufacturing](threads/t-f1ed1777d7.md) — **1** msgs · 1998-10
-- [US-MN-job-AS/400 Tech Suppt-to$65k- Level II support and work on a variety of projects!](threads/t-d89bbf50c8.md) — **1** msgs · 1998-10
-- _…and 24 more threads (showing top 60 by message count)._
+- _…and 79 more threads (showing top 60 by message count)._
 
 ## Databases and SQL <a id='databases'></a>
 
-_557 threads · 2,974 messages._
+_923 threads · 3,780 messages._
 
 - [COBOL and DB2 vs. Java and DB2](threads/t-916ce5fee1.md) — **102** msgs · 2007-09 → 2008-01
 - [COBOL/DB2 Date edit question](threads/t-2f7f1c1eba.md) — **98** msgs · 2007-08
+- [EXEC SQL](threads/t-523be6cb18.md) — **92** msgs · 2013-11
 - [Converting a complex SQL query to COBOL pgm !!](threads/t-279869b576.md) — **58** msgs · 2003-07 → 2003-10
 - [embedded SQL in COBOL](threads/t-c6bd00535f.md) — **51** msgs · 2006-02
 - [The Lambda lambada...Why embedded SQL is becoming irrelevant and why you should start looking at fu…](threads/t-f123527794.md) — **51** msgs · 2007-03
@@ -835,6 +836,7 @@ _557 threads · 2,974 messages._
 - [Server Express 64bit and Oracle 9i problem (114) on AIX 5.2](threads/t-4a7ed97048.md) — **14** msgs · 2004-03 → 2004-04
 - [Microfocus & Oracle data types](threads/t-d6da1236a4.md) — **14** msgs · 2004-08
 - [Syntax for embedded sql](threads/t-69f1cfade0.md) — **14** msgs · 2005-06
+- [SQL performance](threads/t-011330ddc8.md) — **14** msgs · 2014-03 → 2014-10
 - [Can COBOL MVS be used to access Sybase & DB2?](threads/t-33dde8d46a.md) — **13** msgs · 2000-04 → 2000-05
 - [ODBC Speed to MS Access 2000](threads/t-36a4bcf091.md) — **13** msgs · 2001-05 → 2001-06
 - [ODBC Driver for COBOL Indexed Files](threads/t-40ab9739c3.md) — **13** msgs · 2001-06
@@ -845,16 +847,14 @@ _557 threads · 2,974 messages._
 - [oracle 10g: has anyone successfully linked rtsora with make ... ins_precomp?](threads/t-030c7755e6.md) — **13** msgs · 2005-11
 - [Accessing two different db2 subsystems](threads/t-e4649d870d.md) — **13** msgs · 2006-09
 - [Oracle free to use release q](threads/t-0e2dbc99cb.md) — **13** msgs · 2010-03
+- [Using COBOL with Relational Databases](threads/t-ebed4892c1.md) — **13** msgs · 2017-08 → 2017-09
 - [Data Dictionary creation MF ISAM ODBC Crystal Reports](threads/t-37c13e4c34.md) — **12** msgs · 2000-04 → 2000-05
 - [migrating to oracle](threads/t-497d8a610f.md) — **12** msgs · 2000-04
-- [Passing parms to a db2 program](threads/t-a711f40f58.md) — **12** msgs · 2001-08
-- [Realia COBOL and SQL Server 7](threads/t-bfe109c313.md) — **12** msgs · 2001-11 → 2001-12
-- [Case Statement in DB2](threads/t-d6c2397778.md) — **12** msgs · 2003-03 → 2003-06
-- _…and 497 more threads (showing top 60 by message count)._
+- _…and 863 more threads (showing top 60 by message count)._
 
 ## VSAM, files, sorting <a id='files'></a>
 
-_380 threads · 3,981 messages._
+_581 threads · 4,639 messages._
 
 - [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **456** msgs · 2002-08 → 2002-09
 - [VSAM doubt](threads/t-4122f4cc05.md) — **113** msgs · 2005-08
@@ -879,6 +879,7 @@ _380 threads · 3,981 messages._
 - [variable length in REDEFINES](threads/t-447e770c81.md) — **32** msgs · 2008-07
 - [Way to view Line Sequential files in Windows using Cobol](threads/t-78e9ffdc46.md) — **31** msgs · 2003-05
 - [Read from a empty VSAM file](threads/t-5dbf6f49d0.md) — **29** msgs · 2000-01
+- [Help: VSAM Invalid Key Question](threads/t-c7c09930fe.md) — **28** msgs · 1998-03 → 1998-04
 - [Dreaded File Status 39](threads/t-2068a53ac4.md) — **28** msgs · 1999-07
 - [Actual comments on SORT](threads/t-cefcc5ff18.md) — **28** msgs · 2003-01 → 2003-02
 - [Merge Algorithms](threads/t-6940b1f6a3.md) — **27** msgs · 1998-09
@@ -893,6 +894,7 @@ _380 threads · 3,981 messages._
 - [Variable Length Files](threads/t-0b6fb4ec30.md) — **23** msgs · 2005-01
 - [[OT] Business Requirements Analysis... Sort Of](threads/t-43c12bae17.md) — **23** msgs · 2008-03
 - [COBOL SORT within an online program (Non-File)](threads/t-237b8e72bc.md) — **22** msgs · 2003-02
+- [(OT - sort of) Federal Reserve Looks to Update Payment System](threads/t-135780ea55.md) — **22** msgs · 2018-10 → 2019-03
 - [Edit VSAM?](threads/t-fbfa674a41.md) — **21** msgs · 2000-10
 - [Radix Sort a la RW (a New Thread)](threads/t-a2fb228655.md) — **21** msgs · 2003-05
 - [Performance problem with a VSAM files](threads/t-b726f14772.md) — **20** msgs · 2005-04 → 2005-05
@@ -914,21 +916,21 @@ _380 threads · 3,981 messages._
 - [SORT - E15/E35 Exits](threads/t-bc1a495d63.md) — **15** msgs · 2003-01
 - [Succesful Status code (was: Request for testing of Reltive File status](threads/t-db37f97849.md) — **15** msgs · 2009-05
 - [Help: Variable Length Records--Special Case](threads/t-36f5d99210.md) — **14** msgs · 1999-02
-- [Getting true length of a variable length record - IBM Mainframe](threads/t-27f18c2ac6.md) — **14** msgs · 2001-09
-- [C-Isam in Cobol/C](threads/t-19fe48538c.md) — **14** msgs · 2002-01
-- _…and 320 more threads (showing top 60 by message count)._
+- _…and 521 more threads (showing top 60 by message count)._
 
 ## Date and calendar processing <a id='dates'></a>
 
-_107 threads · 1,119 messages._
+_188 threads · 1,467 messages._
 
 - [COBOL/DB2 Date edit question](threads/t-2f7f1c1eba.md) — **98** msgs · 2007-08
+- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs · 2020-09 → 2022-02
 - [Date Validation in COBOL](threads/t-e2f1645437.md) — **71** msgs · 2009-01
 - [Date manipulation](threads/t-eb28ef633c.md) — **66** msgs · 2003-12
 - [FUNCTION's LOCALE-(DATE/TIME)](threads/t-31bdea199c.md) — **48** msgs · 2007-03
 - [Interesting Date Routine](threads/t-3c8eb9b34e.md) — **41** msgs · 2000-08 → 2000-09
 - [help with cobol date](threads/t-e3ebc3bd32.md) — **39** msgs · 2003-11 → 2003-12
 - [Leap Year Rules](threads/t-86d998a904.md) — **38** msgs · 2000-01 → 2000-02
+- [Date standardizing or patching?](threads/t-bfcd7848cc.md) — **35** msgs · 1997-04 → 1997-05
 - [Leap year logic](threads/t-6c39a323a2.md) — **34** msgs · 2001-10
 - [1999 DATE PROBLEM AT LEVEL II COBOL](threads/t-7da998c81d.md) — **33** msgs · 1999-01
 - [Y2K Bug found in ACCEPT FROM DATE](threads/t-d2cb3a7bcd.md) — **32** msgs · 1999-11
@@ -938,6 +940,8 @@ _107 threads · 1,119 messages._
 - [Leap year logic](threads/t-85f0339eb1.md) — **25** msgs · 2001-10
 - [FREE inline date-math subr - only TWO LINES long. Wow!](threads/t-bc9c0438a8.md) — **24** msgs · 2001-12 → 2002-01
 - [Date calculation](threads/t-00870adc4e.md) — **23** msgs · 2012-12
+- [VS COBOL II - Accepting 9(08) date from system](threads/t-b573f38c39.md) — **18** msgs · 1998-03
+- [DAY OF WEEK FUNCTION - Post if you've got one - Please](threads/t-09d66e6c96.md) — **15** msgs · 1996-12 → 1997-01
 - [I need source code or the syntax to add days to a date](threads/t-d201c45ce5.md) — **15** msgs · 1999-06
 - [Determine Day-of-Week for Y2K](threads/t-b876243cf7.md) — **15** msgs · 1999-11
 - [Date Algorithm Question](threads/t-210e6281d9.md) — **15** msgs · 2000-07 → 2000-08
@@ -958,35 +962,31 @@ _107 threads · 1,119 messages._
 - [Testing a date age by month](threads/t-30c3cec950.md) — **10** msgs · 2002-08
 - [Do I have a valid date?](threads/t-6896ef8d6e.md) — **9** msgs · 1999-01
 - [date processing in z/OS](threads/t-c07f9f3855.md) — **9** msgs · 2008-09 → 2008-10
+- [Julian date routine](threads/t-9999489c84.md) — **8** msgs · 1995-08
+- [I need help on compute statement for celsius. ( I am trying to convert faherenhit over to celsius)…](threads/t-859785b8c0.md) — **8** msgs · 1996-10
+- [Date validation of input from HTML form](threads/t-939939a47c.md) — **8** msgs · 1998-03 → 1998-04
 - [Do I have a valid date?](threads/t-cb5a61b996.md) — **8** msgs · 1999-01
 - [Need Assembly Lang Date Macros](threads/t-c0fa084caf.md) — **8** msgs · 1999-07
 - [Testing a date age by month](threads/t-72c3ef158d.md) — **8** msgs · 2002-08
+- [Julian date and days difference routines - enjoy](threads/t-1cee7139e8.md) — **7** msgs · 1996-06
+- [Need a Gregorian to Julian Date Conversion PGM](threads/t-5432677065.md) — **7** msgs · 1996-11 → 1996-12
+- [Date malfuntion after the year 2000](threads/t-7205168c22.md) — **7** msgs · 1997-07
+- [Year 2000 Date Calculations](threads/t-acc4742db9.md) — **7** msgs · 1997-12 → 1998-01
 - [COBOL II get current date and time](threads/t-dc3fa37544.md) — **7** msgs · 1998-10
 - [Date Windowing problem](threads/t-ac96a06754.md) — **7** msgs · 1998-11
 - [Do I have a valid date?](threads/t-90c94d7a65.md) — **7** msgs · 1999-01
 - [Revised Y2K Date...9/9/99?](threads/t-77216cb99b.md) — **7** msgs · 1999-04
 - [Date Determination Problem](threads/t-804d5e798b.md) — **7** msgs · 2004-04
 - [Sending date type from Cobol to SQL](threads/t-61ff93eb6d.md) — **7** msgs · 2004-09
-- [Day of Week](threads/t-32eeb546e6.md) — **6** msgs · 1999-04
-- [How does a COBOL program get the BIOS date and time?](threads/t-c44c625213.md) — **6** msgs · 1999-04
-- [was 60 day date check](threads/t-fa3436d825.md) — **6** msgs · 1999-10
-- [DATE-problem](threads/t-c9f937e8cd.md) — **6** msgs · 1999-12 → 2000-01
-- [DSNAME including date and time](threads/t-c54b82b60d.md) — **6** msgs · 2001-05
-- [Date Arithmetic](threads/t-363700ea65.md) — **6** msgs · 2002-05
-- [Need Date Routine](threads/t-2e7fb54026.md) — **5** msgs · 1999-02
-- [MSCobol 3.0 - CURRENT-DATE](threads/t-29b83cc447.md) — **5** msgs · 1999-02
-- [Help me with Julian Dates](threads/t-b42782bb77.md) — **5** msgs · 2000-05
-- [Accept Date YYYYMMDD](threads/t-2ad8db9c27.md) — **5** msgs · 2003-11 → 2003-12
-- [Date data-type?](threads/t-affca11911.md) — **5** msgs · 2006-08
-- [Calendar features in Windows](threads/t-02ff09d323.md) — **4** msgs · 1999-02
-- [CBL_FN_INTEGER-OF-DATE error 173](threads/t-08e712ed13.md) — **4** msgs · 1999-04 → 1999-05
-- [How does a COBOL program get the BIOS date and time?](threads/t-317a457d75.md) — **4** msgs · 1999-04
-- [// DATE](threads/t-eb7143b38c.md) — **4** msgs · 1999-08
-- _…and 47 more threads (showing top 60 by message count)._
+- [Urgent! Need help with CURRENT-DATE in MF COBOL for DOS V2.0](threads/t-4785ef4415.md) — **6** msgs · 1996-02
+- [COBOL II Date Conversion routines that handle ccyy...](threads/t-5049cceeeb.md) — **6** msgs · 1996-08 → 1996-09
+- [Day of week](threads/t-73d48002f5.md) — **6** msgs · 1997-04
+- [Anybody have alogrithum to caluclate the day of the week given the date](threads/t-5fece407b3.md) — **6** msgs · 1997-08
+- _…and 128 more threads (showing top 60 by message count)._
 
 ## Web, XML, modern integration <a id='web'></a>
 
-_338 threads · 1,772 messages._
+_444 threads · 2,049 messages._
 
 - [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) — **90** msgs · 2011-10 → 2013-03
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
@@ -1009,9 +1009,11 @@ _338 threads · 1,772 messages._
 - [(Job) Web / COBOL developer position in Texas - Immediate Need!](threads/t-cdd9f0a708.md) — **18** msgs · 2005-03 → 2005-07
 - [Cobol, Cics, Soap](threads/t-9218e4d2db.md) — **18** msgs · 2006-08
 - [COBDATA Tool and Web site](threads/t-63efca4eb6.md) — **18** msgs · 2009-05
+- [Need help in coding a cobol code to create a flat file with XML tags.](threads/t-11f18935bb.md) — **18** msgs · 2015-02 → 2015-03
 - [The Wonderful Contributions to this NG of docdwarf@clark.net](threads/t-2b641e7033.md) — **17** msgs · 1998-07
 - [Cobol pgmrs using visual tools for web pages ?????](threads/t-12f0a80aa0.md) — **17** msgs · 1998-11
 - [COBOL and XML](threads/t-5b73247a1a.md) — **17** msgs · 2003-01
+- [XML support in Cobol - problem with real field length between tags](threads/t-7dd1150405.md) — **17** msgs · 2015-10 → 2015-11
 - [Examples of Web sites backed by COBOL](threads/t-7dd8de9b35.md) — **16** msgs · 2006-10 → 2006-11
 - [OT:Read This Before You Connect Your Home to the Internet](threads/t-f8a3148799.md) — **16** msgs · 2012-07
 - [lifeeverlasting@att.net](threads/t-9bb834cd31.md) — **15** msgs · 1999-01
@@ -1035,6 +1037,7 @@ _338 threads · 1,772 messages._
 - [COBOL and the Web - WAS Re: (semi) OT - SOAP and other info](threads/t-d748d34664.md) — **10** msgs · 2002-02
 - [parsing XML with Cobol and SAX/SAX2](threads/t-239b84a882.md) — **10** msgs · 2002-07 → 2002-08
 - [Fujitsu web site](threads/t-f9516c27ca.md) — **10** msgs · 2007-05
+- [Cobol and Web?](threads/t-81acbb8d8a.md) — **9** msgs · 1998-06 → 1998-07
 - [AcuCOBOL CGI Forms](threads/t-c7bfc8bd91.md) — **9** msgs · 1998-11 → 1998-12
 - [COBOL CGI](threads/t-70d12d7d40.md) — **9** msgs · 1999-09 → 1999-10
 - [e-mail web application](threads/t-f74ebe2779.md) — **9** msgs · 2000-06
@@ -1042,17 +1045,14 @@ _338 threads · 1,772 messages._
 - [Read a XML document in COBOL](threads/t-a6d881d3e1.md) — **9** msgs · 2006-11 → 2006-12
 - [Web Cobol - Tool for web develop with AcuCobol](threads/t-f3abf60474.md) — **9** msgs · 2008-01 → 2008-02
 - [Sending JPG file using Cobol WebService](threads/t-fde45596e6.md) — **9** msgs · 2010-09
-- [Mainframe Web](threads/t-653c0ead58.md) — **8** msgs · 2000-03
-- [Can You Write & Run Programs in a Cobol Compiler you download off the internet?](threads/t-8a4988a921.md) — **8** msgs · 2000-05 → 2000-06
-- [Help with NetExpress and cgi's](threads/t-b8c6f5f579.md) — **8** msgs · 2000-05
-- [Calling Browser](threads/t-50a3a62d9f.md) — **8** msgs · 2001-07
-- [Suche einen deutschen "Schnellkurs" f���r COBOL im Web! o.T.](threads/t-b48ba1119d.md) — **8** msgs · 2001-10
-- [Fujitsu 6.1 CGI facilities](threads/t-dac48fdbc5.md) — **8** msgs · 2002-01
-- _…and 278 more threads (showing top 60 by message count)._
+- [COBOL / CICS as web data source](threads/t-09d99b7aef.md) — **8** msgs · 1996-10
+- [Any tools, gateways, software to read Vsam files from WEB?](threads/t-b668f118ee.md) — **8** msgs · 1997-12
+- [Date validation of input from HTML form](threads/t-939939a47c.md) — **8** msgs · 1998-03 → 1998-04
+- _…and 384 more threads (showing top 60 by message count)._
 
 ## Tutorials, books, learning <a id='learning'></a>
 
-_575 threads · 4,258 messages._
+_851 threads · 5,293 messages._
 
 - [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **297** msgs · 2007-04 → 2007-05
 - [Beginner's Question](threads/t-379ce8e2cd.md) — **219** msgs · 2003-04
@@ -1062,6 +1062,7 @@ _575 threads · 4,258 messages._
 - [Cobol books & experiences](threads/t-357edff937.md) — **76** msgs · 2005-11 → 2005-12
 - [learning cobol](threads/t-0c8e0bd59b.md) — **75** msgs · 2001-01
 - [Newbie Question](threads/t-1a87f42e3d.md) — **62** msgs · 2006-05 → 2006-06
+- [Deperate student requires help with COBOL program](threads/t-b90340f715.md) — **57** msgs · 1998-06
 - [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-451cca80fa.md) — **57** msgs · 2000-09 → 2000-10
 - [Newbie needs help with move](threads/t-ac805e222a.md) — **55** msgs · 1999-02 → 1999-03
 - [Bloomberg joins the Learn to Code hype](threads/t-417f7fd120.md) — **51** msgs · 2012-01
@@ -1076,12 +1077,14 @@ _575 threads · 4,258 messages._
 - [Determining free-form or fixed-form reference format.](threads/t-698742e310.md) — **36** msgs · 1999-12 → 2000-01
 - [Learning Cobol is a very enjoyable experience.](threads/t-bdcdb3fba5.md) — **35** msgs · 1998-08 → 1998-09
 - [Good Cobol Tutorial](threads/t-a483efde0f.md) — **34** msgs · 2001-09 → 2001-10
+- [What is COBOL and WHY should I learn it.](threads/t-68b2fc6598.md) — **34** msgs · 2020-04
 - [Functional Programming book review](threads/t-13fb2f838c.md) — **33** msgs · 2010-06
 - [Please do your own homework](threads/t-1034791a19.md) — **31** msgs · 2000-03 → 2000-04
 - [implicit scope termination (newbie)](threads/t-293fc04031.md) — **31** msgs · 2003-04
 - [Only for COBOL newbies w/ fugitsu cobol 4.0](threads/t-fafba600a4.md) — **30** msgs · 2000-09
 - [Book: Horrible Things You Can Do In COBOL](threads/t-f3c5907d60.md) — **29** msgs · 1999-01 → 1999-02
 - [Learning OO COBOL - File Access Objects.](threads/t-1381bf5afa.md) — **29** msgs · 2000-03
+- [Should I learn COBOL?](threads/t-8b6a97dba0.md) — **28** msgs · 1997-11 → 1997-12
 - [newbie](threads/t-3849035484.md) — **28** msgs · 1999-06
 - [Code to print page numbers___another student's question](threads/t-9148c65516.md) — **28** msgs · 1999-11
 - [COBOL programmer, learning a new language, which one.](threads/t-03fdc0ebfa.md) — **27** msgs · 2002-08 → 2002-09
@@ -1089,40 +1092,38 @@ _575 threads · 4,258 messages._
 - [student need help please](threads/t-66e40f94f2.md) — **26** msgs · 1998-11 → 1998-12
 - ["C" book for COBOL to C programmer](threads/t-968a9c8b13.md) — **26** msgs · 2000-01 → 2000-02
 - [SORT-RETURN not referenced](threads/t-8a4c85c0aa.md) — **25** msgs · 1998-11
+- [Newbie Q: validating fields / printing invalid](threads/t-0ede5eb7b3.md) — **24** msgs · 1998-03
 - [NEWBIE PROBLEM](threads/t-32eb3c44ba.md) — **24** msgs · 1999-08
 - [COMPUTERWEBDOCTORS.COM FOR ALL YOUR PROGRAMMING HOMEWORK HELP](threads/t-a8199ee715.md) — **23** msgs · 2004-04
+- [Advanced Cobol Book](threads/t-cf4f997431.md) — **22** msgs · 1998-06
 - [Sam's teach yoursel COBOL](threads/t-3fc5d2f405.md) — **22** msgs · 1999-10
 - [Learning OO COBOL - Dissimilar Implementations.](threads/t-9651ed88eb.md) — **22** msgs · 2000-03
 - [Student Lost](threads/t-32ba592f99.md) — **22** msgs · 2002-06
 - [Student needs a simple answer](threads/t-c8295574c5.md) — **21** msgs · 2001-04 → 2001-05
+- [Learning Cobol](threads/t-737753408f.md) — **20** msgs · 1996-05
+- [Newbie to the NG](threads/t-8c469ffed2.md) — **20** msgs · 1998-09
 - [comp.lang.cobol.student](threads/t-0c9986a08c.md) — **20** msgs · 2000-05
 - [Student Trying to understand Index files w table](threads/t-99237f08fe.md) — **20** msgs · 2001-03 → 2001-04
 - [Using reference modification in Inspect tallying command](threads/t-af03cfc48f.md) — **20** msgs · 2003-05
+- [Newbie question](threads/t-b870afbb82.md) — **19** msgs · 1998-02 → 1998-03
 - [Student's -- Sequential Update question](threads/t-e0757b089d.md) — **19** msgs · 2001-03
+- [I would like to learn cobol.](threads/t-85645824a8.md) — **18** msgs · 1998-08
 - [table help needed for homework](threads/t-64524cec66.md) — **18** msgs · 2001-04 → 2001-05
 - [Beginner's Language?](threads/t-d81810d816.md) — **18** msgs · 2001-05 → 2001-06
+- [Colbol newbie](threads/t-f4782cd2d4.md) — **17** msgs · 1998-05
 - [COBOL Books](threads/t-ed89927a19.md) — **16** msgs · 2001-11
 - [Learning COBOL](threads/t-0b4d9c17f1.md) — **16** msgs · 2005-03
 - [ROSCOE tutorial needed](threads/t-deb88a779f.md) — **16** msgs · 2006-04
-- [Learning Opportunity - Follow-up](threads/t-86fe53fda2.md) — **16** msgs · 2010-01
-- [OT: The yearning for learning...](threads/t-ccf5f1a7cd.md) — **16** msgs · 2012-01
-- [Validation Prog. Homework - Help!](threads/t-d472e78a2b.md) — **15** msgs · 1999-01
-- [Is learning Computer Programming hard?](threads/t-50a7053d6f.md) — **15** msgs · 1999-03
-- [Static call - student](threads/t-093c148183.md) — **15** msgs · 1999-10
-- [Student needs help with reference modification](threads/t-0de2f8c24a.md) — **15** msgs · 2000-01
-- [Learning OO COBOL](threads/t-b2959860fe.md) — **15** msgs · 2000-03
-- [New learning website for COBOL in the making](threads/t-e9bb25a0b7.md) — **15** msgs · 2012-11
-- [Student need help please...](threads/t-577b99cfa3.md) — **14** msgs · 1999-02
-- [Help needed for learning COBOL.](threads/t-435a645a24.md) — **14** msgs · 1999-05
-- _…and 515 more threads (showing top 60 by message count)._
+- _…and 791 more threads (showing top 60 by message count)._
 
 ## Help requests and how-to <a id='help'></a>
 
-_1,111 threads · 7,840 messages._
+_1,752 threads · 10,416 messages._
 
 - [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **297** msgs · 2007-04 → 2007-05
 - [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) — **195** msgs · 2003-05 → 2003-12
 - [How to find the greatest of two numbers without using the comparison operators?](threads/t-d43bfca9b9.md) — **190** msgs · 2007-08 → 2007-09
+- [!! Please Help!!](threads/t-5098fbaa28.md) — **158** msgs · 1998-07 → 1998-08
 - [cobol for free ??](threads/t-fc8658e269.md) — **120** msgs · 2000-02 → 2000-03
 - [help with tables](threads/t-84124279eb.md) — **117** msgs · 2008-01 → 2008-02
 - [Help! GO TO and PERFORM THRU!](threads/t-3ea136c5dc.md) — **96** msgs · 2007-02 → 2007-03
@@ -1138,12 +1139,14 @@ _1,111 threads · 7,840 messages._
 - [How to change Print to Print to File on MF Cobol on DOS 6.2 under VirtualBox on Win XP Box](threads/t-562b7f3c84.md) — **59** msgs · 2009-07 → 2009-08
 - [Need help with REDEFINES (I think)....](threads/t-54f7ab081d.md) — **58** msgs · 2004-11 → 2004-12
 - [[Q]: How many lines of Cobol running worldwide???](threads/t-2b4b9c2de4.md) — **56** msgs · 2004-01
+- [IBM mainframe COBOL - how to close an output file and reopen it with a different DSN](threads/t-264e2e8f73.md) — **55** msgs · 1998-08 → 1998-09
 - [help! remove embedded spaces from a string](threads/t-8ed083bb23.md) — **55** msgs · 2001-05 → 2001-06
 - [OO COBOL - What if ???](threads/t-114c618257.md) — **48** msgs · 2007-10
 - [Help needed](threads/t-ea3b9a6089.md) — **44** msgs · 1999-01
 - [How to JUDGE what is "Good COBOL"](threads/t-723920df03.md) — **44** msgs · 2007-09
 - [Program Logic??](threads/t-9f928ee219.md) — **43** msgs · 2000-06 → 2000-07
 - [help with cobol date](threads/t-e3ebc3bd32.md) — **39** msgs · 2003-11 → 2003-12
+- [Kicks on PC??](threads/t-722f7c1b60.md) — **38** msgs · 1998-06
 - [how to determine string length ?](threads/t-a5066f0a95.md) — **38** msgs · 1998-09 → 1998-10
 - [what's the best way to do this in cobol??](threads/t-3738cd4f2e.md) — **36** msgs · 2000-05
 - [for a laught (???)](threads/t-bfd4e951ca.md) — **36** msgs · 2007-06
@@ -1160,8 +1163,10 @@ _1,111 threads · 7,840 messages._
 - [very discouraging- any hope????](threads/t-bc2ecae9f2.md) — **29** msgs · 1999-01
 - [Help](threads/t-10f83675f7.md) — **29** msgs · 2001-04 → 2001-05
 - [OT - CLC (primarily???) a chat room?](threads/t-96aae7ec26.md) — **29** msgs · 2002-09 → 2003-06
+- [Help: VSAM Invalid Key Question](threads/t-c7c09930fe.md) — **28** msgs · 1998-03 → 1998-04
 - [Fuji Power Cobol Byte Alignment ??](threads/t-748a7cb7dd.md) — **28** msgs · 2001-03
 - [How to get the return code from a Unix command in Cobol](threads/t-eba3963544.md) — **28** msgs · 2008-01
+- [How DO I make labels?](threads/t-6aabb0179a.md) — **27** msgs · 1997-10 → 1997-11
 - [could someone get me on the right track??](threads/t-c205d7c7e8.md) — **27** msgs · 1999-10 → 1999-11
 - [How to compute Easter](threads/t-7650435806.md) — **27** msgs · 2003-03 → 2003-04
 - [How to compile MicroFocus COBOL/2 Ver 1.2.29 L2.2 rev 003 - on DOS 6.2 machine ?](threads/t-6b1f8d3d47.md) — **27** msgs · 2009-07
@@ -1172,19 +1177,14 @@ _1,111 threads · 7,840 messages._
 - [Max value possible in COMP field ??](threads/t-a9b4cb6878.md) — **26** msgs · 2002-04 → 2002-05
 - [how do I move NULL into a field ?](threads/t-399eddb779.md) — **26** msgs · 2004-08
 - [How to let a COBOL program sleep 5 seconds](threads/t-9bee5f0cd3.md) — **26** msgs · 2004-09
+- [How To Discussion. Problem Statement.](threads/t-081e923eeb.md) — **25** msgs · 1997-07
 - [Two compiler on same PC ???](threads/t-b1b3d618f2.md) — **25** msgs · 2001-10
 - [I need help with reading multiple records off one data file](threads/t-e1284e218b.md) — **25** msgs · 2002-07 → 2002-08
-- [How to get "Gold Mind" a bad reputation](threads/t-56117f4d64.md) — **24** msgs · 2000-07
-- [HELP! What's wrong with this program?](threads/t-9970b617eb.md) — **23** msgs · 1998-09
-- [urgent query!!!](threads/t-f20c821ab8.md) — **23** msgs · 2004-12
-- [How to send files from a mainframe to a Unix server from Cobol program?](threads/t-5a21e1ad15.md) — **23** msgs · 2008-07
-- [Need help! for COBOL user compant](threads/t-b323b7b8ed.md) — **22** msgs · 1999-05
-- [Help on Packed-Decimal Fields Needed](threads/t-219f321dd9.md) — **22** msgs · 2002-02
-- _…and 1,051 more threads (showing top 60 by message count)._
+- _…and 1,692 more threads (showing top 60 by message count)._
 
 ## Off-topic and spam <a id='spam'></a>
 
-_508 threads · 9,284 messages._
+_573 threads · 9,870 messages._
 
 - [OT : Making money from Java](threads/t-0c7ed12b34.md) — **1890** msgs · 2005-11 → 2006-01
 - [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **540** msgs · 2005-03 → 2005-05
@@ -1197,6 +1197,7 @@ _508 threads · 9,284 messages._
 - [OT: windoze woes and full rant mode is on](threads/t-38efcef77e.md) — **116** msgs · 2006-11
 - [OT: Hemlines](threads/t-973400bc4f.md) — **107** msgs · 2003-11 → 2003-12
 - [OT: Trouble in Paradise](threads/t-11accd9aba.md) — **104** msgs · 2011-10
+- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs · 2020-09 → 2022-02
 - [OT: Some More Background on St. Paul](threads/t-4b48b948c8.md) — **97** msgs · 2008-02
 - [OT : Nigerian Email Scams](threads/t-ce84227c11.md) — **93** msgs · 2002-09 → 2002-11
 - [OT - Humor (was: Is 12:00 Noon considered AM or PM?](threads/t-96b43742c5.md) — **93** msgs · 2002-10
@@ -1206,6 +1207,7 @@ _508 threads · 9,284 messages._
 - [OT: Politically Correct](threads/t-14dbcf5f82.md) — **84** msgs · 2007-05 → 2007-06
 - [OT: I'm really not anti-American, just fed up with stupidity...](threads/t-47c67922df.md) — **83** msgs · 2012-04 → 2012-05
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
+- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs · 2020-09 → 2022-02
 - [OT Microsoft](threads/t-64e54b668b.md) — **72** msgs · 2003-03 → 2003-04
 - [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](threads/t-172a78fc6d.md) — **71** msgs · 2004-11 → 2005-01
 - [OT: Testing chevrons - no COBOL content](threads/t-0339a7de28.md) — **69** msgs · 2008-11 → 2008-12
@@ -1222,6 +1224,7 @@ _508 threads · 9,284 messages._
 - [OT: Zero-tolerance speed cameras coming to Texas](threads/t-c216681c5d.md) — **53** msgs · 2008-02
 - [OT : Insidious Facebook](threads/t-79c70f090f.md) — **53** msgs · 2010-08
 - [OT: Lets stop MF and MS bashing and start bashing Intel....](threads/t-27a531639f.md) — **53** msgs · 2010-09
+- [OT: Mainframes may be coming back?](threads/t-07bd56f377.md) — **51** msgs · 2018-03 → 2018-05
 - [OT - Good Idea? Bad Idea?](threads/t-fef944cf6b.md) — **47** msgs · 2000-06
 - [OT: Traffic Signals in New Mexico](threads/t-3439793b75.md) — **45** msgs · 2005-08
 - [OT - New Millennium](threads/t-85f4707c00.md) — **44** msgs · 2001-01 → 2001-02
@@ -1229,34 +1232,33 @@ _508 threads · 9,284 messages._
 - [OT: Cobol jokes](threads/t-5890d2fc2e.md) — **43** msgs · 2011-08 → 2011-12
 - [OT - Humor (not REALLY a comment on some recent postings to CLC)](threads/t-86cbfad266.md) — **42** msgs · 2003-05
 - [OT: Aftershock](threads/t-5e2c1bf9b3.md) — **42** msgs · 2010-12 → 2011-01
+- [Find Girls Sex Dating Near Me In Local | Adult Hookup Dating](threads/t-709edd2eed.md) — **41** msgs · 2021-07 → 2021-09
 - [OT - Religion](threads/t-e90875008c.md) — **40** msgs · 2005-04 → 2005-06
 - [OT: A warning](threads/t-d2577711f2.md) — **40** msgs · 2012-12 → 2013-01
 - [OT : Salaries & Contractors](threads/t-94852b053e.md) — **35** msgs · 2005-03 → 2005-07
 - [OT: What do you do with your old computers?](threads/t-8b964ad898.md) — **35** msgs · 2008-03
 - [OT: Do we get the Managers we deserve?](threads/t-b88150c178.md) — **34** msgs · 2011-08 → 2011-09
 - [OT: fished from a long thread](threads/t-04aef6fb9e.md) — **33** msgs · 2007-05
+- [Off Topic -- Unless you care about JUSTICE](threads/t-9d48e9c0eb.md) — **32** msgs · 1998-03 → 1998-04
 - [OT: ANWR, Energy, Nuclear fuel, Greenies, tree huggers, NRA, etc......](threads/t-4f866ee2fa.md) — **32** msgs · 2001-04
 - [OT: big whoops](threads/t-9d9d6b61bc.md) — **32** msgs · 2004-05 → 2004-06
 - [OT: The Ultimate in Outsourcing](threads/t-2b2947aa32.md) — **32** msgs · 2004-10
 - [OT - Before I Die ( Part 1)](threads/t-89b4702ebf.md) — **32** msgs · 2008-10
 - [OT: for your amusment](threads/t-ad27fc7ff4.md) — **30** msgs · 2003-01
 - [OT: What Would You Do In This Situation?](threads/t-4736628e3e.md) — **30** msgs · 2010-08 → 2010-09
-- [OT - CLC (primarily???) a chat room?](threads/t-96aae7ec26.md) — **29** msgs · 2002-09 → 2003-06
-- [OT : Formatting Messages](threads/t-a70725ada6.md) — **29** msgs · 2004-04 → 2004-05
-- [Ot: The Last Indignity](threads/t-a526317719.md) — **28** msgs · 2011-08 → 2011-09
-- [Off topic message (is it?)](threads/t-ec77920485.md) — **27** msgs · 2002-11
-- [OT: Problem with MS Internet Explorer 5.5](threads/t-9eb1b775d0.md) — **27** msgs · 2003-06
-- _…and 448 more threads (showing top 60 by message count)._
+- _…and 513 more threads (showing top 60 by message count)._
 
 ## Meta: FAQs, group policy, charter <a id='meta'></a>
 
-_440 threads · 1,172 messages._
+_609 threads · 1,598 messages._
 
 - [OT: Newsgroup Name Change?](threads/t-7bedff9837.md) — **64** msgs · 2007-01
 - [FAQ "accessed counter" (and other changes)](threads/t-49d36684e1.md) — **46** msgs · 2002-03
 - [To "killfile" or not to "killfile"](threads/t-4cb0f88a5f.md) — **43** msgs · 2003-02 → 2003-03
+- [If you're reading this newsgroup, New Jersey needs YOU!](threads/t-2a2e3bca73.md) — **42** msgs · 2020-04
 - [Should CLC become a moderated NG???](threads/t-200c93fa9a.md) — **32** msgs · 2003-06 → 2003-07
 - [How many authors do we have on this newsgroup](threads/t-de1cce2ff1.md) — **30** msgs · 1999-09
+- [SPAM RATIO](threads/t-0d18435aad.md) — **26** msgs · 1998-07 → 1998-08
 - [OT: Spam Checkers](threads/t-0571ac9fb1.md) — **25** msgs · 2003-12
 - [COBOL News groups](threads/t-5091979245.md) — **23** msgs · 2011-07
 - [Cobol FAQ Quesiton](threads/t-6f22bde4f3.md) — **22** msgs · 2000-09
@@ -1264,59 +1266,57 @@ _440 threads · 1,172 messages._
 - [OT - what newsgroup NNTP server to use](threads/t-78b449e4c7.md) — **20** msgs · 2004-09
 - [COBOL FAQ *moved*](threads/t-48c7700300.md) — **20** msgs · 2005-08
 - [FAQ *formatting* input](threads/t-55fc4eafd5.md) — **19** msgs · 2002-03
+- [Ahhh. Charter. Here.](threads/t-d7e92099d9.md) — **17** msgs · 1998-02 → 1998-03
 - [USAGE, COMP, Storage, etc (for the FAQ - a first draft)](threads/t-89340652c3.md) — **17** msgs · 1999-01
 - [test](threads/t-0a9cfe02e8.md) — **17** msgs · 2002-09
+- [Comp.lang.cobol charter](threads/t-8ff4f17f08.md) — **15** msgs · 1997-11 → 1997-12
 - [Test your COBOL II knowledge at new website!](threads/t-f532927233.md) — **15** msgs · 1998-09 → 1998-10
 - [Opinion "Survey" - COBOL FAQ](threads/t-4c4e38c179.md) — **15** msgs · 1999-09
 - [COBOL Spam Scam](threads/t-46d309e898.md) — **15** msgs · 2000-04 → 2000-05
 - [COBOL FAQ - frequency of "pointer" posting](threads/t-306c286c10.md) — **15** msgs · 2001-04
 - [Newsgroup browsers](threads/t-796db119e4.md) — **15** msgs · 2005-09 → 2005-11
 - [Test request](threads/t-28025f818d.md) — **15** msgs · 2010-09
+- [Test for numeric value](threads/t-db12bc072a.md) — **14** msgs · 1998-08
 - [Spam](threads/t-80a7cb1d15.md) — **14** msgs · 2010-11
+- [Test](threads/t-73f0670f3c.md) — **13** msgs · 1998-05
+- [Test](threads/t-ed70f06564.md) — **12** msgs · 1998-04 → 1998-05
 - [WARNING - COBOL FAQ](threads/t-6f241e430b.md) — **11** msgs · 2001-10
 - [test](threads/t-3f0bec7d6f.md) — **11** msgs · 2002-03
+- [Spam - COBOL FAQ - and opinions thereon](threads/t-99773c64bc.md) — **10** msgs · 1998-08
 - [OT: Almost, CoinCap Spam](threads/t-6c04cebdba.md) — **10** msgs · 1999-12
 - [OT - Newsgroup access from Earthlink](threads/t-095cebe923.md) — **10** msgs · 2003-06
 - [test](threads/t-dc39cfe0f1.md) — **10** msgs · 2010-02
 - [Test request (for Enter;prise COBOL)](threads/t-d762fe34ea.md) — **10** msgs · 2010-07
+- [What Charter??? Where????](threads/t-52895dc594.md) — **9** msgs · 1998-02
+- [Coming Soon - Revised COBOL FAQ](threads/t-92d1a49c85.md) — **9** msgs · 1998-02 → 1998-03
+- [SPAM RATIO](threads/t-c1bd3eb216.md) — **9** msgs · 1998-07 → 1998-08
 - [COBOL FAQ](threads/t-cf24098d3f.md) — **9** msgs · 1999-05
 - [[OT] Time Warp Spam](threads/t-f002f139a9.md) — **9** msgs · 2003-07
+- [McAfee NewsSniffer Warning: Virus posted to this newsgroup](threads/t-54ebe1d6c1.md) — **8** msgs · 1998-01
+- [Test](threads/t-5a00181486.md) — **8** msgs · 1998-06 → 1998-07
 - [Lost Newsgroup Postings?](threads/t-2884651746.md) — **8** msgs · 2000-07
 - [OT: recent NG spam](threads/t-51c4b6ffd2.md) — **8** msgs · 2004-04
 - [*** COBOL FAQ *** (moved)](threads/t-33c9362ebb.md) — **7** msgs · 2000-07
 - [Internet Enabled COBOL - Not Spam](threads/t-891e080b68.md) — **7** msgs · 2001-05
 - ["Tools" for COBOL FAQ](threads/t-86ff19eef4.md) — **7** msgs · 2002-03
+- [Is there a DB2 newsgroup???/](threads/t-5019d8af3c.md) — **6** msgs · 1997-07
+- [Looking for COBOL Charter](threads/t-f80effd868.md) — **6** msgs · 1998-01
 - [COBOL FAQ](threads/t-f81110f005.md) — **6** msgs · 1998-09 → 1998-10
 - [Test only](threads/t-782907cc8a.md) — **6** msgs · 1998-11
 - [How many authors do we have on this newsgroup](threads/t-0afe71af49.md) — **6** msgs · 1999-09
 - [Frog's Spam Trap : WAS other things.......](threads/t-3db3af9bd8.md) — **6** msgs · 2000-04
 - [Test post: please ignore](threads/t-e0c8d46d74.md) — **6** msgs · 2001-09 → 2001-10
 - [test (you can ignore)](threads/t-f4f6fe9489.md) — **6** msgs · 2004-08 → 2005-01
+- [Test](threads/t-91a03b4977.md) — **5** msgs · 1996-12
+- [Comp.lang.cobol charter](threads/t-23ced2135a.md) — **5** msgs · 1997-11 → 1997-12
 - [An Open Message To The Newsgroup](threads/t-cc27241dfb.md) — **5** msgs · 1998-07
 - [JCL Newsgroup](threads/t-0a99b393ae.md) — **5** msgs · 1998-11
 - [How many authors do we have on this newsgroup](threads/t-2d69d49032.md) — **5** msgs · 1999-09
-- [??? - Location of the COBOL FAQ](threads/t-e4fb10d27e.md) — **5** msgs · 2000-06
-- [Spam lover](threads/t-785d581af2.md) — **5** msgs · 2003-06
-- [[OT] Spam](threads/t-a58c2d79aa.md) — **5** msgs · 2004-05
-- [Ik wil toegang tot de newsgroup](threads/t-0f231c1272.md) — **5** msgs · 2005-08
-- [OT: Newsgroup browsers](threads/t-609d7a6617.md) — **5** msgs · 2005-12
-- [Posting on rail news group Re: NYCTA Computer usage was Re: Fate of RCA computer division was Re: P…](threads/t-032a14cd5a.md) — **5** msgs · 2007-05
-- [COBOL FAQ](threads/t-3d6a65f81e.md) — **4** msgs · 1999-04
-- [spam (was: Re: How many authors do we have on this newsgroup)](threads/t-c2ea59dd5f.md) — **4** msgs · 1999-09
-- [COBOL FAQ Availability (the saga continues)](threads/t-08b7c6c344.md) — **4** msgs · 1999-09
-- [Vendor's presence in newsgroup](threads/t-798ea1427a.md) — **4** msgs · 2000-07
-- [Cobol compiler for Linux ? FAQ ?](threads/t-0095bcfaf6.md) — **4** msgs · 2001-01
-- [Test Before and Do While](threads/t-d8ce351bc7.md) — **4** msgs · 2001-02
-- [COBOL FAQ (availability) - Good News/Bad News](threads/t-6a18a483ca.md) — **4** msgs · 2002-08
-- [test](threads/t-a43922d3e1.md) — **4** msgs · 2004-07
-- [COBOL FAQ - changed URL](threads/t-46266ab59f.md) — **4** msgs · 2004-10
-- [COBOL FAQ](threads/t-2ee1f8fdd6.md) — **3** msgs · 1998-08 → 1998-09
-- [Test -v- Live](threads/t-533a572194.md) — **3** msgs · 1998-08
-- _…and 380 more threads (showing top 60 by message count)._
+- _…and 549 more threads (showing top 60 by message count)._
 
 ## Uncategorized (top by message count) <a id='uncategorized'></a>
 
-_8,047 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
+_11,721 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
 
 - [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **1870** msgs · 2007-11 → 2008-02
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **1132** msgs · 2004-10 → 2005-01
@@ -1371,10 +1371,10 @@ _8,047 threads didn't match any topic rule. Showing the 60 most active (threads 
 - [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **128** msgs · 2013-03
 - [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **125** msgs · 2000-03 → 2000-04
 - [Numbered prefixes](threads/t-ded9ac061d.md) — **124** msgs · 2003-07 → 2003-08
+- [A Favor (please)](threads/t-023bda184b.md) — **123** msgs · 1998-08 → 1998-09
 - [Sorting a whole lotta records](threads/t-7c28a6801f.md) — **123** msgs · 2003-08 → 2003-09
 - [[OT] Iraq (was: Cobol Myth Busters](threads/t-78c041495a.md) — **121** msgs · 2007-09 → 2007-10
 - [Prodcuing an output file only on Friday?](threads/t-8255791ba3.md) — **120** msgs · 2006-04 → 2006-11
 - [Discussions of COBOL philospphy](threads/t-6e159bc856.md) — **120** msgs · 2007-09 → 2007-10
 - [Why read CLC?](threads/t-1418ecdc6b.md) — **115** msgs · 2008-06
 - [Differences in data description in programming languages](threads/t-3665604048.md) — **112** msgs · 2004-11 → 2004-12
-- [[OT] Windows/Macro Language Info?](threads/t-6e2d760f3f.md) — **112** msgs · 2005-03 → 2005-04

@@ -1,0 +1,1259 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# FIGLI DI TROIONA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT T&F TAX & FINANCE E NOTO NAZIPEDOFILOMOSESSUALE PAOLO BARRAI WMO SA PANAMA, PASSAN IL MILAN DAL PRESTANOME STRAGISTA PEDOFILO SILVIO BERLUSCONI AL PURE PRESTANOME LERCIO: BEE!
+
+_1 message · 1 participant · 2015-06_
+
+---
+
+### FIGLI DI TROIONA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT T&F TAX & FINANCE E NOTO NAZIPEDOFILOMOSESSUALE PAOLO BARRAI WMO SA PANAMA, PASSAN IL MILAN DAL PRESTANOME STRAGISTA PEDOFILO SILVIO BERLUSCONI AL PURE PRESTANOME LERCIO: BEE!
+
+- **From:** "ginolampascione" <ua-author-6130915@usenetarchives.gap>
+- **Date:** 2015-06-30T13:53:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<dd094a88-8fd2-4d13-89be-bbee08f786ab@googlegroups.com>`
+
+```
+FIGLI DI TROIONA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT T&F TAX & FINANCE E NOTO NAZIPEDOFILOMOSESSUALE PAOLO BARRAI WMO SA PANAMA, PASSAN IL MILAN DAL PRESTANOME STRAGISTA PEDOFILO SILVIO BERLUSCONI AL PURE PRESTANOME LERCIO: BEE!
+
+LA MAFIA COMPRO' IL MILAN VIA PROPRIO PRESTANOME FASCISTA, PEDOFILO E SPAPPOLA MAGISTRATI SILVIO BERLUSCONI (QUALSIASI COSA ABBIA LO SBAUSCIA MINORENNI A PAGAMENTO, SILVIO BERLUSCONI, E' TARGATO DA SEMPRE, MASSONERIASSASSINA SNOBBONA, MEGA DISCRIMINATRICE, INGIUSTISSIMAMENTE ED INGIUSTIFICATAMENTE COMPLOTTARDA A MORTE, DISTRUGGI CARRIERE E VITE E DI ESTREMISSIMA DESTRA, TIPO ROTARY, LIONS CLUBS, CAVALIERI DI MALTA, GRAN LOGGIA D' ITALIA, GRAN LOGGIA ITALIANA MASSONICA, ASSASSINISSIME P2, P3, P4, P5, P6, P.-MAVAFFANCULO... E, A CODESTE, UINITISSIME, COSA NOSTRA, CAMORRA E NDRANGHETA)! ESSENDO CHE QUEST'ULTIMO E' ORMAI SEMPRE PIU' UN PAZZO DEPRAVATO ATTEMPATO CHE A SEGRATE VA' A RAGLIARE LE SUE MEGA BALLE PSEUDO POLITICHE, PURE, DALLA PARTE OPPOSTA A DOVE DOVREBBE ANDARE... ECCO CHE ORA... IL BOSS IN TUTTO E PER TUTTO DI SILVIO BERLUSCONI, IL MEGA SOCIO FINANZIATORE DI SILVIO BERLUSCONI, MATTEO MESSINA DENARO, PREOCCUPATO DA QUESTE MONTAGNE DI CHIARA DEMENZA SENILE, HA DECISO DI PASSARE IL MILAN AD ALTRO PROPRIO PRESTANOME: BEE TAECHAUBOL.
+
+NEL FRATTEMPO, PERO'... MANDEREMO STA SPAZZATURA FASCIOCAMORRISTA DI SQUADRA IN SERIE B. ANZI, SERIE BEEEEE!
+
+COMPLIMENTI AD ANDREA AGNELLI: UNO DEI MIGLIORI MANAGER E UOMINI CHE VI SIANO ANCORA NELLA CLOACA NAZINDRANGHETISTA DI RENZUSCONIA ("VI E'" PER MODO DI DIRE: PER UNICO E PRIMISSIMO, NEL 2007, QUIANDO NESSUNO A COSA DEL GENERE, PENSASSE, SCRISSI CHE LA FIAT SE NE SAREBBE ANDATA NEGLI STATI UNITI VIA OLANDA ED INGHILTERRA... CON NON POCHI ANNI DI ANTICIPO... FACEMMO LA STORIA... COME SEMPRE: IAMM E STRA IAMM BEEE).
+
+HA DETTO CHE NON CAPISCE DA DOVE VENGONO I SOLDI DI BEE BEE TAECHAUBOL. E CHE CAPISCE ANCOR MENO CHE CALCOLI STRA COLMI DI CRIMINI SI SIAN STATI FATTI PER DIRE CHE LA SQUADRA CHE AMMAZZO' STEFANO BORGONOVO ( E PARECCHI ALTRI UOMINI), A BOTTE DI DROGHE FOLLI DATEGLI, POSSA VALERE UN MILIARDO DI EURO ( ULLALA'... ECCO PERCHE' IL TRECARTISTAVANZODIGALERA SILVIO BERLUSCONI NON SOPPORTI DA SEMPRE, E CON TUTTE LE PROPRIE FORZE, LEGGI ANTI FALSO IN BILANCIO...
+http://www.lastampa.it/2015/02/18/economia/falso-in-bilancio-forza-italia-si-impunta-tempi-pi-lunghi-2Y14UKWH5YVVyMG72aivzI/pagina.html
+http://www.repubblica.it/2008/01/sezioni/cronaca/prescrizione-sme/prescrizione-sme/prescrizione-sme.html )
+
+INIZIAMO A RISPONDERE AL PRIMO PUNTO. IAMM E STRA IAMM, IA'!
+
+UOMO CHIAVE E' IL BANCHIERE MAXIMO DI COSA NOSTRA, ORA IN CARCERE AD OPERA ( DOPO ESSER SCAPPATO PRECEDENTEMENTE, NON PER NIENTE, IN UNA MAREA DI PAESI, E PER DECENNI): VITO ROBERTO PALAZZOLO
+http://it.wikipedia.org/wiki/Vito_Roberto_Palazzolo
+
+VICINISSIMO AI PADRONI DI SEMPRE DI SILVIO BERLUSCONI: TOTO RIINA, BERNARDO PROVENZANO E SPECIALMENTE MAFIA ITALO AMERICANA ( QUINDI, VICINISSIMIO AL NOTO COMPARE DI P2 DI SILVIO BERLUSCONI STESSO... MANDANTE DI MOLTI OMICIDI COME SILVIO BERLUSCONI: TALE MICHELE SINDONA)! NON SCORDATEVI CHE LA LEUCEMIASSASSINA DEL MONDO INTERO, SILVIO BERLUSCONI, DEVE TUTTO E STRA TUTTO, IN STRAGISTA E PEDOFILA VITA SUA, AI CAMION STRA COLMI DI TONNELLATE DI EROINA, COCAINA, HASCISH, E MILIARDI DI LIRE CASH DEGLI ANNI 70 DA INSAPONARE ( MILIARDI DI LIRE CASH DEGLI ANNI 70... QUINDI, VALENTI, QUASI ALLA PARI, MILIARDI DI EURO DI ORA, SE ATTUALIZZIAMO IL TUTTO AD OGGI), CHE IL PIU' RICCO MAFIOSO DI TUTTI I TEMPI, STEFANO BONTATE, FACEVA ARRIVARE DA PALERMO ALL'ORTOMERCATO DI MILANO INSIEME AD UN PO' DI CASSETTE DI ARANCE E LIMONI ATTE A COPRIRE LA VISIONE DEL "VERO CARICUZZEDDU DA PORTARE A MILANUZZEDDU, AAA".
+http://it.wikipedia.org/wiki/Banca_Rasini
+http://www.antimafiaduemila.com/200805044344/articoli-arretrati/le-mani-sulla-madonnina.html
+http://www.ilfattoquotidiano.it/2012/04/24/la-storia-di-rapisarda-lamico-dei-mafiosi-per-il-quale-lavorava-dellutri/206872/
+POI, LO SPAPPOLA MAGISTRATI.... IL MANDANTE DI DOZZINE DI STRAGI E CENTINAIA DI OMICIDI MASCHERATI DA FINTI INFARTI, MALORI ED INCIDENTI, L'ASSASSINO PEDERASTA FASCIOCAMORRISTA SILVIO BERLUSCONI, FECE RIEMPIRE DI PALLOTTOLE STEFANO BONTATE... E SI PAPPO' IL TUTTO.
+https://s-media-cache-ak0.pinimg.com/236x/a7/92/fa/a792fac4916bf4495a3154340f0326db.jpg
+FECE RIEMPIRE DI PALLOTTOLE STEFANO BONTATE DA COLUI CHE POI FU IL VERO PADRONE DI SILVIO BERLUSCONI. DA INZIO ANNI 80, FIN,DI FATTO, AI GIORNI NOSTRI: TOTO RIINA.
+http://www.repubblica.it/cronaca/2014/08/30/news/mafia_riina_berlusconi-94686226/
+CHE COME POTETE NOTARE, PARLA IN TUTTO E PER TUTTO COME SILVIO BERLUSCONI.
+https://www.youtube.com/watch?v=RQ_FwDgcklo
+https://www.youtube.com/watch?v=ZqLwoKSgaPU
+E CHE FU, NON PER NIENTE, QUASI DIPINTO COME UN EROE DA UNA FICITION PRODOTTA DA CANALE MAFIOSO 5
+http://paolofranceschetti.blogspot.be/2009/09/chi-e-veramente-il-capo-dei-capi.html
+OO CHE CASO, OO!
+VITO ROBERTO PALAZZOLO, GESTIVA FIUMI DI SOLDI DELLA MAFIA DI TOTO RIINA E BERNARDO PROVENZANO, QUINDI, ANCHE DI SILVIO BERLUSCONI E DI ENNIO DORIS ( LA CUI BANCA, A WALL STREET E NELLA CITY, ORMAI NICKIAMO TUTTI: BANCA MAFIOLANUM CAMORRANUM NDRANGOLANUM NAZISTANUM MEDIOLANUM)
+http://isegretidellacasta.blogspot.be/2012/02/la-banca-del-tesoro-di-berlusconi-e-dei.html
+http://espresso.repubblica.it/palazzo/2008/05/15/news/vado-riciclo-e-torno-1.8408
+GUARDATE BENE IL LINK DI WIKIPEDIA CHE HO PRIMA POSTO A PROPOSITO DI VITO ROBERTO PALAZZOLO, PLS. OVE FACEVA "BUSSINESSUZZEDDU" NEGLI ULTIMI ANNI, LO STESSO? AD HONG KONG ED IN THAILANDIA!! DA DOVE VERREBBERO I FONDI DEL PRESTANOME THAI DI COSA NOSTRA? DA HONG KONG E THAILANDIA, AGAIN AND AGAIN!
+OO CHE CASO, OO E STRA OOO.
+AVREI ALTRE CENTO PROVE, INDIZI, NOMI E COGNOMI DA AGGIUNGERE A TUTTO QUESTO ( TIPO QUELLO DI UN MEGA RICICLA SOLDI MAFIOSI, EX MORGAN STANLEY, ORA RICICLANTE CASH KILLER A GO GO, AD HONG KONG, PER TRIADE, MALA RUSSA DI PUTIN ED ORGANIZZAZIONI ASSASSINE DI MEZZO MONDO: EXTREMELY CRIMINAL BASTARD DANIEL HEGGLIN... O TIPO QUELLO DI UN ALTRO SCAGNOZZO USATO TANTO DALLA LEUCEMIASSASSINA SILVIO BERLUSCONI A FINI DI LERCISSIMO RICICLAGGIO: NOTO AVANZO DI GALERA, IN CARCERE GIA' 3 VOLTE, PAOLO BARRAI NATO A MILANO IL 28.6.1965).
+MA
+A) LAVORANDO IN VITA MIA, DALLE 14 ALLE 20 ORE AL GIORNO, ALIAS DALLE 5AM ALLE 21-23 PM, NON HO ORA IL TEMPO PER RIUSCIRE A SCRIVERE OLTRE.
+B) NE FARO' SAPERE AD AUTORITA' COMPETENTI SENZA FARE ULTERIORI ASSISTS AL CANCRO MA-F-ASCISTA DEL MONDO INTERO, SILVIO BERLUSCONI!
+
+.. E A PROPOSITO DI CHI SIA IL NOTO PEDOFILOMOSESSUALE... CRIMINALISSIMO AVANZO DI GALERA INCALLITO PAOLO BARRAI DI WMO SA PANAMA...
+
+-NAZIRAZZISTA, GIA' VARIE VOLTE IN GALERA, PAOLO BARRAI DI CRIMINALISSIMA WMO SA PANAMA (IN COMBUTTA CON BESTIA MALAVITOSA GERARDO SEGAT DI DELINQUENTISSIMA FIDUCIARIA T&F TAX AND FINANCE SA LUGANO E PEZZO DI MERDA MEGA RICICLA CASH MAFIOSO VICTOR PABLO DANA DI HERITAGE WEALTH DUBAI ... STRUTTURE, NON PER NIENTE, USATE DA NOTO NAZINDRANGHETISTA TIRANNO PEDOFILO STRAGISTA SILVIO BERLUSCONI: DETTO QUESTO, DETTO TUTTO... DIREI). ).
+
+-LADRO, TRUFFATORE, AZZERA RISPARMI DI OGNUNO E SEMPRE, TUTTE LE VOLTE FALSISSIMO, TRUFFATORE, LADRO, MANDANTE DI OMICIDI, TERRORISTA NERO "ED IN NERO", GIA' VARIE VOLTE CONDANNATO AL CARCERE": PAOLO BARRAI (NATO A MILANO IL 28.06.1965) DI CRIMINALISSIMA WMO SA PANAMA, CRIMINALISSIMA BSI ITALIA SRL DI VIA SOCRATE 26 MILANO, CRIMINALISSIMO BLOG MERCATO LIBERO, MA... NOTO IN TUTTO IL GLOBO COME ' MERDATO' LIBERO (OLTRE CHE, COME DETTO, MEGALAVA CASH DI COSA NOSTRA, CAMORRA, NDRANGHETA, NARCOS COLOMBIANI, MESSICANI E RUSSI.... NONCHE' POLITI-C-RIMINALE, CONNESSO A FASCIOPORCI SILVIO BERLUSCONI, MARINA BERLUSCONI, MASSIMO DORIS, ENNIO DORIS, DAVIDE SERRA, UMBERTO BOSSI E MATTEO SALVINI)! STALKA A MORTE CHI LO FOTOGRAFA E SE "UNO" INSISTE, L'ASSASSINO PAOLO BARRAI FA "SUICIDARE" DAVVERO!!!
+
+- FREQUENTISSIMO MANDANTE DI BERLUSCONIANI E LEGHISTI OMICIDI MASCHERATI DA FINTI INCIDENTI, MALORI, PIU' SPESSO ANCORA, "SUICIDATE", PAOLO BARRAI DI CRIMINALISSIMA WMO SA PANAMA ( ALLA DAVID ROSSI DI MONTE PASCHI O CORSO BOVIO O ALBERTO CAPERNA O PIETRO SAVIOTTI O GIORGIO PANTO O PAOLO ALBERTI O ADAMO BOVE O MICHELE LANDI O ANDREA PININFARINA O VINCENZO PARISI O ANTONIO MANGANELLI O MIKE BONGIORNO O.... ALLA GENITORI DI CLEMENTINA FORLEO O .... ALLA GERARDO DAMBROSIO.. PER NON DIRE DEGLI ETERNI GIOVANNI FALCONE E PAOLO BORSELLINO... TUTTA GRANDE GENTE FATTA AMMAZZARE IN MILLE DIVERSI MODI DAGLI ASSASSINI, FINANCO STRAGISTI, SILVIO BERLUSCONI, MARINA BERLUSCONI, ENNIO DORIS, MASSIMO DORIS, UMBERTO BOSSI, ROBERTO MARONI, MATTEO SALVINI E I TERRORISTI NERI E SPECIALMENTE " IN NERO", PAOLO BARRAI E MAURIZIO BARBERO, NOTO PEDERASTA ASSASSINO DI TECHNOSKY: POTETE STARNE STRA CERTI)
+
+-NOTO NAZIPEDERASTA PAOLO BARRAI (28.06.1965) DI MALAVITOSE WMO, PROF:IT E BSI ITALIA SRL DI VIA SOCRATE 26 A MILANO, CHE PER DIFENDERE IL SUO MANDANTE FASCIOCAMORRISTA, STRAGISTA E NOTO PEDOFILO COME LUI, SILVIO BERLUSCONI ( NOTARE BENE, PLEASE, CHE STO SODOMIZZA BAMBINI DI FIAMMA TRICOLORE, FORZA NUOVA, CASA POUND, FORZA ITALIA E LL - LEGA LADRONA, PAOLO BARRAI, E' IN POSSESSO DA ANNI DELLA REPELLENTE, VOMITEVOLISSIMA TESSERA DI ORGOGLIO PEDOFILO:
+
+http://en.wikipedia.org/wiki/North_American_Man/Boy_Love_Association ) HA SPESSO DETTO E SCRITTO: " CHE LA PEDOFILIA NON E' UN REATO, IN QUANTO NEL TERZO MONDO, TANTE BAMBINE DI 10, 11, 12 ANNI, RIMANGONO IN CINTA"! PER AGGIUNGERE IN PRIVATO E SPESSISSIMO, FRASI DA FAR MEGA SUPER STRA ACCAPONARE LA PELLE, OSSIA, CHE E' FIERO DI AVER SODOMIZZATO I SUOI FIGLI RICCARDO BARRAI E COSTANZA BARRAI FIN DALLA NASCITA! MOSTRANDO ANCHE DELLE FOTO PEDOPORNOMOSESSUALI, IN CUI "ATTORE" ERA LO STESSO NAZIPEDERASTA PAOLO BARRAI! FOTO DI FILM PER PEDOFILI OMOSESSUALI O PEDOFILI IN GENERE ( COME PAOLO BARRAI E SUO PAPPONE NAZIMAFIOSO SILVIO BERLUSCONI) DEGLI ANNI 2000, 2001, 2002 (OSSIA, APPENA DOPO CHE LO STESSO AVANZO DI GALERA PAOLO BARRAI VENIVA CACCIATO MALISSIMAMENTE DA CITIBANK PER CRIMINI EFFERATI CHE LO STESSO, LI, COMMETTEVA, PER POI VENIR CONDANNATO AL CARCERE SU DENUNCIA DI CITIBANK: COSA DI CUI PRESTO SCRIVEREMO). IN CUI '" LA STAR" ERA PROPRIO DETTO PPP PUZZONE PERVERTITO PAZZO DI PAOLO BARRAI. RAFFIGURATO A FARE FILM PORNO CON RAGAZZINI DI 12-14-16 ANNI! O, SCIOCCANTISSIMAMENTE, MENTRE FACENTE SESSO ORALE E NON SOLO, CON CAVALLI ( FOTO CHE ERANO IN INTERNET E CHE, APPENA IL TUTTO INIZIO' A VENIRE A GALLA, LO STESSO FALLITO DEPRAVATO PAOLO BARRAI, PER POTER PIU' FACILMENTE "SPENNARE POLLI IN RETE" VIA SUE TRUFFE FINANZIARIO-NAZI-MEDIATICHE, FECE CANCELLARE))! QUI MI FERMO O LA MIA BILE O PANCREAS O FEGATO O STOMACO O CUORE O TUTTO QUESTO INSIEME, FAN CRACK, E MI MANDAN ALL' ALTRO MONDO SUBITO!
+
+TORNIAMO SU TERRENI PIU' "NORMALI", PLEASE, PER QUANTO LE COSE ESTREMAMENTE ORRIDE APPENA DESCRITTE, SONO SUPER STRA VERE!!!
+
+-FASCIONDRANGHETISTA, LADRO, TRUFFATORE, SPENNA POLLI DEL WEB, PERICOLOSISSIMO AZZERARISPARMI, MEGA LAVA SOLDI DI COSA NOSTRA, CAMORRA, NDRANGHETA, O SOLDI POLITI-C-RIMINALISSIMI, ESATTAMENTE FRUTTI DI MEGA MAZZETTE O RUBERIE DI LL LEGA LADRONA ED EX PDL, POPOLO DI LADRONI. PLURI PREGIUDICATO, DIVERSE VOLTE FINITO IN CARCERE: PAOLO BARRAI NATO A MILANO IL 28.06.1965
+
+https://it.linkedin.com/pub/dir/?first=PAOLO&last=BARRAI&search=Search
+
+(RICICLANTE CASH CHE COLA ANCHE SANGUE DI MORTI AMMAZZATI; NON SOLO PER PRIMA CITATE MALAVITE ORGANIZZATE O AL CAPONE MISTI AD ADOLF HITLER DELLA POLITICA, COME SILVIO BERLUSCONI E MATTEO SALVINI; MA ANCHE PER VIA DI SUOI CAMERATA KILLER QUALI MASSIMO CARMINATI E GENNARO MOKBEL; COME, AI TEMPI, TANTO QUANTO, PER ALTRI SUOI CAMERATA DELINQUENTISSIMI QUALI WALTER LAVITOLA, ALESSANDRO PROTO, FRANCO FIORITO E FRANCESCO BELSITO; O PER PICCIOTTINCRAVATTATI QUALI IL PERICOLOSISSIMO MEGARICICLA SOLDI MAFIOSI: GIOVANNI RAIMONDI DI DI PIA PARTECIPAZIONI 20121 MILANO FORO BUONAPARTE 12; GIA' DI MALAVITOSA BANCA SAI, MALAVITOSA GIOVANNI RAIMONDI SIM E MALAVITOSO GIOVANNI RAIMONDI AGENTE DI CAMBIO; DA SEMPRE, QUEST'ULTIMO, FACENTE OGNI TIPO DI DELITTO FINANZIARIO, CON O PER, SUOI PAPPONI MA-F-ASCISTI ENNIO DORIS, MASSIMO DORIS, SILVIO BERLUSCONI, PAOLO LIGRESTI ED IGNAZIO LA RUSSA). COLLETTO ARCI FETIDO PAOLO BARRAI DI CRIMINALISSIMO WMOGROUP, CRIMINALISSIMA BSI ITALIA SRL DI VIA SOCRATE 26 MILANO E PRECIPITANTE BLOG MERCATO 'MERDATO' LIBERO ( TALMENTE PRECIPITANTE CHE DALLA VERGOGNA ESTREMA DI MOSTRARE CHE GLI VI SONO RIMASTI, AL MASSIMO, 3 LETTORIDIOTI AL GIORNO, HA LEVATO DALLO STESSO IL CONTATORE: IAMM E STRA IAMM BEEE). PRIMA DI CONTINUARE A DESCRIVERE QUESTO UGO FANTOZZI ( OSSIA SEMPRE PERDENTISSIMO) MISTO A RENATO VALLANZASCA ( OSSIA SEMPRE CRIMINALISSIMO), DELLA FINANZA, CHE E' IL COLLETTO LERCIO PAOLO BARRAI, VORREI, PER INIZIARE, SOTTOLINEARE COME MAI E POI MAI SI SIAN VISTI DEI CAGNACCI BRUCIA AVERI ALTRUI COME L'AVANZO DI GALERA PAOLO BARRAI STESSO, UNITO AL NOTO LADRO, TRUFFATORE, SEMPRE SBAGLIANTE IN BORSA, FEDERICO IZZI CONOSCIUTO A TUTTI COME 'ER ZIO ROMOLO DELLA CAMORRA'. UNA PROVA? ALTRO CHE UNA, VE NE SONO MILIARDI DI PROVE! IAMM BELL, IA! INIZIAMO SOLO CON 2 'PROVETTE' SU MILIONI DI MILIONI ( PRESTO CENTINAIA DI MIGLIAIA DI BLOGS CHE LE MOSTRERANNO TUTTE, LE CANNATE DISTRUGGI RISPARMI DI MIGLIAIA DI PERSONE, DI PAOLO BARRAI DI ESTREMISSIMAMENTE MALAVITOSA WMO)! IL 5.9.14 DICEVAN DI VENDERE, CHE IL DOW JONES A GIORNI SAREBBE CROLLATO SOTTO 15.000 DA 17200 CIRCA OVE ERA
+
+http://ilpunto-borsainvestimenti.blogspot.nl/2014/10/dow-jones-atteso-in-area-15000.html
+
+"INFATTI".... AAAH, SIAMO SCHIZZATI IN SU FINO AI MASSIMI DI TUTTI I TEMPI! QUASI 18.000! SIAM SCHIZZATI IN SU E TANTISSIMO! MILIARDESIMA, "ENNESISSIMA" LORO CANNATA!
+
+DA SCHIATTARE DAL RIDERE! GUARDATE QUI, PLS, COSA, L'ESCREMENTO NAZISTA, LAVA SOLDI MAFIOSI, LADRO, TRUFFATORE FEDERICO IZZI (AGAIN AND AGAIN AND AGAIN: NOTO A TUTTI COME "ER ZIO ROMOLO DELLA CAMORRA" IN QUANTO CAMPA SOLO E SEMPRE DI RICICLAGGIO DI SOLDI ASSASSINI), RAGLIAVA IL 5.9.14:
+
+http://ilpunto-borsainvestimenti.blogspot.fr/2014/09/zio-romolo-i-mercati-hanno-esagerato-ma.html
+
+ESATTAMENTE DA QUELLA DATA, IL DOW JONES E' SCHIZZATO IN SU COME UN RAZZO
+
+https://es.finance.yahoo.com/echarts?s=%5EDJI
+
+GIUSTO... COSI'... PER MENZIONARNE UN ALTRA, UNA SU MILIONI DI MILIONI, LA PRIMA CHE MI VIENE IN MENTE... FACEVA VENDERE AZIONI AD INIZIO 1.2012 E TUTTO E' SALITO PER 3 MESI!
+
+http://mercatoliberotraderpergioco.blogspot.fr/2012/01/ci-attende-un-gennaio-di-ribassi.html
+
+FACEVA POI COMPRARE, OVVIAMENTE, AI MASSIMI, IN PIENA PRIMAVERA 2012, E SIAM CROLLATI DA 13270 A 12115!!! FRA L'ALTRO STO SCHIFOSO PEZZO DI ME.DA DI FEDERICO IZZI NOTO COME "ER ZIO ROMOLO DELLA CAMORRA", COME LO E' OGNI ESCREMENTO BERLUSCONICCHIO, E' UN TUTT'UNO CON MALAVITE DI TUTTO IL MERIDIONE DI FECCIA DITTATORIALE DI "RENZUSCONIA". E, TENTEVI DURO, DELLA BANDA DELLA MAGLIANA. OLTRE CHE CON PRIMA CITATI VERMI DEI GIRI DI MASSIMO CARMINATI E GENNARO MOKBEL! COME UN ESTRATTO DI RECENTE VINCENTISSIMO TESTO CHE GIRA PER LA RETE, STRA DIMOSTRA: "...BESTIA CHE MEGA TRUFFA VIA WEB E FA SEMPRE PERDERE TUTTI I RISPARMI DI TUTTI, PUZZONE CRIMINALE FEDERICO IZZI DI ROMA. NOTO COME ZIO ROMOLO! VICINISSIMO AD ENRICO NICOLETTI, NOTO MALAVITOSO BANCHIERE DELLA BANCA DELLA MAGLIANAhttp://www.agoravox.it/Arrestato-Enrico-Nicoletti-il.html , VICINISSIMO A TERRORISTI NAZISTI COME MASSIMO CARMINATI E GENNARO MOKBEL! VICINISSIMO AI CRUDELI ASSASSINI "CASALESI", VIA, NOTORIAMENTE, MEGA OMICIDA FAMIGLIA CAMORRISTA DEI BARDELLINO
+
+http://www.ilfattoquotidiano.it/2011/12/10/affari-politici-camorra-formia-avamposto-laziale-casalesi/176674/ PRESSO FORMIA E LATINA ...."
+
+....D'ALTRONDE....
+
+STO VERMINOSO AVANZO DI GALERA IN QUANTO PIU' VOLTE ARRESTATO, PAOLO BARRAI DI CRIMINALISSIMA WMO, CRIMINALISSIMA BSI ITALIA SRL DI VIA SOCRATE 26 MILANO E CRIMINALISSIMO BLOG MERCATO "MERDATO" LIBERO.... QUANDO SCROCCAVA GRATIS IL GENIO BORSISTICO ED EROE CIVILE MICHELE NISTA ( DI CUI PRESTO SCRIVERO' NON POCO), E SOLO E SEMPRE GRAZIE A MICHELE, CI GUADAGNAVA PARECCHI SOLDI, SCRIVEVA LA MERA VERITA', OSSIA CHE MICHELE NISTA ERA (ED ANCORA E') IL NUMERO UNO AL MONDO IN FIUTO BORSISTICO, COME PURE POLITICO ED INVESTIGATIVO! ORA, INVECE, SICCOME NON LO RIESCE A SCROCCARE PIU', LO VUOLE MORTO! MAI VISTO UN BASTARDO, FALSONE, TRUFFATORE, SFACCIATO, SCAFATO LADRO E I ASSICURO, PURE MANDANTE DI OMICIDI, COME PRESTO PROVEREMO, COME PAOLO BARRAI DI MALAVITOSISSIMA WMO!
+
+TORNIAMO A MICHELE, DI CUI ACCENNAVO. ECCO UNO SCRITTO CHE GIRA SU INTERNET, E CHE, ASSICURO, SCRIVE ASSOUTISSIME, E, TANTO QUANTO, PROVABILISSIME VERITA': "GENIO BORSISTICO ED EROE CIVILE MICHELE NISTA (mic··a@g··.com). AZZECCA IN AZIONI E MATERIE PRIME, SEMPRE. SU TUTTO. OGNI GIORNO. IN OGNI ANGOLO DEL PIANETA TERRA. SIA A LIVELLO DI AZIONARIO, CHE DI MATERIE PRIME. GENIO IN INVESTIMENTI MOBILIARI, MA PURE UN EROE. STA DISTRUGGENDO IL MAFASCISTASSASSINO, PEDOFILO SILVIO BERLUSCONI E SALVANDO, COSI', L'ITALIA, CHE GIUSTAMENTE, CHIAMA, AL MOMENTO, DITTATURA FASCIONDRANGHETISTA DI BERLUSCONIA!!!
+
+MAI VISTO UN ASSOLUTO GENIO COME MICHELE NISTA. AZZECCA IN AZIONI E MATERIE PRIME SEMPRE, SEMPRE, SEMPRE. E NON SOLO IN AZIONI A MATERIE PRIME, MA SU TUTTO. AZZECCA SU TUTTO, E ANCHE CON NOVE, DODICI MEDI DI ANTICIPO. LO DICE CARTA CHE CANTA, LO DICONO SUE EMAILS E POST. IL GRANDISSIMO GENIO E RE MIDA MICHELE NISTA, HA PRESO IL RIBASSO DEL DOW JONES DEL 2007 E 2008, IL RIALZO DEL MARZO 2009, IL MINIMO DEL DOW JONES A 9700, DEL LUGLIO 2010, IL RIALZO DI INIZIO AUTUNNO 2010, IL RIBASSO DEL MAGGIO 2011, E L'ESPLOSIVO RIALZO CHE CI HA PORTATO AI GIORNI NOSTRI. AZZECCA SU TUTTO E' SEMPRE, IL GENIO MICHELE NISTA. SU TUTTO E SEMPRE. MA COME FA??? MICHELE NISTA, UN GRANDISSIMO GENIO, IL PIU' GRANDE GENIO BORSISTICO, DA SECOLI IN QUA. LO DICONO TONNELLATE DI FATTI, LO DICE CARTA STAMPATA DA INTERNET, CHE CANTA COME UN USIGNOLO. MICHELE NISTA, SEI UN GRANDISSIMO GENIO"!
+
+Ciao a tutti. Mi chiamo Gianni, sono di Rimini, e vivo tra la mia citta' natale e Stoccolma, essendo mia moglie svedese. Devo dire che ho grande voglia di esprimere la mia gioia di conoscere l'assolutissimo genio Michele Nista (mic··a@g··.com), di cui son felicissimo e arricchitissimo cliente. Un genio senza se e senza ma. Genio e eroe, in quanto sta salvandoci anche dalla dittatura maf..ascista ed assassina di Silvio Berlusconi. Con una creativita', energia, coraggio, e specialmente, risultati vincentissimi, che non trovi da nessuna altra parte, e mai. Non sbaglia mai e stra mai, ovvero, azzecca sempre, facendo fare tantissimi soldi, a tutti, in previsioni su azioni e materie prime. Ma azzecca anche, qualsiasi previsione in politica, calcio. Qualunque altra cosa. Michele Nista e' una vera e propria success machine, tutti i giorni dell'anno. Michele Nista e' un grandissimo Re Mida, uno dei piu' grandi Re Mida di tutti i tempi, in azioni, materie prime e non solo. E questo da fine anni 80, non solo da ora. O da due, tre anni. E' molto boicottato, il genio Michele Nista, da un topo di fogna, gia' condannato al carcere in Italia, Brasile, e indagato in
+
+Inghilterra, che e' il pervertito sessuale, nazista, minacciante morte, e quindi, assassino: Paolo Barrai di Mercato Libero.
+
+Non mi credete su che verme sia l'assassino fallito Paolo Barrai che attacca sempre, il genio in azioni e materie prime, nonche', eroe civile, Michele Nista? Allora date un'occhiata a cosa scrive chi da lui, si e' visto, di fatto, derubare milioni di euro, tutti risparmi che aveva:
+
+Gruppo di risparmiatori truffati da bastardissimo criminale, pluri pregiudicato, avanzo di galera Paolo Barrai ( Blog Mercato "Merdato" Libero). Da incapace, delinquente, ladro, mega lava EURO mafiosi o "politicriminali", padanazista, berlusconazista, razzista, antisemita, super cocainomane, acclarato pedofilo, frequente mandante di omicidi Paolo Barrai ( Mercato Libero noto a tutto il mondo come Mer-d-ato Libero). Si, assolutamente, pure assassino Paolo Barrai ( "suicidatore" di David Rossi di Mps ma non solo). Schifoso lava cash mafioso e killer Paolo Barrai nato a Milano il 28.6.1965. E, prima di ora scappare come un vile ratto, a Lugano, in Svizzera (avendo paura di venire arrestato, in quanto indagato da Procure di Mezza Italia) e fra poco ancora piÃƒÂ¹ lontano: a Panama ( ove lo proteggerebbe il criminalissimo nazifascista corrottissimo ambasciatore lava EURO e $ mafiosi Giancarlo Maria Curcio
+
+http://www.ambpanama.esteri.it/Ambasciata_Panama/Menu/Ambasciata/Ambasciatore/
+
+non per niente, vicino al noto camorrist-avanzo di galera Valter Lavitola
+
+http://www.ilfattoquotidiano.it/2012/05/01/ecco-legami-valter-lavitola-lambasciatore-curcio-panama/214621/
+
+http://www.bergamonews.it/politica/lavitola-e-berlusconi-intercettazoni-e-ricatti-hard-di-panama-183608)
+
+.
+
+Verme repellente Paolo Barrai di Mercato Libero: facente sue terrificanti delinquenze in cravatta da casa ( comprata attraverso centinaia di estorsioni di quando trafficava in Citibank e tantissimi altri crimini) di Via Ippodromo 105 Milano. O DAGLI UFFICI DI MALAVITOSA, MEGA LAVA SOLDI DI COSA NOSTRA, LADRONA, BASTARDAMENTE CRIMINALE BSI ITALIA SRL DI VIA SOCRATE 26 MILANO. IN MANO A SUO PADRE, NOTO PADANAZIS-T-RUFFATORE E PURE NOTO PEDERASTA VINCENZO BARRAI. ABITANTE IN VIA PADOVA 282 A MILANO E NATO A MILANO IL 3.5.1938
+
+Ciao, sono Antonella di Milano, e faccio parte di un foltissimo gruppo di clienti derubati di tutto, dall'assolutamente criminale Paolo Barrai (Mercato Libero, ormai noto nel mondo intero come Mer-d-ato Libero). Costui ÃƒÂ¨ davvero un bastardo assassino sicario. A tutti noi, uniti ora in una associazione " Risparmiatori truffati da spietato criminale Paolo Barrai di Mercato Libero (e siamo gia' in centoventi, dico centiventi: di tutta Italia, Brasile, Germania e Svizzera)" ci fece andare corti ( al ribasso) sul mercato azionario italiano a inizio 2009 (col Dow Jones ai minimi degli ultimi decenni: 6900; cosa che avrebbe potuto fare solo l'Ugo Fantozzi misto a Renato Vallanzasca della Finanza: Paolo Barrai). Abbiam perso quasi tutti tra il 70 e il 100 per cento dei nostri investimenti. E quando gli telefonavamo per chiedere semplicemente che fare, mentre il mercato saliva rapidissimamente, dal Marzo 2009 in avanti, egli, se non meglio dire, "esso", come un vile ratto, scappava. Si faceva sempre negare al telefono. Mandavamo e mails, nessuna risposta. Citofanavamo agli uffici di ultra truffatrice, ultra malavitosa, ultra ladrona Bsi Italia Srl di Via Socrate 26 a Milano di suo padre, notoriamente pure pedofilo, oltre che mega ricicla soldi criminal-istituzionali o mafiosi, Vincenzo Barrai di Via Padova 282 a Milano, ci vedeva dalla telecamera e nemmeno ci rispondeva. Nemmeno ci apriva il cancello di entrata. Io non sto offendendo, sto solo dicendo la mera veritÃƒ . E fra poco la faremo sapere a fior fior di Tribunali di mezza Italia, anzi, mezzo Pianeta Terrra!!! Che i delinquenti ti debbano fare fessa, e pure non permettano replica, no eeeee. Il neofascismo e la mafia del delinquente, del ladro, del truffatore, del professionalmente incapacissimo, del davvero bastardo dentro e fuori Paolo Barrai di Mercato Libero alias Mer-d-ato Libero, a noi non fa nessuna paura.
+
+Una truffata, derubata di tutto, dal verme assassino Paolo Barrai (giÃƒ riciclante soldi di Mafia, Camorra, Ndrangheta, come di mastodontici ladrocinii o mega corruzione di Umberto Bossi e Silvio Berlusconi). Fra lÃ‚Â´altro, socio, non compare di malavita, ma socio di:
+
+arrestato Alessandro Proto
+
+http://www.ilfattoquotidiano.it/2013/02/14/manipolazione-del-mercato-arrestato-a-milano-finanziere-alessandro-proto/500117/
+
+http://www.ilsole24ore.com/art/notizie/2013-02-14/arrestato-finanziere-alessandro-proto-185225.shtml?uuid=AbLGMWUH
+
+http://www.corriere.it/economia/13_febbraio_14/proto-arrestato-manipolazione-mercato_a6b59386-76cf-11e2-bad5-bab3677cbfcd.shtml
+
+http://www.repubblica.it/economia/finanza/2013/02/14/news/arrestato_anche_il_finanziere-immobiliarista_alessandro_proto-52651324/
+
+http://www.unita.it/italia/arrestato-il-finanziere-br-alessandro-proto-1.483688
+
+arrestato Francesco Belsito
+
+http://www.ilsole24ore.com/art/notizie/2013-04-24/arrestato-belsito-tesoriere-lega-093844.shtml?uuid=Ab3Bm4pH
+
+http://www.ilfattoquotidiano.it/2013/04/24/lega-arrestato-lex-tesoriere-belsito-per-associazione-a-delinquere-e-truffa-aggravata/573689/
+
+http://milano.corriere.it/milano/notizie/cronaca/13_aprile_24/francesco-belsito-ex-tesoriere-lega-arrestato-212819720314.shtml
+
+detto questo detto tutto.. immaginerei!!
+
+Mi ha bruciato 700.000 euro. Tutto quello che avevo. Ma a tanti altri ha bruciato 1, 2, 3, 5, 7, 10 milioni di euro. Facendo comprare il gas naturale a 5$ e passa, che in poche settimane crollava a 1,9$. Facendo vendere il Dow Jones a 6900, ossia ai minimi di tanti ultimi anni. Dow Jones che ora quasi vale il doppio. E senza che lui prendesse telefonate, rispondesse ad emails. Senza dare indicazione alcuna a noi clienti terrorizzati! Come uno struzzo che dalla paura e coscienza di essere incapacissimo a livello di fiuto per investimenti, mette la testa sotto la sabbia.
+
+3
+
+Il verme brucia risparmi di una vita Paolo Barrai oltre ad essere il peggiore consulente per investimenti borsistici o di qualsiasi altro tipo, ove inesorabilmente sbaglia sempre (ha fatto comprare case in Brasile, a Porto Seguro ... ove lo attendono 8 ANNI DI GALERA SE VI CI TORNA, E NE SCRIVERÃƒâ€œ PRESTISSIMO.. dicevo... ha fatto comprare case in Brasile, a Porto Seguro, col real a 2,1 contro l'euro.. e ora son state tutte sequestrate dall'anti mafia Brasiliana, per mega riciclaggio per conto di Cosa Nostra, Camorra e Ndrangheta.. e comunque, il real brasiliano ÃƒÂ¨ passato dai massimi di 2,1 contro l'euro, livello di quando il cagnaccio idiota, brucia risparmi di una vita, Paolo Barrai, ha fatto comprare, financo a 3,2 contro euro.. creando perdite economiche immense, in ogni caso, a chi come " un ciuccio ei napule" le avesse con lui acquistate). Ove mai, mai e ri mai ne azzecca mezza! Ãƒâ€° anche un irresponsabile, arrogante, nazista, razzista, lava soldi mafiosi, codardo, ladro, truffatore, criminale, falsissimo, pedofilo, si, PEDOFILO PAOLO BARRAI (SE NO CHE BERLUSCONES SAREBBE, SCUSATE???)!!! ANCHE QUI LO PROVERÃƒâ€™ E PRESTISSIMO)!!!!!!
+
+E mi dicono che ha pregresse, pure varie condanne al carcere. A Milano (come da questi seguenti articoli: il criminalissimo "funzionario nei guai" di Citibank, a seguito dell'arresto del suo "Kameraden Berlusconazisten und Padanazisten" Pietro Terenzio, come da fine scritto che qui segue, ÃƒÂ¨ assolutissimamente lui:
+
+http://archiviostorico.corriere.it/2001/febbraio/02/Arrestato_imprenditore_delle_truffe_fiscali_co_7_0102023408.shtml
+
+http://ricerca.repubblica.it/repubblica/archivio/repubblica/2001/02/19/maxi-evasione-da-400-miliardi-terenzio-sotto-torchio.html).
+
+A Biella: http://www.finanzaonline.com/forum/messaggi-archiviati-fol/637689-piccole-sim-con-l-acqua-alla-gola-bregliano-e-nuovi-investimenti.html
+
+Ed in Brasile, ove ha passato giornate e giornate in prigione nel Marzo 2011 e ove lo attendono ora, se vi ci torna: OTTO ANNI DI CARCERE! SENTENZIATISSIMO!!! Come qui super provato, pure. E da siti di tutto il Globo terrestre!!!
+
+http://4.bp.blogspot.com/-aqbT4KlYsmw/TcLbvUUpkeI/AAAAAAAAAe4/TiDPLR0LH_U/s1600/barrai+ind-pag01.jpg
+
+http://www.portonewsnet.com.br/?mw=noticias&w=2996
+
+http://www.portonewsnet.com.br/?mw=noticias&w=3000
+
+http://www.portonewsnet.com.br/?mw=noticias&w=3004
+
+http://portoseguroagora.blogspot.co.uk/2011/03/porto-seguro-o-blogueiro-italiano-sera.html
+
+http://noticiasdeportoseguro.blogspot.co.uk/2011/03/quem-e-pietro-paolo-barrai.html
+
+http://www.rotadosertao.com/noticia/10516-porto-seguro-policia-investiga-blogueiro-italiano-suspeito-de-estelionato
+
+http://www.jornalgrandebahia.com.br/2011/03/policia-civil-de-porto-seguro-investiga-blogueiro-italiano-suspeito-de-estelionato.html
+
+http://www.osollo.com.br/online/index.php/crimes/3052-blogueiro-italiano-sera-indiciado-por-estelionato-calunia-e-difamacao-pela-policia-civil-de-porto-seguro
+
+http://www.osollo.com.br/online/index.php/crimes/3079-blogueiro-barrai-quer-constituir-sindicato-so-para-estrangeiros-em-porto-seguro
+
+http://www.francodarochanews.jex.com.br/acontece+agora/policia+-+noticias+policia+civil+investiga+blogueiro+suspeito+de+estelionato+blogueiro+paolo+barrai+a+internet+esta+virando+cada+vez+mais+palco+para+crimes+e+investigacoes+que+ultrapassam+fronteiras+e+nacoes+a+policia+civil+de+porto+seguro+esta+invest
+
+http://www.umbuzada.com/v2/imprimir_noticia.php?id=1869
+
+http://www.geraldojose.com.br/index.php?sessao=noticia&cod_noticia=13950
+
+https://groups.google.com/forum/#!topic/comp.soft-sys.matlab/j3oyd-SmJ88
+
+http://inquisitore.org/2013/08/26/paolo-barrai-se-lo-conosci-lo-eviti/
+
+http://www.consob.it/main/documenti/hide/afflittivi/pec/mercati/2013/d18579.htm
+
+Aaa, ad averlo saputo prima e non essermi fidata di sta bastarda, criminalisssima Lega Nord = LL = Lega Ladrona, di cui ero parte, e che mi ha messo in contatto col loro affiliato mafioso, brucia risparmi di una vita e super truffatore Paolo Barrai. Ora mi son sfogata qui. Presto lo ri farÃƒÂ³ in fronte a Guardia di Finanza, Polizia, Carabinieri, Magistrati, Giudici! E con me, almeno altre 120 persone! Oooo!! Non cascateci, ne scrivo proprio per questo!!! Via subito e per sempre dal criminale, delinquente, ladro, truffatore, professionalmente bestia: Paolo Barrai di Mercato Libero!!!!! E BASTA ANCHE CON STO EX PDL = POPOLO DI LADRONI!! E LL= LEGA LADRONA!!! CAPACI SOLO DI ACCUMULARE MAZZETTE DI FINMECCANICA, ENEL, ENI, ENAV, TECHNOSKY, MAFIA, CAMORRA, NDRANGHETA, DITTATORI SU DITTATORI QUALI GHEDDAFI E NON SOLO (COME DITTARORI SONO I VERMI BASTARDI ED ANCHE ASSASSINI, VI ASSICURO: UMBERTO BOSSI E SILVIO BERLUSCONI)! E PER CENTINAIA DI MILIONI DI EURO! CAPACI SOLO DI FREGARE TONNELLATE DI SOLDI VIA QUOTE LATTE E RIMBORSI ELETTORALI! E POI METTERE TUTTO ALL'ESTERO PRESSO CRIMINALISSIMA FINTER BANK LUGANO DI DELINQUENTI IN CRAVATTA FILIPPO CRIPPA E GIOVANNI DEI CAS (MA DI CERTO NON SOLO)!! O PRESSO SUPER LAVA SOLDI CRIMINALISSIMI, FINECO DI ALESSANDRO FOTI. DEL BANCHIERE PREFERITO DA NDRANGHETA, CAMORRA E COSA NOSTRA: ALESSANDRO FOTI DI FINECO! E IL TUTTO PROPRIO ATTRAVERSO QUESTO COLLETTO VERMINOSO, DA RINCHIUDERE IN GALERA E SUBITO, DI PAOLO BARRAI (CHE OLTRE A RICICLARE SOLDI CRIMINALISSIMI PRIMA CITATI, LO FA ANCHE PER I SUPER LADRONI LIGRESTI DI SAI FONDIARIA..... OVE NON PER NIENTE LAVORAVA IL BANCHIERE CIELLINO PREFERITO DA TUTTE LE MALAVITE: GIOVANNI RAIMONDI... ORA DI NETSYSTEM, EX DI MALAVITOSISSIME BANCA SAI, GIOVANNI RAIMONDI SIM E GIOVANNI RAIMONDI AGENTE DI CAMBIO)! Antonella di Milano.
+
+PS 1
+
+NON POCCO NON AGGIUNGERE, PER "QUASI" TERMINARE, CHE L'AVANZO DI GALERA, PURE ASSASSINO PAOLO BARRAI ( HA FATTO SUICIDARE DAVID ROSSI DI MONTE PASCHI PER UNA GUERRA DI SEO IN CORSO FRA DAVID ROSSI STESSO, E..
+
+CRIMINALISSIMO LAVA EURO MAFIOSI E PURE MANDANTE DI OMICIDI MASSIMO DORIS DI BANCA MEDIOLANUM
+
+CRIMINALISSIMO LAVA EURO MAFIOSI E PURE MANDANTE DI OMICIDI ENNIO DORIS DI BANCA MEDIOLANUM
+
+CRIMINALISSIMO LAVA EURO MAFIOSI E PURE MANDANTE DI OMICIDI EDOARDO LOMBARDI DI BANCA ESPERIA E BANCA MEDIOLANUM
+
+CRIMINALISSIMO LAVA EURO MAFIOSI E PURE MANDANTE DI OMICIDI GIOVANNI PIROVANI DI BANCA MEDIOLANUM
+
+CRIMINALISSIMO LAVA EURO MAFIOSI E PURE MANDANTE DI OMICIDI OSCAR DI MONTIGNY DI BANCA MEDIOLANUM
+
+... GUERRA CHE DAVID ROSSI DI MONTE PASCHI STAVA VINCENDO, DA QUI IL TAGLIARGLI LE VENE E FARLO VOLARE DALLA FINESTRA.. ALTRO CHE SUICIDIO) HA APPENA BECCATO "ALTRI" 70.000 EURO DI MULTA! DALLA CONSOB! PER I SUOI SOLITI BASTARDISSIMI CRIMINI IN CRAVATTA!
+
+http://www.consob.it/main/documenti/hide/afflittivi/pec/mercati/2013/d18579.htm
+
+http://www.advisoronline.it/albo/consob/22190-consob-sanziona-a-raffica.action
+
+http://www.bluetg.it/banche-e-reti/179-promotori/28601-qmultaq-da-70mila-euro-per-un-ex-promotore-che-ha-violato-gli-obblighi-informativi.html
+
+http://www.finanzaonline.com/forum/trading-line/1454952-barrai-spiega-come-non-pagare-la-tobin-2.html
+
+http://www.maidireborsa.it/showthread.php?27302-Paolo-Barrai-di-Mercato-Libero-sanzionato-dalla-Consob
+
+http://inquisitore.org/2013/09/23/paolo-barrai-condannato-dalla-consob/
+
+https://www.google.it/#q=paolo+barrai+consob
+
+https://www.google.it/#q=PAOLO+BARRAI+ARRESTATO
+
+https://www.google.it/#q=PAOLO+BARRAI+CONDAnnato
+
+https://www.google.it/#q=PAOLO+BARRAI+ASSASSINO
+
+https://www.google.it/#q=PAOLO+BARRAI+MAFIA
+
+https://www.google.it/#q=PAOLO+BARRAI+CAMORRA
+
+https://www.google.it/#q=PAOLO+BARRAI+NDRANGHETA
+
+https://www.google.it/#q=PAOLO+BARRAI+DAVID+ROSSI
+
+https://www.google.it/#q=PAOLO+BARRAI+BRASILE
+
+https://www.google.it/#q=ALESSANDRO+PROTO+E+PAOLO+BARRAI
+
+https://www.google.it/#q=PAOLO+BARRAI+CACCIATO+DA+CITIBANK
+
+PS 2 AGGIUNGEREI A MO' CI CONTROPROVA DEL SOPRA RIPORTATO UN TESTO BELLISSIMO CHE HO TROVATO IN RETE. CIAO E GRAZIE PER EVENTUALE COMPRENSIONE E PAZIENZA PER I TANTI LINKS SOPRA DESCRITTI, FATTI SALTARE DA STI ASSASSINI BERLUSCONAZISTI E PADANAZISTI, PER OVVIE RAGIONI DI LORO IMMENSO IMBARAZZO!!!
+
+NAZIRAZZISTA, LADRONE, TRUFFATORE, SEMPRE FALSISSIMO, BRUCIANTE "TUTTI I RISPARMI DI TUTTI, TUTTE" LE VOLTE, CONDANNATO AL CARCERE "SOLO" 3 VOLTE, MEGA RICICLA CASH MAFIOSO O POLITI-C-RIMINALE, IN QUANTO IMMENSAMENTE RUBATO E/O FRUTTO DI MEGA MAZZETTE IN DIREZIONE LL LEGA LADRONA ED EX PDL POPOLO DI LADRONI! BERLUSCONAZISTA, PADANAZISTA, PLURIPREGIUDICATO, MANDANTE DI OMICIDI E "SUICIDATE", QUINDI BASTARDO ASSASSINO PAOLO BARRAI (BLOG MERCATO "MERDATO' LIBERO) VUOLE LA MORTE DI GENIO BORSISTICO ED EROE CIVILE MICHELE NISTA (MIC··A@G··.COM) SU ORDINE DI FASCIOCAMORRISTI PEDOFILI, DA 40 ANNI IMMENSI LAVA SOLDI MALAVITOSI, VERMINOSI DITTATORI CHE MISCHIANO DI CONTINUO AL CAPONE AD AUGUSTO PINOCHET, E, TANTO QUANTO, FREQUENTISSIMI MANDANTI DI OMICIDI ("CON BERSANIANA MASCHERINA" DI FINTISSIMI SUICIDI, MALORI ED INCIDENTI) OLTRE CHE "SOLAMENTE" STRAGI: SILVIO BERLUSCONI, ENNIO DORIS, MASSIMO CRIPPA, FEDELE CONFALONIERI, LICIO GELLI!!
+
+1) OCHO, PLEASE, A QUESTA GANG KILLER, FASCISTISSIMA, ANTISEMITA, ANTIEUROPEA, ANTIAMERICANA, MEGA LAVA SOLDI MAFIOSI O POLITICRIMINALI A GO GO ( COME DETTO, PADANAZISTA E BERLUSCONAZISTA). DA TENERE MOLTO, MOLTO, MOLTISSIMO ALL'OCCHIO!
+
+QUESTA!!!
+
+FREQUENTISSIMI MANDANTI DI OMICIDI, NAZINDRANGHETISTI, MEGA LAVA SOLDI LERCISSIMI A GOGO :
+
+A) PERICOLOSISSIMO AVANZO DI GALERA PAOLO BARRAI DI MOVIMENTI TIPO " KU KLUK KLAN PADANO" E SIA "FIAMMA TRICOLORE CHE FORZA NUOVA CHE CASA POUND":
+
+COLLETTO CRIMINALISSIMO PAOLO BARRAI: GIA' CACCIATO A SBERLE DA CITIBANK PER CRIMINI EFFERATI CHE LI EFFETTUAVA (come da questo seguente articolo: il criminalissimo "funzionario nei guai" di Citibank di fine scritto ÃƒÂ¨ l'assolutamente scafatissimo delinquente Paolo Barrai:
+
+http://archiviostorico.corriere.it/2001/febbraio/02/Arrestato_imprenditore_delle_truffe_fiscali_co_7_0102023408.shtml), CON MULTE DI QUASI 100.000 EURO DA PARTE DI CONSOBhttp://www.consob.it/main/documenti/hide/afflittivi/pec/mercati/2013/d18579.htm, GIA' CON GUAI LEGALI SERISSIMI A BIELLA, CONDANNATO AL CARCERE A MILANO E, TETNETEVI FORTE, PLS, FINANCO A PORTO SEGURO IN BRASILE
+
+http://www.portonewsnet.com.br/?mw=noticias&w=2996
+
+http://portoseguroagora.blogspot.co.uk/2011/03/porto-seguro-o-blogueiro-italiano-sera.html
+
+http://noticiasdeportoseguro.blogspot.co.uk/2011/03/quem-e-pietro-paolo-barrai.html
+
+http://www.rotadosertao.com/noticia/10516-porto-seguro-policia-investiga-blogueiro-italiano-suspeito-de-estelionato
+
+http://www.jornalgrandebahia.com.br/2011/03/policia-civil-de-porto-seguro-investiga-blogueiro-italiano-suspeito-de-estelionato.html
+
+http://www.osollo.com.br/online/index.php/crimes/3052-blogueiro-italiano-sera-indiciado-por-estelionato-calunia-e-difamacao-pela-policia-civil-de-porto-seguro
+
+http://www.osollo.com.br/online/index.php/crimes/3079-blogueiro-barrai-quer-constituir-sindicato-so-para-estrangeiros-em-porto-seguro
+
+http://www.francodarochanews.jex.com.br/acontece+agora/policia+-+noticias+policia+civil+investiga+blogueiro+suspeito+de+estelionato+blogueiro+paolo+barrai+a+internet+esta+virando+cada+vez+mais+palco+para+crimes+e+investigacoes+que+ultrapassam+fronteiras+e+nacoes+a+policia+civil+de+porto+seguro+esta+invest
+
+http://www.umbuzada.com/v2/imprimir_noticia.php?id=1869
+
+http://www.geraldojose.com.br/index.php?sessao=noticia&cod_noticia=13950
+
+PUZZONE AVANZO DI GALERA PAOLO BARRAI DEL BLOG MERCATO "MERDATO' LIBERO. IL SUO AVER FONDATO IL VERMINOSO, TERRORISTICO, SANGUINARIO "KU KLUK KLAN PADANO"... IL SUO ASSASSINO NAZIRAZZISMO LO PORTA A DEFINIRE OBAMA BARACK ( PER NOI, IN QUANTO A RISULTATI, OSSIA UNICA COSA CHE CONTA, AFFATTO MALE PRESIDENTE US), UN BASTARDO NERO
+
+http://ilpunto-borsainvestimenti.blogspot.nl/2013/01/ecco-limpatto-fiscale-che-ha-fatto.html
+
+O CHECCA ISTERICA
+
+http://ilpunto-borsainvestimenti.blogspot.nl/2014/03/mercato-libero-e-per-la-grande-madre.html
+
+INNEGGIANDO INTANTO AL NAZIFASCISTA COME LUI ( E COME "SUOI" NAZIMAFIOSI E POR-CO-RROTTI MANDANTI QUALI MATTEO SALVINI, UMBERTO BOSSI, GIULIANO FERRARA, MAURIZIO BELPIETRO, ENNIO DORIS, MASSIMO DORIS, MARINA BERLUSCONI E SPECIALMENTE, PROPRIO KAPO' PEDOFILO NUMERO UNO, PROPRIO KA-P-EDOFILO MAXIMO: SILVIO BERLUSCONI) A VLADIMIR PUTIN, CHE NON HA ESITATO UN SECONDO A FAR SFRACELLARE 300 PERSONE CHE NON GLI AVEVAN FATTO MAI NULLA DI MALE, CHE VOLAVANO A 10.000 METRI DI ALTEZZA, IN GRAN PARTE SCIENZIATI CHE SALVAVANO MIGLIAIA DI PERSONE DALL'AIDS
+
+http://ilpunto-borsainvestimenti.blogspot.nl/2014/03/mercato-libero-e-per-la-grande-madre.html . L'ASSASSINO NAZIRAZZISTA PAOLO BARRAI TRAFFICA CRIMINALISSIMAMENTE CON SERVIZI SEGRETI RUSSI, UNGHERESI, SIRIANI, VICINI ALL'ISIS, DI QUALSIASI TOPAIA DI ESTREMISSIMA DESTRA. E SVIZZERI ( E' PAGATO PER SPINGERE TUTO IL NORD DEL VERMINAIO INCIUCIARO DI "RENZUSCONIA" VERSO BERNA, DA QUI IL SUO SPINGERE IN QUESTA DIREZIONE, OGNI GIORNO, VIA PRECIPITANTE BLOG "MERDATO" LIBERO). PREPARANDO CON LORO OMICIDI "DI SCOMODI", RICICLAGGI DI CASH MALAVITOSISSIMO, LADRATE, TRUFFE, FRODI ( PUR, OVVIAMENTE, CERCANDO VIGLIACCHISSIMAMENTE DI DEPISTARE IL TUTTO, VIA, SUO PRECIPITANTE, LETTO ORMAI DA NESSUNO, BLOG MERCATO "MERDATO"LIBERO... PASSATO DA 10.000 LETTORI AL GIORNO QUANDO VI SCRIVEVA NEL 2007, 2008 E INIZIO 2009, GENIO BORSISTICO ED EROE CIVILE MICHELE NISTA, AI PRESENTI 90 LETTORI AL GIORNO, CHE SONO POI 20 AL MASSIMO, AL NETTO DI SOFTWARE TAROCCONI CHE L'AVANZO DI GALERA PAOLO BARRAI USA DA SEMPRE PER MOLTIPLICARE IL NUMERO DEI TRE PADANAZISTI E BERLUSCONAZISTI CHE ANCORA LO LEGGONO). LAST BUT CERTAINLY NOT LEAST: MANDANTE DELL'OMICIDIO E AFFATTO SUICIDIO DI DAVID ROSSI DI MONTE PASCHI, PER UNA GUERRA DI SEO, SEARCH ENGINE OPTIMIZATION, CHE DAVID ROSSI AVEVA INGAGGIATO CON IL SICARIO BERLUSCONAZISTA E PADANAZISTA PAOLO BARRAI E I SUOI MANDANTI, ALIAS GLI ASSASSINI IN CRAVATTA DOLCE E GABBANA: MASSIMO DORIS MEDIOLANUM, ENNIO DORIS MEDIOLANUM, EDOARDO LOMBARDI MEDIOLANUM, OSCAR DI MONTIGNY MEDIOLANUM, GIOVANNI PIROVANO MEDIOLANUL, ETTORE PARLATO SPADAFORA MEDIOLANUM ( SANGUINARISSIME, ULTRA OMICIDA OVRA E GESTAPO PRIVATE DI SILVIO BERLUSCONI ED ENNIO DORIS PRIMA TAGLIARONO LE VENE A DAVID ROSSI DI MONTE PASCHI E POI LO FECERO VOLARE DALLA FINESTRA PER ASSICURARSI DI CERTA MORTE, LE FAMOSE EMAILS CHE DAVID ROSSI "AVREBBE" MANDATO A VERTICI DI MONTE PASCHI PER ANNUNCIARE SUO SUICIDIO ERAN TUTTE TUTTE E STRA TUTTE FALSE, IN QUANTO SCRITTE E FATTE PARTIRE DA HACKERS DEL 'BERLUSCONAZISTA E PADANAZISTA' TANTO QUANTO, HACKING TEAM, "NON PER NIENTE" FINANZIATO DAI DUE VERMI MEGA KAPO' DI PAOLO BARRAI E I DORIS: ROBERTO MARONI E SILVIO BERLUSCONI... COME VEDETE TUTTO STRA QUADRA)
+
+- TERRORISTA ASSASSINO DI ESTREMISSIMA DESTRA: MAURIZIO BARBERO DI TECHNOSKY MONTESETTEPANI E MERCATO "MERDATO LIBERO NEWS
+
+http://it.linkedin.com/pub/maurizio-barbero/8/197/a52 ( ORGANIZZANTE OMICIDI DI CHIUNQUE "SCOMODO" CON SUO KAMERADEN, ACCLARATO KILLER DI SILVIO FANELLA, NAZISTA GENOVESE GIOVANNI BATTISTA FENICI CHE AL VERME OMICIDA MAURIZIO BARBERO DI TECHNOSKY MONTESETTEPANI ERA UNITO ANCHE DA UNA STORIA OMOSESSUALE, OLTRE CHE DA COMPLOTTI TERRORISTICI ASSASSINI NERI... "E SPECIALMENTE IN NERO")
+
+- LA NOTA PROSTITUTA E PORNOSTAR AMATORIALE FACENTE TANTE ORGE AD (H)AR(D)CORE, ELISA COGNO DELLA RICICLANTISSIMA DENARI DI COSA NOSTRA, CAMORRA E NDRANGHETA: FRUIMEX DI ALBA. COME PURE DI MERCATO "MERDATO" LIBERO NEWS ( ZOCCOLA CON SWASTIKA NEL CUORE NERO, CHE HA; MIGNOTTONA DI CORTE, PARTECIPANTE A CENTINAIA DI ORGE AD H-AR-D-CORE E NON SOLO CON SUOI PAESANI NAZI-CUUNENSI: DANIELA SANTANCHE' E FLAVIO BRIATORE)
+
+http://www.linkedin.com/pub/elisa-alba-elisa-fruimex/1b/25b/212 http://www.impresaitalia.info/MSTDB80753147/fruimex-di-cogno-elisa-e-c-sas/alba.aspx
+
+D- LA SCHIFOSA BISCIA DI ESTREMISSIMA DESTRA, MEGA RICICLANTE CASH MAFIOSO VIA PANAMA E BTCOINS, DELINQUENTE VERMINOSO GIACOMO ZUCCO DEI NAZIRAZZISTI TEA PARTIES DI BERLUSCONIA, ANZI, PUZZOLENTE RENZUSCONIAhttps://twitter.com/giacomozucco
+
+- ALTRI VERMI VARI, ASSOLUTI TERRORISTI DI ESTREMA DESTRA, PARTE DI STA PADANAZISTA E BERLUSCONAZISTA GANG, SONO IL FONDATORE DEL, DA ASSOLUTI BRIVIDI, "ORGOGLIO PEDOFILO PADANO": STEFANO BASSI DEL BLOG IL GRANDE BLUFFhttps://twitter.com/grandebluff ED UN CRIMINALISSIMO FACCENDIERE ROMANO, ASSOLUTA LAVATRICE DI PROVENTI MEGASSASSINI DI BANDA DELLA MAGLIANA, NDRANGHETA E CAMORRA: FEDERICO IZZI NOTO COME "ER ZIO ROMOLO DEI CASALESI"
+
+https://it-it.facebook.com/pages/Zio-Romolo/71267552792
+
+COSTORO SONO DEI COLERA KILLER CHE ODIANO GLI EBREI, CHI DI CENTROSINISTRA, CHIUNQUE NON SIA NAZISKIN IN CRAVATTA COME LORO. ED IN MANIERA VISCERALISSIMA. FAN PARTE DI MASSONERIE DI ESTREMISSIMA DESTRA, CON A CAPO, ANZI, A KAPO', COME AL SOLITO, LICIO GELLI (NOTO VERME DEPISTATORE; QUINDI, ANCHE LORO, OGNI TANTO, SUL WEB, OVVIAMENTE, DEPISTANO, E SI FINGONO, RIPETO, FINGONO, NON NEMICI DEGLI EBREI, O DEGLI USA O DELL'EUROPA; MA SONO ANTISEMITISSIMI, ANTI USA, ANTI EUROPA, FILO HITLERIANI ALL'ESTREMO E PRESTO LO DIMOSTREREMO). IL TUTTO INSIEME AI BANCHIERI PIU' AMATI DALLE MALAVITE MONDIALI E NON SOLO DEL CESSO TIRANNICO DI RENZUSCONIA:
+
+http://www.gruppoesperia.it/en/About-Us/giuseppe-sabato.htmlGIUSEPPE SABATO ED EDOARDO LOMBARDI DI BANCA ESPERIA (IL BANCHIERE PIU' "VENERATO" DA OGNI CAMORRISTA DEL MONDO: GIUSEPPE SABATO DI BANCA ESPERIA; BASTARDISSIMO NUOVO JOSEF MENGELE DEL CREDITO, CHE CON LICIO GELLI, NEL 1999, AVEVA FONDATO, NON PER NIENTE, IL VERMINAIO PUZZOLENTISSIMO DELLA GRAN LOGGIA MASSONICA ITALIANA:
+
+http://vivereacomo.info/2006/12/22/p2ecunia-non-olet/ ). UNITI AI MICHELE SINDONA DEI GIORNI NOSTRI: ENNIO DORIS E MASSIMO DORIS DI BANCA MEDIOLANUM (BANCA ESPERIA E BANCA MEDIOLANUM SONO DI FATTO LA STESSA FOGNA: SONO IL DETERSIVO FINANZIARIO NUMERO UNO DI COSA NOSTRA
+
+http://espresso.repubblica.it/palazzo/2008/05/15/news/vado-riciclo-e-torno-1.8408 CAMORRA, NDRANGHETA, SACRA CORONA UNITA, MA ANCHE DI NARCOS COLOMBIANI, NARCOS MESSICANI, MAFIA RUSSA, MAFIA ALBANESE, MAFIA RUMENA)! DICEVO, ANYWAY: I KAMERADEN MASSO-N-AZIFASCISTI, CUGINETTI DI VERMI STRAGISTI COME ANDERS BEHRING BREIVIK, GAETANO SAYA, RICCARDO SINDOCA, MARCO MANCINI, GENNARO MOKBEL, GIULIANO TACAROLI, EMANUELE CIPRIANI, MARCO MANCINI, VALTER LAVITOLA ( L'ESCREMENTO ASSASSINO E NAZIMAFIOSO PAOLO BARRAI E' NE PIU' NE MENO CHE IL NUOVO VALTER LAVITOLA, AL MILIARDO E BILIARDO PER CENTO), NEL CESSO DI BERLUSCONIA, ANZI, DA ODIARE AL MASSIMO, INCIUCIARA, LADRONA, DITTATORIALE E CORROTTISSIMA RENZUSCONIA, SONO I MEGA LAVA SOLDI ASSASSINI, MANDANTI DI OMICIDI A GOGO, TERRORISTI DI ESTREMISSIMA DESTRA, RAZZISTI TANTO DA AVER APPENA FONDATO IL "KU KLUK KLAN PADANO" E TOPAIA NERA PRIMA CITATA". UNA COLERICISSIMA FOGNA, OVVIAMENTE, FINANZIATA, CON CASH DI AR-COR-LEONE, DAI SCHIFOSI FASCIOCAMORRISTI SILVIO BERLUSCONI E LICIO GELLI. E COME LO SCHIFOSISSIMO NOTO DEPISTATORE E FALSISSIMO SILVIO BERLUSCONI SI FINGE OGNI TANTO, AMICO DEGLI EBREI, MA DA DECENNI, RIPETO, DECENNI, ABBIAMO DOZZINE DI TESTIMONI, IN PRIVATO RAGLIA SIMIL BARZELLETTE PER DECEREBRATI VISCIDI LECCHINI TIPO " SCUSATE, SONO ANDATO IN BAGNO OVE HO APPENA FATTO I MIEI BISOGNI, MA NON VI ERA ABBASTANZA CARTA IGIENICA... HO ANCORA IL DI DIETRO SPORCO E NON HO DEL SAPONE, AVETE UN EBREO"? OPPURE: " DI SOLITO NON FUMO, MA AKCUNI MIEI AMICI TEXANI NAZISTI DEI TEA PARTIES MI HAN APPENA REGALATO UN MEGA SIGARO... VORREI FARMELO ( CI CHIEDIAMO: IN CHE SENSO?), MA IL MIO ACCENDINO HA FINITO IL GAS... AVETE PER CASO UN EBREO"? COSI', ALLO STESSO TEMPO, IL PERICOLOSISSIMO MANDANTE DI OMICIDI, GIA' PLURI CONDANNATO AL CARCERE, NON SOLO A MILANO, MA ANCHEM PARREBBE, A BIELLA ED IN BRASILE, PAOLO BARRAI, FINGE, A SCOPO DI DEPISTAGGIO, SUL WEB, DI LECCARE PERSONE CHE DEFINISCE EBREI DI COLOMBIA E PANAMA VICINISSIMI AI CARTELLI DI CALI', BOGOTA E DI MEDELLIN.
+
+MA GUARDATE ORA, PLS, COSA SCRIVE AD UN ASSOLUTO GENIO BORSISTICO MISTO AD EROE CIVILE, ANTI NAZIFASCISMO E MAFIA DI SILVIO BERLUSCONI, DI GRAN SUCCESSO, A LONDRA: MICHELE NISTA. GUARDATE COME GLI DAVA DEL GENIO NEL 2007, 2008 E PRIMA PARTE DEL 2009, QUANDO SCROCCAVA L'IMMENSO TALENTO BORSISTICO DI MICHELE NISTA FACENDOCI MILIONI DI EURO ( IN NERO "FISCALE E POLITICO") E GUARDATE, PLS, COSA SCRIVEVA DI MICHELE DAL 2010 IN POI,
+
+A) IN QUANTO MICHELE AVENTE PARZIALE SANGUE EBREO
+
+B) UNA VOLTA CHE IL SEMPRE VINCENTISSIMO MICHELE NISTA DECISE DI NON AVER PIU' NULLA A CHE FARE COL VERME CRIMINALISSIMO PAOLO BARRAI DOPO AVER SCOPERTO DEI PUTRIDISSIMI RICICLAGGI DI CASH MAFIOSO, BERLUSCONAZISTA E PADANAZISTA CHE PAOLO BARRAI EFFETTUAVA E STRA EFFETTUA ORA PIU' CHE MAI IN GIRO PER IL MONDO.
+
+GUARDATE, GUARDATE, PLS, DA BRIVIDI ASSOLUTI:
+
+IL FIUTO DI UN AMICO... Post del Febbraio 2008
+
+Qualche anno fa a Milano la borsa chiudeva poco dopo pranzo. Nel
+
+pomeriggio se un operatore istituzionale cercava titoli italiani
+
+sapeva dove andare....
+
+Telefonava a Michele Nista.
+
+Michele Nista era un vero grandissimo broker, altro che macchina
+
+telematica. E riusciva anche a trovare prezzi migliori della macchina
+
+stessa facendo felice sia il venditore che il compratore.
+
+Anche con la chiusura dei mercati alle 17.30 Michele ÃƒÂ¨ sempre
+
+riuscito a trovare l'introvabile.
+
+Non esisteva e ancora esiste la "missione impossibile" per Michele Nista.
+
+Un milione di Generali? Bastavano pochi minuti e venivano trovate al
+
+giusto prezzo. Poi Michele si ÃƒÂ¨ allontanato dal mercato, ma a Novembre l'ho
+
+incontrato dopo tanto tempo. Abbiamo bevuto un caffÃƒÂ¨ e abbiamo parlato del mercato...
+
+Caro Michele, farai anche altre cose ora ma il fiuto per gli affari,
+
+quello no...non ti manca. Michele, non sarÃƒ forse un macroeconomista, ne uno studioso di
+
+bilanci, ma ha una particolare dote...il senso degli affari.
+
+Pochi come lui si muovono nel mercato con la stessa spavalderia.
+
+Anche nel Settembre 2007 non si ÃƒÂ¨ sbagliato...mentre i molti urlavano
+
+al rally di Natale e il Dow Jones era intorno ai 14.000 il mio caro
+
+amico Michele mi ha guardato fisso negli occhi e mi ha detto "Ehi
+
+doctor....il Dow arriverÃƒ a 11.800 fra poco e poi a 8000"
+
+Caro Michele sei stato bravo, anzi bravissimo...
+
+Ah dimenticavo di dirvi che la scorsa settimana ho incontrato
+
+Michele, questa volta non abbiamo preso un caffÃƒÂ¨...ma siamo passati a un
+
+pranzo anche se frugale) Sapete cosa mi ha confidato guardandomi ancora una volta negli occhi?
+
+"ehi Doctor fra poco il dow Jones arriva a 10.800 e poi giu, fino a
+
+8000 e poi ulteriormente giu fin sotto 7000"???
+
+Sapete che vi dico...che se fossi Bernanke comincerei a preoccuparmi
+
+seriament, L'INIEZIONE DI DROGA DETTATA DAL TAGLIO DEI TASSI NON E'
+
+CHE UN ESTREMO TENTATIVO DI SALVARE UN MODELLO ECONOMICO ALLO
+
+SFASCIO.
+
+Vai Michele, continua cosi'!!!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~
+
+ALTRO POST, IN QUESTO CASO, SCRITTO IN QUESTO CASO, A META' APRILE 2009
+
+UN GRAZIE A MICHELE NISTA
+
+Unico ad avvisare i nostri lettori di un DOW a 7700 (quando valeva
+
+13.000)
+
+Unico ad avvisare che i mercati americani sarebbero ripartiti con le
+
+rondini, unico che a fine febbraio ha detto di comprare e di guardare
+
+le quotazioni a luglio.
+
+Michele ha affermato piÃƒÂ¹ volte che Obama riporterÃƒ ai massimi il Dow
+
+a fine mandato. Io personalmente non sono daccordo sulla sua ultima visione. ma
+
+questo ÃƒÂ¨ MERCATO LIBERO un blog capace di selezionare delle persone
+
+differenti ma capaci di individuare i trend.
+
+MICHELE NISTA SEI UNA FORZA, A LIVELLO DI INTUITO, IL MIGLIORE AL MONDO INTERO!!!
+
+Pubblicato da mercatolibero a lunedÃƒÂ¬, aprile 13, 2009
+
+O QUESTO.
+
+MICHELE NISTA SEI UN GRANDE!!!
+
+La scorsa settimana abbiamo scritto un articolo sulla spartizione
+
+della tv di stato e della possibile vendita di rete 4 da parte di
+
+Berlusconi. L'articolo era frutto di una chiaccherata con lo stanatartufi, genio,
+
+in quanto a fiuto per gli affari, energie e coraggio,
+
+Guru di azioni, valute e commodities mondiali: Michele
+
+Nista. Michele ÃƒÂ¨ in gran forma e non lo ferma piÃƒÂ¹ nessuno.
+
+O il nostro articolo ÃƒÂ¨ stato letto da Di Pietro ....o qualcosa bolla
+
+in pentola nel campo delle televisioni....( segue articolo)
+
+...Insomma, Michele Nista, ha intuito tutto al volo, ed alla perfezione, come sempre.
+
+Bravo Michele sei un mito
+
+ED INFINE, POST, CHE RICEVETTE " SOLO" 203 COMMENTI
+
+MICHELE GRAZIE (MICHELE NISTA!)
+
+A nome di Mercato libero e di tutto lo staff vorrei ringraziare
+
+Michele Nista per lo stupendo lavoro fatto su questo sito da 18 mesi.
+
+Molti nuovi lettori non sanno tutto quello che ha predetto e poi si ÃƒÂ¨
+
+puntualmente avverato. NON HA SBAGLIATO UNA VOLTA.
+
+E francamente se anche domani dovesse
+
+prendere un abbaglio....non ÃƒÂ¨ importante.
+
+Ha salvato il culo ha migliaia di persone predicendo il DOW a 6900
+
+quando stava a 10.000 (e predicendo il Dow a 10.000 quando stava a
+
+13.500). Ha detto ripetutamente che il mercato sarebbe salito con l'arrivo
+
+delle rondini e cosÃƒÂ¬ ÃƒÂ¨ stato (e il rialzo non ÃƒÂ¨ stato di quelli
+
+piccoli....)!
+
+MA QUALE BLOG O BANCHIERE, O PROMOTORE, O TRADER O PRIVATE BANKER HA
+
+SAPUTO SOLO AVVICINARSI A TALI PREVISIONI (NON NASCONDO CHE ANCHE IO
+
+ERO SCETTICO QUANDO PARLAVA DI DOW A 6900!)
+
+Grazie ancora Michele Nista e ricordati che appena rientri in Italia
+
+organizziamo una bella serata con i nostri amici lettori.
+
+CHIEDO A TUTTI COLORO CHE LO APPREZZANO DI SPENDERE DUE MINUTI A
+
+POSTARE UN COMMENTO
+
+SUL SUO GRANDE LAVORO CON NOI.
+
+Pubblicato da consulenza finanziaria di Mercato Libero a martedÃƒÂ¬,
+
+aprile 28, 2009
+
+203 commenti Salvarisparmio ha detto...
+
+Grnade Michele, ti dobbiamo noi lettori molto .
+
+Remigio
+
+28 aprile 2009 18.24
+
+Anonimo ha detto...
+
+io sono nuovo del blog e anche della borsa, non ci ho capito molto, ma di una cosa sono sicuro:Michele Nista ÃƒÂ¨ un grande
+
+28 aprile 2009 18.27
+
+Andrew234 ha detto...
+
+Inizio io: GRAZIE MICHELE PER TUTTO QUELLO CHE HAI FATTO PER NOI!!!non curarti di quello che dice qualche imb..... Continua ad aiutarci!!
+
+28 aprile 2009 18.37
+
+Marco sapa ha detto...
+
+Grandissimo Michele Nista, chi critica di solito ÃƒÂ¨ invidioso oppure non ha capito una mazza di borsa...seguendoti mi son salvato le chiappe...migliaiai di euro di ringraziamneti!!
+
+Marco
+
+28 aprile 2009 18.46
+
+Anonimo ha detto...
+
+Veramente ÃƒÂ¨ stato cosÃƒÂ¬ incredibilmente preciso che mi chiedo come faccia a fare le sue previsioni.
+
+Analisi tecnica?fondamentale? intuito?
+
+Esoterismi vari?
+
+Come fai Michele??
+
+Complimenti davvero.
+
+28 aprile 2009 18.49
+
+Anonimo ha detto...
+
+Michele sei il numero 1
+
+28 aprile 2009 18.57
+
+Anonimo ha detto...
+
+NISTA sei un mitooooooooooooooo
+
+28 aprile 2009 19.00
+
+Anonimo ha detto...
+
+Personalmente ritengo Michele un grande, una persona soprattutto trasparente, limpida, che utilizza un linguaggio diretto, senza fronzoli, ma soprattutto comprensibilissimo. Mi e' anche molto simpatico quando "parla" di Berlusconi, e col quale condivido appieno la Sua interpretazione.
+
+Grazie Michele, dal profondo del cuore!!!!
+
+Felix
+
+28 aprile 2009 19.01
+
+Leo ha detto...
+
+Tutta la mia stima ed ammirazione per quest`uomo che ha il coraggio di dire quello che pensa e in cui crede nonostante correnti sfavorevoli e gente geneticamente scorretta.
+
+Grazie e buon lavoro
+
+28 aprile 2009 19.03
+
+Anonimo ha detto...
+
+sei un grande anzi grandissimo, dacci dentro
+
+28 aprile 2009 19.03
+
+settevoci ha detto...
+
+Io dico grazie all'uomo Michele Nista.Infatti in questo mondo di falsi montati, ci vorrebbero centomila MICHELE NISTA. GRAZIE
+
+Anonimo ha detto...
+
+Sempre con te Michael
+
+Giuseppe
+
+Cagliari
+
+28 aprile 2009 19.19
+
+Anonimo ha detto...
+
+CONFERMO tutto !!
+
+Di fatto quanto affermato PREVENTIVAMENTE si ÃƒÂ¨ avverato da ....diciamo ... circa 1 anno puntualmente. Frutto di un'ottima conoscenza dei mercati e sicuramente di giuste entrature nel settore finanziario. COMPLIMENTI
+
+28 aprile 2009 19.21
+
+Anonimo ha detto...
+
+Non ho letto il post che ha angustiato il grande MICHELE
+
+Certe persone sono vili fino al midollo. Purtoppo esistono e ce ne saranno sempre.
+
+Il Sommo Poeta non ne ebbe pietÃƒ neanche all'inferno.
+
+<< Fama di loro il mondo esser non lassa;
+
+misericordia e giustizia li sdegna:
+
+non ragioniam di lor, ma guarda e passa. >>
+
+Maestro Michele guarda e passa anche Tu.
+
+28 aprile 2009 19.24
+
+Anonimo ha detto...
+
+Di Michele Nista apprezzo ancora di piÃƒÂ¹ l'uomo e le sue visioni del mondo e della derelitta, sciagurata realtÃƒ italiana piuttosto che l'esperto di borsa.
+
+Tenendo conto, che da 18 mesi il buon Michele ha previsto i movimenti del Dow quasi avesse una sfera di cristallo (e migliaia di lettori del suo blog possono testimoniarlo) credo non sia cosa di poco conto.
+
+Grazie di cuore per tutto il tempo che ci ha dedicato, Sig. Nista, e continui, oltre a metterci a parte delle sue preziose e lucide intuizioni, a sferzare il malaffare imperante nella nostra povera ma amata Patria.
+
+Cordiali saluti.
+
+Adriano
+
+28 aprile 2009 19.26
+
+Anonimo ha detto...
+
+MICHELE NISTA, THE BEST!!!!!!
+
+GOD BLESS YOU!
+
+28 aprile 2009 19.35
+
+Anonimo ha detto...
+
+MICHELE SEI U-N-I-C-O !!!! Aggiungo che nessuno, su nessun media che io conosca si ÃƒÂ¨ espresso con la tua precisione, puntualitÃƒ , chiarezza, ma soprattutto CORAGGIO E GENEROSITA'. Individuare qualche spunto di trading richiede abilitÃƒ , ma solo in parte minima rispetto a quanta ce ne vuole per pronosticare linee tendenza con una precisione strabiliante!!!! Un vero mago della finanza. Chi ti ha seguito non puÃƒÂ² che esprimerti RISPETTO E GRATITUDINE. Se qualche babbeo cerca di far lo spiritoso ÃƒÂ¨ perchÃƒÂ¨ non ÃƒÂ¨ informato (ma allora ÃƒÂ¨ buona regola tacere!), altrimenti ÃƒÂ¨ un idiota o un un invidioso. Crepi l'invidia e ... W MICHELE!
+
+F.to / Un Post-Berlusconiano
+
+(se prima ci siamo turati il naso, ora basta: nani e ballerine hanno giÃƒ travolto uno grande, magari poi tocca anche ad uno ... piccolo!)
+
+Va meglio ?!
+
+Andrea ha detto...
+
+GRANDE MICHELE,SEI UN FARO PER TUTTI NOI IN QUESTA GIUNGLA BUIA,
+
+COMPLIMENTI PER L'OTTIMO LAVORO SVOLTO GRATIS,POI SEI L'UNICO CHE GIUSTAMENTE ATTACCHI BERLUSCONI CHE ÃƒÂ¨ UNA PIETRA AL PIEDE PER L'ITALIA.
+
+ANDREA
+
+28 aprile 2009 19.48
+
+lapalisse ha detto...
+
+Ah michael, ma l'Italia ÃƒÂ¨ piena di berluscones mediolanumen rosicones....ÃƒÂ¨ normale che si incazzino!!!! PiÃƒÂ¹ si incazzano, e piÃƒÂ¹ noi godiamoooo......
+
+ciao michelONE!!! e ciao anche al ns. duturun!!!!
+
+28 aprile 2009 19.54
+
+Pier Marco ha detto...
+
+Michele sei un grande!! E' sempre un piacere leggere i tuoi post appassionati e profetici, continua cosÃƒÂ¬ e fregatene degli invidiosi che provano a sminuire il tuo grande lavoro!!
+
+28 aprile 2009 20.15
+
+Anonimo ha detto...
+
+Michele sei un grande, non considerare i commenti di un piccolo insignificante...
+
+ci hai sbalorditi e siamo convinti che lo farai ancora!!!!
+
+very very good !
+
+28 aprile 2009 20.20
+
+Anonimo ha detto...
+
+Grazie a Michele NISTA! Un grande, onesto e corretto.
+
+Marco Colacci
+
+28 aprile 2009 20.29
+
+Anonimo ha detto...
+
+ÃƒÂ¨ veramente una mosca bianca,
+
+ÃƒÂ¨ l'unico a non sbagliare mai
+
+un colpo, mi piacerebbe incontralo
+
+anche in seminari.
+
+grazie ancora...
+
+28 aprile 2009 20.36
+
+Anonimo ha detto...
+
+A Michele, vorrei dire che leggo soprattutto con attenzione le sue visioni extra-mercati, che mi sembrano importanti almeno quanto le sue previsioni sui listini.
+
+Le motivazioni che stanno dietro alle sue previsioni mi regalano una visuale e delle riflessioni che non riscontro su nessun altro blog.
+
+Ciao e buon lavoro a Michele.
+
+Claudio
+
+28 aprile 2009 20.41
+
+Anonimo ha detto...
+
+Caro Michele, non sono d'accordo con quanti pensano che chi ti ha scritto facendoti inc....sia un cretino o uno sciammannato. Fosse cosÃƒÂ¬ non ci sarebbe da preoccuparsi. PerÃƒÂ² tu dovresti sapere che in rete circolano i professionisti della provocazione e della disinformazione, legati ai poteri piÃƒÂ¹ o meno forti e piÃƒÂ¹ o meno occulti, il cui solo scopo ÃƒÂ¨ quello di destabilizzare il dissenso e renderlo non credibile. E' cosÃƒÂ¬ che chiudono i blog, molto piÃƒÂ¹ sottilmente che vietandoli. Se poi vogliono travestirsi da cretini ÃƒÂ¨ solo una tattica, ma sanno benissimo quello che fanno. Quindi in campana per non cadere nei trappoloni che tendono(depressione compresa), complimenti per il grande lavoro di entrambi e chi se ne frega se una volta o due tu non dovessi imbroccarla. Oppure hai trovato la sfera di cristallo buona per indovinare tutto?
+
+A parte gli scherzi auguri!
+
+Giovanni Sicola
+
+28 aprile 2009 20.46
+
+Anonimo ha detto...
+
+Grande Michele Nista!!
+
+Spettacolare....(anche e soprattutto quando parli di quel tal.....Berlusconi)!
+
+Grazie.
+
+28 aprile 2009 21.03
+
+Stefano ha detto...
+
+Grazie a Michele per il loro lavoro. E speriamo di poter leggere Michele piÃƒÂ¹ spesso!
+
+28 aprile 2009 21.24
+
+Anonimo ha detto...
+
+Michele Nista ÃƒÂ¨ stato straordinariamente preciso nelle sue previsioni. Da ottobre ÃƒÂ¨ diventato positivo sull'equity mondiale indipendentemente dall'andamento di breve periodo, dicendo solo una cosa: accumulate azioni svendute, potrebbero diventare oro nel tempo. La pensavo cosi e lo ringrazio di esistere perchÃƒÂ¨ mi ha confortato e incoraggiato, dandomi la spinta a osare,a rate,nei giorni di crollo. Ma ho comprato sul mercato italiano da lui un po' detestato. Oggi sono appagato, vendo a premio, e se il mercato storna compro ancora. Penso che lui farebbe lo stesso.
+
+Roberto (TO)
+
+28 aprile 2009 21.25
+
+MARCO ha detto...
+
+SEI UN MITO, COME FAREMO SENZA DI TE!
+
+28 aprile 2009 21.29
+
+TONY61 ha detto...
+
+Grazie Michele Nista!!! Grande professionalitÃƒ : AMMIREVOLE, COMPLIMENTI!!!!
+
+28 aprile 2009 21.31
+
+Anonimo ha detto...
+
+Nista sei la veritÃƒ .
+
+28 aprile 2009 21.34
+
+pasquale ha detto...
+
+ciao Michele,ho piena fiducia in quello ke scrivi e pensi perkÃƒÂ¨ sei davvero bravo e nn hai paura di scrivere quello ke si dovrebbe sapere,mi rispekkio nei valori sani e corretti ke ti distinguono.SEI UN GRANDE!!!!!!mi dispiace solo di aver conosciuto questo sito troppo tardi altrimenti avrei salvato un bel pÃƒÂ² di risparmi...ma ti ringrazio di cuore del servizio ke ci rendi ogni giorno...pasquale gallo
+
+28 aprile 2009 21.37
+
+Anonimo ha detto...
+
+Vogliamo Michele Nista presidente del consiglio!
+
+28 aprile 2009 21.39
+
+Anonimo ha detto...
+
+we nn scherziamo!!!! ciao mikele sei una potenza nn smettere mai di fare quello in cui credi soprattutto se ÃƒÂ¨ per colpa di qualke stup.. magari anke in malafede
+
+28 aprile 2009 21.42
+
+Simone ha detto...
+
+Grazie mille per l'importantissimo lavoro svolto!
+
+28 aprile 2009 21.42
+
+Anonimo ha detto...
+
+ritengo michele un vero saggio... rimani con noi per sempre!!!!
+
+MARCELLO Roma
+
+28 aprile 2009 21.47
+
+Anonimo ha detto...
+
+anche se ti sto sulle palle seguo le tue info molto precise e puntuali...
+
+Silvio Berlusconi
+
+scherzo... sei un mito!!!!
+
+28 aprile 2009 21.48
+
+francesco driver ha detto...
+
+i risultati parlano per te michele tutto il resto non conta nulla!
+
+28 aprile 2009 21.56
+
+Anonimo ha detto...
+
+michele.sono Laura ti abbiamo scritto anche prima non ÃƒÂ¨ apparso il commento...miche non ci abbandaonare...le tue bimbe...Laura, chiara , lorenza...avvisaci quando entrare nell'azionario...un bacio da tutte noi...
+
+28 aprile 2009 22.03
+
+Anonimo ha detto...
+
+GRAZIE DI TUTTO MICHELE...
+
+28 aprile 2009 22.10
+
+Anonimo ha detto...
+
+Grazie Michele, oltre che come Faro nella Tempesta dei mercati finanziari, per come stai facendo aprire gli occhi agli italiani (anche se non di tutti) con la tue osservazioni che solo una Persona dall'estero e con il Cuore Italiano come te puo fare.
+
+Porta Pazienza, anche se pochi non capiscono o fanno finta di non capire, o ti provocano volutamente perchÃƒÂ¨ sei un personaggio Scomodo, ricordati che la maggior parte di noi ÃƒÂ¨ con te.
+
+A Presto
+
+Raffaele
+
+28 aprile 2009 22.13
+
+Anonimo ha detto...
+
+Metaforicamente Vi potrei definire i delfini che nel mare dell'ignoranza ci difendeno dagli squali della finanza.
+
+Forza e coraggio siamo tutti con Voi.
+
+Un grazie sincero a Michele Nista.
+
+Lapo
+
+28 aprile 2009 22.19
+
+luca ha detto...
+
+CHE DIRE....A ME PIACE MOLTO MICHELE ..PIACE LA SUA CULTURA..IL SUO MODO E IL SUO CORAGGIO DI DIRE CERTE COSE, LA SUA COMPETENZA...E SOPRATTUTTO LA SUA UMILTA'.IO SU MOLTE COSE LA PENSO COME LUI..ED HO LA SUA STESSA CAPACITA' DI VEDERE OGNI COSA A 360Ã‚Â°.QUELLO CHE DETESTO E' LA PESSIMA CULTURA ITALIANA...QUELLA DELL'IMBROGLIO.GRAZIE MICHELE.
+
+28 aprile 2009 23.03
+
+atca ha detto...
+
+Un grazie sincero a Michele Nista.
+
+VALENTINO
+
+28 aprile 2009 23.08
+
+Anonimo ha detto...
+
+Michele, mi aggiungo tardi alle tante lodi che hai ricevuto. Che dire: mi piacerebbe proprio ci fosse uno spazio proprio, per i tuoi commenti sul Blog.
+
+Adriano
+
+28 aprile 2009 23.14
+
+Anonimo ha detto...
+
+In Zi' Micheluzzo Nista We Trust!!
+
+w l'onestÃƒ
+
+w la libertÃƒ
+
+w il merito
+
+"Slowly but surely, avanti, come ooooon"
+
+Jack
+
+28 aprile 2009 23.24
+
+Anonimo ha detto...
+
+Grazie Michele, per il grande lavoro sociale che fate tutti i giorni. Noi siamo tutti con VOI.
+
+ALESSANDRO
+
+28 aprile 2009 23.31
+
+Anonimo ha detto...
+
+VIVA LA LIBERTÃƒ , VIVA MICHELE...SEI GRANDE.IO SONO UN PICCOLO RISPARMIATORE,FINO A POCO TEMPO FA ERO ALLA MERCÃƒÂ¨ DI PROMOTORI SENZA SCRUPOLI CHE MI INFONDEVANO UN OTTIMISMO INFONDATO(MENTRE IL MONDO ANDAVA A ROTOLI) VENDENDOMI PRODOTTI TRUFFA...OGGI NE SONO ANCORA PIÃƒÂ¹ CONSAPEVOLE GRAZIE A SUPERMIKE E VOI TUTTI.SIETE LA SPERANZA DI TUTTI NOI INCASTRATI NELL'INGRANAGGIO DEGLI INTERESSI DEI POTENTI
+
+GALLO PASQUALE MARSALA(TP)
+
+28 aprile 2009 23.33
+
+fokal ha detto...
+
+Michele Nista ÃƒÂ¨ un grande senza alcun dubbio ...continuate cosÃƒÂ¬
+
+thanks
+
+Mimmo
+
+28 aprile 2009 23.56
+
+Anonimo ha detto...
+
+Cari Michele, Paolo e tutti gli altri "zii" e collaboratori di questo blog: grazie!
+
+Per gli spunti d'investimento, ma anche perchÃƒÂ¨ fate informazione fuori dal coro. E ce n'ÃƒÂ¨ tanto bisogno ....
+
+Gabriele
+
+29 aprile 2009 7.33
+
+Anonimo ha detto...
+
+Complimenti a Miche Nista per i suoi ssuggerimenti finanziari, politici e sociali ed in piÃƒÂ¹ che finisca l'esilio ! Grazie Michele per gli articoli
+
+Giuseppe
+
+29 aprile 2009 8.41
+
+Anonimo ha detto...
+
+Il Dott. Michele Nista ÃƒÂ¨ un grande, per quello che di dice ma anche per lo stile con cui ce lo dice.
+
+Sarebbe una grande gioia poter incontrare una cosÃƒÂ¬ geniale persona.
+
+Wildman
+
+29 aprile 2009 8.54
+
+Andrea ha detto...
+
+W michele nista abbasso psiconano malefico!
+
+29 aprile 2009 9.03
+
+Anonimo ha detto...
+
+ÃƒÂ¨ incredibile quello che sei riuscito a fare, grazie per sempre ..
+
+fabrizio torino
+
+29 aprile 2009 9.16
+
+Anonimo ha detto...
+
+Continuiamo amici ad incoraggiare Michele, lui DEVE cambiare idea. Non possiamo perderlo
+
+29 aprile 2009 9.21
+
+Anonimo ha detto...
+
+Michele Nista ÃƒÂ¨ il nostro guru numero uno! Bravo e simpatico!
+
+Anna
+
+29 aprile 2009 9.54
+
+Anonimo ha detto...
+
+Non vedo come si possa negare l'evidenza. Michele ha interpretato le tendenze del mercato meglio di tanti altri. Si possono rileggere tutti i suoi articoli, tenendo conto della data nella quale sono stati pubblicati
+
+nel blog.
+
+"verba volant scripta manent"
+
+saluti
+
+marco
+
+29 aprile 2009 10.32
+
+pollodimare ha detto...
+
+Ero in viaggio e non mi sono potuto collegare prima. Leggo il blog da un anno e mezzo e sono rimasto veramente impressionato dalle analisi di Michele Nista. Politicamente nutro delle opinioni diverse dalle sue, ma leggo e medito con attenzione quanto dice. Mi piacerebbe poter scambiare qualche opinione, ma non ÃƒÂ¨ questa la sede o il momento. Complimenti ed auguri vivissimi da un "vecchio" che ha seguito la Bisca (Borsa) italiana dal lontano 1961.
+
+29 aprile 2009 10.58
+
+Anonimo ha detto...
+
+MICHELE
+
+non devi darla vinta a un cretino
+
+cosi fai il suo gioco
+
+sfidalo e forse si rendera' conto di quello che e'
+
+29 aprile 2009 11.15
+
+Anonimo ha detto...
+
+Grazie Michele!!!
+
+Da voi si impara!!!
+
+Davide Ferrari (Mantova)
+
+29 aprile 2009 11.56
+
+Anonimo ha detto...
+
+Michele ti vogliamo bene, sei e rimarrai la nostra luce. Non mollare mai.
+
+Thomas
+
+29 aprile 2009 12.21
+
+giallu ha detto...
+
+per Michele: non ti preoccupare piÃƒÂ¹ di tanto, abbiamo letto i tuoi post mano a mano che uscivano, li ricordiamo e quindi abbiamo subito capito che il post che ti ha fatto arrabbiare non era sincero. E ciÃƒÂ² va a sfavore di chi lo ha scritto. Per verificarlo basta andarsi a leggere i tuoi post che sono la a testimoniarlo. Avanti tutta.
+
+29 aprile 2009 12.49
+
+Anonimo ha detto...
+
+GRANDE MICHELE PER IL TUO MODO DI ESSERE,TI APPREZZO NON SOLO PER LA TUA COMPETENZA MA PER LA TUA LEALTA'CONTINUA COSI'
+
+29 aprile 2009 13.17
+
+Anonimo ha detto...
+
+caro michele, oltre che essere molto bravo e competente sei soprattutto una persona onesta....complimeti
+
+29 aprile 2009 13.20
+
+Anonimo ha detto...
+
+Nella vita ÃƒÂ¨ importante essere a posto con la propria coscienza, perchÃƒÂ¨ c'ÃƒÂ¨ sempre qualcuno che non la pensa come te.
+
+Forza Michele!!!!
+
+29 aprile 2009 14.48
+
+Anonimo ha detto...
+
+Grande Michele !!!!!
+
+ciao genio michele nista
+
+GUARDATE ORA, PLS, COSA EMAIL AVA, LO STESSO CRIMINALISSIMO, PURE MANDANTE DI OMICIDI O 'RAFFINATE SUICIDATE", RAZZISTA, NAZISTA, MEGA LAVA CASH MAFIOSO COME POLITI-C-RIMINALE, PAOLO BARRAI, DOPO CHE MICHELE NISTA NON VOLLE AVERCI PIU' NULLA A CHE FARE, NELL'AGOSTO 2009, VENENDO A SAPERE CHE LO STESSO RICICLAVA SOLDI DI COSA NOSTRA, CAMORRA, NDRANGHETA, COME PURE SOLDI RUBATI DA LL, LEGA LADRONA E PDL, POPOLO DI LADRONI, UNITI A CASH STRA COLMO DI CORRUTELA DI PADANAZISTE E BERLUSCONAZISTE FINMECCANICA, ENAV E TECHNOSKY!
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" Oggi sono andato a pisciare sulla tomba di tuo padre, piu' tardi ci vado a cagare pure. Ha fatto bene Berlusconi a farlo ammazzare, ahahahah. Grazie per farti scroccare su euro, gas naturale e caffe robusta. Io sbaglio sempre nei mercati, ma grazie a te, riesco ancora a sopravvivere, ahahaha".
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+"Presto Berlusconi e il mio Bossi, manderanno sicari mafiosi o dei servizi segreti, a Londra, a farti sparare, ahahaha. Ti scrocchiamo e poi ti spariamo pure, come si fa con un ciupa ciupa usato, ahahah. L'Italia e' nostra, e' nazifascista. A morte gli ebrei. A noi!!!"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" Speriamo che ti venga una trombosi alla gamba, ho fatto un post di solidarieta' su di te, per fingermi corretto, in realta', non vedo l'ora che ti ammazzano. Voi bastardi ebrei, o amici di ebrei, dovrete tutti crepare soffrendo"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" Ti ho fatto infiltrare da Filati del Piemonte, da Angelo Pegli, da Gianluca Gualandri, da Stelvio Callimaci, sei pieno di mie spie. Io prendo un po' di prestanome, e ti infiltro. E intanto, faccio passare per mie, idee che sono tue. E fra poco ti faro' pure sparare a Londra, ahahahah. Crepa bastardo, chi lavora con gli ebrei, deve bruciare nei forni".
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" Stelvio Callimaci sta facendo un ottimo lavoro, mi passa tutti i tuoi inputs e io li faccio passare per miei, ahahahahaah; manda inputs, manda, e io vi faccio i soldi, ahahahah; presto ti spariamo in faccia, Nista comunista di merda, Berlusconi e Bossi non si criticano, si adorano, ahahahaha; noi della Lega, presto faremo migliaia di morti"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" bravo ottimi post continua cosÃƒÂ¬.. presto ti spariamo in faccia... Nista, sei il primo della lista, la Lega spara, ammazza, non perdona, il mondo e' nostro, della destra... Paolo Barrai ammazza, la Lega ammazza, ahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" sei troppo dolce
+
+ti sta forse leccando il culo tua ma-re!!! hahahaha, vai vai....
+
+ma non perdere luciditÃƒ per i tuoi clienti....attendono impazienti gli inputs"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" di infiltrati come stelvio e filati ne abbiamo tanti ahahahaah, e presto ti verremo a trovare a Londra, io e Michele Milla, e come facemmo con Ubaldo Gaggio, ti ammazzeremo, ahaha"
+
+----
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" non correre...la gamba potrebbe non seguirti... Nista, presto saliremo a Londra e ti spareremo in bocca.... la mia Lega non perdona, la Lega uccide, ahhaha.. e' vero, abbiamo ammazzato noi Giorgio Panto e Paolo Alberti, perche' andarono con Prodi, e presto ammazzeremo anche a te, la Lega non perdona, la Lega ammazza tantissimo... ahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" credo che stai per finire...ahahahaha.. fra poco ti spariamo in bocca, Nista bastardo, Nista primo della lista, anzi no...abbiamo bisogno dei tuoi articoli da esaltato.. ti diamo ancora 15 giorni e poi ti spariamo in faccia, la Lega ammazza, Bossi fa ammazzare, prepara il testamento, sei morto, ahah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" mi dicono che a londra stanno predisponendo un forno .....e gli manca materiale!!! vi ficchiamo dentro te e William Levi... voglio un nuovo nazismo.. voglio vedere tutti gli ebrei e chi lavora con gli ebrei, come fai te, bruciare... evviva il nazismo.. evviva la Lega, che e' il nuovo nazismo, Berlusconi muove la mafia, noi i nazisti, ahahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" buona trombosi.. Nista ti ammazziamo noi, se vuoi.. crepa presto o noi del Pdl e della Lega ti ammazziamo.. come gia' abbiamo fatto con tuo padre.. Berlusconi e Bossi ammazzano, e presto lo vedrai.. Heil Hitler, Heil Mussolini, Heil Bossi, Heil Berlusconi, Heil Barrai, ahahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" ahahahahaha, presto ti spareremo in faccia...Nista sei morto, Nista ti ammazzeremo, Nista sei condannato a crepare... Nista, divieni Berlusconiano, come ti volevo fare diventare un anno fa, o ti ammazziamo, Nista morto, ahaah"
+
+3)
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" grazie per la fantastica azzeccata su dow jones, gas naturale e per il tantissimo resto..
+
+ahahahaha, vamos siamo forti!
+
+non mi morire per strada!!!
+
+come mi ha detto Don...non mi morire per strada...perche' fra poco salgo io a Londra, a scaricarti una p38 in bocca... Stefano Bassi de il Grande Bluff e io siamo assassini, terroristi neri, e presto ti ammazzeremo, ahahah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" sempre nemici... ognuno persegue i suoi obbiettivi.... tanto tu sei condannato a morte... Berlusconi e Bossi han gia deciso: Nista come Falcone e Borsellino, Nista sparato in bocca, ahahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" non ti deconcentro, scusa
+
+devi preparar i report che cosÃƒÂ¬ ci dai gli inputs vincentissimi come sempre, scusami... dai impegnati, impegnati, che presto io, Berlusconi e Bossi, ti faremo sparare dritto in faccia, ahahaha"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" Marina Berlusconi ha gia' messo il pollice verso, Marina Berlusconi ti ha condannato a morte..ha gia' avvertito la mafia di eseguire, di ammazzarti.. e se non esegue la mafia, eseguono i servizi segreti di destra, fascisti come me, della Lega ... Nista sei un morto ormai, ahahahahah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" ahahahah, passa ancora un po' di dritte che qui si fanno soldi a palate...lavora schiavo... lavora, che fra poco, Berlusconi e Bossi ti fanno sparare in bocca.. via nostre Mafia e Servizi Segreti.... non criticare mai piu' Berlusconi o ti ammazziamo, bastardo.. Berlusconi e Bossi non si criticano, si adorano.. il problema e' che Marina Berlusconi ha gia' ordinato di ammazzarti, e quella non perdona, la Lega e' il nuovo nazismo e tappa le bocche ammazzando, Nista, ormai sei morto, ahahahhah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" salutami william levi ...lo sento bruciare...come legna sul fuoco....o meglio ...il suo cadavere puo' essere usato per il sapone, ahahahahah..presto sara' nuovo nazismo, e chiunque lavora con gli ebrei come fai te... diverra' legna per i forni, ahahahah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" fammi qualche articolo come nel passato .....ti prego tantissimo. A natale ti regalo un forno crematorio per William... Nista, noi Berlusconiani siamo la mafia, e tu sei condannato a morte, cosi' impari a non divenire uno dei nostri, ahahahah"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" attento a chi incontri a londra....ahahahaah... dai, sei bravo, azzecchi sempre, e' vero, voglio scroccarti un po' di piu', prima di ammazzarti... Nista e Levi nei forni di Auschwitz, si, nei forni di Auschwitz, w la Lega, w il Nazismo"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" POVERO BASTARDO CHE SI PERMETTE DI ESSERE DI CENTROSINISTRA: PRESTO TI SCHIACCEREMO, LA LEGA UCCIDE, BERLUSCONI UCCIDE, IO, PAOLO BARRAI, UCCIDO, W LA LEGA, W IL NAZISMO, W LA MAFIA, E INTANTO TI SCROCCO SEMPRE"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" MI DICONO CHE DI NOTTE SULLA TOMBA DI TUO PADRE CI VANNO A CAGARE I VERMI... E ANCHE CHE PRESTO TI AMMAZZERANNO A LONDRA... FATTI SCROCCARE IN SILENZIO O IO E STEFANO BASSI DE IL GRANDE BLUFF TI FAREMO AMMAZZARE... ANCHE STEFANO BAGNOLI E' UN ASSASSINO COME NOI... NISTA, LA SENTENZA C'E', PRESTO TI AMMAZZEREMO, W LA LEGA, W IL NAZISMO, W IL PDL, W LA MAFIA, AHAHA"
+
+---
+
+da criminalissima mer··i@gm··l.com
+
+e criminalissima pao··i@gm··l.com
+
+" sei un bastardo che si permette l'impermettibile: essere di centrosinistra! e questo basta e avanza per essere sparato in faccia, la Lega uccide, Berlusconi uccide, io, Paolo Barrai, uccido, w la Lega, e il Nazismo, w Berlusconi, w la Mafia, a noi, a noi, sei morto, ahaha"
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

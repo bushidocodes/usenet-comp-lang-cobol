@@ -17,28 +17,28 @@ _19 messages · 13 participants · 1999-04 → 1999-05_
 
 ```
 I am a college student in need of help with a program using the cobol
-compiler. Below is the output for the program.
-
-
-                       ***MENU***
-
-                   A. Addition
-                   B. Subtraction
-                   C. Multiplication
-                   D. Division
-
-                  CHOOSE ONE OPERATION:
-
-                  ENTER FIRST NO.:
-                  ENTER SECOND NO.:
-
-                  THE ANSWER IS:
-
+compiler. Below is the output for the program.
+
+
+                       ***MENU***
+
+                   A. Addition
+                   B. Subtraction
+                   C. Multiplication
+                   D. Division
+
+                  CHOOSE ONE OPERATION:
+
+                  ENTER FIRST NO.:
+                  ENTER SECOND NO.:
+
+                  THE ANSWER IS:
+
 After choosing a letter the program must be able to compute after entering
-the two nos.
-Will appreciate any info. on how to make this program run. Thanx
-You could also E-mail me at jmatiles@yahoo.com or at jmatiles@excite.com
-
+the two nos.
+Will appreciate any info. on how to make this program run. Thanx
+You could also E-mail me at jmatiles@yahoo.com or at jmatiles@excite.com
+
 
 
 

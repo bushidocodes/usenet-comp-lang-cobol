@@ -1,0 +1,24 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Shareware COBOL compiler - cobol650.zip (0/5)
+
+_1 message · 1 participant · 1995-12_
+
+**Topics:** [`Compilers and vendors`](../topics.md#compilers)
+
+---
+
+### Shareware COBOL compiler - cobol650.zip (0/5)
+
+- **From:** "che..." <ua-author-17087620@usenetarchives.gap>
+- **Date:** 1995-12-10T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<4ag9s1$sl6@news.gate.net>`
+
+```
+Someone requested a Shareware Compiler?
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

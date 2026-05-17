@@ -28,13 +28,13 @@ Hi friends, i always think i am very good in all programming languages, but now 
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com>`
 
 ```
-On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim wrote: > Hi friends, i 
-always think i am very good in all programming languages, but now i came 
-to know that i am not as god as i am thinking. There are so many experts 
-who are providing online services. I am also not very good in cobol 
-language. Acropolismentors deals with these kind of problems daily.
-
-"i am not as god as i am thinking." 
+On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim wrote: > Hi friends, i 
+always think i am very good in all programming languages, but now i came 
+to know that i am not as god as i am thinking. There are so many experts 
+who are providing online services. I am also not very good in cobol 
+language. Acropolismentors deals with these kind of problems daily.
+
+"i am not as god as i am thinking." 
 Probably not; since anyone's god would never spam comp.lang.cobol
 ```
 
@@ -48,15 +48,15 @@ Probably not; since anyone's god would never spam comp.lang.cobol
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com> <slrnkh7e9m.2c6p.knock_yourself_out@vps.jonz.net>`
 
 ```
-Allodoxaphobia wrote:
-> Probably not; since anyone's god would never spam comp.lang.cobol
-
-Jonathan Edwards' God might, being dreadfully provoked and all.
-
-http://www.gutenberg.org/catalog/world/readfile?fk_files=1948715&pageno=59
-
-Considering the sorts of things deities are reputed to get up to, I 
-can't see many of them refraining from spamming if they had the 
+Allodoxaphobia wrote:
+> Probably not; since anyone's god would never spam comp.lang.cobol
+
+Jonathan Edwards' God might, being dreadfully provoked and all.
+
+http://www.gutenberg.org/catalog/world/readfile?fk_files=1948715&pageno=59
+
+Considering the sorts of things deities are reputed to get up to, I 
+can't see many of them refraining from spamming if they had the 
 inclination.
 ```
 
@@ -70,9 +70,9 @@ inclination.
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com> <slrnkh7e9m.2c6p.knock_yourself_out@vps.jonz.net>`
 
 ```
-On Thursday, February 7, 2013 2:24:54 PM UTC, Allodoxaphobia wrote:
-> Probably not; since anyone's god would never spam comp.lang.cobol
-
+On Thursday, February 7, 2013 2:24:54 PM UTC, Allodoxaphobia wrote:
+> Probably not; since anyone's god would never spam comp.lang.cobol
+
 It might be the only way that anyone's God has of getting through to some people.
 ```
 
@@ -85,20 +85,33 @@ It might be the only way that anyone's God has of getting through to some people
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com>`
 
 ```
-On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim
-<acropolismentors@gmail.com> wrote:
-
->Hi friends, i always think i am very good in all programming languages, but now i came to know that i am not as god as i am thinking. There are so many experts who are providing online services. I am also not very good in cobol language. Acropolismentors deals with these kind of problems daily.
-
-Acropolismentors?  Are you referencing acropolismentors.com?
-
-For those who may not know, that is the website of Acropolis Mentors
-which works on a global level. They provide online assignment help and
-homework help for all the subjects irrespective of university or
-grade.
-
-Regards,
-.
+On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim
+<acropolismentors@gmail.com> wrote:
+
+>Hi friends, i always think i am very good in all programming languages, but now i came to know that i am not as god as i am thinking. There are so many experts who are providing online services. I am also not very good in cobol language. Acropolismentors deals with these kind of problems daily.
+
+Acropolismentors?  Are you referencing acropolismentors.com?
+
+For those who may not know, that is the website of Acropolis Mentors
+which works on a global level. They provide online assignment help and
+homework help for all the subjects irrespective of university or
+grade.
+
+Regards,
+.
+-- 
+
+          ////
+         (o o)
+-oOO--(_)--OOo-
+
+"Everywhere is within walking distance. . . if you have the time."
+-- Steven Wright
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Remove nospam to email me.
+
+Steve
 ```
 
 ##### ↳ ↳ Re: Cobol Assignment Help
@@ -110,19 +123,25 @@ Regards,
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com> <nmi7h8hvskhr0m9b5enkvuhkrlpih1ki02@4ax.com>`
 
 ```
-In article <nmi7h8hvskhr0m9b5enkvuhkrlpih1ki02@4ax.com>,
-	SkippyPB <swiegand@Nospam.neo.rr.com> writes:
-> On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim
-> <acropolismentors@gmail.com> wrote:
+In article <nmi7h8hvskhr0m9b5enkvuhkrlpih1ki02@4ax.com>,
+	SkippyPB <swiegand@Nospam.neo.rr.com> writes:
+> On Wed, 6 Feb 2013 22:29:54 -0800 (PST), ajim
+> <acropolismentors@gmail.com> wrote:
 …[8 more quoted lines elided]…
-> grade.
- 
-Thankfully, more and more schools are learning about these sites and
-taking academic honesty seriously.
-
-http://www.spiegel.de/international/germany/education-minister-schavan-has-ph-d-revoked-in-plagiarism-scandal-a-881707.html
-
-bill
+> grade.
+ 
+Thankfully, more and more schools are learning about these sites and
+taking academic honesty seriously.
+
+http://www.spiegel.de/international/germany/education-minister-schavan-has-ph-d-revoked-in-plagiarism-scandal-a-881707.html
+
+bill
+
+-- 
+Bill Gunshannon          |  de-moc-ra-cy (di mok' ra see) n.  Three wolves
+billg999@cs.scranton.edu |  and a sheep voting on what's for dinner.
+University of Scranton   |
+Scranton, Pennsylvania   |         #include <std.disclaimer.h>
 ```
 
 ###### ↳ ↳ ↳ Re: Cobol Assignment Help
@@ -135,12 +154,12 @@ bill
 - **References:** `<80dec6$ffg$1@ash.prod.itd.earthlink.net> <D9LY3.432$5P1.40449@typhoon.columbus.rr.com> <a4348d66-f260-4a94-ab71-ae8588095fab@googlegroups.com> <nmi7h8hvskhr0m9b5enkvuhkrlpih1ki02@4ax.com> <ani5aiFdh6mU2@mid.individual.net>`
 
 ```
-On Thursday, February 7, 2013 5:07:30 PM UTC, Bill Gunshannon wrote:
-> In article <n@4ax.com>, SkippyPB  writes: 
-> Acropolismentors? Are you referencing acropolismentors.com? 
+On Thursday, February 7, 2013 5:07:30 PM UTC, Bill Gunshannon wrote:
+> In article <n@4ax.com>, SkippyPB  writes: 
+> Acropolismentors? Are you referencing acropolismentors.com? 
 …[3 more quoted lines elided]…
-> grade. Thankfully, more and more schools are learning about these sites and taking academic honesty seriously. 
-
+> grade. Thankfully, more and more schools are learning about these sites and taking academic honesty seriously. 
+
 Hey they do it at Harvard (where 50% of a class are being investigated) so why not everywhere else?
 ```
 

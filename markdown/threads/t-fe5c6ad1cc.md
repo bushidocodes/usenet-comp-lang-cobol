@@ -1,0 +1,39 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# Cobol 85 under nt4
+
+_1 message · 1 participant · 1997-10_
+
+**Topics:** [`COBOL standards (ANS, ISO, 74/85/2002/2014)`](../topics.md#standards)
+
+---
+
+### Cobol 85 under nt4
+
+- **From:** "jo..." <ua-author-17071365@usenetarchives.gap>
+- **Date:** 1997-10-26T19:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<34571b56.2045551@news.u-net.com>`
+
+```
+
+
+Any use cobol 85 under nt4? Ican`t get it to link
+I get the following error:
+
+
+Run File [C:person.exe]: a:person
+List File [NUL.MAP]:
+Libraries [.LIB]:
+Definitions File [NUL.DEF]:
+LINK : warning L4051: COBAPI.lib : cannot find library
+Enter new file spec:
+
+Anyone know whats going on. Everything works fine under win95 and dos,
+
+its just nt4.
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)

@@ -16,11 +16,25 @@ _2 messages · 2 participants · 2011-12_
 - **Message-ID:** `<9qb9f71tmrfofaa60oiu8trk1vjs6gj4j7@4ax.com>`
 
 ```
-
-The earth burped and the gas moved Christchurch again.  Hope Pete and
-all his Kiwi chohorts are alright.
-
-Cheers,
+
+The earth burped and the gas moved Christchurch again.  Hope Pete and
+all his Kiwi chohorts are alright.
+
+Cheers,
+-- 
+
+          ////
+         (o o)
+-oOO--(_)--OOo-
+  
+"I installed a skylight in my apartment... the people who live above me 
+are furious!"
+-- Steven Wright
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Remove nospam to email me.
+
+Steve
 ```
 
 #### ↳ Re: Christchurch is Shaking
@@ -32,20 +46,22 @@ Cheers,
 - **References:** `<9qb9f71tmrfofaa60oiu8trk1vjs6gj4j7@4ax.com>`
 
 ```
-SkippyPB wrote:
-> The earth burped and the gas moved Christchurch again.  Hope Pete and
-> all his Kiwi chohorts are alright.
->
-> Cheers,
-
-I appreciate your concern, Steve.
-
-I am fine (I live hundreds of miles from Christchurch), but the devastation 
-(both physical and mental) from these last shocks is a tragedy and a 
-heartbreak. The nation is numb. You have to see it to believe it. Frankly, 
-it upsets me very much to even talk about it.
-
-Pete.
+SkippyPB wrote:
+> The earth burped and the gas moved Christchurch again.  Hope Pete and
+> all his Kiwi chohorts are alright.
+>
+> Cheers,
+
+I appreciate your concern, Steve.
+
+I am fine (I live hundreds of miles from Christchurch), but the devastation 
+(both physical and mental) from these last shocks is a tragedy and a 
+heartbreak. The nation is numb. You have to see it to believe it. Frankly, 
+it upsets me very much to even talk about it.
+
+Pete.
+-- 
+"I used to write COBOL...now I can do anything."
 ```
 
 ---

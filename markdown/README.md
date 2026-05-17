@@ -32,19 +32,68 @@ Coverage jumps from **December 1994 → June 1998** with no messages in between.
 | [Google Groups](https://groups.google.com/g/comp.lang.cobol) | 1995+ verified | Full content but no enumeration API |
 | **[UsenetArchives.com](https://usenetarchives.com/threads.php?id=comp.lang.cobol&y=1996&r=0&p=1)** | **1994+ complete** | **Best fill source** |
 
-### UsenetArchives.com gap-year coverage
+### UsenetArchives.com coverage and dedupe yield
 
-| Year | Threads available |
-|---|---|
-| 1994 | 133 |
-| 1995 | 1,285 |
-| 1996 | 1,953 |
-| 1997 | 2,707 |
-| 1998 | 3,227 (we have Jun–Dec) |
+Walked all index pages and matched root Message-IDs against our existing archive:
 
-Thread URL pattern: `view.php?id=comp.lang.cobol&mid=<base64-message-id>`. JS-rendered, requires browser automation (Playwright) to scrape. Site has an age gate that's trivially bypassed via JS form submit. Caveats: email addresses are spam-munged (`rbr··.@uv··g.com`); `Message-ID`/`References` headers are not reliably exposed, so threading metadata won't fully match this archive's existing structure.
+| Year | UA threads | New after dedupe |
+|---|---:|---:|
+| 1994 (Nov 10 – Dec 31) | 133 | 107 (pre-Nov-30 + post-Dec-16 gap) |
+| 1995 | 1,285 | 1,285 |
+| 1996 | 1,953 | 1,953 |
+| 1997 | 2,707 | 2,707 |
+| 1998 | 3,227 | 2,025 (Jan 2 – Jun 22 + boundary) |
+| 2013 | 131 | 59 (post-snapshot tail, Jun 12 onward) |
+| 2014–2022 | 378 | 378 |
+| **Total** | **9,814** | **8,514** |
 
-Estimated scrape effort to fill 1995, 1996, 1997, and Jan–May 1998: ~7,200 threads at `Crawl-delay: 10` per their robots.txt → ~25 hours polite, several hours aggressive.
+UA.com has nothing pre-1994 (their earliest year for this group) and nothing post-2022. The mid-1990s gap and the post-snapshot tail are filled by [`scrape_gap.py`](../scrape_gap.py); fetched threads carry `X-Source: usenetarchives.com` in the mbox so downstream code can tell them apart.
+
+Thread URL: `view.php?id=comp.lang.cobol&mid=<urlsafe-base64-message-id>`. JS-rendered (DataTables), requires Playwright. Age gate bypasses via a JS form submit. Robots.txt allows `view.php` with `Crawl-delay: 10` for AI crawlers; at that rate the full run is ~24 h wall-clock, ~7 h at a polite 3 s delay.
+
+### Data fidelity caveats in UA-sourced threads
+
+UA.com publishes a curated, privacy-munged view of historical Usenet — not a raw mbox dump. The 8,500 supplementary threads have several known gaps relative to the Giganews source. For comparison, any post-1998 [thread](threads/) shows what full-fidelity records look like.
+
+**Authorship — stripped or truncated.**
+
+| Field | Giganews source | UA.com source |
+|---|---|---|
+| Author email | preserved (`john@wexfordpress.com`) | stripped — replaced with synthetic `ua-author-{id}@usenetarchives.gap` |
+| Author display name | preserved | truncated email-local-part forms (`im...`, `rtw...`); multi-word real names kept verbatim (`david m. martin`) |
+
+UA's `X-UA-AuthorId` carries a stable numeric ID, so an author's posts merge correctly *within* the gap period. They will **not** bridge to the same person's Giganews-period entries — Pete Dashwood, for example, will show in [authors.md](authors.md) as `"Pete Dashwood"` (1998+ Giganews) **and** as `dashwood` (UA gap), as two separate authors.
+
+**Message bodies — partial obfuscation.**
+
+Inline emails and Message-IDs quoted in reply bodies are masked with `··` (U+00B7 MIDDLE DOT, twice):
+
+```
+original:  In article <4dan6v$t8p@usenet.kornet.nm.kr>, imuk@sobun.kornet.nm.kr says...
+UA shows:  In article <4dan6v$t.··.@use··m.kr>, im··.@sob··m.kr says...
+```
+
+Subject lines, prose, signatures, sign-offs, and external URLs are unmunged. Names inside quoted attribution lines — `(Bob Wolfe)`, `(Phil Paxton)`, `Lim Uk (kornet) wrote:` — survive verbatim and often reveal real names the `From:` header has hidden.
+
+**Threading — reconstructed, not preserved.**
+
+| Header | Giganews source | UA.com source |
+|---|---|---|
+| Thread-root Message-ID | real | real (base64-decoded from URL `mid=` param) |
+| Reply Message-ID | real | synthesized `<gap-{md5(root)}-pN@usenetarchives.gap>` |
+| References / In-Reply-To | real headers | reconstructed from UA's per-post `data-depth` and display order |
+
+Parent/child relationships are correct in shape; reply Message-IDs are local to this archive and never match the wider Usenet record.
+
+**Timestamps — date precision for pre-2000.**
+
+Gap-era UA posts arrive with `HH:00 UTC` regardless of real time. The scraper adds the post number as a seconds offset (`19:00:01`, `19:00:02`, …) so within-thread reply order survives sorting. Post-2000 UA timestamps have real `HH:MM` precision.
+
+**Other artifacts.**
+
+- UA's quote-prefix character is `›` (U+203A), not `>`. Quote-elision in `clean_body()` and the spam filter's `_non_quoted()` key on `>` only, so UA-sourced replies render with longer visible quote blocks. Cosmetic.
+- Some old messages show double-encoded Unicode in UA's stored copy (`Zürich` → `ZÃ¼rich`, `who'll` → `whoï¿½ll`). Passed through unmodified.
+- A handful of threads use a Google-Groups-style 11-char conversation ID in place of a real Message-ID (their original was lost during UA's import). The scraper wraps these as `<ua-fallback-{id}@usenetarchives.gap>` to keep them addressable.
 
 ## Layout
 

@@ -1,0 +1,40 @@
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
+
+# *****US-CHI. COBOL, DB2, AND POWERBUILDER EXP. (RECRUITER)
+
+_1 message · 1 participant · 1996-10_
+
+**Topics:** [`Jobs, careers, recruiting, salary`](../topics.md#jobs) · [`Databases and SQL`](../topics.md#databases)
+
+---
+
+### *****US-CHI. COBOL, DB2, AND POWERBUILDER EXP. (RECRUITER)
+
+- **From:** "i..." <ua-author-4623156@usenetarchives.gap>
+- **Date:** 1996-10-09T20:00:01+00:00
+- **Newsgroups:** comp.lang.cobol
+- **Message-ID:** `<53hmq7$h8s@nntp.interaccess.com>`
+
+```
+
+Interactive Business Consultants, Inc. (IBC), an information
+technology consulting firm, currently has immediate openings for
+individuals with expertise in COBOL, DB2, ADW, ASSEMBLER to work on
+projects for our FORTUNE 100
+clients.
+
+Candidates should e-mail, fax, or mail their resume to IBC for an
+immediate consideration for the placement on our projects, which are
+based in the Chicago vicinity.
+
+INTERACTIVE BUSINESS CONSULTANTS, INC.
+360 West Schick Road
+Bloomingdale, IL 60108
+Phone: (630) 539-0786
+Fax: (630) 539-1786
+Email: i.··.@int··s.com
+```
+
+---
+
+[← Index](../README.md) · [Topics](../topics.md) · [Years](../years.md) · [Subjects](../subjects.md) · [Authors](../authors.md)
