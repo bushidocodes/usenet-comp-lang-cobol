@@ -39,6 +39,9 @@ also call `archive.filter_msgs()` on the same set.
 ## How to run
 
 ```bash
+# Install dependencies (one-time setup).
+pip install -r requirements.txt
+
 # First run only — parses the 375 MB mbox (~60–90s). Subsequent generator
 # runs hit the cached pickle (~1s).
 python archive.py
