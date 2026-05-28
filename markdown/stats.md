@@ -2,9 +2,9 @@
 
 # comp.lang.cobol — Statistics
 
-**168,367 messages** in **24,732 threads** from **1994-11-09** to **2022-04-14** (328 active months).
+**168,012 messages** in **24,720 threads** from **1994-11-09** to **2022-04-14** (328 active months).
 
-**16,933 unique email senders** (932 messages had no parseable email).
+**16,843 unique email senders** (932 messages had no parseable email).
 
 ## Messages per year
 
@@ -12,20 +12,20 @@
 1994  █▍                                                     508
 1995  ███████▍                                             2,749
 1996  ████████████▊                                        4,718
-1997  ██████████████████████                               8,111
+1997  ██████████████████████                               8,110
 1998  ██████████████████████████████████████████████████  18,339
 1999  ████████████████████████████████████████████████▋   17,858
 2000  █████████████████████████████████████████▋          15,279
 2001  ██████████████████████████████                      11,038
 2002  ██████████████████████████▉                          9,893
 2003  ███████████████████████████████████████████████▎    17,345
-2004  ███████████████████████████████▋                    11,635
+2004  ███████████████████████████████▋                    11,633
 2005  █████████████████████████████▊                      10,929
 2006  ████████████████████▏                                7,393
-2007  ███████████████████████▉                             8,778
+2007  ███████████████████████▉                             8,777
 2008  █████████████████████▏                               7,784
-2009  ██████████▋                                          3,934
-2010  █████████▏                                           3,359
+2009  ██████████▋                                          3,931
+2010  █████████▏                                           3,358
 2011  ██████                                               2,210
 2012  ████▊                                                1,769
 2013  ███▊                                                 1,399
@@ -35,9 +35,9 @@
 2017  █▎                                                     475
 2018  █▊                                                     675
 2019  ▍                                                      169
-2020  █▌                                                     563
-2021  ▊                                                      282
-2022  ▏                                                       60
+2020  ▋                                                      256
+2021  ▋                                                      252
+2022  ▏                                                       50
 ```
 
 ## Messages per month
@@ -70,7 +70,7 @@
 1996-11  █████████▉                                            512
 1996-12  ███████████▋                                          603
 1997-01  █████████████                                         675
-1997-02  █████████████▎                                        685
+1997-02  █████████████▎                                        684
 1997-03  ███████████▌                                          593
 1997-04  ███████████▎                                          586
 1997-05  ███████████▉                                          614
@@ -161,8 +161,8 @@
 2004-06  ██████████████████                                    933
 2004-07  ██████████████████▏                                   936
 2004-08  ██████████████████                                    930
-2004-09  ████████████████████████████████▌                   1,678
-2004-10  ███████████████████▌                                1,009
+2004-09  ████████████████████████████████▌                   1,677
+2004-10  ███████████████████▌                                1,008
 2004-11  ███████████████████████████████▏                    1,607
 2004-12  ██████████████████████████▋                         1,374
 2005-01  ████████████████▊                                     864
@@ -199,7 +199,7 @@
 2007-08  █████████████████▏                                    888
 2007-09  █████████████████████████████████▌                  1,727
 2007-10  ████████████████▋                                     860
-2007-11  ████████████▊                                         663
+2007-11  ████████████▊                                         662
 2007-12  ████████████████████▏                               1,043
 2008-01  █████████████████████████████▉                      1,540
 2008-02  ██████████████████████████▎                         1,355
@@ -223,9 +223,9 @@
 2009-08  ██▌                                                   130
 2009-09  █████▎                                                275
 2009-10  █████▌                                                284
-2009-11  ████▎                                                 224
-2009-12  ██████▎                                               328
-2010-01  █████▋                                                293
+2009-11  ████▎                                                 223
+2009-12  ██████▎                                               326
+2010-01  █████▋                                                292
 2010-02  ██████████▍                                           536
 2010-03  ██▍                                                   124
 2010-04  ███                                                   159
@@ -352,23 +352,23 @@
 2020-06  ▏                                                      10
 2020-07  ▍                                                      20
 2020-08  ▍                                                      22
-2020-09  ████                                                  209
-2020-10  ██▌                                                   134
-2020-12                                                          5
-2021-01  ▍                                                      24
-2021-02  █▍                                                     72
-2021-03  ▎                                                      14
+2020-09  ▎                                                      14
+2020-10  ▌                                                      26
+2020-12                                                          1
+2021-01  ▍                                                      20
+2021-02  █▎                                                     67
+2021-03  ▏                                                      10
 2021-04                                                          1
-2021-05  ▏                                                       7
+2021-05                                                          3
 2021-06  ▎                                                      13
-2021-07  ▌                                                      26
+2021-07  ▍                                                      21
 2021-08  ▋                                                      36
-2021-09  ▊                                                      40
+2021-09  ▋                                                      36
 2021-10  ▎                                                      18
 2021-11  ▍                                                      24
-2021-12  ▏                                                       7
-2022-01  ▎                                                      17
-2022-02  ▍                                                      25
+2021-12                                                          3
+2022-01  ▏                                                      11
+2022-02  ▍                                                      21
 2022-03  ▏                                                       7
 2022-04  ▏                                                      11
 ```
@@ -376,42 +376,42 @@
 ## Posting by day of week
 
 ```
-Mon  █████████████████████████████████████▎    25,734
-Tue  ███████████████████████████████████████▌  27,341
-Wed  ████████████████████████████████████████  27,629
-Thu  ███████████████████████████████████████▌  27,303
-Fri  ████████████████████████████████████▊     25,416
-Sat  ██████████████████████████                18,014
-Sun  ████████████████████████▌                 16,930
+Mon  █████████████████████████████████████▏    25,658
+Tue  ███████████████████████████████████████▌  27,306
+Wed  ████████████████████████████████████████  27,608
+Thu  ███████████████████████████████████████▍  27,236
+Fri  ████████████████████████████████████▋     25,358
+Sat  ██████████████████████████                17,976
+Sun  ████████████████████████▍                 16,870
 ```
 
 ## Posting by hour
 
 ```
-00:00  ████████████████████████████████████████  44,684
-01:00  ██▉                                        3,255
-02:00  ██▌                                        2,825
-03:00  ██▎                                        2,519
-04:00  █▉                                         2,183
-05:00  ██                                         2,276
-06:00  ██                                         2,363
-07:00  ███▏                                       3,624
-08:00  ████▏                                      4,687
-09:00  ████▎                                      4,870
-10:00  ████▌                                      5,097
-11:00  █████▌                                     6,166
-12:00  ██████▏                                    6,892
-13:00  █████▋                                     6,296
+00:00  ████████████████████████████████████████  44,670
+01:00  ██▉                                        3,232
+02:00  ██▌                                        2,792
+03:00  ██▏                                        2,471
+04:00  █▉                                         2,157
+05:00  ██                                         2,252
+06:00  ██                                         2,303
+07:00  ███▏                                       3,596
+08:00  ████▏                                      4,660
+09:00  ████▎                                      4,863
+10:00  ████▌                                      5,088
+11:00  █████▌                                     6,151
+12:00  ██████▏                                    6,873
+13:00  █████▋                                     6,292
 14:00  █████▌                                     6,254
 15:00  █████                                      5,592
 16:00  ████▍                                      4,977
 17:00  ████▎                                      4,750
 18:00  ████                                       4,597
-19:00  ████████████▌                             14,098
+19:00  ████████████▌                             14,097
 20:00  ███████████████▎                          17,113
-21:00  ████▎                                      4,794
-22:00  ████                                       4,510
-23:00  ███▌                                       3,945
+21:00  ████▎                                      4,791
+22:00  ████                                       4,506
+23:00  ███▌                                       3,935
 ```
 
 ## Busiest 25 months
@@ -420,8 +420,8 @@ Sun  ████████████████████████▌
 |---|---:|
 | 1998-09 | 2,576 |
 | 2003-05 | 2,474 |
-| 2003-04 | 2,170 |
 | 1998-11 | 2,170 |
+| 2003-04 | 2,170 |
 | 2005-12 | 2,000 |
 | 1998-10 | 1,948 |
 | 2000-04 | 1,902 |
@@ -434,7 +434,7 @@ Sun  ████████████████████████▌
 | 2000-03 | 1,761 |
 | 2007-09 | 1,727 |
 | 2003-06 | 1,726 |
-| 2004-09 | 1,678 |
+| 2004-09 | 1,677 |
 | 1999-10 | 1,665 |
 | 1999-04 | 1,664 |
 | 1999-02 | 1,648 |
@@ -447,10 +447,10 @@ Sun  ████████████████████████▌
 ## Thread size distribution
 
 - **Largest thread:** 1,890 messages
-- **Top 1% threshold (p99):** 73 messages
+- **Top 1% threshold (p99):** 72 messages
 - **Top 5% threshold (p95):** 23 messages
 - **Median thread size:** 2 messages
-- **Single-message threads:** 8,748 (35% of all threads)
+- **Single-message threads:** 8,740 (35% of all threads)
 
 ## Top 30 longest threads ever
 
@@ -497,20 +497,16 @@ Sun  ████████████████████████▌
 | [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) | 61 | 360 | 2000-09 → 2000-10 |
 | [Y2k Death March Begins.](threads/t-92e6de34a6.md) | 57 | 300 | 1998-10 → 1998-11 |
 | [CNN questions for COBOL programmers](threads/t-68d3c8323d.md) | 53 | 81 | 1998-03 → 1998-04 |
-| [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking fo…](threads/t-9cda689360.md) | 52 | 100 | 2020-09 → 2022-02 |
 | [!! Please Help!!](threads/t-5098fbaa28.md) | 50 | 158 | 1998-07 → 1998-08 |
-| [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) | 48 | 84 | 2020-09 → 2022-02 |
 | [Cobol development environment](threads/t-e56b4778a5.md) | 47 | 422 | 2003-06 → 2003-07 |
 | [FORTRAN or COBOL first ?](threads/t-a04be164f6.md) | 46 | 105 | 2003-10 → 2004-02 |
 | [A Favor (please)](threads/t-023bda184b.md) | 46 | 123 | 1998-08 → 1998-09 |
 | [Help! How to get first job](threads/t-6b7720a3a3.md) | 45 | 70 | 1999-04 |
-| [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) | 45 | 90 | 2020-10 → 2022-02 |
 | [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) | 44 | 1,161 | 2003-03 → 2003-10 |
 | [IBM mainframe COBOL - how to close an output file and reopen it with a differen…](threads/t-264e2e8f73.md) | 43 | 55 | 1998-08 → 1998-09 |
 | [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) | 41 | 111 | 2002-05 → 2002-07 |
 | [Parts of a program that break in Y2K?](threads/t-a385d34ff8.md) | 41 | 67 | 1998-09 → 1998-10 |
 | [GO TO](threads/t-3222d57323.md) | 40 | 150 | 2000-05 |
-| [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) | 39 | 73 | 2020-09 → 2022-02 |
 | [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) | 38 | 235 | 2001-06 → 2001-07 |
 | [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) | 36 | 521 | 2003-04 → 2003-06 |
 | [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) | 36 | 170 | 2000-01 → 2000-02 |
@@ -523,6 +519,10 @@ Sun  ████████████████████████▌
 | [Pentium III chips released - Germans already have crack for ID feature](threads/t-aaefdf488e.md) | 34 | 64 | 1999-02 → 1999-03 |
 | [Cobol work?](threads/t-681ec8cbbb.md) | 33 | 289 | 2005-10 → 2005-11 |
 | [If you were inventing CoBOL...](threads/t-7c518b7005.md) | 33 | 873 | 2004-09 → 2005-02 |
+| [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) | 33 | 195 | 2003-05 → 2003-12 |
+| [MVS Packed Decimal with no sign nibble?](threads/t-ad9382958d.md) | 33 | 121 | 2003-12 |
+| [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) | 33 | 456 | 2002-08 → 2002-09 |
+| [on call](threads/t-370c82f30c.md) | 33 | 57 | 1999-10 |
 
 ## Top 50 authors by message count
 
@@ -568,9 +568,9 @@ Sun  ████████████████████████▌
 | Robert Wagner | `robert@wagner.net.yourmammaharvests` | 634 | 79 |
 | Charles Hottel | `chottel@earthlink.net` | 624 | 217 |
 | HeyBub | `heybub@nospamgmail.com` | 565 | 213 |
-| Rick Smith | `ricksmith@aiservices.com` | 556 | 243 |
 | jce | `defaultuser@hotmail.com` | 556 | 162 |
 | Lueko Willms | `l.willms@jpberlin.de` | 556 | 159 |
+| Rick Smith | `ricksmith@aiservices.com` | 556 | 243 |
 | William Lynch | `wblynch@att.net` | 541 | 266 |
 | Binyamin Dissen | `postingid@dissensoftware.com` | 535 | 395 |
 | the goobers | `ua-author-1837635@usenetarchives.gap` | 504 | 327 |
@@ -603,7 +603,7 @@ Threads whose conversation kept going (or kept getting revived) over the widest 
 | [PC Double to Cobol COMP-3](threads/t-73f719b5e2.md) | 19 mo | 1995-11 → 1997-06 | 6 |
 | [Billing rate is pathetic, but multiple OpenVMS COBOL contract openings here](threads/t-02d24dd7c1.md) | 18 mo | 2011-01 → 2012-07 | 3 |
 | [Fortress COBOL - some conclusions](threads/t-a359a8fa92.md) | 17 mo | 2003-07 → 2004-12 | 157 |
-| [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking fo…](threads/t-9cda689360.md) | 17 mo | 2020-09 → 2022-02 | 100 |
+| [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) | 17 mo | 2011-10 → 2013-03 | 90 |
 
 ## Top 20 hottest threads (peak day velocity)
 
@@ -630,7 +630,7 @@ Threads with the most messages posted on a single calendar day — proxy for con
 | [Sets and subsets](threads/t-3875006633.md) | 2003-04-22 | 55 | 439 | 2003-04 → 2003-05 |
 | [Cobol work?](threads/t-681ec8cbbb.md) | 2005-10-31 | 54 | 289 | 2005-10 → 2005-11 |
 | ["Shared" procedure division code](threads/t-d41db28e9f.md) | 2005-08-10 | 52 | 401 | 2005-07 → 2005-09 |
-| [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) | 2020-10-05 | 51 | 90 | 2020-10 → 2022-02 |
+| [Avoiding Logic Error?](threads/t-f02a9913f5.md) | 2004-05-14 | 50 | 128 | 2004-05 |
 
 ## First mentions of key terms
 
@@ -645,11 +645,11 @@ Earliest message in the archive (subject or body) containing each term. Useful f
 | **ANSI 85** | 1994-11-13 | [IBM PC COBOL/2 any good?](threads/t-f0dd3e927f.md) |
 | **Solaris** | 1994-11-15 | [Can MicroFocus Cobol output assembler?](threads/t-df969b6349.md) |
 | **OS/2** | 1994-11-16 | [Re: IBM PC COBOL/2 any good?](threads/t-f0dd3e927f.md) |
-| **Linux** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
-| **Acucobol** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
-| **COBOL 85** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
-| **RM/COBOL** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
-| **object-oriented** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
+| **Linux** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
+| **Acucobol** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
+| **COBOL 85** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
+| **RM/COBOL** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
+| **object-oriented** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
 | **year 2000** | 1994-11-29 | [Re: End of the century](threads/t-cdf3fe00e3.md) |
 | **.NET** | 1994-11-29 | [Re: Value clause](threads/t-2bff0c8e4c.md) |
 | **Delphi** | 1994-12-01 | [Does Visual Cobol exists?](threads/t-2a72339ed0.md) |

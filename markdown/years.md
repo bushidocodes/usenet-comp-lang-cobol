@@ -11,20 +11,20 @@ For each year: total activity, monthly message counts, top conversations, domina
 | [1994](#y1994) | 508 | 196 | 2 |
 | [1995](#y1995) | 2,749 | 1,280 | 12 |
 | [1996](#y1996) | 4,718 | 1,935 | 12 |
-| [1997](#y1997) | 8,111 | 2,669 | 12 |
+| [1997](#y1997) | 8,110 | 2,668 | 12 |
 | [1998](#y1998) | 18,339 | 3,828 | 12 |
 | [1999](#y1999) | 17,858 | 3,547 | 12 |
 | [2000](#y2000) | 15,279 | 2,210 | 12 |
 | [2001](#y2001) | 11,038 | 1,600 | 12 |
 | [2002](#y2002) | 9,893 | 1,325 | 12 |
 | [2003](#y2003) | 17,345 | 1,332 | 12 |
-| [2004](#y2004) | 11,635 | 961 | 12 |
+| [2004](#y2004) | 11,633 | 959 | 12 |
 | [2005](#y2005) | 10,929 | 675 | 12 |
 | [2006](#y2006) | 7,393 | 611 | 12 |
-| [2007](#y2007) | 8,778 | 647 | 12 |
+| [2007](#y2007) | 8,777 | 646 | 12 |
 | [2008](#y2008) | 7,784 | 500 | 12 |
-| [2009](#y2009) | 3,934 | 347 | 12 |
-| [2010](#y2010) | 3,359 | 215 | 12 |
+| [2009](#y2009) | 3,931 | 344 | 12 |
+| [2010](#y2010) | 3,358 | 214 | 12 |
 | [2011](#y2011) | 2,210 | 146 | 12 |
 | [2012](#y2012) | 1,769 | 205 | 12 |
 | [2013](#y2013) | 1,399 | 125 | 12 |
@@ -34,9 +34,9 @@ For each year: total activity, monthly message counts, top conversations, domina
 | [2017](#y2017) | 475 | 48 | 12 |
 | [2018](#y2018) | 675 | 46 | 12 |
 | [2019](#y2019) | 169 | 29 | 12 |
-| [2020](#y2020) | 563 | 39 | 11 |
-| [2021](#y2021) | 282 | 42 | 12 |
-| [2022](#y2022) | 60 | 12 | 4 |
+| [2020](#y2020) | 256 | 35 | 11 |
+| [2021](#y2021) | 252 | 42 | 12 |
+| [2022](#y2022) | 50 | 12 | 4 |
 
 ## 1994 <a id='y1994'></a>
 
@@ -258,12 +258,12 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 1997 <a id='y1997'></a>
 
-**8,111 messages in 2,669 threads** · active 1997-01 → 1997-12
+**8,110 messages in 2,668 threads** · active 1997-01 → 1997-12
 
 ### Months
 
 - **1997-01** — 675 msgs
-- **1997-02** — 685 msgs
+- **1997-02** — 684 msgs
 - **1997-03** — 593 msgs
 - **1997-04** — 586 msgs
 - **1997-05** — 614 msgs
@@ -804,7 +804,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2004 <a id='y2004'></a>
 
-**11,635 messages in 961 threads** · active 2004-01 → 2004-12
+**11,633 messages in 959 threads** · active 2004-01 → 2004-12
 
 ### Months
 
@@ -816,8 +816,8 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2004-06** — 933 msgs
 - **2004-07** — 936 msgs
 - **2004-08** — 930 msgs
-- **2004-09** — 1,678 msgs
-- **2004-10** — 1,009 msgs
+- **2004-09** — 1,677 msgs
+- **2004-10** — 1,008 msgs
 - **2004-11** — 1,607 msgs
 - **2004-12** — 1,374 msgs
 
@@ -847,7 +847,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - Meta: FAQs, group policy, charter — 51 threads
 - Off-topic and spam — 35 threads
 - Help requests and how-to — 33 threads
-- Databases and SQL — 26 threads
+- Databases and SQL — 25 threads
 - Tutorials, books, learning — 23 threads
 - Jobs, careers, recruiting, salary — 23 threads
 - Web, XML, modern integration — 20 threads
@@ -1036,7 +1036,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2007 <a id='y2007'></a>
 
-**8,778 messages in 647 threads** · active 2007-01 → 2007-12
+**8,777 messages in 646 threads** · active 2007-01 → 2007-12
 
 ### Months
 
@@ -1050,7 +1050,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2007-08** — 888 msgs
 - **2007-09** — 1,727 msgs
 - **2007-10** — 860 msgs
-- **2007-11** — 663 msgs
+- **2007-11** — 662 msgs
 - **2007-12** — 1,043 msgs
 
 ### Top 15 threads
@@ -1190,7 +1190,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2009 <a id='y2009'></a>
 
-**3,934 messages in 347 threads** · active 2009-01 → 2009-12
+**3,931 messages in 344 threads** · active 2009-01 → 2009-12
 
 ### Months
 
@@ -1204,8 +1204,8 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2009-08** — 130 msgs
 - **2009-09** — 275 msgs
 - **2009-10** — 284 msgs
-- **2009-11** — 224 msgs
-- **2009-12** — 328 msgs
+- **2009-11** — 223 msgs
+- **2009-12** — 326 msgs
 
 ### Top 15 threads
 
@@ -1265,11 +1265,11 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2010 <a id='y2010'></a>
 
-**3,359 messages in 215 threads** · active 2010-01 → 2010-12
+**3,358 messages in 214 threads** · active 2010-01 → 2010-12
 
 ### Months
 
-- **2010-01** — 293 msgs
+- **2010-01** — 292 msgs
 - **2010-02** — 536 msgs
 - **2010-03** — 124 msgs
 - **2010-04** — 159 msgs
@@ -1993,7 +1993,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2020 <a id='y2020'></a>
 
-**563 messages in 39 threads** · active 2020-01 → 2020-12
+**256 messages in 35 threads** · active 2020-01 → 2020-12
 
 ### Months
 
@@ -2005,16 +2005,12 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2020-06** — 10 msgs
 - **2020-07** — 20 msgs
 - **2020-08** — 22 msgs
-- **2020-09** — 209 msgs
-- **2020-10** — 134 msgs
-- **2020-12** — 5 msgs
+- **2020-09** — 14 msgs
+- **2020-10** — 26 msgs
+- **2020-12** — 1 msgs
 
 ### Top 15 threads
 
-- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs (continues into 2022)
-- [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) — **90** msgs (continues into 2022)
-- [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) — **84** msgs (continues into 2022)
-- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs (continues into 2022)
 - [If you're reading this newsgroup, New Jersey needs YOU!](threads/t-2a2e3bca73.md) — **42** msgs
 - [What is COBOL and WHY should I learn it.](threads/t-68b2fc6598.md) — **34** msgs
 - [And Yet It's Still Moving COBOL](threads/t-3faf3caee2.md) — **29** msgs
@@ -2026,19 +2022,22 @@ For each year: total activity, monthly message counts, top conversations, domina
 - [Ping Pete Dashwood](threads/t-5e08f853f8.md) — **9** msgs
 - [How do a send a "formal event message" to collector $0?](threads/t-b953f6dc88.md) — **9** msgs
 - [OT: The end of an era for me.](threads/t-b13de1de4e.md) — **9** msgs
+- [EASYUI AND COBOL... Just a question](threads/t-0ad54d61fc.md) — **6** msgs
+- [Do you need to read COBOL data files in the R Project for Statistical Computing?](threads/t-aeaa65de1f.md) — **6** msgs
+- [Bill Klein](threads/t-a226daca3a.md) — **6** msgs
+- [Free IBM machine accounts for COBOL programming?](threads/t-c7cbde2a26.md) — **5** msgs
 
 ### Dominant topics
 
 - Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL) — 5 threads
-- Off-topic and spam — 3 threads
 - Jobs, careers, recruiting, salary — 3 threads
 - Help requests and how-to — 2 threads
 - VSAM, files, sorting — 2 threads
 - Meta: FAQs, group policy, charter — 1 threads
 - Tutorials, books, learning — 1 threads
+- Off-topic and spam — 1 threads
 - Compilers and vendors — 1 threads
 - Databases and SQL — 1 threads
-- Date and calendar processing — 1 threads
 
 ### Most active thread starters
 
@@ -2050,39 +2049,35 @@ For each year: total activity, monthly message counts, top conversations, domina
 - bill.gunshannon \`ua-author-12020547@usenetarchives.gap\` — **2** new threads
 - kerry.liles \`ua-author-7511031@usenetarchives.gap\` — **2** new threads
 - d.raj...@gmail.com \`d.raj...@gmail.com\` — **2** new threads
-- cathrinejessi83 \`ua-author-14501900@usenetarchives.gap\` — **2** new threads
 - lkrupp \`ua-author-10879362@usenetarchives.gap\` — **1** new threads
 - federico.priolo \`ua-author-14501445@usenetarchives.gap\` — **1** new threads
 - vleon101 \`ua-author-14501881@usenetarchives.gap\` — **1** new threads
+- federico.priolo \`ua-author-14501736@usenetarchives.gap\` — **1** new threads
 
 ### Threads that escaped the year
 
 (Started this year, but conversation continued into the next.)
 
-- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs, into 2022-02
-- [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) — **90** msgs, into 2022-02
-- [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) — **84** msgs, into 2022-02
-- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs, into 2022-02
 - [Looking for ncr century programmers](threads/t-a461452568.md) — **13** msgs, into 2022-03
 
 ## 2021 <a id='y2021'></a>
 
-**282 messages in 42 threads** · active 2021-01 → 2021-12
+**252 messages in 42 threads** · active 2021-01 → 2021-12
 
 ### Months
 
-- **2021-01** — 24 msgs
-- **2021-02** — 72 msgs
-- **2021-03** — 14 msgs
+- **2021-01** — 20 msgs
+- **2021-02** — 67 msgs
+- **2021-03** — 10 msgs
 - **2021-04** — 1 msgs
-- **2021-05** — 7 msgs
+- **2021-05** — 3 msgs
 - **2021-06** — 13 msgs
-- **2021-07** — 26 msgs
+- **2021-07** — 21 msgs
 - **2021-08** — 36 msgs
-- **2021-09** — 40 msgs
+- **2021-09** — 36 msgs
 - **2021-10** — 18 msgs
 - **2021-11** — 24 msgs
-- **2021-12** — 7 msgs
+- **2021-12** — 3 msgs
 
 ### Top 15 threads
 
@@ -2139,12 +2134,12 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2022 <a id='y2022'></a>
 
-**60 messages in 12 threads** · active 2022-01 → 2022-04
+**50 messages in 12 threads** · active 2022-01 → 2022-04
 
 ### Months
 
-- **2022-01** — 17 msgs
-- **2022-02** — 25 msgs
+- **2022-01** — 11 msgs
+- **2022-02** — 21 msgs
 - **2022-03** — 7 msgs
 - **2022-04** — 11 msgs
 

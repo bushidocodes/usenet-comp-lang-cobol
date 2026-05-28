@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — External Links
 
-URLs extracted from 168,367 message bodies. **71,979 total mentions** across **14,913 unique URLs** and **6,473 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
+URLs extracted from 168,012 message bodies. **70,834 total mentions** across **14,477 unique URLs** and **6,290 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
 
 ## Top 75 domains by mention count
 
@@ -17,13 +17,13 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 | `members.aol.com` | 1,363 | 368 | 1998 (757) |
 | `adtools.com` | 1,221 | 586 | 1998 (411) |
 | `usenet.com` | 1,077 | 267 | 2002 (577) |
-| `google.com` | 1,032 | 466 | 2000 (523) |
+| `google.com` | 1,031 | 465 | 2000 (523) |
 | `personal.bhm.bellsouth.net` | 980 | 407 | 1999 (593) |
 | `dbforums.com` | 950 | 333 | 2003 (785) |
 | `publibz.boulder.ibm.com` | 928 | 329 | 2003 (247) |
 | `microfocus.com` | 710 | 344 | 1998 (188) |
 | `knology.net` | 707 | 218 | 2004 (502) |
-| `groups.google.com` | 703 | 255 | 2008 (111) |
+| `groups.google.com` | 699 | 253 | 2008 (111) |
 | `en.wikipedia.org` | 660 | 194 | 2007 (122) |
 | `newsfeeds.com` | 638 | 196 | 2001 (502) |
 | `dissensoftware.com` | 622 | 390 | 2003 (155) |
@@ -36,7 +36,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 | `primacomputing.co.nz` | 453 | 141 | 2009 (87) |
 | `willms-edv.de` | 430 | 102 | 2004 (254) |
 | `liant.com` | 420 | 273 | 1998 (125) |
-| `tinyurl.com` | 414 | 44 | 2004 (313) |
+| `tinyurl.com` | 396 | 42 | 2004 (295) |
 | `arnoldtrembley.com` | 355 | 110 | 2018 (90) |
 | `siber.com` | 346 | 170 | 1998 (141) |
 | `nbashoe.com` | 328 | 4 | 2009 (328) |
@@ -59,7 +59,6 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 | `cobolportal.com` | 218 | 94 | 2003 (57) |
 | `help.com` | 217 | 102 | 2000 (121) |
 | `netcom.com` | 216 | 133 | 1998 (128) |
-| `vipmodel-escorts.com` | 215 | 3 | 2021 (215) |
 | `s390.ibm.com` | 214 | 103 | 2000 (90) |
 | `mlwerke.de` | 205 | 71 | 2004 (174) |
 | `wwp.mirabilis.com` | 201 | 110 | 1998 (114) |
@@ -82,7 +81,8 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 | `objectz.com` | 148 | 81 | 2005 (62) |
 | `cai.com` | 142 | 88 | 1998 (82) |
 | `computerworld.com` | 140 | 42 | 2012 (21) |
-| `jaipurescorts.club` | 139 | 3 | 2021 (139) |
+| `semdesigns.com` | 136 | 71 | 2001 (38) |
+| `brainbench.com` | 136 | 59 | 2001 (67) |
 
 ## Top 1000 individual URLs (≥2 mentions)
 
@@ -182,7 +182,6 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://bama.ua.edu/archives/ibm-main.html](http://bama.ua.edu/archives/ibm-main.html) — **70** mentions · [first cited 2010-10](threads/t-58dfb07206.md)
 - [http://www.binaries.net](http://www.binaries.net) — **70** mentions · [first cited 2002-02](threads/t-17180c4586.md)
 - [http://www.tutoraid.org/](http://www.tutoraid.org/) — **69** mentions · [first cited 2002-03](threads/t-89aefc054b.md)
-- [https://seniorsizzle.com/go/p2050482](https://seniorsizzle.com/go/p2050482) — **67** mentions · [first cited 2020-09](threads/t-8b7f0517d5.md)
 - [http://www.dice.com](http://www.dice.com) — **66** mentions · [first cited 2003-07](threads/t-33d8fc1e8e.md)
 - [http://www.kiyoinc.com](http://www.kiyoinc.com) — **66** mentions · [first cited 1996-11](threads/t-19921abcb2.md)
 - [http://www.sanface.com/txt2pdf.html](http://www.sanface.com/txt2pdf.html) — **65** mentions · [first cited 2011-05](threads/t-7c12bf8ef1.md)
@@ -309,9 +308,6 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.access.digex.net/~croaker/batfabus.html](http://www.access.digex.net/~croaker/batfabus.html) — **27** mentions · [first cited 1998-11](threads/t-92e6de34a6.md)
 - [http://espresso.repubblica.it/palazzo/2008/05/15/news/vado-riciclo-e-torno-1.8408](http://espresso.repubblica.it/palazzo/2008/05/15/news/vado-riciclo-e-torno-1.8408) — **27** mentions · [first cited 2015-06](threads/t-31231eb66b.md)
 - [https://www.youtube.com/watch?v=DLR-DJJWl_M](https://www.youtube.com/watch?v=DLR-DJJWl_M) — **27** mentions · [first cited 2020-05](threads/t-55fd5fe1d5.md)
-- [http://www.offshore-manual.com](http://www.offshore-manual.com) — **26** mentions · [first cited 2004-12](threads/t-acac588064.md)
-- [http://tinyurl.com/4c2t5](http://tinyurl.com/4c2t5) — **26** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
-- [http://tinyurl.com/5h6rh](http://tinyurl.com/5h6rh) — **26** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://dbforums.com/http://dbforums.com](http://dbforums.com/http://dbforums.com) — **26** mentions · [first cited 2003-11](threads/t-5b5b05e97e.md)
 - [http://home.attbi.com/~berman.bob](http://home.attbi.com/~berman.bob) — **26** mentions · [first cited 2003-04](threads/t-64e54b668b.md)
 - [http://www.deskware.com/cobol/cobol.htm](http://www.deskware.com/cobol/cobol.htm) — **26** mentions · [first cited 1999-06](threads/t-dd75abd226.md)
@@ -321,6 +317,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.dignus.com](http://www.dignus.com) — **25** mentions · [first cited 2010-05](threads/t-00c2aa80b4.md)
 - [http://www.codeproject.com/#poll](http://www.codeproject.com/#poll) — **25** mentions · [first cited 2007-10](threads/t-cec549b0eb.md)
 - [http://www.ibm.com](http://www.ibm.com) — **25** mentions · [first cited 2006-10](threads/t-9147fca21e.md)
+- [http://www.offshore-manual.com](http://www.offshore-manual.com) — **25** mentions · [first cited 2004-12](threads/t-acac588064.md)
 - [http://www.mssint.com](http://www.mssint.com) — **25** mentions · [first cited 2003-10](threads/t-42bf8ece71.md)
 - [http://mindprod.com/jgloss/jgloss.html](http://mindprod.com/jgloss/jgloss.html) — **25** mentions · [first cited 2003-08](threads/t-f935538283.md)
 - [http://www.primenet.com/~vodhner](http://www.primenet.com/~vodhner) — **25** mentions · [first cited 1996-04](threads/t-7c5589c28e.md)
@@ -333,8 +330,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [https://www.bresciatoday.it/cronaca/brescia-persone-scomparse.html](https://www.bresciatoday.it/cronaca/brescia-persone-scomparse.html) — **25** mentions · [first cited 2021-11](threads/t-cc86b9a05a.md)
 - [http://www.24hour-buy.com/](http://www.24hour-buy.com/) — **24** mentions · [first cited 2010-10](threads/t-53ce78948d.md)
 - [http://www.dictionary.com](http://www.dictionary.com) — **24** mentions · [first cited 2007-09](threads/t-b41850b8b6.md)
-- [http://tinyurl.com/4cc39](http://tinyurl.com/4cc39) — **24** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
-- [http://tinyurl.com/6cmk6](http://tinyurl.com/6cmk6) — **24** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/5h6rh](http://tinyurl.com/5h6rh) — **24** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.cobol.org](http://www.cobol.org) — **24** mentions · [first cited 2001-10](threads/t-6f241e430b.md)
 - [http://www.ferrario.com/don](http://www.ferrario.com/don) — **24** mentions · [first cited 2000-08](threads/t-7126ac4206.md)
 - [http://pweb.netcom.com/~wmklein/cobolfaq.htm](http://pweb.netcom.com/~wmklein/cobolfaq.htm) — **24** mentions · [first cited 2000-04](threads/t-1245c5e0de.md)
@@ -348,7 +344,9 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://primacomputing.co.nz/cobdata](http://primacomputing.co.nz/cobdata) — **23** mentions · [first cited 2009-05](threads/t-63efca4eb6.md)
 - [http://supportline.microfocus.com/supportline/documentation/books/nx40/nx40indx.htm](http://supportline.microfocus.com/supportline/documentation/books/nx40/nx40indx.htm) — **23** mentions · [first cited 2007-04](threads/t-0bde903bd1.md)
 - [http://home.cfl.rr.com/davegemini/wc_file.f90](http://home.cfl.rr.com/davegemini/wc_file.f90) — **23** mentions · [first cited 2005-03](threads/t-509a06ffc2.md)
-- [http://tinyurl.com/452ch](http://tinyurl.com/452ch) — **23** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/4cc39](http://tinyurl.com/4cc39) — **23** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/6cmk6](http://tinyurl.com/6cmk6) — **23** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/4c2t5](http://tinyurl.com/4c2t5) — **23** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://cmub.unige.ch/www/si/alain.html](http://cmub.unige.ch/www/si/alain.html) — **23** mentions · [first cited 2001-12](threads/t-b310ed5d7a.md)
 - [http://www.SCREENIO.com/](http://www.SCREENIO.com/) — **23** mentions · [first cited 2001-11](threads/t-6f9a8a3655.md)
 - [http://www.interbulletin.com](http://www.interbulletin.com) — **23** mentions · [first cited 2001-05](threads/t-bc9b7be2e1.md)
@@ -361,31 +359,27 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [https://www.consulentifinanziari24.it/consulenti/scheda/cardena--paolo/44595](https://www.consulentifinanziari24.it/consulenti/scheda/cardena--paolo/44595) — **23** mentions · [first cited 2021-11](threads/t-cc86b9a05a.md)
 - [http://www.cardenaconsulting.it](http://www.cardenaconsulting.it) — **23** mentions · [first cited 2021-11](threads/t-cc86b9a05a.md)
 - [http://www.cobolportal.com](http://www.cobolportal.com) — **22** mentions · [first cited 2007-07](threads/t-4831ecca35.md)
-- [http://tinyurl.com/58hwa](http://tinyurl.com/58hwa) — **22** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
-- [http://tinyurl.com/6kmea](http://tinyurl.com/6kmea) — **22** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://newsgroups.web.de](http://newsgroups.web.de) — **22** mentions · [first cited 2002-01](threads/t-19fe48538c.md)
 - [http://www.s390.ibm.com/os390/bkserv/](http://www.s390.ibm.com/os390/bkserv/) — **22** mentions · [first cited 2000-10](threads/t-eed8657eac.md)
 - [http://members.aol.com/bbello5778/bosun.htm](http://members.aol.com/bbello5778/bosun.htm) — **22** mentions · [first cited 1999-04](threads/t-40c23407af.md)
 - [http://serve.com/seeker/](http://serve.com/seeker/) — **22** mentions · [first cited 1996-12](threads/t-33aa5fa74b.md)
 - [http://4.bp.blogspot.com/-aqbT4KlYsmw/TcLbvUUpkeI/AAAAAAAAAe4/TiDPLR0LH_U/s1600/barrai+ind-pag01.jpg](http://4.bp.blogspot.com/-aqbT4KlYsmw/TcLbvUUpkeI/AAAAAAAAAe4/TiDPLR0LH_U/s1600/barrai+ind-pag01.jpg) — **22** mentions · [first cited 2015-06](threads/t-31231eb66b.md)
-- [https://adultfriendfinder.com/go/p2014884](https://adultfriendfinder.com/go/p2014884) — **22** mentions · [first cited 2020-10](threads/t-8c8006a4d9.md)
 - [http://www.microfocus.com/Resources/Communities/Academic/shop/index.asp](http://www.microfocus.com/Resources/Communities/Academic/shop/index.asp) — **21** mentions · [first cited 2009-11](threads/t-f655dd4389.md)
 - [http://www.netcobol.com](http://www.netcobol.com) — **21** mentions · [first cited 2007-05](threads/t-f9516c27ca.md)
 - [http://supportline.microfocus.com/](http://supportline.microfocus.com/) — **21** mentions · [first cited 2005-05](threads/t-3922aaf216.md)
+- [http://tinyurl.com/452ch](http://tinyurl.com/452ch) — **21** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.ils-international.com](http://www.ils-international.com) — **21** mentions · [first cited 2002-01](threads/t-dac48fdbc5.md)
 - [http://www.mcs.net/~hcarter](http://www.mcs.net/~hcarter) — **21** mentions · [first cited 1998-09](threads/t-67943038e1.md)
 - [http://www.OiT.co.uk/~james/faq/cobol-faq.html](http://www.OiT.co.uk/~james/faq/cobol-faq.html) — **21** mentions · [first cited 1995-06](threads/t-f3de2e8a25.md)
 - [http://www.dimensional.com/~rscott](http://www.dimensional.com/~rscott) — **21** mentions · [first cited 1996-09](threads/t-68d4502392.md)
 - [https://betanews.com/2018/03/22/mainframe-importance-enterprises/](https://betanews.com/2018/03/22/mainframe-importance-enterprises/) — **21** mentions · [first cited 2018-03](threads/t-07bd56f377.md)
-- [https://sites.google.com/view/dating-sites-for-free/home](https://sites.google.com/view/dating-sites-for-free/home) — **21** mentions · [first cited 2020-09](threads/t-2d281c319e.md)
 - [http://www.sanface.com/pdf/oldinvoice.pdf](http://www.sanface.com/pdf/oldinvoice.pdf) — **20** mentions · [first cited 2011-05](threads/t-7c12bf8ef1.md)
 - [http://www.flexus.com/ftp/cobdata.zip](http://www.flexus.com/ftp/cobdata.zip) — **20** mentions · [first cited 2008-09](threads/t-a511b9b92f.md)
 - [http://www.jobserve.com](http://www.jobserve.com) — **20** mentions · [first cited 2007-08](threads/t-049bc0294f.md)
 - [http://www.zeusedit.com](http://www.zeusedit.com) — **20** mentions · [first cited 2006-06](threads/t-994092461d.md)
 - [http://www.csis.ul.ie/COBOL/examples/](http://www.csis.ul.ie/COBOL/examples/) — **20** mentions · [first cited 2005-04](threads/t-336f065641.md)
-- [http://tinyurl.com/5uoej](http://tinyurl.com/5uoej) — **20** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
-- [http://tinyurl.com/v4oa](http://tinyurl.com/v4oa) — **20** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
-- [http://tinyurl.com/5ubpd](http://tinyurl.com/5ubpd) — **20** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/58hwa](http://tinyurl.com/58hwa) — **20** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/6kmea](http://tinyurl.com/6kmea) — **20** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.amazon.com/exec/obidos/ASIN/1590590481/eclecticsoftw-20](http://www.amazon.com/exec/obidos/ASIN/1590590481/eclecticsoftw-20) — **20** mentions · [first cited 2003-07](threads/t-5778813f86.md)
 - [http://www.teamstaroffice.de](http://www.teamstaroffice.de) — **20** mentions · [first cited 2003-04](threads/t-0ecde2f00a.md)
 - [http://www.raincode.com](http://www.raincode.com) — **20** mentions · [first cited 2003-04](threads/t-408758f8cc.md)
@@ -400,7 +394,9 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.cobolstandard.info/j4/index.htm](http://www.cobolstandard.info/j4/index.htm) — **19** mentions · [first cited 2010-02](threads/t-a771d77d86.md)
 - [http://fred.mobach.nl](http://fred.mobach.nl) — **19** mentions · [first cited 2009-07](threads/t-36e8f7149b.md)
 - [http://www.talsystems.com](http://www.talsystems.com) — **19** mentions · [first cited 2008-09](threads/t-a511b9b92f.md)
-- [http://tinyurl.com/4orbq](http://tinyurl.com/4orbq) — **19** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/5uoej](http://tinyurl.com/5uoej) — **19** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/v4oa](http://tinyurl.com/v4oa) — **19** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
+- [http://tinyurl.com/5ubpd](http://tinyurl.com/5ubpd) — **19** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.etk.com/papers/sorting/sorting.htm](http://www.etk.com/papers/sorting/sorting.htm) — **19** mentions · [first cited 2003-04](threads/t-c98b53a314.md)
 - [http://netnet.net/~farmer/index.html](http://netnet.net/~farmer/index.html) — **19** mentions · [first cited 2003-01](threads/t-81632e8b73.md)
 - [http://www.ils-international.com/goldmine/newcobol.htm](http://www.ils-international.com/goldmine/newcobol.htm) — **19** mentions · [first cited 2000-07](threads/t-2ffd57bc85.md)
@@ -418,6 +414,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [https://groups.google.com/g/comp.lang.python/c/aRdLu8PIHXg](https://groups.google.com/g/comp.lang.python/c/aRdLu8PIHXg) — **19** mentions · [first cited 2021-11](threads/t-cc86b9a05a.md)
 - [http://supportline.microfocus.com/documentation/books/nx31sp1/nx31indx.htm](http://supportline.microfocus.com/documentation/books/nx31sp1/nx31indx.htm) — **18** mentions · [first cited 2007-09](threads/t-9d91f178f1.md)
 - [http://www.kimsoft.com/api-cobol/api-cobol.htm](http://www.kimsoft.com/api-cobol/api-cobol.htm) — **18** mentions · [first cited 2005-07](threads/t-2ce6aec431.md)
+- [http://tinyurl.com/4orbq](http://tinyurl.com/4orbq) — **18** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.cobolportal.com/j4/files/03-0145.doc](http://www.cobolportal.com/j4/files/03-0145.doc) — **18** mentions · [first cited 2003-05](threads/t-3cc145252a.md)
 - [http://www.crimes-of-persuasion.com/Crimes/Business/nigerian.htm](http://www.crimes-of-persuasion.com/Crimes/Business/nigerian.htm) — **18** mentions · [first cited 2002-11](threads/t-ce84227c11.md)
 - [http://www.geocities.com/Eureka/2006/ring.htm](http://www.geocities.com/Eureka/2006/ring.htm) — **18** mentions · [first cited 2001-12](threads/t-f5627081bf.md)
@@ -435,7 +432,6 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.adtools.com/student/index.htm](http://www.adtools.com/student/index.htm) — **17** mentions · [first cited 2008-07](threads/t-c74a50367a.md)
 - [http://www.acucorp.com/](http://www.acucorp.com/) — **17** mentions · [first cited 2006-05](threads/t-fcf14917c7.md)
 - [http://www.cobolportal.com/microfocusforum/agreement.asp](http://www.cobolportal.com/microfocusforum/agreement.asp) — **17** mentions · [first cited 2005-04](threads/t-10cae75d79.md)
-- [http://fravia.2113.ch/phplab/mbs.php3/mb001?num=1029551733&thread=1028133973](http://fravia.2113.ch/phplab/mbs.php3/mb001?num=1029551733&thread=1028133973) — **17** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.liant.com/products/relativity/](http://www.liant.com/products/relativity/) — **17** mentions · [first cited 2004-09](threads/t-fc06ce4141.md)
 - [http://www.eclecticsoftwaresolutions.com](http://www.eclecticsoftwaresolutions.com) — **17** mentions · [first cited 2003-07](threads/t-5778813f86.md)
 - [http://apress.com/book/bookDisplay.html?bID=112](http://apress.com/book/bookDisplay.html?bID=112) — **17** mentions · [first cited 2003-07](threads/t-5778813f86.md)
@@ -454,6 +450,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://homepages.ihug.co.nz/~dashwood/dashwood/RDBStuff/](http://homepages.ihug.co.nz/~dashwood/dashwood/RDBStuff/) — **16** mentions · [first cited 2007-04](threads/t-cafc8fc719.md)
 - [http://publibz.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/CEEA3170/2.2.5.9](http://publibz.boulder.ibm.com/cgi-bin/bookmgr_OS390/BOOKS/CEEA3170/2.2.5.9) — **16** mentions · [first cited 2007-03](threads/t-4be5cadea0.md)
 - [http://www.cobolstandards.com](http://www.cobolstandards.com) — **16** mentions · [first cited 2005-08](threads/t-529600332b.md)
+- [http://fravia.2113.ch/phplab/mbs.php3/mb001?num=1029551733&thread=1028133973](http://fravia.2113.ch/phplab/mbs.php3/mb001?num=1029551733&thread=1028133973) — **16** mentions · [first cited 2004-11](threads/t-f9b601cc3c.md)
 - [http://www.slickedit.com](http://www.slickedit.com) — **16** mentions · [first cited 2004-09](threads/t-7c518b7005.md)
 - [http://www.thekompany.com](http://www.thekompany.com) — **16** mentions · [first cited 2004-09](threads/t-7c518b7005.md)
 - [http://www.eskimo.com/~scs/C-faq/top.html](http://www.eskimo.com/~scs/C-faq/top.html) — **16** mentions · [first cited 2004-02](threads/t-679fe1a83a.md)
@@ -572,7 +569,6 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.aboutlegacycoding.com/archives/v4/v40603.asp](http://www.aboutlegacycoding.com/archives/v4/v40603.asp) — **13** mentions · [first cited 2006-01](threads/t-a33db5be1a.md)
 - [http://www.nytimes.com/2005/03/13/international/middleeast/13loot.html](http://www.nytimes.com/2005/03/13/international/middleeast/13loot.html) — **13** mentions · [first cited 2005-03](threads/t-ade484509a.md)
 - [http://www.eurobrides.com](http://www.eurobrides.com) — **13** mentions · [first cited 2005-01](threads/t-5a1963c74b.md)
-- [http://tinyurl.com/56dqa](http://tinyurl.com/56dqa) — **13** mentions · [first cited 2004-11](threads/t-bcfef47c6b.md)
 - [http://msn-cnet.com.com/2100-1046_3-5148148.html](http://msn-cnet.com.com/2100-1046_3-5148148.html) — **13** mentions · [first cited 2004-02](threads/t-e9153861ff.md)
 - [http://www.indigo.ca](http://www.indigo.ca) — **13** mentions · [first cited 2004-01](threads/t-bcadaa7f9d.md)
 - [http://www.kedit.com](http://www.kedit.com) — **13** mentions · [first cited 2003-08](threads/t-4027e41b86.md)
@@ -622,6 +618,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.adtools.com/download/v3starter/register.htm](http://www.adtools.com/download/v3starter/register.htm) — **12** mentions · [first cited 2005-10](threads/t-e786cb2e9a.md)
 - [http://www.thekompany.com/products/kobol](http://www.thekompany.com/products/kobol) — **12** mentions · [first cited 2005-09](threads/t-950f3d0446.md)
 - [http://home.comcast.net/~wmklein/DOX/WORDCNT2.txt](http://home.comcast.net/~wmklein/DOX/WORDCNT2.txt) — **12** mentions · [first cited 2005-02](threads/t-509a06ffc2.md)
+- [http://tinyurl.com/56dqa](http://tinyurl.com/56dqa) — **12** mentions · [first cited 2004-11](threads/t-bcfef47c6b.md)
 - [http://encarta.msn.com/](http://encarta.msn.com/) — **12** mentions · [first cited 2004-09](threads/t-7c518b7005.md)
 - [http://supportline.microfocus.com/documentation/books/nx31sp1/lrpubb.htm](http://supportline.microfocus.com/documentation/books/nx31sp1/lrpubb.htm) — **12** mentions · [first cited 2004-09](threads/t-7c518b7005.md)
 - [http://www.download.com](http://www.download.com) — **12** mentions · [first cited 2004-08](threads/t-9a7782f065.md)
@@ -1086,4 +1083,7 @@ URLs extracted from 168,367 message bodies. **71,979 total mentions** across **1
 - [http://www.bartleby.com/66/25/10625.html](http://www.bartleby.com/66/25/10625.html) — **7** mentions · [first cited 2005-06](threads/t-6595d920f2.md)
 - [http://www.spews.org](http://www.spews.org) — **7** mentions · [first cited 2005-05](threads/t-8a02aae56f.md)
 - [http://www.minisoftindia.com](http://www.minisoftindia.com) — **7** mentions · [first cited 2005-03](threads/t-7a4251cec8.md)
+- [http://www.mattparker.org](http://www.mattparker.org) — **7** mentions · [first cited 2005-01](threads/t-5a1963c74b.md)
+- [http://www.huskylaw.net/StudyGuides/hardisty_familylaw_2000.doc](http://www.huskylaw.net/StudyGuides/hardisty_familylaw_2000.doc) — **7** mentions · [first cited 2004-11](threads/t-4e5f66a214.md)
+- [http://www.garlic.com/~lynn/](http://www.garlic.com/~lynn/) — **7** mentions · [first cited 2004-07](threads/t-2aaa73df4b.md)
 

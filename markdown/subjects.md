@@ -2,13 +2,13 @@
 
 # comp.lang.cobol — Subject Concordance
 
-Every distinct thread subject in the archive (24,732 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
+Every distinct thread subject in the archive (24,720 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
 
 **Jump to:** [#](#letter-symbols) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## # <a id='letter-symbols'></a>
 
-_1,024 threads._
+_1,020 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -154,7 +154,6 @@ _1,024 threads._
 | [## FreePic ##](threads/t-0f7c4b9e3b.md) | 1 | 1997-06 |
 | [### bargain computer books ###](threads/t-6a05a2de40.md) | 1 | 1997-04 |
 | [##C/C++, Fortran, Cobol, ADA, LISP, etc.**New Compilers**](threads/t-1fe0724a67.md) | 2 | 1999-04 |
-| [#1 STD & Herpes Dating Site, Million Positive Singles - Join Free Today!](threads/t-8c8006a4d9.md) | 90 | 2020-10 → 2022-02 |
 | [#GIOELEMAGALDI �� ASSASSINO E PEDOFILO! SI, PROPRIO COS��! �� PEDERASTA OMICIDA: GIOELE MAGALDI DI CRIMINALE…](threads/t-7acd0c3ac1.md) | 1 | 2022-02 |
 | [#LEOZAGAMI �� PEDOFILO ASSASSINO, SATANISTA, NAZISTA, SATA���NAZISTA, FILO MAFIOSO, COCAINOMANE E STRA FIGLIO…](threads/t-2d92e38a51.md) | 1 | 2022-02 |
 | [#MARINABERLUSCONI �� ASSASSINA, LESBICA E PEDOFILA! SI, PROPRIO PROPRIO COS��! �� COCAINOMANE, ASSASSINA E PE…](threads/t-20ee13dff2.md) | 1 | 2022-02 |
@@ -1003,18 +1002,15 @@ _1,024 threads._
 | [~~~~~~~~~~~~~~ CAREER ASSESSMENT ~~~~~~~~~~~~~~](threads/t-4739d94936.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ CHICKEN COOP ~~~~~~~~~~~~~~](threads/t-b92ee5dbdf.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ COLOR BLINDNESS ~~~~~~~~~~~~~~](threads/t-afc85adf93.md) | 1 | 2009-12 |
-| [~~~~~~~~~~~~~~ DOMINANT WOMEN ~~~~~~~~~~~~~~](threads/t-3665ed153f.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ ELECTRICAL SWITCH ~~~~~~~~~~~~~~](threads/t-aff3a8668d.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ ENDOCRINE SYSTEM ~~~~~~~~~~~~~~](threads/t-f238a295d7.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ LESSON PLANS ~~~~~~~~~~~~~~](threads/t-25fbdc057b.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ LOFT BED ~~~~~~~~~~~~~~](threads/t-b92ee2cabd.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ MEDIEVAL CASTLES ~~~~~~~~~~~~~~](threads/t-e6c2cbe3f9.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ PHAT AZZ ~~~~~~~~~~~~~~](threads/t-761f746bd8.md) | 1 | 2009-12 |
-| [~~~~~~~~~~~~~~ PORNO MOVIES ~~~~~~~~~~~~~~](threads/t-8d4a410387.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ TOUR COMPANIES ~~~~~~~~~~~~~~](threads/t-5bebbd3f68.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ TOYOTA TRUCKS ~~~~~~~~~~~~~~](threads/t-478b0a2fdb.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ WEB RING ~~~~~~~~~~~~~~](threads/t-e2ff93af1c.md) | 1 | 2009-11 |
-| [~~~~~~~~~~~~~~ YOUNG TEEN ~~~~~~~~~~~~~~](threads/t-6160d930a6.md) | 1 | 2009-11 |
 | [【招聘】Cobol图书作者](threads/t-25fbe69b33.md) | 2 | 2007-06 |
 | [�� ASSASSINA E LESBICA: #MARINABERLUSCONI! �� NAZI���PEDOFILA KILLER MARINA BERLUSCONI! COME SUO PADRE, IL FA…](threads/t-1b611451a8.md) | 1 | 2021-12 |
 | [�� BESTIA CRIMINALISSIMA #MASSIMODORIS DI #BANCAMEDIOLANUM! RICICLA TANTI SOLDI MAFIOSI, ESATTAMENTE DEI NDRA…](threads/t-65adbf85e9.md) | 1 | 2021-09 |
@@ -1039,7 +1035,7 @@ _1,024 threads._
 
 ## A <a id='letter-a'></a>
 
-_1,267 threads._
+_1,265 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -1542,8 +1538,6 @@ _1,267 threads._
 | [ADO and MF NetExpress?](threads/t-6c388fa992.md) | 1 | 1999-12 |
 | [ADO and ODBC](threads/t-2d2a9519f2.md) | 2 | 2001-09 |
 | [ads-batch how to relate to datasetname?](threads/t-1c32daae69.md) | 1 | 2003-11 |
-| [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) | 73 | 2020-09 → 2022-02 |
-| [ADULTS ONLY- Check this out! (UskFpP)](threads/t-efc342b924.md) | 1 | 1997-02 |
 | [ADV: Do you want to give Python a try?](threads/t-d8947f38ae.md) | 1 | 2001-01 |
 | [Adv: GUI ScreenIO only $495 through December](threads/t-673563a86c.md) | 1 | 2000-12 |
 | [Advance Paint Guard Employment](threads/t-5eb0073c8d.md) | 5 | 2010-10 |
@@ -2687,7 +2681,7 @@ _367 threads._
 
 ## C <a id='letter-c'></a>
 
-_4,608 threads._
+_4,606 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -2721,7 +2715,6 @@ _4,608 threads._
 | [C-isam odbc driver on hpux](threads/t-52303eed0b.md) | 3 | 1998-01 → 1998-02 |
 | [C-like strings in MicroFocus COBOL ?](threads/t-ea5bea7c85.md) | 34 | 1999-10 → 1999-11 |
 | [C-preprocessor for COBOL?](threads/t-47a372dc2b.md) | 20 | 2004-07 |
-| [C.H.E.A.P ..C.I.G.A.R.E.T.T.E.S...D.E.L.I.V.E.R.I.E.S...T.O...A.L.L...C.O.U.N.T.R.I.E.S...24155op9](threads/t-09595a0f26.md) | 1 | 2007-11 |
 | [C.H.E.A.P....C.I.G.A.R.E.T.T.E.S.....jYtQJUhN60sM](threads/t-848264cf51.md) | 1 | 2007-10 |
 | [C.I.L Limited September 17/18th.](threads/t-c10c8de484.md) | 2 | 1997-09 |
 | [c.l.c residents in NY](threads/t-d6db27ead2.md) | 8 | 2001-09 |
@@ -6575,7 +6568,6 @@ _4,608 threads._
 | [comp.lang.cobol.student](threads/t-0c9986a08c.md) | 20 | 2000-05 |
 | [comp.lang.java.programmer,alt.games.tolkien.rpg,alt.autos.gm.olds-cutlass,alt.business.consulting,comp.lang.c…](threads/t-4a2235ea59.md) | 1 | 2004-12 |
 | [Comp.sources.cobol](threads/t-3f4775caf1.md) | 11 | 1996-10 |
-| [comp.specification.larch,comp.lang.cobol,sci.physics.relativity,alt.culture.knights,comp.databases.ibm-db2 ma…](threads/t-d4c4c17c0c.md) | 1 | 2004-09 |
 | [COMP/COMP-3 Conversion Problems](threads/t-780fdda589.md) | 23 | 1999-02 |
 | [Comp/comp-3 usage](threads/t-177729123f.md) | 3 | 1995-06 |
 | [comp/comp3 numbers in Perl or maybe C](threads/t-23a068b700.md) | 9 | 1999-01 |
@@ -8701,7 +8693,7 @@ _562 threads._
 
 ## F <a id='letter-f'></a>
 
-_1,070 threads._
+_1,069 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -8893,7 +8885,6 @@ _1,070 threads._
 | [FIND COBOL ?](threads/t-20eacb6a38.md) | 1 | 1999-12 |
 | [FIND COBOL ?](threads/t-045c060f92.md) | 1 | 1999-12 |
 | [FIND FIRST, FIND NEXT](threads/t-ff27584503.md) | 13 | 1999-10 |
-| [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) | 100 | 2020-09 → 2022-02 |
 | [Find Girls Sex Dating Near Me In Local \| Adult Hookup Dating](threads/t-709edd2eed.md) | 41 | 2021-07 → 2021-09 |
 | [Find job-name etc in a cobol program?](threads/t-c67b0dbc08.md) | 6 | 2003-03 |
 | [Find Mainline name](threads/t-b41c74ef3e.md) | 3 | 2000-02 |
@@ -13660,7 +13651,7 @@ _633 threads._
 
 ## M <a id='letter-m'></a>
 
-_2,027 threads._
+_2,026 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -13937,7 +13928,6 @@ _2,027 threads._
 | [Marketplace for Technical Expertise](threads/t-40427656a1.md) | 1 | 1999-12 |
 | [MARKIV Source Code](threads/t-de50296c46.md) | 2 | 2000-09 |
 | [Marriage for convenience...](threads/t-889b0a345c.md) | 11 | 2003-09 |
-| [Married Women Seeking Men for Extra Marital Affair - Local Single Looking Dating](threads/t-8b7f0517d5.md) | 84 | 2020-09 → 2022-02 |
 | [Marshallsoft Email Software](threads/t-c2ba730de8.md) | 2 | 2002-03 |
 | [mastercard conversion to ipm](threads/t-a7c72a55e4.md) | 25 | 2001-06 |
 | [match program example](threads/t-6ac5fb12b8.md) | 70 | 2003-11 → 2003-12 |
@@ -16724,7 +16714,7 @@ _1,023 threads._
 
 ## O <a id='letter-o'></a>
 
-_1,035 threads._
+_1,034 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -16966,7 +16956,6 @@ _1,035 threads._
 | [OldBOL to NewBOL](threads/t-3a526049a9.md) | 5 | 2006-02 |
 | [OldBOL to NewBOL - <IBM> COBOL Migration Tutorial](threads/t-74912aa53d.md) | 1 | 1999-01 |
 | [Older Fujitsu Versions on Windows 2000?](threads/t-e5f9843db8.md) | 6 | 2000-08 |
-| [older women looking for younger men , married women](threads/t-81cda53dc2.md) | 1 | 2010-01 |
 | [oldest programmer story published](threads/t-ca25abb26e.md) | 2 | 1999-03 |
 | [OLE Automation](threads/t-10e472a414.md) | 4 | 1999-10 |
 | [OLE Automation, DCOM](threads/t-adfd41ab03.md) | 5 | 1999-08 |
@@ -21637,7 +21626,7 @@ _1,388 threads._
 
 ## T <a id='letter-t'></a>
 
-_787 threads._
+_786 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -22041,7 +22030,6 @@ _787 threads._
 | [The next Y2K: Y2.038K bug](threads/t-7aa3928605.md) | 5 | 2008-03 |
 | [The old days and year 2000](threads/t-64759ebc32.md) | 3 | 1997-04 |
 | [The Oneness of God is the message of Jesus and all the Prophets, peace be upon them !!!!!!!!!!!!!!](threads/t-345dd69218.md) | 1 | 2012-03 |
-| [the only purpose of antiscam.org is to lead users to the commercial sites of matt parker](threads/t-07a4324680.md) | 1 | 2004-10 |
 | [The past, present and future of COBOL language](threads/t-1e5693121a.md) | 1 | 1996-05 |
 | [The pioneering personals site that revolutionized online dating, with nearly million members-Millionaire!{$50…](threads/t-d4c6f77934.md) | 1 | 2008-03 |
 | [THE POPULATION OF MUSLIMS](threads/t-016f8eb30f.md) | 1 | 2013-09 |
