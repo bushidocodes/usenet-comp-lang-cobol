@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import shutil
 import sys
 import time
 from collections import defaultdict
@@ -52,7 +53,13 @@ OUT = PROJECT_DIR / "web" / "data"
 # ---------------------------------------------------------------------------
 
 def mkdirs():
-    for d in [OUT, OUT / "threads", OUT / "year", OUT / "topic", OUT / "author"]:
+    OUT.mkdir(parents=True, exist_ok=True)
+    # Wipe per-item subdirs so a re-export with a changed thread/author set
+    # doesn't leave orphaned files behind (e.g. anchors that no longer exist).
+    for sub in ("threads", "year", "topic", "author"):
+        d = OUT / sub
+        if d.exists():
+            shutil.rmtree(d)
         d.mkdir(parents=True, exist_ok=True)
 
 
