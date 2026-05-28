@@ -77,18 +77,28 @@ def first_mention_timeline(msgs, terms):
     pattern = re.compile("|".join(parts), re.IGNORECASE)
 
     first: dict[str, dict] = {}
+    remaining: set[str] = set(terms)
+    remaining_lower: set[str] = {t.lower() for t in terms}
+
     chronological = sorted(
         (m for m in msgs.values() if m["dt"] is not None),
         key=lambda m: date_key(m["dt"]),
     )
     for entry in chronological:
-        if len(first) == len(terms):
+        if not remaining:
             break
         haystack = (entry.get("subject") or "") + "\n" + (entry.get("body") or "")
+        haystack_lower = haystack.lower()
+        # Cheap pre-filter: skip messages that can't match any remaining term.
+        if not any(t in haystack_lower for t in remaining_lower):
+            continue
         for m in pattern.finditer(haystack):
             for name, val in m.groupdict().items():
-                if val and name_to_term[name] not in first:
-                    first[name_to_term[name]] = entry
+                term = name_to_term[name]
+                if val and term in remaining:
+                    first[term] = entry
+                    remaining.discard(term)
+                    remaining_lower.discard(term.lower())
     return first
 
 
