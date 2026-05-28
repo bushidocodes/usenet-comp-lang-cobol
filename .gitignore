@@ -18,6 +18,9 @@ build.log
 # build.py sentinel — tracks last successful thread.py run; regenerated each build
 markdown/threads/.stamp
 
+# Generated web data (run `python export_json.py --data-dir <path>` to rebuild)
+web/data/
+
 # Tool artifacts
 .playwright-mcp/
 .claude/
