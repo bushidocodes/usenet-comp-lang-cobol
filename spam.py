@@ -109,6 +109,13 @@ SPAM_HOSTS: frozenset[str] = frozenset([
     # "Earn money from home" / online-gambling spam
     "earnparttimejobs.com",
     "casino.de",
+    # More porn-site spam
+    "pornoduel.com",
+    "servik.com",
+    "coolpage.biz",
+    "euro-net.com/web/users/hotdate",  # 1996 dating-spam shortcut URL
+    # SEO / "services" spam
+    "needhelp.net.in",
 ])
 
 # Domain suffixes that, in this archive, host *only* spam. Every URL with
@@ -126,6 +133,7 @@ SPAM_HOST_SUFFIXES: tuple[str, ...] = (
     ".euro.st",        # São Tomé free
     ".50webs.com",     # free webhost
     ".blogspot.in",    # Indian-locale Blogger — 100% spam in this archive
+    ".psend.com",      # free hosting — only porn spam in this archive
 )
 
 # Subjects that are unmistakable commercial dating/adult advertisements. In
@@ -189,6 +197,7 @@ _ADULT_SUBJECT_PATTERNS: tuple[str, ...] = (
     r"\bporno\b", r"\bfree porn\b", r"\bporn site", r"\bsex personals\b",
     r"\bgirls for (?:sex|fuck)\b", r"\binstant sex appeal\b", r"\bcocksucking\b",
     r"\banal teen\b", r"\bhottest adult\b", r"\bfree xxx\b", r"\bsex movies\b",
+    r"\bgroupsex\b", r"\bsexvideos\b", r"\bsex videos\b",
 )
 ADULT_SUBJECT_RE = re.compile("|".join(_ADULT_SUBJECT_PATTERNS), re.IGNORECASE)
 
@@ -204,6 +213,7 @@ _ADULT_BODY_PHRASES: tuple[str, ...] = (
     "adult hookup", "sex scene", "free porn", "porn site", "porn videos",
     "flash porn", "sex videos", "sex movies", "nude pics", "nude celebs",
     "busty women", "horny girls", "anal teen", "cocksucking", "schoolgirls",
+    "groupsex", "sexvideos",
 )
 _ADULT_BODY_RE = [
     re.compile(r"\b" + re.escape(p) + r"\b", re.IGNORECASE) for p in _ADULT_BODY_PHRASES
@@ -254,6 +264,36 @@ _RANT_RE = re.compile(
 )
 # Distinct rant terms needed to call a single message defamation-campaign spam.
 _RANT_PHRASE_MIN = 2
+
+# Off-topic religious-proselytizing (dawah) spam from a serial crossposter who
+# flooded the group with "Introducing Islam" / "Concept of God" / "Why did
+# Prophet Muhammad..." posts under throwaway handles. Caught two ways:
+#  - the throwaway-email pattern (a 2-letter prefix repeated 3x with digits:
+#    bv8bv8bv8, bv5bv5bv5, cv33cv33cv33) — matches only this spammer corpus-wide;
+#  - a proselytizing SUBJECT plus a body dense with religious terms (catches the
+#    same posts re-scraped under anonymized usenetarchives handles).
+# A genuine OT religious tangent in a COBOL thread is not affected: the subject
+# anchor + density requirement keeps it from firing, and even when a regular
+# *replies* to one of these spam threads, only the spam-rooted thread is dropped.
+_DAWAH_HANDLE_RE = re.compile(r"\b([a-z]{2})\d+\1\d+\1\d*\b", re.IGNORECASE)
+_DAWAH_SUBJECT_RE = re.compile(
+    r"\b(islam|muslim|muhammad|qur'?an|allah|prophet|monotheism|oneness of god"
+    r"|the messenger|peace be upon|dawah|god in islam|introducing islam)\b",
+    re.IGNORECASE,
+)
+_DAWAH_BODY_PHRASES: tuple[str, ...] = (
+    "islam", "muslim", "muhammad", "qur'an", "quran", "allah", "prophet",
+    "peace be upon him", "the messenger of allah", "oneness", "worship god",
+    "non-muslims", "non muslims", "verily", "almighty", "glory be",
+)
+_DAWAH_BODY_RE = [re.compile(r"\b" + p + r"\b", re.IGNORECASE) for p in _DAWAH_BODY_PHRASES]
+_DAWAH_BODY_MIN = 4
+
+# Reply-prefix detector. The dawah *content* rule fires only on original posts,
+# never on replies — so a regular who answers one of these threads (inheriting
+# the religious subject and quoting the post) is not mistaken for the spammer
+# and can keep a thread with genuine human debate alive.
+_REPLY_PREFIX_RE = re.compile(r"^\s*(re|fw|fwd|aw|sv|antw|odp|res|rif)\s*:", re.IGNORECASE)
 
 # Minimum words of substantive content for a message to "count" as a real reply.
 _SUBSTANTIVE_WORD_MIN = 3
@@ -375,6 +415,54 @@ def message_is_wholesale_spam(entry: dict) -> bool:
     return len(_WHOLESALE_RE.findall(text)) >= _WHOLESALE_MIN
 
 
+def message_is_dawah_spam(entry: dict) -> bool:
+    """True if a message is the serial religious-proselytizing crossposter.
+
+    Either the throwaway-handle email pattern, or a proselytizing subject plus a
+    body dense with religious terms (catches the anonymized re-scrapes).
+    """
+    email = entry.get("email") or ""
+    local = email.split("@", 1)[0] if email else ""
+    if _DAWAH_HANDLE_RE.search(local):
+        return True
+    if (entry.get("display_name") or "").strip().upper() == "BV BV":
+        return True
+    subject = entry.get("subject") or ""
+    # Content rule applies only to original posts — never to replies, so genuine
+    # human debate in these threads is preserved.
+    if _REPLY_PREFIX_RE.match(subject):
+        return False
+    if not _DAWAH_SUBJECT_RE.search(subject):
+        return False
+    text = subject + "\n" + _non_quoted(entry.get("body") or "")
+    return sum(1 for rx in _DAWAH_BODY_RE if rx.search(text)) >= _DAWAH_BODY_MIN
+
+
+def message_is_misc_spam(entry: dict) -> bool:
+    """Distinctive single-campaign spam signatures with no broader pattern.
+
+    Each test is a fingerprint specific enough that it only ever appears in the
+    named campaign — not a general heuristic. Add new ones here as serial spam
+    is identified.
+    """
+    text = (
+        (entry.get("subject") or "") + "\n" + _non_quoted(entry.get("body") or "")
+    ).lower()
+    # Textbook "solutions manual" reseller (handle: solutionsmanual2019@gmail).
+    if "solutionsmanual" in text:
+        return True
+    # "Maan Al Sanea" money-laundering YouTube-video spam campaign.
+    if "maan alsaan" in text or "maan al sanea" in text:
+        return True
+    # Detox-tea / weight-loss spam.
+    if "detox tea" in text and "belly fat" in text:
+        return True
+    # "Heather Kennett / Con Zacharakis" harassment-defamation campaign.
+    if "heather kennett" in text and "con zacharakis" in text:
+        return True
+    return False
+
+
 def subject_is_spam(subject: str) -> bool:
     """True if a subject is an unmistakable dating/adult/porn advertisement.
 
@@ -394,6 +482,8 @@ def _is_spam_message(entry: dict) -> bool:
         or message_is_rant_spam(entry)
         or message_is_adult_spam(entry)
         or message_is_wholesale_spam(entry)
+        or message_is_dawah_spam(entry)
+        or message_is_misc_spam(entry)
     )
 
 
