@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — Topic Index
 
-Topical groupings of the 24,720 threads (168,012 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
+Topical groupings of the 24,684 threads (167,960 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
 
 ## Topics
 
@@ -20,12 +20,12 @@ Topical groupings of the 24,720 threads (168,012 messages) in this archive. Thre
 - [Databases and SQL](#databases) — 922 threads
 - [VSAM, files, sorting](#files) — 581 threads
 - [Date and calendar processing](#dates) — 187 threads
-- [Web, XML, modern integration](#web) — 444 threads
+- [Web, XML, modern integration](#web) — 442 threads
 - [Tutorials, books, learning](#learning) — 851 threads
 - [Help requests and how-to](#help) — 1,752 threads
 - [Off-topic and spam](#spam) — 571 threads
 - [Meta: FAQs, group policy, charter](#meta) — 609 threads
-- [Uncategorized (top by message count)](#uncategorized) — 11,712 threads
+- [Uncategorized (top by message count)](#uncategorized) — 11,678 threads
 
 ## Top threads overall (by message count)
 
@@ -986,7 +986,7 @@ _187 threads · 1,394 messages._
 
 ## Web, XML, modern integration <a id='web'></a>
 
-_444 threads · 2,049 messages._
+_442 threads · 2,047 messages._
 
 - [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) — **90** msgs · 2011-10 → 2013-03
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
@@ -1048,7 +1048,7 @@ _444 threads · 2,049 messages._
 - [COBOL / CICS as web data source](threads/t-09d99b7aef.md) — **8** msgs · 1996-10
 - [Any tools, gateways, software to read Vsam files from WEB?](threads/t-b668f118ee.md) — **8** msgs · 1997-12
 - [Date validation of input from HTML form](threads/t-939939a47c.md) — **8** msgs · 1998-03 → 1998-04
-- _…and 384 more threads (showing top 60 by message count)._
+- _…and 382 more threads (showing top 60 by message count)._
 
 ## Tutorials, books, learning <a id='learning'></a>
 
@@ -1316,7 +1316,7 @@ _609 threads · 1,598 messages._
 
 ## Uncategorized (top by message count) <a id='uncategorized'></a>
 
-_11,712 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
+_11,678 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
 
 - [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **1870** msgs · 2007-11 → 2008-02
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **1132** msgs · 2004-10 → 2005-01

@@ -2,13 +2,13 @@
 
 # comp.lang.cobol — Subject Concordance
 
-Every distinct thread subject in the archive (24,720 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
+Every distinct thread subject in the archive (24,684 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
 
 **Jump to:** [#](#letter-symbols) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## # <a id='letter-symbols'></a>
 
-_1,020 threads._
+_1,004 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -154,11 +154,6 @@ _1,020 threads._
 | [## FreePic ##](threads/t-0f7c4b9e3b.md) | 1 | 1997-06 |
 | [### bargain computer books ###](threads/t-6a05a2de40.md) | 1 | 1997-04 |
 | [##C/C++, Fortran, Cobol, ADA, LISP, etc.**New Compilers**](threads/t-1fe0724a67.md) | 2 | 1999-04 |
-| [#GIOELEMAGALDI �� ASSASSINO E PEDOFILO! SI, PROPRIO COS��! �� PEDERASTA OMICIDA: GIOELE MAGALDI DI CRIMINALE…](threads/t-7acd0c3ac1.md) | 1 | 2022-02 |
-| [#LEOZAGAMI �� PEDOFILO ASSASSINO, SATANISTA, NAZISTA, SATA���NAZISTA, FILO MAFIOSO, COCAINOMANE E STRA FIGLIO…](threads/t-2d92e38a51.md) | 1 | 2022-02 |
-| [#MARINABERLUSCONI �� ASSASSINA, LESBICA E PEDOFILA! SI, PROPRIO PROPRIO COS��! �� COCAINOMANE, ASSASSINA E PE…](threads/t-20ee13dff2.md) | 1 | 2022-02 |
-| [#PIERSILVIOBERLUSCONI �� FIGLIO DI TROIA! SI, PROPRIO COS��! �� FIGLIO DI PUTTANONA, PIERSILVIO BERLUSCONI DI…](threads/t-5a25687092.md) | 1 | 2022-02 |
-| [#PIERSILVIOBERLUSCONI �� UN FIGLIO DI PUTTANA, SI, PROPRIO COS��! �� FIGLIO DI TROIONA, PIERSILVIO BERLUSCONI…](threads/t-6ef7ecf83c.md) | 1 | 2022-01 |
 | [$ CA COBOL CONTRACTS](threads/t-9ed155f6d6.md) | 2 | 1998-02 |
 | [$ for Source Code to Inventory System - COBOL Win9x/NT](threads/t-275cca5949.md) | 4 | 1999-11 |
 | [$$ COBOL NEEDED IN OKLAHOMA CITY $$](threads/t-b2e48751fd.md) | 2 | 1997-09 |
@@ -1012,17 +1007,6 @@ _1,020 threads._
 | [~~~~~~~~~~~~~~ TOYOTA TRUCKS ~~~~~~~~~~~~~~](threads/t-478b0a2fdb.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ WEB RING ~~~~~~~~~~~~~~](threads/t-e2ff93af1c.md) | 1 | 2009-11 |
 | [【招聘】Cobol图书作者](threads/t-25fbe69b33.md) | 2 | 2007-06 |
-| [�� ASSASSINA E LESBICA: #MARINABERLUSCONI! �� NAZI���PEDOFILA KILLER MARINA BERLUSCONI! COME SUO PADRE, IL FA…](threads/t-1b611451a8.md) | 1 | 2021-12 |
-| [�� BESTIA CRIMINALISSIMA #MASSIMODORIS DI #BANCAMEDIOLANUM! RICICLA TANTI SOLDI MAFIOSI, ESATTAMENTE DEI NDRA…](threads/t-65adbf85e9.md) | 1 | 2021-09 |
-| [�� FIGLIO DI PUTTANA: #PIERSILVIOBERLUSCONI DI CRIMINALISSIMA #MFE, CRIMINALISSIMA #MEDIAFOREUROPE, CRIMINALI…](threads/t-0685ed2b18.md) | 1 | 2022-01 |
-| [�� LESBICA ASSASSINA #MARINABERLUSCONI! �� NAZI���PEDOFILA ASSASSINA MARINA BERLUSCONI! COME SUO PADRE, IL FA…](threads/t-303c643b50.md) | 1 | 2021-12 |
-| [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSIEME A SUOI COMPARI D…](threads/t-cc86b9a05a.md) | 9 | 2021-11 → 2022-01 |
-| [�� PEDOFILO ASSASSINO PAOLO BARRAI: IL TRUFFATORE PEDERASTA E KILLER DI CRIMINALE #TERRABITCOIN! IL DELINQUEN…](threads/t-6a6b623017.md) | 1 | 2021-10 |
-| [�� PEDOFILO ASSASSINO: #SILVIOBERLUSCONI! �� FIGLIO, MARITO, PADRE E PAGATORE DI PUTTANE SU PUTTANE: IL SATAN…](threads/t-8cee0f7de7.md) | 1 | 2021-11 |
-| [�� PEDOFILO BERLUSCONIANO ASSASSINO: GIUSEPPE LAZZARI, REGISTA CINEMATOGRAFICO DI BRESCIA, DA TANI ANNI INCUL…](threads/t-c2cfe1e337.md) | 1 | 2021-09 |
-| [�� PEDOFILO NDRANGHETISTA IL MASSONE #CARPEORO (ALIAS PEDOFILO NDRANGHETISTA #GIANFRANCOCARPEORO ALIAS PEDOFI…](threads/t-8a745ab937.md) | 1 | 2021-09 |
-| [�� SBORRATISSIMA IN CULO #SILVIASARDONE! SI LEI, IL PUTTANONE CHE �� ENTRATO IN POLITICA DOPO ESSERSI FATTA L…](threads/t-d7ff9262cb.md) | 1 | 2022-01 |
-| [�� SEMPRE VOGLIOSA DI SESSO FOCOSO: #MARIAPAOLATOSCHI DI JP MORGAN! �� SEMPRE INCREDIBLMENTE NINFOMANE: MARIA…](threads/t-9f1932e7f5.md) | 1 | 2021-11 |
 | [��� 20 Things You Might Not Know About COBOL](threads/t-f7eef4c838.md) | 30 | 2009-09 |
 | [��� sign in RM/Cobol](threads/t-cdfab6711f.md) | 1 | 1998-09 |
 | [���2��� & IBM Cobol for AIX](threads/t-fff56c2fc3.md) | 3 | 1997-11 |
@@ -1035,7 +1019,7 @@ _1,020 threads._
 
 ## A <a id='letter-a'></a>
 
-_1,265 threads._
+_1,264 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -1694,7 +1678,6 @@ _1,265 threads._
 | [Am I wasting my time?](threads/t-1218ef39a4.md) | 2 | 2000-02 |
 | [Am I wasting my time?](threads/t-0135808e37.md) | 4 | 2000-02 |
 | [Am I wasting my time?](threads/t-216df2619e.md) | 14 | 2000-03 |
-| [AMA IL SESSO ANALE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME: MARIA PAOLA TOSCHI DI JP M…](threads/t-679434585f.md) | 1 | 2021-11 |
 | [amateur says thanks](threads/t-acbf15ff9f.md) | 3 | 1998-08 |
 | [Amateurs web camchat](threads/t-ad4a46647f.md) | 1 | 2008-07 |
 | [Amazing grace](threads/t-41d99fc7b7.md) | 1 | 1997-09 |
@@ -2307,7 +2290,7 @@ _1,265 threads._
 
 ## B <a id='letter-b'></a>
 
-_367 threads._
+_366 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -2360,7 +2343,6 @@ _367 threads._
 | [Basic to COBOL ?????](threads/t-2b3453844d.md) | 5 | 1998-08 |
 | [BASIS](threads/t-bb76800679.md) | 8 | 1998-11 |
 | [BASIS, INSERT, DELETE](threads/t-2243644f44.md) | 2 | 1999-03 |
-| [BASTARDO FIGLIO DI PUTTANA GERARDO SEGAT DI T&F Tax and Finance SA (MERDONA FIDUCIARIA DI COSA NOSTRA), SI AP…](threads/t-a617c2a4db.md) | 2 | 2015-06 |
 | [Batch COBOL 0S-390 Question.](threads/t-ab48456111.md) | 5 | 2003-06 → 2003-07 |
 | [Batch Cobol 370 Job ID](threads/t-4f35277505.md) | 2 | 1998-06 |
 | [Batch Cobol 370 Job ID](threads/t-6b2e7a575e.md) | 13 | 1998-06 |
@@ -2681,7 +2663,7 @@ _367 threads._
 
 ## C <a id='letter-c'></a>
 
-_4,606 threads._
+_4,601 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -2720,7 +2702,6 @@ _4,606 threads._
 | [c.l.c residents in NY](threads/t-d6db27ead2.md) | 8 | 2001-09 |
 | [C/C++ compiler on MVS?](threads/t-0e0d2ff2ef.md) | 2 | 1997-07 |
 | [C/C++ for MVS](threads/t-aadfd0fead.md) | 2 | 1997-02 → 1997-03 |
-| [C/C/C CIUCCIA CAZZI DI CAVALLO PAOLO BARRAI DI WMO E BSI ITALIA SRL, UNA VOLTA CACCIATO (E FATTO CONDANNARE A…](threads/t-c3cf465890.md) | 1 | 2015-05 |
 | [C/S Cobol Books](threads/t-d1ede15886.md) | 2 | 1998-10 |
 | [C2/MVS PIC question](threads/t-c3324f9f8d.md) | 11 | 1997-07 → 1997-08 |
 | [C2COBOL ??](threads/t-e3ba4cba4b.md) | 5 | 2002-05 → 2002-06 |
@@ -3114,7 +3095,6 @@ _4,606 threads._
 | [Career start in COBOL?](threads/t-17b0bb18ef.md) | 2 | 1995-02 |
 | [Cariage return line feed](threads/t-5ac0a7a29d.md) | 5 | 1999-08 |
 | [Carpal tunnel syndrome](threads/t-5b31c98464.md) | 8 | 1997-10 |
-| [CARPEORO #CARPEORO �� MASSONE PEDOFILO, DI NDRANGHETA! ED ASSASSINO! SI, �� PROPRIO COS��: �� PEDERASTA SATAN…](threads/t-483b68898d.md) | 1 | 2022-04 |
 | [Carriage Return in COBOL Line Sequential File](threads/t-e2c1c5b219.md) | 3 | 2002-02 |
 | [Carriage Returns](threads/t-375f5e50b7.md) | 4 | 2002-03 |
 | [Carriage returns at end of records?](threads/t-346fb083fd.md) | 5 | 1999-06 |
@@ -3154,7 +3134,6 @@ _4,606 threads._
 | [CBT software for cobol](threads/t-895ff74b21.md) | 2 | 1999-10 |
 | [CBT's SAP for sale,](threads/t-4380a9b9f3.md) | 1 | 1998-04 |
 | [CBTs, Online course or other?](threads/t-cb507e131c.md) | 2 | 1998-07 |
-| [CCC=CIUCCIA CAZZI DI CAVALLO PAOLO BARRAI DI CRIMINALI BSI ITALIA SRL E WMO SA PANAMA, APPENA CACCIATO (E FAT…](threads/t-99d7cf871d.md) | 1 | 2015-07 |
 | [CCI](threads/t-d2813db97b.md) | 2 | 2000-08 |
 | [CCI & Fileshare V2 on MF Cobol Under '95 & SCO Open Server](threads/t-c50e6cee18.md) | 1 | 1996-01 |
 | [CCI unter NETEXPRESS 3](threads/t-7988a3ba7d.md) | 1 | 1999-05 |
@@ -3277,7 +3256,6 @@ _4,606 threads._
 | [Cherhe job COBOL](threads/t-6789dd2c7f.md) | 1 | 1998-05 |
 | [Chess in Cobol?](threads/t-118d50fdae.md) | 5 | 1998-09 |
 | [CHGMAN Package Concept Issue (participating, super etc). Need advise](threads/t-a00a05bc07.md) | 1 | 2005-04 |
-| [CHI E' LO SCHIFOSO PEDOFILOMOSESSUALE PAOLO BARRAI (CRIMINALI WMO SA PANAMA E BSI ITALIA SRL)? IAMM IA'! OLTR…](threads/t-b7de56943e.md) | 1 | 2015-06 |
 | [Chic and Tabatha Cicero and the Wicked Witch o de West](threads/t-03631bfb0f.md) | 1 | 1999-03 |
 | [CHICAGO - the good, the bad and the ugly](threads/t-6cc817b357.md) | 1 | 1998-03 |
 | [Chicago Area - What are the Rates?](threads/t-4e5f179011.md) | 1 | 1998-10 |
@@ -6366,7 +6344,6 @@ _4,606 threads._
 | [Cobtest => Debug question](threads/t-6beb292cfb.md) | 3 | 1997-12 |
 | [COBTEST help desperately needed](threads/t-88c800584a.md) | 2 | 1998-12 |
 | [Coby >0.2](threads/t-3c1260aaaa.md) | 2 | 1996-06 |
-| [COCAINOMANE OMOSESSUALE #LUCAMORISI, SE FOSTI UN UOMO (MA SEI UN FEMMINIELLO, COME DICONO A NAPOLI....NON SON…](threads/t-953e2cccda.md) | 1 | 2021-10 |
 | [CODASYL DB](threads/t-ba3bf96ccc.md) | 13 | 2009-07 |
 | [Code & JES Log](threads/t-8c8dbf26bb.md) | 11 | 2000-05 |
 | [Code analisers (sp)](threads/t-71c82c5f85.md) | 3 | 1996-12 → 1997-01 |
@@ -8693,7 +8670,7 @@ _562 threads._
 
 ## F <a id='letter-f'></a>
 
-_1,069 threads._
+_1,064 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -8765,11 +8742,6 @@ _1,069 threads._
 | [field length error for COBOL/CICS online program](threads/t-5ba203d15c.md) | 4 | 2002-10 |
 | [Field Picture Interpretation...](threads/t-ab24e47459.md) | 11 | 2000-05 |
 | [Fight the coronavirus 100% and save LOTS of CASH -- Combattez le coronavirus 100% et ����conomisez BEAUCOUP d…](threads/t-3bbfae323b.md) | 1 | 2020-03 |
-| [FIGLI DI PUTTANA BASTARDI GERARDO SEGAT E PAOLO BARRAI (MEGARICICLA CASH MAFIOSO PRESSO T&F TAX AND FINANCE S…](threads/t-12db924f88.md) | 2 | 2015-06 |
-| [FIGLI DI PUTTANA BASTARDI GERARDO SEGAT E PAOLO BARRAI (MEGARICICLA CASH MAFIOSO PRESSO T&F TAX AND FINANCE S…](threads/t-b8ab8e0b19.md) | 1 | 2015-06 |
-| [FIGLI DI TROIA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT E PAOLO BARRAI (MEGALAVANTI CASH MAF…](threads/t-31231eb66b.md) | 4 | 2015-06 |
-| [FIGLI DI TROIONA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT T&F TAX & FINANCE E NOTO NAZIPEDOF…](threads/t-8d1f3bc1cb.md) | 1 | 2015-06 |
-| [FIGLIO DI TROIACCIA #PIERSILVIOBERLUSCONI (E SPECIALMENTE FIGLIO DI PEDOFILO ASSASSINO, SPAPPOLA MAGISTRATI #…](threads/t-2d510206c4.md) | 1 | 2021-10 |
 | [Fijitsu COBOL V3](threads/t-c4573e413c.md) | 4 | 2002-06 |
 | [Fijustiu Cobol](threads/t-e504c16823.md) | 2 | 2003-07 |
 | [Fijutsu Cobol V3 and the Dollar Sign](threads/t-2c1d2a2cc6.md) | 4 | 1999-03 |
@@ -13011,7 +12983,7 @@ _54 threads._
 
 ## L <a id='letter-l'></a>
 
-_633 threads._
+_632 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -13346,7 +13318,6 @@ _633 threads._
 | [Livre sur Cobol et Web](threads/t-8b7aa2f41d.md) | 1 | 2000-10 |
 | [Lllll DON'T READ THIS llllll](threads/t-c81af37aad.md) | 1 | 1997-08 |
 | [LNK2001: unresolved external symbol](threads/t-9a007e009b.md) | 3 | 1999-07 |
-| [LO SCHIFOSO PEDOFILO #ENNIODORIS RICICLA TANTI SOLDI MAFIOSI: PER COSA NOSTRA, NDRANGHETA, CAMORRA, MAFIA COL…](threads/t-d5392450cf.md) | 1 | 2021-10 |
 | [Load Failure](threads/t-67c1f19cfe.md) | 4 | 2003-07 |
 | [Load Failure (170) on File ...](threads/t-19560803f6.md) | 21 | 2008-05 |
 | [Load Module Link Mapping - Documentation](threads/t-8f0f7bd54f.md) | 5 | 1997-10 → 1997-11 |
@@ -17755,7 +17726,7 @@ _1,034 threads._
 
 ## P <a id='letter-p'></a>
 
-_1,209 threads._
+_1,208 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -17955,7 +17926,6 @@ _1,209 threads._
 | [PDS2PDS V3.02](threads/t-cbda04cd01.md) | 4 | 1999-08 |
 | [PDSE Map](threads/t-f214b8731b.md) | 1 | 2004-03 |
 | [Pedantry (Was: Cobol Myth Busters)](threads/t-a655e7fee9.md) | 1 | 2007-09 |
-| [PEDOFILOMOSESSUALE SODOMIZZANTE BAMBINI: PAOLO BARRAI DI WMO E BSI ITALIA SRL (SOCIETA' MALAVITOSE, RICICLA C…](threads/t-5c186a3d5c.md) | 3 | 2015-06 |
 | [Pedophilia?](threads/t-6e9de56880.md) | 1 | 2002-01 |
 | [Peer-to-Peer LAN - Download FREE](threads/t-39055f40dc.md) | 1 | 1996-10 |
 | [penis enlargement](threads/t-b071f50bcf.md) | 3 | 2001-08 |
@@ -19200,7 +19170,7 @@ _222 threads._
 
 ## R <a id='letter-r'></a>
 
-_1,024 threads._
+_1,023 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -19256,7 +19226,6 @@ _1,024 threads._
 | [Range of PIC 9(9)](threads/t-2554a391d9.md) | 9 | 2001-11 |
 | [Rant on lack of implementable new Standard](threads/t-03fbad933a.md) | 1 | 1999-05 |
 | [Rapid Application Development.](threads/t-dfa9edc4ff.md) | 1 | 2000-07 |
-| [RAPISCE, INCULA ED UCCIDE TANTI BIMBI: DANIELE MINOTTI! AVVOCATO PEDOFILO, SATANISTA, SATAN���AZISTA, ASSASSI…](threads/t-7bf1bd0d17.md) | 1 | 2021-07 |
 | [Rare public COBOL class](threads/t-fc4e6316f4.md) | 4 | 2002-10 → 2002-11 |
 | [Raspberry Pi](threads/t-c88678bb67.md) | 1 | 2012-07 |
 | [Rates](threads/t-949aa642b2.md) | 13 | 1997-12 → 1998-01 |
@@ -20231,7 +20200,7 @@ _1,024 threads._
 
 ## S <a id='letter-s'></a>
 
-_1,388 threads._
+_1,384 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -20596,8 +20565,6 @@ _1,388 threads._
 | [Seminal Languages was Re: Advantages of 64-bit architecture](threads/t-70a664b929.md) | 5 | 2001-12 |
 | [Seminal Texts](threads/t-ca2f89db1c.md) | 2 | 1999-04 |
 | [SemiOT: problem with XP Service pack 3](threads/t-5db8204267.md) | 12 | 2008-10 → 2008-11 |
-| [SEMPRE DI MAFIA E MASSONERIA NAZI���FASCISTA SUPER KILLER)! https://www.notizie.it/chi-e-marco-iannilli-arres…](threads/t-aff6d3f5e7.md) | 1 | 2021-09 |
-| [SEMPRE SBORRATO DENTRO AL CULO: LUIGI BERLUSCONI! CON PADRE IL DEPRAVATO PEDOFILO SILVIO BERLUSCONI! CON PADR…](threads/t-1b32ae9a79.md) | 1 | 2018-10 |
 | [Send 1 Milllion Emails an Hour](threads/t-90ee6570f6.md) | 1 | 1997-05 |
 | [Send 1 Milllion Emails an Hour](threads/t-c50c38144f.md) | 1 | 1997-05 |
 | [Send 20 FREE Pages of Fax to any Fax machines in the World!](threads/t-26307714bd.md) | 1 | 1997-02 |
@@ -20972,9 +20939,7 @@ _1,388 threads._
 | [Someone programming in Percobol ?](threads/t-c85b6b57dc.md) | 1 | 1999-03 |
 | [Someone spamming CLC](threads/t-2d16f0c872.md) | 1 | 2003-03 |
 | [Somewhat OT: Cross border data processing considerations.](threads/t-1919f9d15f.md) | 1 | 2003-09 |
-| [SON FIGLI DI PUTTANA ASSASSINI #CESAREPREVITI E #STEFANOPREVITI! SON 2 PEZZI DI MERDA MASSONICI TUTT'UNO CON…](threads/t-043f2cd091.md) | 1 | 2021-09 |
 | [Sonar 3.1 Delivers Global Dashboards, Unit Test Inspection and Single Sign-On](threads/t-f119dc8314.md) | 1 | 2012-06 |
-| [SONO AVVOCATI ASSASSINI #PIETROMARIAMASCOLO E #FLAVIANOSARZANI DI CRIMINALISSIMO, BASTARDO, MASSO���NAZISTA,…](threads/t-fbc8cc792e.md) | 2 | 2021-09 |
 | [Sorry](threads/t-8e41a0758c.md) | 1 | 1998-10 |
 | [Sorry re: Fujitsu PowerCOBOL File Access Questions...](threads/t-fbce76db71.md) | 1 | 1999-09 |
 | [Sorry, Msg. to Steven Lalewicz about NE3.0 and http headers](threads/t-110dfb5976.md) | 1 | 2000-09 |
@@ -23237,7 +23202,7 @@ _811 threads._
 
 ## V <a id='letter-v'></a>
 
-_396 threads._
+_395 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -23636,7 +23601,6 @@ _396 threads._
 | [VUTIL](threads/t-4c48a71fac.md) | 2 | 2000-03 |
 | [Vutil Automation](threads/t-010fe58d06.md) | 8 | 2003-10 |
 | [vutil question](threads/t-b33bd2a2fa.md) | 6 | 2003-07 |
-| [V�� ARRESTATO L'AVVOCATO ASSASSINO DANIELE MINOTTI! �� DAVVERO DA ARRESTARE L'AVVOCATO SATANISTA, PEDOSATANIS…](threads/t-55fd5fe1d5.md) | 1 | 2020-05 |
 
 ## W <a id='letter-w'></a>
 

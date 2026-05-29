@@ -29,14 +29,14 @@ For each year: total activity, monthly message counts, top conversations, domina
 | [2012](#y2012) | 1,769 | 205 | 12 |
 | [2013](#y2013) | 1,399 | 125 | 12 |
 | [2014](#y2014) | 469 | 65 | 12 |
-| [2015](#y2015) | 462 | 67 | 12 |
+| [2015](#y2015) | 446 | 58 | 12 |
 | [2016](#y2016) | 184 | 30 | 11 |
 | [2017](#y2017) | 475 | 48 | 12 |
-| [2018](#y2018) | 675 | 46 | 12 |
+| [2018](#y2018) | 674 | 45 | 12 |
 | [2019](#y2019) | 169 | 29 | 12 |
-| [2020](#y2020) | 256 | 35 | 11 |
-| [2021](#y2021) | 252 | 42 | 12 |
-| [2022](#y2022) | 50 | 12 | 4 |
+| [2020](#y2020) | 255 | 34 | 11 |
+| [2021](#y2021) | 233 | 25 | 11 |
+| [2022](#y2022) | 35 | 4 | 4 |
 
 ## 1994 <a id='y1994'></a>
 
@@ -1633,7 +1633,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2015 <a id='y2015'></a>
 
-**462 messages in 67 threads** · active 2015-01 → 2015-12
+**446 messages in 58 threads** · active 2015-01 → 2015-12
 
 ### Months
 
@@ -1641,9 +1641,9 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2015-02** — 13 msgs
 - **2015-03** — 45 msgs
 - **2015-04** — 18 msgs
-- **2015-05** — 29 msgs
-- **2015-06** — 87 msgs
-- **2015-07** — 78 msgs
+- **2015-05** — 28 msgs
+- **2015-06** — 73 msgs
+- **2015-07** — 77 msgs
 - **2015-08** — 16 msgs
 - **2015-09** — 44 msgs
 - **2015-10** — 40 msgs
@@ -1670,7 +1670,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ### Dominant topics
 
-- Web, XML, modern integration — 6 threads
+- Web, XML, modern integration — 4 threads
 - Off-topic and spam — 3 threads
 - Jobs, careers, recruiting, salary — 2 threads
 - Compilers and vendors — 2 threads
@@ -1687,7 +1687,6 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 - dashwood \`ua-author-2154790@usenetarchives.gap\` — **15** new threads
 - bv8bv8bv8 \`ua-author-174033@usenetarchives.gap\` — **10** new threads
-- ginolampascione \`ua-author-6130915@usenetarchives.gap\` — **3** new threads
 - bv4bv4bv4 \`ua-author-174910@usenetarchives.gap\` — **3** new threads
 - user \`ua-author-86839@usenetarchives.gap\` — **2** new threads
 - klshafer \`ua-author-14501353@usenetarchives.gap\` — **2** new threads
@@ -1695,6 +1694,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - doctrinsograce \`ua-author-6402540@usenetarchives.gap\` — **2** new threads
 - arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
 - bwtiffin \`ua-author-14501766@usenetarchives.gap\` — **2** new threads
+- ronhcampbell \`ua-author-14501744@usenetarchives.gap\` — **1** new threads
 
 ### Threads that escaped the year
 
@@ -1849,7 +1849,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2018 <a id='y2018'></a>
 
-**675 messages in 46 threads** · active 2018-01 → 2018-12
+**674 messages in 45 threads** · active 2018-01 → 2018-12
 
 ### Months
 
@@ -1862,7 +1862,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2018-07** — 22 msgs
 - **2018-08** — 5 msgs
 - **2018-09** — 102 msgs
-- **2018-10** — 79 msgs
+- **2018-10** — 78 msgs
 - **2018-11** — 29 msgs
 - **2018-12** — 10 msgs
 
@@ -1993,7 +1993,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2020 <a id='y2020'></a>
 
-**256 messages in 35 threads** · active 2020-01 → 2020-12
+**255 messages in 34 threads** · active 2020-01 → 2020-12
 
 ### Months
 
@@ -2001,7 +2001,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2020-02** — 16 msgs
 - **2020-03** — 13 msgs
 - **2020-04** — 97 msgs
-- **2020-05** — 19 msgs
+- **2020-05** — 18 msgs
 - **2020-06** — 10 msgs
 - **2020-07** — 20 msgs
 - **2020-08** — 22 msgs
@@ -2062,7 +2062,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 ## 2021 <a id='y2021'></a>
 
-**252 messages in 42 threads** · active 2021-01 → 2021-12
+**233 messages in 25 threads** · active 2021-01 → 2021-11
 
 ### Months
 
@@ -2072,12 +2072,11 @@ For each year: total activity, monthly message counts, top conversations, domina
 - **2021-04** — 1 msgs
 - **2021-05** — 3 msgs
 - **2021-06** — 13 msgs
-- **2021-07** — 21 msgs
+- **2021-07** — 20 msgs
 - **2021-08** — 36 msgs
-- **2021-09** — 36 msgs
-- **2021-10** — 18 msgs
-- **2021-11** — 24 msgs
-- **2021-12** — 3 msgs
+- **2021-09** — 29 msgs
+- **2021-10** — 14 msgs
+- **2021-11** — 20 msgs
 
 ### Top 15 threads
 
@@ -2088,7 +2087,6 @@ For each year: total activity, monthly message counts, top conversations, domina
 - [Some COBOL-related observations...](threads/t-84330f2a47.md) — **11** msgs
 - [Urgent Hiring !! Sr. Sailpoint Developer (With Java Exp.) for our DIRECT client in Philad…](threads/t-3cb6da56aa.md) — **10** msgs
 - [End-to-end FULLY AUTOMATED PowerCOBOL Migration to .Net. NO Code required. Mouse clicks o…](threads/t-2eca80b395.md) — **10** msgs (continues into 2022)
-- [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSI…](threads/t-cc86b9a05a.md) — **9** msgs (continues into 2022)
 - [PowerCOBOL people](threads/t-1e9b604c1d.md) — **8** msgs
 - [OT: A chapter of accidents...](threads/t-a3ca6f7dc3.md) — **7** msgs
 - [Unit test frameworks for GnuCOBOL](threads/t-7ccb97c8c8.md) — **6** msgs
@@ -2096,6 +2094,7 @@ For each year: total activity, monthly message counts, top conversations, domina
 - [ON 1 in COBOL](threads/t-d44792831f.md) — **5** msgs
 - [HP tandem Cobol85 convert date-time to timestamp](threads/t-15990228e1.md) — **4** msgs
 - [Survey on how software engineers search for architectural information](threads/t-27c81e1565.md) — **4** msgs
+- [(Maybe OT?) The future of Programming Languages](threads/t-98891c13e2.md) — **4** msgs
 
 ### Dominant topics
 
@@ -2116,47 +2115,38 @@ For each year: total activity, monthly message counts, top conversations, domina
 
 - dashwood \`ua-author-14501808@usenetarchives.gap\` — **7** new threads
 - bruce.axtens \`ua-author-12894444@usenetarchives.gap\` — **4** new threads
-- truffatidapaolobarrai \`ua-author-11582407@usenetarchives.gap\` — **3** new threads
-- johnnypeponny \`ua-author-6344768@usenetarchives.gap\` — **2** new threads
 - arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **2** new threads
 - snetxa \`ua-author-7470312@usenetarchives.gap\` — **2** new threads
 - docdwarf \`ua-author-6588713@usenetarchives.gap\` — **2** new threads
 - jessicawlyam89 \`ua-author-8321573@usenetarchives.gap\` — **1** new threads
 - andy.paul \`ua-author-3752794@usenetarchives.gap\` — **1** new threads
 - mkeles84 \`ua-author-22318812@usenetarchives.gap\` — **1** new threads
+- mjados \`ua-author-12889066@usenetarchives.gap\` — **1** new threads
+- federico.priolo \`ua-author-14501445@usenetarchives.gap\` — **1** new threads
 
 ### Threads that escaped the year
 
 (Started this year, but conversation continued into the next.)
 
 - [End-to-end FULLY AUTOMATED PowerCOBOL Migration to .Net. NO Code required. Mouse clicks o…](threads/t-2eca80b395.md) — **10** msgs, into 2022-02
-- [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSI…](threads/t-cc86b9a05a.md) — **9** msgs, into 2022-01
 
 ## 2022 <a id='y2022'></a>
 
-**50 messages in 12 threads** · active 2022-01 → 2022-04
+**35 messages in 4 threads** · active 2022-01 → 2022-04
 
 ### Months
 
-- **2022-01** — 11 msgs
-- **2022-02** — 21 msgs
+- **2022-01** — 1 msgs
+- **2022-02** — 17 msgs
 - **2022-03** — 7 msgs
-- **2022-04** — 11 msgs
+- **2022-04** — 10 msgs
 
-### Top 12 threads
+### Top 4 threads
 
 - [OT: Told you so...](threads/t-9d5f27cfb9.md) — **17** msgs
 - [PowerCobol & Status 30](threads/t-9de6b0bf01.md) — **7** msgs
 - [WINCOBOL](threads/t-0d01c5af6e.md) — **4** msgs
 - [PRIMA Company re-direction and the Migration Calculator](threads/t-886515e8be.md) — **3** msgs
-- [�� FIGLIO DI PUTTANA: #PIERSILVIOBERLUSCONI DI CRIMINALISSIMA #MFE, CRIMINALISSIMA #MEDIA…](threads/t-0685ed2b18.md) — **1** msgs
-- [�� SBORRATISSIMA IN CULO #SILVIASARDONE! SI LEI, IL PUTTANONE CHE �� ENTRATO IN POLITICA…](threads/t-d7ff9262cb.md) — **1** msgs
-- [#PIERSILVIOBERLUSCONI �� UN FIGLIO DI PUTTANA, SI, PROPRIO COS��! �� FIGLIO DI TROIONA, P…](threads/t-6ef7ecf83c.md) — **1** msgs
-- [#LEOZAGAMI �� PEDOFILO ASSASSINO, SATANISTA, NAZISTA, SATA���NAZISTA, FILO MAFIOSO, COCAI…](threads/t-2d92e38a51.md) — **1** msgs
-- [#MARINABERLUSCONI �� ASSASSINA, LESBICA E PEDOFILA! SI, PROPRIO PROPRIO COS��! �� COCAINO…](threads/t-20ee13dff2.md) — **1** msgs
-- [#GIOELEMAGALDI �� ASSASSINO E PEDOFILO! SI, PROPRIO COS��! �� PEDERASTA OMICIDA: GIOELE M…](threads/t-7acd0c3ac1.md) — **1** msgs
-- [#PIERSILVIOBERLUSCONI �� FIGLIO DI TROIA! SI, PROPRIO COS��! �� FIGLIO DI PUTTANONA, PIER…](threads/t-5a25687092.md) — **1** msgs
-- [CARPEORO #CARPEORO �� MASSONE PEDOFILO, DI NDRANGHETA! ED ASSASSINO! SI, �� PROPRIO COS��…](threads/t-483b68898d.md) — **1** msgs
 
 ### Dominant topics
 
@@ -2168,13 +2158,6 @@ For each year: total activity, monthly message counts, top conversations, domina
 (People who started the most distinct conversations this year.)
 
 - dashwood \`ua-author-14501808@usenetarchives.gap\` — **2** new threads
-- genpatapen \`ua-author-558923@usenetarchives.gap\` — **2** new threads
 - jmfg11 \`ua-author-14501829@usenetarchives.gap\` — **1** new threads
 - arnold.trembley \`ua-author-6588734@usenetarchives.gap\` — **1** new threads
-- gennarinozacquaglia \`ua-author-14657441@usenetarchives.gap\` — **1** new threads
-- massoni.assassini \`ua-author-3631520@usenetarchives.gap\` — **1** new threads
-- ascialorbador \`ua-author-12889118@usenetarchives.gap\` — **1** new threads
-- ineshkaparesh \`ua-author-7013817@usenetarchives.gap\` — **1** new threads
-- jespodesh \`ua-author-6037474@usenetarchives.gap\` — **1** new threads
-- joebadoe \`ua-author-10708786@usenetarchives.gap\` — **1** new threads
 

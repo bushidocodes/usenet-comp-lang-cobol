@@ -2,9 +2,9 @@
 
 # comp.lang.cobol — Statistics
 
-**168,012 messages** in **24,720 threads** from **1994-11-09** to **2022-04-14** (328 active months).
+**167,960 messages** in **24,684 threads** from **1994-11-09** to **2022-04-14** (327 active months).
 
-**16,843 unique email senders** (932 messages had no parseable email).
+**16,813 unique email senders** (932 messages had no parseable email).
 
 ## Messages per year
 
@@ -30,14 +30,14 @@
 2012  ████▊                                                1,769
 2013  ███▊                                                 1,399
 2014  █▎                                                     469
-2015  █▎                                                     462
+2015  █▏                                                     446
 2016  ▌                                                      184
 2017  █▎                                                     475
-2018  █▊                                                     675
+2018  █▊                                                     674
 2019  ▍                                                      169
-2020  ▋                                                      256
-2021  ▋                                                      252
-2022  ▏                                                       50
+2020  ▋                                                      255
+2021  ▋                                                      233
+2022                                                          35
 ```
 
 ## Messages per month
@@ -289,9 +289,9 @@
 2015-02  ▎                                                      13
 2015-03  ▊                                                      45
 2015-04  ▎                                                      18
-2015-05  ▌                                                      29
-2015-06  █▋                                                     87
-2015-07  █▌                                                     78
+2015-05  ▌                                                      28
+2015-06  █▍                                                     73
+2015-07  █▍                                                     77
 2015-08  ▎                                                      16
 2015-09  ▊                                                      44
 2015-10  ▊                                                      40
@@ -329,7 +329,7 @@
 2018-07  ▍                                                      22
 2018-08                                                          5
 2018-09  █▉                                                    102
-2018-10  █▌                                                     79
+2018-10  █▌                                                     78
 2018-11  ▌                                                      29
 2018-12  ▏                                                      10
 2019-01                                                          3
@@ -348,7 +348,7 @@
 2020-02  ▎                                                      16
 2020-03  ▎                                                      13
 2020-04  █▉                                                     97
-2020-05  ▎                                                      19
+2020-05  ▎                                                      18
 2020-06  ▏                                                      10
 2020-07  ▍                                                      20
 2020-08  ▍                                                      22
@@ -361,56 +361,55 @@
 2021-04                                                          1
 2021-05                                                          3
 2021-06  ▎                                                      13
-2021-07  ▍                                                      21
+2021-07  ▍                                                      20
 2021-08  ▋                                                      36
-2021-09  ▋                                                      36
-2021-10  ▎                                                      18
-2021-11  ▍                                                      24
-2021-12                                                          3
-2022-01  ▏                                                      11
-2022-02  ▍                                                      21
+2021-09  ▌                                                      29
+2021-10  ▎                                                      14
+2021-11  ▍                                                      20
+2022-01                                                          1
+2022-02  ▎                                                      17
 2022-03  ▏                                                       7
-2022-04  ▏                                                      11
+2022-04  ▏                                                      10
 ```
 
 ## Posting by day of week
 
 ```
-Mon  █████████████████████████████████████▏    25,658
-Tue  ███████████████████████████████████████▌  27,306
-Wed  ████████████████████████████████████████  27,608
-Thu  ███████████████████████████████████████▍  27,236
-Fri  ████████████████████████████████████▋     25,358
-Sat  ██████████████████████████                17,976
-Sun  ████████████████████████▍                 16,870
+Mon  █████████████████████████████████████▏    25,647
+Tue  ███████████████████████████████████████▌  27,296
+Wed  ████████████████████████████████████████  27,603
+Thu  ███████████████████████████████████████▍  27,230
+Fri  ████████████████████████████████████▋     25,351
+Sat  ██████████████████████████                17,971
+Sun  ████████████████████████▍                 16,862
 ```
 
 ## Posting by hour
 
 ```
-00:00  ████████████████████████████████████████  44,670
+00:00  ████████████████████████████████████████  44,669
 01:00  ██▉                                        3,232
-02:00  ██▌                                        2,792
+02:00  ██▍                                        2,791
 03:00  ██▏                                        2,471
-04:00  █▉                                         2,157
-05:00  ██                                         2,252
-06:00  ██                                         2,303
-07:00  ███▏                                       3,596
-08:00  ████▏                                      4,660
-09:00  ████▎                                      4,863
+04:00  █▉                                         2,156
+05:00  ██                                         2,251
+06:00  ██                                         2,299
+07:00  ███▏                                       3,594
+08:00  ████▏                                      4,659
+09:00  ████▎                                      4,859
 10:00  ████▌                                      5,088
-11:00  █████▌                                     6,151
-12:00  ██████▏                                    6,873
-13:00  █████▋                                     6,292
-14:00  █████▌                                     6,254
-15:00  █████                                      5,592
-16:00  ████▍                                      4,977
-17:00  ████▎                                      4,750
-18:00  ████                                       4,597
-19:00  ████████████▌                             14,097
-20:00  ███████████████▎                          17,113
-21:00  ████▎                                      4,791
-22:00  ████                                       4,506
+11:00  █████▌                                     6,142
+12:00  ██████▏                                    6,872
+13:00  █████▋                                     6,288
+14:00  █████▌                                     6,252
+15:00  █████                                      5,586
+16:00  ████▍                                      4,974
+17:00  ████▎                                      4,748
+18:00  ████                                       4,595
+19:00  ████████████▌                             14,095
+20:00  ███████████████▎                          17,110
+21:00  ████▎                                      4,789
+22:00  ████                                       4,505
 23:00  ███▌                                       3,935
 ```
 
@@ -420,8 +419,8 @@ Sun  ████████████████████████▍
 |---|---:|
 | 1998-09 | 2,576 |
 | 2003-05 | 2,474 |
-| 1998-11 | 2,170 |
 | 2003-04 | 2,170 |
+| 1998-11 | 2,170 |
 | 2005-12 | 2,000 |
 | 1998-10 | 1,948 |
 | 2000-04 | 1,902 |
@@ -450,7 +449,7 @@ Sun  ████████████████████████▍
 - **Top 1% threshold (p99):** 72 messages
 - **Top 5% threshold (p95):** 23 messages
 - **Median thread size:** 2 messages
-- **Single-message threads:** 8,740 (35% of all threads)
+- **Single-message threads:** 8,710 (35% of all threads)
 
 ## Top 30 longest threads ever
 
@@ -569,8 +568,8 @@ Sun  ████████████████████████▍
 | Charles Hottel | `chottel@earthlink.net` | 624 | 217 |
 | HeyBub | `heybub@nospamgmail.com` | 565 | 213 |
 | jce | `defaultuser@hotmail.com` | 556 | 162 |
-| Lueko Willms | `l.willms@jpberlin.de` | 556 | 159 |
 | Rick Smith | `ricksmith@aiservices.com` | 556 | 243 |
+| Lueko Willms | `l.willms@jpberlin.de` | 556 | 159 |
 | William Lynch | `wblynch@att.net` | 541 | 266 |
 | Binyamin Dissen | `postingid@dissensoftware.com` | 535 | 395 |
 | the goobers | `ua-author-1837635@usenetarchives.gap` | 504 | 327 |
@@ -645,11 +644,11 @@ Earliest message in the archive (subject or body) containing each term. Useful f
 | **ANSI 85** | 1994-11-13 | [IBM PC COBOL/2 any good?](threads/t-f0dd3e927f.md) |
 | **Solaris** | 1994-11-15 | [Can MicroFocus Cobol output assembler?](threads/t-df969b6349.md) |
 | **OS/2** | 1994-11-16 | [Re: IBM PC COBOL/2 any good?](threads/t-f0dd3e927f.md) |
-| **Linux** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
-| **Acucobol** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
-| **COBOL 85** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
-| **RM/COBOL** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
-| **object-oriented** | 1994-11-17 | [COBOL FAQ](threads/t-5af47fa577.md) |
+| **Linux** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
+| **Acucobol** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
+| **COBOL 85** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
+| **RM/COBOL** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
+| **object-oriented** | 1994-11-17 | [COBOL FAQ](threads/t-b6e885fc1e.md) |
 | **year 2000** | 1994-11-29 | [Re: End of the century](threads/t-cdf3fe00e3.md) |
 | **.NET** | 1994-11-29 | [Re: Value clause](threads/t-2bff0c8e4c.md) |
 | **Delphi** | 1994-12-01 | [Does Visual Cobol exists?](threads/t-2a72339ed0.md) |
@@ -658,7 +657,7 @@ Earliest message in the archive (subject or body) containing each term. Useful f
 | **AS/400** | 1995-01-09 | [For sale: AS/400, band printers, PS/2s](threads/t-ca214fd4f0.md) |
 | **Windows NT** | 1995-01-24 | [Chicago area Midwest Area Micro Focus Users Group](threads/t-d0a95322b2.md) |
 | **Y2K** | 1995-05-01 | [Re: Year 2000](threads/t-0e052c8db1.md) |
-| **HP-UX** | 1995-06-20 | [COBOL FAQ](threads/t-f3de2e8a25.md) |
+| **HP-UX** | 1995-06-20 | [COBOL FAQ](threads/t-6357e6f1ed.md) |
 | **Fujitsu** | 1995-08-23 | [Re: COBOL 85 Vs COBOL II](threads/t-ee0d967e2b.md) |
 | **Java** | 1995-12-07 | [ANNOUNCE: COBOL Users Group Web Chat Online!](threads/t-7103c7e38d.md) |
 | **OS/390** | 1996-01-03 | [Re: COBOL/370 vs. COBOL Release 4](threads/t-452871361a.md) |
