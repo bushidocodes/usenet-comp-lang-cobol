@@ -5,16 +5,18 @@ similar promotional posts with no relation to COBOL. The actual mbox
 source is left intact; this module filters spam threads out of the
 generated markdown indexes via `archive.thread_summaries()`.
 
-A *message* is spam when its non-quoted text references a known spam
-host or free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`), when it is
-dense with dating/adult promotional phrases (`message_is_promo_spam`), or
-when it carries the vocabulary of the Italian defamation/troll campaign
-crossposted into the group (`message_is_rant_spam`). A *thread* is spam
-when its root is spam and no later message has substantive original
-*human* content — so threads where humans replied (even with one-line
-jokes) are preserved, but bot/troll-flooded threads (where every "reply"
-is itself spam) are not. Threads whose root subject is an unmistakable
-dating/adult ad (`SPAM_SUBJECT_RE`) are dropped in their entirety.
+A *message* is spam (`_is_spam_message`) when it matches any of:
+  - a known spam host / free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`);
+  - dense dating/adult promotional phrases (`message_is_promo_spam`);
+  - pornography subject/body phrases (`message_is_adult_spam`);
+  - counterfeit-goods "wholesale/replica" vocabulary (`message_is_wholesale_spam`);
+  - the Italian defamation/troll campaign (`message_is_rant_spam`).
+A *thread* is spam when its root is spam and no later message has
+substantive original *human* content — so threads where humans replied
+(even with one-line jokes) are preserved, but bot/troll-flooded threads
+(where every "reply" is itself spam) are not. Threads whose root subject is
+an unmistakable dating/adult/porn ad (`SPAM_SUBJECT_RE` / `ADULT_SUBJECT_RE`)
+are dropped in their entirety.
 """
 from __future__ import annotations
 
@@ -83,6 +85,30 @@ SPAM_HOSTS: frozenset[str] = frozenset([
     "qualitycontent.tk",
     "smallandbig.tk",
     "sweetyshilpa.tk",
+    # 1997 porn-site spam
+    "2bornot2b.com",
+    "nasty-schoolgirls.com",
+    "dirtyteens.com",
+    "fantazma.com",
+    # Counterfeit "wholesale/replica" goods spam (2007–2010 crosspost floods)
+    "cncircle.com",
+    "hng-shoes.com",
+    "wholesale-watches.org",
+    "cnshoes007.com",
+    "stefsclothes.com",
+    "niketrade08",       # niketrade08.cn
+    "supertradeonline",  # supertradeonline06.com
+    "24hour-buy.com",
+    "24hours-online.com",
+    "watchesblog.cn",
+    "sneaker-shop08.com",
+    "nbashoe.com",
+    "gotoorder.cn",
+    "king-trade.cn",
+    "trade8.cc",
+    # "Earn money from home" / online-gambling spam
+    "earnparttimejobs.com",
+    "casino.de",
 ])
 
 # Domain suffixes that, in this archive, host *only* spam. Every URL with
@@ -150,6 +176,56 @@ _PROMO_RE = re.compile(
 )
 # Distinct promo phrases needed to call a single message promotional spam.
 _PROMO_PHRASE_MIN = 2
+
+# Unmistakable pornography subject phrases. A single one of these in a SUBJECT
+# is spam — verified against every subject in the archive to match only the
+# 1997-era porn-site floods and later adult ads, never a genuine c.l.cobol post.
+_ADULT_SUBJECT_PATTERNS: tuple[str, ...] = (
+    r"\bsex site", r"\bfree sex\b", r"\bteen sex\b", r"\bteenage sex\b",
+    r"\bhardcore sex\b", r"\bsex party\b", r"\bsex show\b", r"\blive sex\b",
+    r"\blive teen\b", r"\bnude teen", r"\badult xxx\b", r"\bxxx rated\b",
+    r"\bxxx site", r"\bsex toys\b", r"\bsucking cock\b", r"\battract girls\b",
+    r"\bsex dating\b", r"\badult hookup\b", r"\bsex password\b", r"\bsex scene\b",
+    r"\bporno\b", r"\bfree porn\b", r"\bporn site", r"\bsex personals\b",
+    r"\bgirls for (?:sex|fuck)\b", r"\binstant sex appeal\b", r"\bcocksucking\b",
+    r"\banal teen\b", r"\bhottest adult\b", r"\bfree xxx\b", r"\bsex movies\b",
+)
+ADULT_SUBJECT_RE = re.compile("|".join(_ADULT_SUBJECT_PATTERNS), re.IGNORECASE)
+
+# Multiword pornography phrases for *body* detection. Two distinct hits mark a
+# message as porn spam. Multiword on purpose: genuine OT/COBOL threads that
+# mention "sex"/"nude"/"porn" in passing don't stack commercial porn phrases,
+# so a single ambiguous word never trips the filter.
+_ADULT_BODY_PHRASES: tuple[str, ...] = (
+    "sex site", "sex sites", "free sex", "teen sex", "teenage sex", "hardcore sex",
+    "sex party", "sex show", "live sex", "live video sex", "nude teen", "nude teens",
+    "adult xxx", "xxx rated", "xxx material", "xxx chat", "free xxx", "sex toys",
+    "sucking cock", "sucking dick", "attract girls", "attract women", "sex dating",
+    "adult hookup", "sex scene", "free porn", "porn site", "porn videos",
+    "flash porn", "sex videos", "sex movies", "nude pics", "nude celebs",
+    "busty women", "horny girls", "anal teen", "cocksucking", "schoolgirls",
+)
+_ADULT_BODY_RE = [
+    re.compile(r"\b" + re.escape(p) + r"\b", re.IGNORECASE) for p in _ADULT_BODY_PHRASES
+]
+_ADULT_BODY_MIN = 2
+
+# Counterfeit-goods "wholesale/replica" spam (2007–2010): crossposted floods
+# hawking knockoff Nike/Gucci/LV/etc. with "paypal payment" / "free shipping".
+# These bodies repeat the vocabulary dozens of times, so we count *total*
+# occurrences and require several — an incidental "wholesale price" in a real
+# post never gets close.
+_WHOLESALE_PHRASES: tuple[str, ...] = (
+    "wholesale", "paypal payment", "free shipping", "replica", "nike shox",
+    "air max", "air force one", "ed hardy", "louis vuitton", "lacoste",
+    "timberland boots", "ugg boots", "jordan shoes", "brand sports shoes",
+    "nike shoes", "jerseys", "handbag",
+)
+_WHOLESALE_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(p) for p in _WHOLESALE_PHRASES) + r")\b",
+    re.IGNORECASE,
+)
+_WHOLESALE_MIN = 4
 
 # Vocabulary of a long-running Italian defamation/troll campaign crossposted
 # into comp.lang.cobol (2015 + 2021–2022): all-caps rants accusing public
@@ -273,9 +349,52 @@ def message_is_rant_spam(entry: dict) -> bool:
     return len(seen) >= _RANT_PHRASE_MIN
 
 
+def message_is_adult_spam(entry: dict) -> bool:
+    """True if a message is pornography spam.
+
+    Either an unmistakable porn phrase in the subject (`ADULT_SUBJECT_RE`) or
+    >= 2 distinct multiword porn phrases across the subject + non-quoted body.
+    The multiword body requirement avoids flagging genuine OT threads that
+    merely mention "sex"/"nude"/"porn" once in passing.
+    """
+    subject = entry.get("subject") or ""
+    if ADULT_SUBJECT_RE.search(subject):
+        return True
+    text = subject + "\n" + _non_quoted(entry.get("body") or "")
+    return sum(1 for rx in _ADULT_BODY_RE if rx.search(text)) >= _ADULT_BODY_MIN
+
+
+def message_is_wholesale_spam(entry: dict) -> bool:
+    """True if a message is counterfeit-goods "wholesale/replica" spam.
+
+    Counts *total* occurrences of the knockoff-retail vocabulary in the subject
+    + non-quoted body; these floods repeat it many times, so a high count is a
+    clean signal that an incidental "wholesale price file" mention never hits.
+    """
+    text = (entry.get("subject") or "") + "\n" + _non_quoted(entry.get("body") or "")
+    return len(_WHOLESALE_RE.findall(text)) >= _WHOLESALE_MIN
+
+
 def subject_is_spam(subject: str) -> bool:
-    """True if a subject is an unmistakable dating/adult advertisement."""
-    return bool(subject) and SPAM_SUBJECT_RE.search(subject) is not None
+    """True if a subject is an unmistakable dating/adult/porn advertisement.
+
+    Such subjects appear only on spam in this archive, so a thread rooted in
+    one is dropped whole (every reply shares the subject and is more spam).
+    """
+    if not subject:
+        return False
+    return bool(SPAM_SUBJECT_RE.search(subject) or ADULT_SUBJECT_RE.search(subject))
+
+
+def _is_spam_message(entry: dict) -> bool:
+    """True if a single message matches any message-level spam signal."""
+    return (
+        message_is_spam(entry)
+        or message_is_promo_spam(entry)
+        or message_is_rant_spam(entry)
+        or message_is_adult_spam(entry)
+        or message_is_wholesale_spam(entry)
+    )
 
 
 def _has_substantive_content(entry: dict) -> bool:
@@ -292,13 +411,14 @@ def thread_is_spam(summary: dict, msgs: dict) -> bool:
     Conservatively keeps any thread where at least one message has
     substantive original *human* content — even a one-line joke reply
     counts — so that human engagement is preserved even when the inciting
-    post was spam. A reply that is itself spam (known host), dating/adult
-    promo, or Italian defamation-campaign rant does not count as human, which
-    prevents bot/troll-flooded threads from rescuing themselves.
+    post was spam. A reply that is itself spam (any `_is_spam_message`
+    signal: known host, dating/adult promo, porn, counterfeit-goods, or the
+    Italian defamation rant) does not count as human, which prevents
+    bot/troll-flooded threads from rescuing themselves.
 
-    Threads whose root subject is an unmistakable dating/adult ad are dropped
-    outright: in this archive those subjects appear only on spam bot floods,
-    and every reply shares the subject and is more promo.
+    Threads whose root subject is an unmistakable dating/adult/porn ad are
+    dropped outright: in this archive those subjects appear only on spam,
+    and every reply shares the subject and is more spam.
     """
     root_id = summary.get("root")
     root_msg = msgs.get(root_id) if root_id else None
@@ -306,15 +426,13 @@ def thread_is_spam(summary: dict, msgs: dict) -> bool:
         return False
     if subject_is_spam(summary.get("subject", "")):
         return True
-    if not (message_is_spam(root_msg) or message_is_promo_spam(root_msg)
-            or message_is_rant_spam(root_msg)):
+    if not _is_spam_message(root_msg):
         return False
     for mid in summary.get("msg_ids", ()):
         msg = msgs.get(mid)
         if msg is None:
             continue
-        if (message_is_spam(msg) or message_is_promo_spam(msg)
-                or message_is_rant_spam(msg)):
+        if _is_spam_message(msg):
             continue
         if _has_substantive_content(msg):
             return False
