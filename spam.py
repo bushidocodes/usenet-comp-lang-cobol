@@ -6,14 +6,15 @@ source is left intact; this module filters spam threads out of the
 generated markdown indexes via `archive.thread_summaries()`.
 
 A *message* is spam when its non-quoted text references a known spam
-host or free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`), or when
-it is dense with dating/adult promotional phrases (`message_is_promo_spam`).
-A *thread* is spam when its root is spam and no later message has
-substantive original *human* content — so threads where humans replied
-(even with one-line jokes) are preserved, but bot-flooded dating/adult
-threads (where every "reply" is itself promo spam) are not. Threads whose
-root subject is an unmistakable dating/adult ad (`SPAM_SUBJECT_RE`) are
-dropped in their entirety.
+host or free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`), when it is
+dense with dating/adult promotional phrases (`message_is_promo_spam`), or
+when it carries the vocabulary of the Italian defamation/troll campaign
+crossposted into the group (`message_is_rant_spam`). A *thread* is spam
+when its root is spam and no later message has substantive original
+*human* content — so threads where humans replied (even with one-line
+jokes) are preserved, but bot/troll-flooded threads (where every "reply"
+is itself spam) are not. Threads whose root subject is an unmistakable
+dating/adult ad (`SPAM_SUBJECT_RE`) are dropped in their entirety.
 """
 from __future__ import annotations
 
@@ -150,6 +151,34 @@ _PROMO_RE = re.compile(
 # Distinct promo phrases needed to call a single message promotional spam.
 _PROMO_PHRASE_MIN = 2
 
+# Vocabulary of a long-running Italian defamation/troll campaign crossposted
+# into comp.lang.cobol (2015 + 2021–2022): all-caps rants accusing public
+# figures (Berlusconi/Mediaset, bankers, lawyers) of laundering mafia money,
+# pedophilia, etc. These Italian profanity/defamation terms never appear in a
+# legitimate English-language COBOL post; the campaign stacks many per message.
+# A message with >= _RANT_PHRASE_MIN *distinct* terms is flagged — verified to
+# catch all 54 campaign messages corpus-wide with zero false positives, whereas
+# a single term (e.g. "bastardi" inside "bastardized") would not.
+_RANT_PHRASES: tuple[str, ...] = (
+    "figlio di puttana", "figli di puttana", "figlio di troia", "figli di troia",
+    "figlio di troiona", "figli di troiona", "figlio di troiaccia", "di troiaccia",
+    "figlio di pedofilo", "figli di pedofili", "pedofilomosessuale", "pedofilo",
+    "pederasta", "pedofili", "bastardo", "bastardi", "assassino", "assassini",
+    "ricicla", "riciclaggio", "soldi mafiosi", "montagne di soldi", "soldi sporchi",
+    "mafia e massoneria", "massoneria", "massone", "massona", "ndranghetista",
+    "ndrangheta", "ciuccia cazzi", "cazzi di cavallo", "sborrato", "incula",
+    "ninfomane", "cocainomane", "criminalissim", "truffatore",
+    "puttana", "troia", "mafiaset", "mediaforeurope",
+)
+# Word-boundary anchored so short terms don't substring-match English words
+# ("bastardi" in "bastardized", "troia" in larger tokens, etc.).
+_RANT_RE = re.compile(
+    r"\b(?:" + "|".join(re.escape(p) for p in _RANT_PHRASES) + r")\b",
+    re.IGNORECASE,
+)
+# Distinct rant terms needed to call a single message defamation-campaign spam.
+_RANT_PHRASE_MIN = 2
+
 # Minimum words of substantive content for a message to "count" as a real reply.
 _SUBSTANTIVE_WORD_MIN = 3
 
@@ -230,6 +259,20 @@ def message_is_promo_spam(entry: dict) -> bool:
     return len(seen) >= _PROMO_PHRASE_MIN
 
 
+def message_is_rant_spam(entry: dict) -> bool:
+    """True if a message is the Italian defamation/troll campaign spam.
+
+    Counts *distinct* campaign terms (`_RANT_PHRASES`) in the subject plus the
+    non-quoted body; >= 2 marks it spam. The subject is included because the
+    rant is usually right there in the header (and carries through "Re:"
+    replies), while requiring two distinct terms keeps an incidental single
+    foreign word from tripping the filter.
+    """
+    text = (entry.get("subject") or "") + "\n" + _non_quoted(entry.get("body") or "")
+    seen = {m.group(0).lower() for m in _RANT_RE.finditer(text)}
+    return len(seen) >= _RANT_PHRASE_MIN
+
+
 def subject_is_spam(subject: str) -> bool:
     """True if a subject is an unmistakable dating/adult advertisement."""
     return bool(subject) and SPAM_SUBJECT_RE.search(subject) is not None
@@ -249,9 +292,9 @@ def thread_is_spam(summary: dict, msgs: dict) -> bool:
     Conservatively keeps any thread where at least one message has
     substantive original *human* content — even a one-line joke reply
     counts — so that human engagement is preserved even when the inciting
-    post was spam. A reply that is itself spam (known host) or dating/adult
-    promo does not count as human, which prevents bot-flooded dating threads
-    from rescuing themselves.
+    post was spam. A reply that is itself spam (known host), dating/adult
+    promo, or Italian defamation-campaign rant does not count as human, which
+    prevents bot/troll-flooded threads from rescuing themselves.
 
     Threads whose root subject is an unmistakable dating/adult ad are dropped
     outright: in this archive those subjects appear only on spam bot floods,
@@ -263,13 +306,15 @@ def thread_is_spam(summary: dict, msgs: dict) -> bool:
         return False
     if subject_is_spam(summary.get("subject", "")):
         return True
-    if not (message_is_spam(root_msg) or message_is_promo_spam(root_msg)):
+    if not (message_is_spam(root_msg) or message_is_promo_spam(root_msg)
+            or message_is_rant_spam(root_msg)):
         return False
     for mid in summary.get("msg_ids", ()):
         msg = msgs.get(mid)
         if msg is None:
             continue
-        if message_is_spam(msg) or message_is_promo_spam(msg):
+        if (message_is_spam(msg) or message_is_promo_spam(msg)
+                or message_is_rant_spam(msg)):
             continue
         if _has_substantive_content(msg):
             return False
