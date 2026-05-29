@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — Topic Index
 
-Topical groupings of the 24,732 threads (168,367 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
+Topical groupings of the 24,720 threads (168,012 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
 
 ## Topics
 
@@ -17,15 +17,15 @@ Topical groupings of the 24,732 threads (168,367 messages) in this archive. Thre
 - [Migration and conversion](#migration) — 435 threads
 - [Mainframe, z/OS, JCL, CICS](#mainframe) — 1,700 threads
 - [AS/400, iSeries, RPG](#as400) — 139 threads
-- [Databases and SQL](#databases) — 923 threads
+- [Databases and SQL](#databases) — 922 threads
 - [VSAM, files, sorting](#files) — 581 threads
-- [Date and calendar processing](#dates) — 188 threads
+- [Date and calendar processing](#dates) — 187 threads
 - [Web, XML, modern integration](#web) — 444 threads
 - [Tutorials, books, learning](#learning) — 851 threads
 - [Help requests and how-to](#help) — 1,752 threads
-- [Off-topic and spam](#spam) — 573 threads
+- [Off-topic and spam](#spam) — 571 threads
 - [Meta: FAQs, group policy, charter](#meta) — 609 threads
-- [Uncategorized (top by message count)](#uncategorized) — 11,721 threads
+- [Uncategorized (top by message count)](#uncategorized) — 11,712 threads
 
 ## Top threads overall (by message count)
 
@@ -788,7 +788,7 @@ _139 threads · 460 messages._
 
 ## Databases and SQL <a id='databases'></a>
 
-_923 threads · 3,780 messages._
+_922 threads · 3,779 messages._
 
 - [COBOL and DB2 vs. Java and DB2](threads/t-916ce5fee1.md) — **102** msgs · 2007-09 → 2008-01
 - [COBOL/DB2 Date edit question](threads/t-2f7f1c1eba.md) — **98** msgs · 2007-08
@@ -850,7 +850,7 @@ _923 threads · 3,780 messages._
 - [Using COBOL with Relational Databases](threads/t-ebed4892c1.md) — **13** msgs · 2017-08 → 2017-09
 - [Data Dictionary creation MF ISAM ODBC Crystal Reports](threads/t-37c13e4c34.md) — **12** msgs · 2000-04 → 2000-05
 - [migrating to oracle](threads/t-497d8a610f.md) — **12** msgs · 2000-04
-- _…and 863 more threads (showing top 60 by message count)._
+- _…and 862 more threads (showing top 60 by message count)._
 
 ## VSAM, files, sorting <a id='files'></a>
 
@@ -920,10 +920,9 @@ _581 threads · 4,639 messages._
 
 ## Date and calendar processing <a id='dates'></a>
 
-_188 threads · 1,467 messages._
+_187 threads · 1,394 messages._
 
 - [COBOL/DB2 Date edit question](threads/t-2f7f1c1eba.md) — **98** msgs · 2007-08
-- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs · 2020-09 → 2022-02
 - [Date Validation in COBOL](threads/t-e2f1645437.md) — **71** msgs · 2009-01
 - [Date manipulation](threads/t-eb28ef633c.md) — **66** msgs · 2003-12
 - [FUNCTION's LOCALE-(DATE/TIME)](threads/t-31bdea199c.md) — **48** msgs · 2007-03
@@ -982,7 +981,8 @@ _188 threads · 1,467 messages._
 - [COBOL II Date Conversion routines that handle ccyy...](threads/t-5049cceeeb.md) — **6** msgs · 1996-08 → 1996-09
 - [Day of week](threads/t-73d48002f5.md) — **6** msgs · 1997-04
 - [Anybody have alogrithum to caluclate the day of the week given the date](threads/t-5fece407b3.md) — **6** msgs · 1997-08
-- _…and 128 more threads (showing top 60 by message count)._
+- [Day of Week](threads/t-32eeb546e6.md) — **6** msgs · 1999-04
+- _…and 127 more threads (showing top 60 by message count)._
 
 ## Web, XML, modern integration <a id='web'></a>
 
@@ -1184,7 +1184,7 @@ _1,752 threads · 10,416 messages._
 
 ## Off-topic and spam <a id='spam'></a>
 
-_573 threads · 9,870 messages._
+_571 threads · 9,697 messages._
 
 - [OT : Making money from Java](threads/t-0c7ed12b34.md) — **1890** msgs · 2005-11 → 2006-01
 - [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **540** msgs · 2005-03 → 2005-05
@@ -1197,7 +1197,6 @@ _573 threads · 9,870 messages._
 - [OT: windoze woes and full rant mode is on](threads/t-38efcef77e.md) — **116** msgs · 2006-11
 - [OT: Hemlines](threads/t-973400bc4f.md) — **107** msgs · 2003-11 → 2003-12
 - [OT: Trouble in Paradise](threads/t-11accd9aba.md) — **104** msgs · 2011-10
-- [Find Girlfriend Near Me - Best Dating Site to Find GirlFriend Online Looking for Sex](threads/t-9cda689360.md) — **100** msgs · 2020-09 → 2022-02
 - [OT: Some More Background on St. Paul](threads/t-4b48b948c8.md) — **97** msgs · 2008-02
 - [OT : Nigerian Email Scams](threads/t-ce84227c11.md) — **93** msgs · 2002-09 → 2002-11
 - [OT - Humor (was: Is 12:00 Noon considered AM or PM?](threads/t-96b43742c5.md) — **93** msgs · 2002-10
@@ -1207,7 +1206,6 @@ _573 threads · 9,870 messages._
 - [OT: Politically Correct](threads/t-14dbcf5f82.md) — **84** msgs · 2007-05 → 2007-06
 - [OT: I'm really not anti-American, just fed up with stupidity...](threads/t-47c67922df.md) — **83** msgs · 2012-04 → 2012-05
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
-- [Adult Search - Online Date, Singles Women Dating Men, Sex Personals Sites](threads/t-2d281c319e.md) — **73** msgs · 2020-09 → 2022-02
 - [OT Microsoft](threads/t-64e54b668b.md) — **72** msgs · 2003-03 → 2003-04
 - [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](threads/t-172a78fc6d.md) — **71** msgs · 2004-11 → 2005-01
 - [OT: Testing chevrons - no COBOL content](threads/t-0339a7de28.md) — **69** msgs · 2008-11 → 2008-12
@@ -1246,7 +1244,9 @@ _573 threads · 9,870 messages._
 - [OT - Before I Die ( Part 1)](threads/t-89b4702ebf.md) — **32** msgs · 2008-10
 - [OT: for your amusment](threads/t-ad27fc7ff4.md) — **30** msgs · 2003-01
 - [OT: What Would You Do In This Situation?](threads/t-4736628e3e.md) — **30** msgs · 2010-08 → 2010-09
-- _…and 513 more threads (showing top 60 by message count)._
+- [OT: Another Indian Phone Scam](threads/t-469b4a10a3.md) — **30** msgs · 2014-08 → 2014-09
+- [OT - CLC (primarily???) a chat room?](threads/t-96aae7ec26.md) — **29** msgs · 2002-09 → 2003-06
+- _…and 511 more threads (showing top 60 by message count)._
 
 ## Meta: FAQs, group policy, charter <a id='meta'></a>
 
@@ -1316,7 +1316,7 @@ _609 threads · 1,598 messages._
 
 ## Uncategorized (top by message count) <a id='uncategorized'></a>
 
-_11,721 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
+_11,712 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
 
 - [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **1870** msgs · 2007-11 → 2008-02
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **1132** msgs · 2004-10 → 2005-01

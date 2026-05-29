@@ -144,9 +144,6 @@ def strip_dotall(text: str) -> str:
     return text
 
 
-SIG_DELIM_RE = re.compile(r"^-- ?$")
-
-
 def _is_quote_line(line: str) -> bool:
     """Detect a quoted line (Usenet/email reply prefix).
 
@@ -160,22 +157,18 @@ def _is_quote_line(line: str) -> bool:
 
 
 def clean_body(body: str, quote_threshold: int = 5) -> str:
-    """Strip signatures and collapse long quote runs.
+    """Collapse long quote runs.
 
-    - Lines from a `-- ` (sig delimiter) onward are dropped.
-    - Runs of consecutive quoted lines longer than `quote_threshold` are
-      replaced by the first 2 lines, an elision marker with the count,
-      and the last line.
+    Runs of consecutive quoted lines longer than `quote_threshold` are
+    replaced by the first 2 lines, an elision marker with the count, and
+    the last line.
+
+    Signatures (text after a `-- ` delimiter) are intentionally preserved —
+    they're part of the original posts and readers want to see them.
     """
     if not body:
         return body
     lines = body.split("\n")
-
-    # Drop signature
-    for i, line in enumerate(lines):
-        if SIG_DELIM_RE.match(line):
-            lines = lines[:i]
-            break
 
     out: list[str] = []
     i = 0

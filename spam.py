@@ -6,10 +6,14 @@ source is left intact; this module filters spam threads out of the
 generated markdown indexes via `archive.thread_summaries()`.
 
 A *message* is spam when its non-quoted text references a known spam
-host or free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`). A
-*thread* is spam when its root message is spam and no later message
-has substantive original content beyond auto-quote-headers — so
-threads where humans replied (even with one-line jokes) are preserved.
+host or free-hosting TLD (`SPAM_HOSTS` / `SPAM_HOST_SUFFIXES`), or when
+it is dense with dating/adult promotional phrases (`message_is_promo_spam`).
+A *thread* is spam when its root is spam and no later message has
+substantive original *human* content — so threads where humans replied
+(even with one-line jokes) are preserved, but bot-flooded dating/adult
+threads (where every "reply" is itself promo spam) are not. Threads whose
+root subject is an unmistakable dating/adult ad (`SPAM_SUBJECT_RE`) are
+dropped in their entirety.
 """
 from __future__ import annotations
 
@@ -97,6 +101,55 @@ SPAM_HOST_SUFFIXES: tuple[str, ...] = (
     ".blogspot.in",    # Indian-locale Blogger — 100% spam in this archive
 )
 
+# Subjects that are unmistakable commercial dating/adult advertisements. In
+# this archive these match *only* bot-flood spam threads (2020–2022 scrape):
+# dozens of one-off fake senders posting near-identical promo bodies under a
+# shared subject. No legitimate comp.lang.cobol thread carries such a subject,
+# so a thread rooted in one of these is dropped whole — every "reply" is more
+# bot promo. Verified to match exactly the four known offenders corpus-wide.
+_SPAM_SUBJECT_PATTERNS: tuple[str, ...] = (
+    r"\bdating site\b",
+    r"\bdating website\b",
+    r"\bfind girlfriend\b",
+    r"\bgirlfriend near\b",
+    r"\bmarried women seeking\b",
+    r"\bextra ?marital affair\b",
+    r"\bherpes dating\b",
+    r"\bstd\b.{0,15}\bdating\b",
+    r"\bpositive singles\b",
+    r"\bsex personals\b",
+    r"\bsingles women dating men\b",
+    r"\bwomen seeking men\b",
+)
+SPAM_SUBJECT_RE = re.compile("|".join(_SPAM_SUBJECT_PATTERNS), re.IGNORECASE)
+
+# Dating/adult promotional phrases. Multi-word so they don't fire on incidental
+# single words ("date", "single") in genuine prose. A message dense with these
+# (>= _PROMO_PHRASE_MIN distinct hits) is promo spam — used to catch standalone
+# dating/porn ads and, crucially, to stop bot promo "replies" from counting as
+# the genuine human content that would otherwise keep a spam thread alive.
+_PROMO_PHRASES: tuple[str, ...] = (
+    "dating site", "dating website", "dating service", "adult dating",
+    "online dating", "casual dating", "casual hookup", "casual date",
+    "casual encounters", "one night stand", "sex partner", "sex partners",
+    "sex dating", "sex personals", "sex encounters", "personal ads",
+    "extramarital", "extra marital", "married women seeking", "married personals",
+    "married dating", "married but lonely", "discreet relationships",
+    "find girlfriend", "find a girlfriend", "positive singles", "discrete dating",
+    "discreet dating", "swingers", "adultfriendfinder", "local single",
+    "local women", "women seeking men", "men seeking women", "women looking men",
+    "girls looking", "find sex", "find local sex", "find a casual",
+    "find partner", "adult services", "hookup", "milf", "fuck buddy", "get laid",
+    "single women", "singles women", "find love", "soul mate", "meet singles",
+    "meet ladies", "herpes dating", "std dating", "naughty", "horny", "escorts",
+    "call girls", "sex life", "looking for sex", "get a girlfriend",
+)
+_PROMO_RE = re.compile(
+    "|".join(re.escape(p) for p in _PROMO_PHRASES), re.IGNORECASE
+)
+# Distinct promo phrases needed to call a single message promotional spam.
+_PROMO_PHRASE_MIN = 2
+
 # Minimum words of substantive content for a message to "count" as a real reply.
 _SUBSTANTIVE_WORD_MIN = 3
 
@@ -160,6 +213,28 @@ def message_is_spam(entry: dict) -> bool:
     return _has_spam_url(_non_quoted(body).lower())
 
 
+def message_is_promo_spam(entry: dict) -> bool:
+    """True if a message is dense with dating/adult promotional phrases.
+
+    Counts *distinct* promo phrases in the non-quoted text; >= 2 marks the
+    message as an ad. Two-phrase minimum keeps a stray "I went on a date last
+    single weekend" in a genuine post from tripping the filter, while the
+    relentlessly on-message bot bodies in the 2020–2022 dating-spam threads
+    clear it easily.
+    """
+    body = entry.get("body") or ""
+    if not body:
+        return False
+    text = _non_quoted(body)
+    seen = {m.group(0).lower() for m in _PROMO_RE.finditer(text)}
+    return len(seen) >= _PROMO_PHRASE_MIN
+
+
+def subject_is_spam(subject: str) -> bool:
+    """True if a subject is an unmistakable dating/adult advertisement."""
+    return bool(subject) and SPAM_SUBJECT_RE.search(subject) is not None
+
+
 def _has_substantive_content(entry: dict) -> bool:
     """True if the message has original (non-quoted, non-header) prose."""
     body = entry.get("body") or ""
@@ -172,19 +247,29 @@ def thread_is_spam(summary: dict, msgs: dict) -> bool:
     """True if the entire thread can be dropped from generated indexes.
 
     Conservatively keeps any thread where at least one message has
-    substantive original content — even a one-line joke reply counts —
-    so that human engagement is preserved even when the inciting post
-    was spam.
+    substantive original *human* content — even a one-line joke reply
+    counts — so that human engagement is preserved even when the inciting
+    post was spam. A reply that is itself spam (known host) or dating/adult
+    promo does not count as human, which prevents bot-flooded dating threads
+    from rescuing themselves.
+
+    Threads whose root subject is an unmistakable dating/adult ad are dropped
+    outright: in this archive those subjects appear only on spam bot floods,
+    and every reply shares the subject and is more promo.
     """
     root_id = summary.get("root")
     root_msg = msgs.get(root_id) if root_id else None
-    if not root_msg or not message_is_spam(root_msg):
+    if not root_msg:
+        return False
+    if subject_is_spam(summary.get("subject", "")):
+        return True
+    if not (message_is_spam(root_msg) or message_is_promo_spam(root_msg)):
         return False
     for mid in summary.get("msg_ids", ()):
         msg = msgs.get(mid)
         if msg is None:
             continue
-        if message_is_spam(msg):
+        if message_is_spam(msg) or message_is_promo_spam(msg):
             continue
         if _has_substantive_content(msg):
             return False
