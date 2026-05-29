@@ -2,13 +2,13 @@
 
 # comp.lang.cobol — Subject Concordance
 
-Every distinct thread subject in the archive (24,720 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
+Every distinct thread subject in the archive (24,546 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
 
 **Jump to:** [#](#letter-symbols) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## # <a id='letter-symbols'></a>
 
-_1,020 threads._
+_983 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -29,7 +29,6 @@ _1,020 threads._
 | [!!! URGENT !!! - DLL problem with MicroFocus ESQL](threads/t-6baf9a01dc.md) | 1 | 1997-03 |
 | [!!!!! CICS, COBOL ANALYST/PROGRAMMERS](threads/t-3361900b42.md) | 1 | 1997-06 |
 | [!!!!!!!! COBOL PROGRAMMERS !!!!!!!!!!!!!!](threads/t-8d271e26fd.md) | 1 | 2001-10 |
-| [!!!!!!!!!!!! It Is Not Just A Religion](threads/t-7911aca3a3.md) | 1 | 2013-02 |
 | [!!!!!Who can?????](threads/t-33fa076385.md) | 1 | 1997-02 |
 | [!!!DFW JOBS!!!COBOL!!! COBOL II!!! Realia!!! Microfocus!!!](threads/t-d65cc5e00c.md) | 2 | 1997-02 |
 | [!!!DFW JOBS!!!COBOL!!! COBOL II!!! Realia!!! Microfocus!!!](threads/t-abd3935a61.md) | 1 | 1997-02 |
@@ -40,7 +39,6 @@ _1,020 threads._
 | [!!!Hello!!!](threads/t-2f6bbca5e5.md) | 1 | 1997-07 |
 | [!!!Programmers Wanted!!!](threads/t-18ac7b0cb8.md) | 1 | 1996-08 |
 | [!!!Unexpected Error in Internet Application Wizard: NetExpress 3.0](threads/t-83f2ccc17a.md) | 3 | 2000-08 |
-| [!Get into Sex Sites Free](threads/t-87301bb393.md) | 1 | 1997-07 |
 | [!looking for online COBOL resource](threads/t-61b11773b3.md) | 2 | 1998-03 |
 | ["... all ya gotta do..."](threads/t-9ce17eefb8.md) | 2 | 2020-08 |
 | ["A Guide to Cobol Programming"](threads/t-29510dac29.md) | 6 | 1997-04 → 1997-05 |
@@ -154,11 +152,6 @@ _1,020 threads._
 | [## FreePic ##](threads/t-0f7c4b9e3b.md) | 1 | 1997-06 |
 | [### bargain computer books ###](threads/t-6a05a2de40.md) | 1 | 1997-04 |
 | [##C/C++, Fortran, Cobol, ADA, LISP, etc.**New Compilers**](threads/t-1fe0724a67.md) | 2 | 1999-04 |
-| [#GIOELEMAGALDI �� ASSASSINO E PEDOFILO! SI, PROPRIO COS��! �� PEDERASTA OMICIDA: GIOELE MAGALDI DI CRIMINALE…](threads/t-7acd0c3ac1.md) | 1 | 2022-02 |
-| [#LEOZAGAMI �� PEDOFILO ASSASSINO, SATANISTA, NAZISTA, SATA���NAZISTA, FILO MAFIOSO, COCAINOMANE E STRA FIGLIO…](threads/t-2d92e38a51.md) | 1 | 2022-02 |
-| [#MARINABERLUSCONI �� ASSASSINA, LESBICA E PEDOFILA! SI, PROPRIO PROPRIO COS��! �� COCAINOMANE, ASSASSINA E PE…](threads/t-20ee13dff2.md) | 1 | 2022-02 |
-| [#PIERSILVIOBERLUSCONI �� FIGLIO DI TROIA! SI, PROPRIO COS��! �� FIGLIO DI PUTTANONA, PIERSILVIO BERLUSCONI DI…](threads/t-5a25687092.md) | 1 | 2022-02 |
-| [#PIERSILVIOBERLUSCONI �� UN FIGLIO DI PUTTANA, SI, PROPRIO COS��! �� FIGLIO DI TROIONA, PIERSILVIO BERLUSCONI…](threads/t-6ef7ecf83c.md) | 1 | 2022-01 |
 | [$ CA COBOL CONTRACTS](threads/t-9ed155f6d6.md) | 2 | 1998-02 |
 | [$ for Source Code to Inventory System - COBOL Win9x/NT](threads/t-275cca5949.md) | 4 | 1999-11 |
 | [$$ COBOL NEEDED IN OKLAHOMA CITY $$](threads/t-b2e48751fd.md) | 2 | 1997-09 |
@@ -292,7 +285,6 @@ _1,020 threads._
 | [(OT) Was Agile used in Obama website development?: [Was: An Open Request to HeyBub]](threads/t-aa36e593de.md) | 34 | 2013-10 → 2013-11 |
 | [(OT) Would you believe ???](threads/t-134493ca43.md) | 3 | 2002-04 → 2002-05 |
 | [(OT?) Politics Makes Strange "Bedfellows", aka How to Save CoBOL](threads/t-74f80e9af7.md) | 13 | 2014-01 |
-| [(paypal payment)( www.niketrade08.cn ) wholesale ED T-shirt women's](threads/t-8a170781d6.md) | 1 | 2009-06 |
 | [(QT) Help: je suis attaqué par un Cobol.](threads/t-609ce85158.md) | 3 | 1999-03 |
 | [(relatively) New IBM "presentations" of possible interest](threads/t-ac94a9ceb8.md) | 1 | 2002-04 |
 | [(Relatively) new IBM COBOL compiler option](threads/t-4a86e18ef0.md) | 2 | 1999-03 |
@@ -309,7 +301,6 @@ _1,020 threads._
 | [(URGENT REQUIREMENT)&#8230;Jobs for IT Professionals in Bangalore,UK,North & South India.](threads/t-3d8069cedf.md) | 3 | 2002-09 → 2003-09 |
 | [(US) COBOL Public Review period ends tomorrow, April 9th](threads/t-84fe744a96.md) | 27 | 2001-04 |
 | [(Usual) request to change subject - for "thread drift"](threads/t-5afde8fed3.md) | 4 | 2010-06 |
-| [(WWW.CNCIRCLE.COM)cheap wholesale hoodies, jeans, discount. wholesale nike shoes, adidas,puma, lacoste,parada…](threads/t-5d9e34a965.md) | 1 | 2007-10 |
 | [* COBOL FAQ * - What's new](threads/t-951cdf5de7.md) | 1 | 2000-07 |
 | [* COBOL PA'S NEEDED IN THE MIDWEST *](threads/t-58f5ebd11a.md) | 4 | 1996-12 |
 | [* New "Draft" of the Draft Standard being processed by J4](threads/t-6f13be603f.md) | 1 | 1999-05 |
@@ -391,8 +382,6 @@ _1,020 threads._
 | [***Applications Development/Finance & Warehouse/Rockies***](threads/t-f9d373fdef.md) | 1 | 1996-09 |
 | [***COBOL Contract Openings - FLORIDA***](threads/t-136ac0cd95.md) | 3 | 1998-02 |
 | [***COBOL Programmer Needed in Los Angeles***](threads/t-08499f32c8.md) | 1 | 1998-05 |
-| [***FREE SEX SITES***](threads/t-105e94f9c7.md) | 2 | 1997-07 |
-| [***FREE SEX SITES***](threads/t-537c3a8140.md) | 1 | 1997-07 |
 | [***Great Opportunity*** TRAINING & PLACEMENTS FOR OPT/CPT CANDIDATES***GC Filing and H1 Transfer](threads/t-7b2ad13988.md) | 25 | 2012-08 |
 | [***JOB-DC- DBA/MAINFRAME ADMIN***](threads/t-6dbe6a06f9.md) | 1 | 1997-06 |
 | [***JOB: Dallas, TX - Programmer Analyst, CICS is a must! ***](threads/t-e34392b595.md) | 1 | 1997-06 |
@@ -406,7 +395,6 @@ _1,020 threads._
 | [**COBOL,CICS opps in Austin, Texas**](threads/t-38c4cccbd5.md) | 1 | 1997-04 |
 | [**COLORADO-COBOL P/As & PROJECT LEADERS**](threads/t-a0df7cca83.md) | 1 | 1996-02 |
 | [**EZT Problem**](threads/t-87558490c4.md) | 3 | 2005-09 |
-| [**Get 1800 FREE XXX Sites***](threads/t-edf8b86d43.md) | 1 | 1997-07 |
 | [**JOB - DALLAS, TX - MICRO FOCUS COBOL **](threads/t-d544884090.md) | 1 | 1997-07 |
 | [**JOB**COBOL,CICS,DB2**NoVA**Immediate**](threads/t-dd12e2fe59.md) | 1 | 1996-09 |
 | [**JOB-DC-- COBOL PROGRAMMERS***](threads/t-6b59434e14.md) | 1 | 1997-06 |
@@ -451,10 +439,7 @@ _1,020 threads._
 | [-- need help with index-record](threads/t-91d602cf52.md) | 3 | 1998-12 |
 | [-- system call?](threads/t-a4493252db.md) | 3 | 1998-11 |
 | [------------Earn Rs.500/- Daily by just reading Emails & SMS](threads/t-750617d11a.md) | 1 | 2012-08 |
-| [------SEX TOYS AND KINKY STUFF-------](threads/t-ddb643c62e.md) | 1 | 1997-05 |
 | [---> COBOL/CICS/DB2 Consultant available for assignment](threads/t-65a9317d44.md) | 1 | 1997-01 |
-| [-Hot New Teenage Site young4.jpg](threads/t-3edf5a9518.md) | 1 | 1997-06 |
-| [-Hot young cocksucking girls *cocte.jpg](threads/t-9519cb69a9.md) | 1 | 1997-06 |
 | [.](threads/t-2e9be928d9.md) | 3 | 1996-03 |
 | [.](threads/t-fa0449efe8.md) | 1 | 2016-07 |
 | [.. Y2K and databases](threads/t-729488e287.md) | 1 | 1997-06 |
@@ -467,8 +452,6 @@ _1,020 threads._
 | [.db file from cobol to be converted to other format](threads/t-89aa40bba1.md) | 1 | 2000-02 |
 | [.exe with RM/COBOL-85 ?](threads/t-6ab0eeaa3a.md) | 1 | 2000-12 |
 | [.exe with RM/COBOL-85?](threads/t-8edbf083c0.md) | 4 | 2000-12 |
-| [.Hot New Teenage Sex Site](threads/t-833b459850.md) | 1 | 1997-06 |
-| [.Hot young cocksucking girls *cocte.jpg](threads/t-ab8fe44f02.md) | 1 | 1997-06 |
 | [.INT and .GNT files...](threads/t-45a7fd1136.md) | 6 | 1996-09 |
 | [.net and COBOL](threads/t-b8fcb4a429.md) | 1 | 2001-02 |
 | [.NET and COBOL](threads/t-5eabe9f949.md) | 4 | 2003-04 |
@@ -596,7 +579,6 @@ _1,020 threads._
 | [4t# Almost FREE MONEY !! 4t#](threads/t-9a7782f065.md) | 1 | 2004-08 |
 | [5 COBOL,CICS,DB2 CONTRACT OPENINGS in KANSAS CITY, MISSOURI / 1-800-676-662 #309](threads/t-f3e7efb300.md) | 14 | 2002-12 |
 | [5 Guys Who Do Cobol - Revisited](threads/t-b9a827672c.md) | 2 | 1997-04 |
-| [5 minutes introduction to islam](threads/t-365597cf50.md) | 1 | 2013-02 |
 | [5 P/A's - DB2, Cobol, SQL - Contracts in Sacramento, CA](threads/t-b10f73df1d.md) | 1 | 1995-07 |
 | [6 Million FREE Email Addresses](threads/t-6ebf79ff2f.md) | 1 | 1997-05 |
 | [6 Month Y2K project in Phoenix--Need some with Millenium and some with Walker](threads/t-cd19b0c9cb.md) | 3 | 1998-06 |
@@ -651,7 +633,6 @@ _1,020 threads._
 | [<<< Help: JSP generating tools ?! >>>](threads/t-4ac845d690.md) | 1 | 1997-08 |
 | [<<< MF 2.4.38 Compiler Problems - PLEASE HELP! >>>](threads/t-d9d2c1e8ba.md) | 5 | 1996-09 |
 | [<<>>](threads/t-fd327d4012.md) | 1 | 1996-12 |
-| [<<>>](threads/t-d15a78ea9b.md) | 1 | 1997-07 |
 | [<<>>](threads/t-8781819501.md) | 2 | 1997-07 |
 | [<<>>](threads/t-f3f0972bfa.md) | 2 | 1997-07 |
 | [<<>>](threads/t-a4c0bc6a87.md) | 1 | 1997-07 |
@@ -717,10 +698,8 @@ _1,020 threads._
 | [>>> F R E E V A C A T I O N S <<<](threads/t-2948ac71b5.md) | 1 | 1997-09 |
 | [>>> needed: Microfocus COBOL <<<](threads/t-78a241b276.md) | 1 | 1995-03 |
 | [>>>> COBOL CONTRACT PROGRAMMERS NEEDED <<<](threads/t-9b31a51f2d.md) | 1 | 1995-07 |
-| [>>>> CRACK VIDEOS <<<<](threads/t-e104a2f813.md) | 1 | 2009-08 |
 | [>>>> HP3000 COBOL PROGRAMMERS NEEDED <<<<](threads/t-a322893abb.md) | 1 | 1995-07 |
 | [>>>> IBM MAINFRAME COBOL PROGRAMMERS NEEDED <<<](threads/t-a586c883b1.md) | 1 | 1995-07 |
-| [>>>> LIBRARY VIDEOS <<<<](threads/t-e52cf89855.md) | 1 | 2009-08 |
 | [>>>> MAGIC DOWNLOAD <<<<](threads/t-88f5954429.md) | 1 | 2009-08 |
 | [>>>>> HELP !](threads/t-ff5702cfa5.md) | 7 | 1998-10 |
 | [>>PW:INT. & SR. PROGRAMMER/ ANALYSTS: COBOL, COBOL 11, DB2, JCL, IMS, MVS - PW3](threads/t-50a88bc92a.md) | 2 | 1998-04 |
@@ -743,8 +722,6 @@ _1,020 threads._
 | [????? Help on COBOL needed ?????](threads/t-fe86155144.md) | 2 | 1995-01 |
 | [???????? Did Muhammad Author the Quran](threads/t-b680a1a4a2.md) | 16 | 2013-05 |
 | [?????????? WHY DID PROPHET MUHAMMAD MARRY AISHA THE YOUNG GIRL](threads/t-38707102ba.md) | 2 | 2013-05 |
-| [??????????? DOES GOG EXIST](threads/t-8f1413688a.md) | 1 | 2013-01 |
-| [??????????? when was jesus christ born](threads/t-c964076b6a.md) | 1 | 2013-01 |
 | [?FTP client against mainframe](threads/t-10487499e7.md) | 5 | 1999-09 |
 | [?How to execute a DOS command in MicroFocus Anim.V2??](threads/t-74ab42ea5d.md) | 3 | 2000-03 |
 | [?modified julian <-> gregorian date conversions?](threads/t-ff2024999f.md) | 2 | 1997-11 |
@@ -1005,24 +982,10 @@ _1,020 threads._
 | [~~~~~~~~~~~~~~ ELECTRICAL SWITCH ~~~~~~~~~~~~~~](threads/t-aff3a8668d.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ ENDOCRINE SYSTEM ~~~~~~~~~~~~~~](threads/t-f238a295d7.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ LESSON PLANS ~~~~~~~~~~~~~~](threads/t-25fbdc057b.md) | 1 | 2009-11 |
-| [~~~~~~~~~~~~~~ LOFT BED ~~~~~~~~~~~~~~](threads/t-b92ee2cabd.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ MEDIEVAL CASTLES ~~~~~~~~~~~~~~](threads/t-e6c2cbe3f9.md) | 1 | 2009-12 |
-| [~~~~~~~~~~~~~~ PHAT AZZ ~~~~~~~~~~~~~~](threads/t-761f746bd8.md) | 1 | 2009-12 |
 | [~~~~~~~~~~~~~~ TOUR COMPANIES ~~~~~~~~~~~~~~](threads/t-5bebbd3f68.md) | 1 | 2009-11 |
 | [~~~~~~~~~~~~~~ TOYOTA TRUCKS ~~~~~~~~~~~~~~](threads/t-478b0a2fdb.md) | 1 | 2009-12 |
-| [~~~~~~~~~~~~~~ WEB RING ~~~~~~~~~~~~~~](threads/t-e2ff93af1c.md) | 1 | 2009-11 |
 | [【招聘】Cobol图书作者](threads/t-25fbe69b33.md) | 2 | 2007-06 |
-| [�� ASSASSINA E LESBICA: #MARINABERLUSCONI! �� NAZI���PEDOFILA KILLER MARINA BERLUSCONI! COME SUO PADRE, IL FA…](threads/t-1b611451a8.md) | 1 | 2021-12 |
-| [�� BESTIA CRIMINALISSIMA #MASSIMODORIS DI #BANCAMEDIOLANUM! RICICLA TANTI SOLDI MAFIOSI, ESATTAMENTE DEI NDRA…](threads/t-65adbf85e9.md) | 1 | 2021-09 |
-| [�� FIGLIO DI PUTTANA: #PIERSILVIOBERLUSCONI DI CRIMINALISSIMA #MFE, CRIMINALISSIMA #MEDIAFOREUROPE, CRIMINALI…](threads/t-0685ed2b18.md) | 1 | 2022-01 |
-| [�� LESBICA ASSASSINA #MARINABERLUSCONI! �� NAZI���PEDOFILA ASSASSINA MARINA BERLUSCONI! COME SUO PADRE, IL FA…](threads/t-303c643b50.md) | 1 | 2021-12 |
-| [�� MASSONA NINFOMANE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME, INSIEME A SUOI COMPARI D…](threads/t-cc86b9a05a.md) | 9 | 2021-11 → 2022-01 |
-| [�� PEDOFILO ASSASSINO PAOLO BARRAI: IL TRUFFATORE PEDERASTA E KILLER DI CRIMINALE #TERRABITCOIN! IL DELINQUEN…](threads/t-6a6b623017.md) | 1 | 2021-10 |
-| [�� PEDOFILO ASSASSINO: #SILVIOBERLUSCONI! �� FIGLIO, MARITO, PADRE E PAGATORE DI PUTTANE SU PUTTANE: IL SATAN…](threads/t-8cee0f7de7.md) | 1 | 2021-11 |
-| [�� PEDOFILO BERLUSCONIANO ASSASSINO: GIUSEPPE LAZZARI, REGISTA CINEMATOGRAFICO DI BRESCIA, DA TANI ANNI INCUL…](threads/t-c2cfe1e337.md) | 1 | 2021-09 |
-| [�� PEDOFILO NDRANGHETISTA IL MASSONE #CARPEORO (ALIAS PEDOFILO NDRANGHETISTA #GIANFRANCOCARPEORO ALIAS PEDOFI…](threads/t-8a745ab937.md) | 1 | 2021-09 |
-| [�� SBORRATISSIMA IN CULO #SILVIASARDONE! SI LEI, IL PUTTANONE CHE �� ENTRATO IN POLITICA DOPO ESSERSI FATTA L…](threads/t-d7ff9262cb.md) | 1 | 2022-01 |
-| [�� SEMPRE VOGLIOSA DI SESSO FOCOSO: #MARIAPAOLATOSCHI DI JP MORGAN! �� SEMPRE INCREDIBLMENTE NINFOMANE: MARIA…](threads/t-9f1932e7f5.md) | 1 | 2021-11 |
 | [��� 20 Things You Might Not Know About COBOL](threads/t-f7eef4c838.md) | 30 | 2009-09 |
 | [��� sign in RM/Cobol](threads/t-cdfab6711f.md) | 1 | 1998-09 |
 | [���2��� & IBM Cobol for AIX](threads/t-fff56c2fc3.md) | 3 | 1997-11 |
@@ -1035,7 +998,7 @@ _1,020 threads._
 
 ## A <a id='letter-a'></a>
 
-_1,265 threads._
+_1,261 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -1694,9 +1657,7 @@ _1,265 threads._
 | [Am I wasting my time?](threads/t-1218ef39a4.md) | 2 | 2000-02 |
 | [Am I wasting my time?](threads/t-0135808e37.md) | 4 | 2000-02 |
 | [Am I wasting my time?](threads/t-216df2619e.md) | 14 | 2000-03 |
-| [AMA IL SESSO ANALE: #MARIAPAOLATOSCHI DI #JPMORGAN! VUOLE SESSO DI GRUPPO EXTREME: MARIA PAOLA TOSCHI DI JP M…](threads/t-679434585f.md) | 1 | 2021-11 |
 | [amateur says thanks](threads/t-acbf15ff9f.md) | 3 | 1998-08 |
-| [Amateurs web camchat](threads/t-ad4a46647f.md) | 1 | 2008-07 |
 | [Amazing grace](threads/t-41d99fc7b7.md) | 1 | 1997-09 |
 | [ambiguous data name](threads/t-fd1cabe6c7.md) | 11 | 2006-07 |
 | [AMERITECH DIRECT EMPLOYMENT OPPORTUNITY! 3 FULLTIME PL/1 PROGRAMMERS NEEDED!](threads/t-1d8bedfa09.md) | 2 | 1998-05 |
@@ -2196,7 +2157,6 @@ _1,265 threads._
 | [assignments](threads/t-8ec9d7ef3c.md) | 2 | 1998-12 |
 | [Assistance Requested](threads/t-c017940ac7.md) | 3 | 2002-08 |
 | [Associating an icon with an executable](threads/t-ffd931cb3f.md) | 1 | 1998-12 |
-| [ASTRONOMY IN THE QUR'AN](threads/t-d7f55e240c.md) | 1 | 2012-04 |
 | [Asymetrix Embraces KaiZenWare](threads/t-8bf3d9863b.md) | 1 | 1996-11 |
 | [Asynchronous call from Cobol](threads/t-bb43d2fc75.md) | 3 | 1998-04 |
 | [Asyncronis processing using net express](threads/t-fc3c02f8b3.md) | 5 | 2000-04 |
@@ -2238,7 +2198,6 @@ _1,265 threads._
 | [attn: wilhelmina - very delightful posts - bew - (1/1)](threads/t-5ecbf8ccab.md) | 1 | 2007-02 |
 | [ATTN:>donald tees](threads/t-3a43c9eabb.md) | 3 | 1998-10 |
 | [Attn:Micro Focus Cobol Developers](threads/t-c6bfaaabb7.md) | 3 | 1996-09 |
-| [ATTRACTIVE SINGLES!](threads/t-5eaa09eac1.md) | 1 | 1996-12 |
 | [Attribute BASED and LINKAGE SECTION](threads/t-55a2b6c9a9.md) | 29 | 2006-06 → 2006-07 |
 | [Aucocobol/Vision file system, reading a deleted record.](threads/t-0af097a789.md) | 6 | 2001-11 |
 | [Audio-CD ID](threads/t-30315b0b2b.md) | 1 | 1998-09 |
@@ -2307,7 +2266,7 @@ _1,265 threads._
 
 ## B <a id='letter-b'></a>
 
-_367 threads._
+_366 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -2360,7 +2319,6 @@ _367 threads._
 | [Basic to COBOL ?????](threads/t-2b3453844d.md) | 5 | 1998-08 |
 | [BASIS](threads/t-bb76800679.md) | 8 | 1998-11 |
 | [BASIS, INSERT, DELETE](threads/t-2243644f44.md) | 2 | 1999-03 |
-| [BASTARDO FIGLIO DI PUTTANA GERARDO SEGAT DI T&F Tax and Finance SA (MERDONA FIDUCIARIA DI COSA NOSTRA), SI AP…](threads/t-a617c2a4db.md) | 2 | 2015-06 |
 | [Batch COBOL 0S-390 Question.](threads/t-ab48456111.md) | 5 | 2003-06 → 2003-07 |
 | [Batch Cobol 370 Job ID](threads/t-4f35277505.md) | 2 | 1998-06 |
 | [Batch Cobol 370 Job ID](threads/t-6b2e7a575e.md) | 13 | 1998-06 |
@@ -2681,7 +2639,7 @@ _367 threads._
 
 ## C <a id='letter-c'></a>
 
-_4,606 threads._
+_4,595 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -2720,7 +2678,6 @@ _4,606 threads._
 | [c.l.c residents in NY](threads/t-d6db27ead2.md) | 8 | 2001-09 |
 | [C/C++ compiler on MVS?](threads/t-0e0d2ff2ef.md) | 2 | 1997-07 |
 | [C/C++ for MVS](threads/t-aadfd0fead.md) | 2 | 1997-02 → 1997-03 |
-| [C/C/C CIUCCIA CAZZI DI CAVALLO PAOLO BARRAI DI WMO E BSI ITALIA SRL, UNA VOLTA CACCIATO (E FATTO CONDANNARE A…](threads/t-c3cf465890.md) | 1 | 2015-05 |
 | [C/S Cobol Books](threads/t-d1ede15886.md) | 2 | 1998-10 |
 | [C2/MVS PIC question](threads/t-c3324f9f8d.md) | 11 | 1997-07 → 1997-08 |
 | [C2COBOL ??](threads/t-e3ba4cba4b.md) | 5 | 2002-05 → 2002-06 |
@@ -3114,7 +3071,6 @@ _4,606 threads._
 | [Career start in COBOL?](threads/t-17b0bb18ef.md) | 2 | 1995-02 |
 | [Cariage return line feed](threads/t-5ac0a7a29d.md) | 5 | 1999-08 |
 | [Carpal tunnel syndrome](threads/t-5b31c98464.md) | 8 | 1997-10 |
-| [CARPEORO #CARPEORO �� MASSONE PEDOFILO, DI NDRANGHETA! ED ASSASSINO! SI, �� PROPRIO COS��: �� PEDERASTA SATAN…](threads/t-483b68898d.md) | 1 | 2022-04 |
 | [Carriage Return in COBOL Line Sequential File](threads/t-e2c1c5b219.md) | 3 | 2002-02 |
 | [Carriage Returns](threads/t-375f5e50b7.md) | 4 | 2002-03 |
 | [Carriage returns at end of records?](threads/t-346fb083fd.md) | 5 | 1999-06 |
@@ -3154,7 +3110,6 @@ _4,606 threads._
 | [CBT software for cobol](threads/t-895ff74b21.md) | 2 | 1999-10 |
 | [CBT's SAP for sale,](threads/t-4380a9b9f3.md) | 1 | 1998-04 |
 | [CBTs, Online course or other?](threads/t-cb507e131c.md) | 2 | 1998-07 |
-| [CCC=CIUCCIA CAZZI DI CAVALLO PAOLO BARRAI DI CRIMINALI BSI ITALIA SRL E WMO SA PANAMA, APPENA CACCIATO (E FAT…](threads/t-99d7cf871d.md) | 1 | 2015-07 |
 | [CCI](threads/t-d2813db97b.md) | 2 | 2000-08 |
 | [CCI & Fileshare V2 on MF Cobol Under '95 & SCO Open Server](threads/t-c50e6cee18.md) | 1 | 1996-01 |
 | [CCI unter NETEXPRESS 3](threads/t-7988a3ba7d.md) | 1 | 1999-05 |
@@ -3238,9 +3193,6 @@ _4,606 threads._
 | [cheap cheap flights](threads/t-b73bcc5266.md) | 1 | 2005-08 |
 | [Cheap COBOL](threads/t-fc65ad5b4f.md) | 1 | 1995-03 |
 | [Cheap Uggs](threads/t-aeedbcd954.md) | 1 | 2009-02 |
-| [Cheap Wholesale Air Force One Women paypal payment](threads/t-b8e545eccf.md) | 1 | 2010-12 |
-| [Cheap Wholesale Armani Shirt](threads/t-53ce78948d.md) | 1 | 2010-10 |
-| [Cheap Wholesale GUCCI Boots](threads/t-76ba2d7a9a.md) | 1 | 2010-04 |
 | [Cheap/free compiler](threads/t-4032832e38.md) | 5 | 2011-06 → 2011-07 |
 | [cheap/Free sompiler](threads/t-56a2c219b6.md) | 1 | 2011-06 |
 | [CHECK BOX WITH STATIC LIST IN ACUCOBOL](threads/t-0c300706ed.md) | 3 | 1999-01 |
@@ -3251,7 +3203,6 @@ _4,606 threads._
 | [Check new one and please correct it and send to me, please!=)](threads/t-5ff18fe136.md) | 1 | 2001-04 |
 | [Check new one and please correct it and send to me, please!=)](threads/t-d0c5fa0999.md) | 1 | 2001-04 |
 | [Check new one and please correct it and send to me, please!=)](threads/t-6296e332f5.md) | 1 | 2001-04 |
-| [Check out the new 2009 Ed Hardy Watch collection(www.trade8.cc)](threads/t-2b6b7d652d.md) | 1 | 2009-04 |
 | [Check Printing-Dollars to Spanish](threads/t-35d0612c26.md) | 1 | 1999-03 |
 | [Check this free people search out](threads/t-2668b21ffd.md) | 1 | 2007-10 |
 | [check this out](threads/t-6a9eec1f87.md) | 1 | 2001-08 |
@@ -3277,7 +3228,6 @@ _4,606 threads._
 | [Cherhe job COBOL](threads/t-6789dd2c7f.md) | 1 | 1998-05 |
 | [Chess in Cobol?](threads/t-118d50fdae.md) | 5 | 1998-09 |
 | [CHGMAN Package Concept Issue (participating, super etc). Need advise](threads/t-a00a05bc07.md) | 1 | 2005-04 |
-| [CHI E' LO SCHIFOSO PEDOFILOMOSESSUALE PAOLO BARRAI (CRIMINALI WMO SA PANAMA E BSI ITALIA SRL)? IAMM IA'! OLTR…](threads/t-b7de56943e.md) | 1 | 2015-06 |
 | [Chic and Tabatha Cicero and the Wicked Witch o de West](threads/t-03631bfb0f.md) | 1 | 1999-03 |
 | [CHICAGO - the good, the bad and the ugly](threads/t-6cc817b357.md) | 1 | 1998-03 |
 | [Chicago Area - What are the Rates?](threads/t-4e5f179011.md) | 1 | 1998-10 |
@@ -6366,7 +6316,6 @@ _4,606 threads._
 | [Cobtest => Debug question](threads/t-6beb292cfb.md) | 3 | 1997-12 |
 | [COBTEST help desperately needed](threads/t-88c800584a.md) | 2 | 1998-12 |
 | [Coby >0.2](threads/t-3c1260aaaa.md) | 2 | 1996-06 |
-| [COCAINOMANE OMOSESSUALE #LUCAMORISI, SE FOSTI UN UOMO (MA SEI UN FEMMINIELLO, COME DICONO A NAPOLI....NON SON…](threads/t-953e2cccda.md) | 1 | 2021-10 |
 | [CODASYL DB](threads/t-ba3bf96ccc.md) | 13 | 2009-07 |
 | [Code & JES Log](threads/t-8c8dbf26bb.md) | 11 | 2000-05 |
 | [Code analisers (sp)](threads/t-71c82c5f85.md) | 3 | 1996-12 → 1997-01 |
@@ -6457,7 +6406,6 @@ _4,606 threads._
 | [Combining Netexpress 3.1 and Silverstream](threads/t-e4cefb8259.md) | 1 | 2001-03 |
 | [come and visit my site 6625](threads/t-89cf53ed1e.md) | 2 | 2000-07 |
 | [Come funziona MOVE?](threads/t-a275e816bf.md) | 2 | 2001-12 |
-| [COME SEE THE HOTTEST SITES ON THE WEB!!!!!!!!!!!!!!!!](threads/t-fb859dabf8.md) | 1 | 1997-04 |
 | [Coming November 15, 1999](threads/t-4b5513e08c.md) | 2 | 1999-11 |
 | [Coming November 15, 1999](threads/t-448f01f245.md) | 1 | 1999-11 |
 | [Coming Soon - Revised COBOL FAQ](threads/t-92d1a49c85.md) | 9 | 1998-02 → 1998-03 |
@@ -6784,7 +6732,6 @@ _4,606 threads._
 | [comunications](threads/t-9ff938abb3.md) | 10 | 1999-02 → 1999-03 |
 | [Concat array elements into a string](threads/t-519adfaf8f.md) | 4 | 2007-04 |
 | [Concatenate in Easytrieve](threads/t-58ca6e3440.md) | 5 | 2002-11 → 2002-12 |
-| [CONCEPT OF GOD IN ISLAM !!!!!!!!!!!!!!!](threads/t-78f72feb96.md) | 1 | 2012-01 |
 | [Concise vs COBOL - followup](threads/t-d49ff1b261.md) | 4 | 1995-02 |
 | [COND CODE 2744](threads/t-dd55a48cb7.md) | 1 | 2003-10 |
 | [Condition Handing under LE](threads/t-bf517d0168.md) | 3 | 1997-10 |
@@ -7294,7 +7241,7 @@ _4,606 threads._
 
 ## D <a id='letter-d'></a>
 
-_823 threads._
+_816 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -7529,7 +7476,6 @@ _823 threads._
 | [Dealing with Projects](threads/t-797344853b.md) | 13 | 2010-10 → 2010-11 |
 | [DEAR C AND C++ PROGRAMMERS](threads/t-b80870a56c.md) | 1 | 1995-05 |
 | [Dear Friends](threads/t-5275816436.md) | 1 | 2012-01 |
-| [Dear Human !!!!!!!!!!!!!!](threads/t-7c949ae403.md) | 1 | 2013-04 |
 | [Dear Kaptn cobol](threads/t-5f5a2d3abd.md) | 2 | 1997-06 |
 | [Dear KaptnCobol](threads/t-882c3ec938.md) | 10 | 1997-06 |
 | [Dear Mr. Dashwood](threads/t-77239409ae.md) | 2 | 2000-09 |
@@ -7644,7 +7590,6 @@ _823 threads._
 | [Demo: multithreading](threads/t-17ff2cfa90.md) | 16 | 2004-05 |
 | [Demo: OO Cobol](threads/t-6fc96aad32.md) | 5 | 2004-06 |
 | [Demo: Sorts (revised)](threads/t-2a7c2614f4.md) | 204 | 2004-06 → 2004-07 |
-| [Democrats sexy meltdown](threads/t-9f9fb21540.md) | 1 | 2008-10 |
 | [Denigration of GUI](threads/t-a6547e5ff1.md) | 31 | 2011-04 → 2011-05 |
 | [Denver Job Opportunities](threads/t-a98175462e.md) | 2 | 1997-10 |
 | [Depending on](threads/t-08507d366e.md) | 5 | 1998-08 |
@@ -7709,7 +7654,6 @@ _823 threads._
 | [Developing with graphic and character screens with MF](threads/t-7ac57cb6a5.md) | 2 | 1998-09 |
 | [developpeurs cobol](threads/t-52d48a7d3a.md) | 3 | 2000-09 |
 | [device type](threads/t-1b996fe2a4.md) | 1 | 2001-08 |
-| [Devil Or Angel Lucy Finds Out sexo](threads/t-d75a569ecb.md) | 1 | 2008-10 |
 | [Devilish Debugging](threads/t-c28c539e42.md) | 21 | 2012-06 |
 | [DEVO FARE IL PORTING DEL MIO APPLICATIVO PER L'EURO](threads/t-883335b8dc.md) | 3 | 2000-05 → 2000-09 |
 | [DFHCOMMAREA](threads/t-14541f9435.md) | 27 | 2002-07 → 2002-08 |
@@ -7812,7 +7756,6 @@ _823 threads._
 | [Disappearing data on screen](threads/t-fc519e7cc7.md) | 9 | 2005-06 |
 | [Disappearing files with MicroFocus COBOL application on Sequent platform](threads/t-d4fad44292.md) | 1 | 1996-04 |
 | [Disassembler](threads/t-b7010c86e1.md) | 88 | 2006-02 → 2006-03 |
-| [discount Air max 95 shoeswww.gotoorder.cn](threads/t-10ee284563.md) | 4 | 2009-01 → 2009-02 |
 | [discouraged with programming](threads/t-3e76347e9c.md) | 41 | 2000-12 |
 | [Discrepancy in the START statement?](threads/t-8c050316ca.md) | 2 | 2005-12 |
 | [Discrete IO devices](threads/t-11326f1cf4.md) | 1 | 2001-04 |
@@ -7968,7 +7911,6 @@ _823 threads._
 | [Don't read this message!](threads/t-02d3743f99.md) | 1 | 1997-06 |
 | [Don't read this perverted mail](threads/t-8c28e7084f.md) | 4 | 1998-05 |
 | [don't read. Its a test](threads/t-de0e09db91.md) | 1 | 1998-10 |
-| [Don't U pay 4 sex site passwords](threads/t-a062ed37dc.md) | 1 | 1997-07 |
 | [Donald Tees](threads/t-ab983d7bbe.md) | 8 | 2009-08 |
 | [DONE IN 3dsMAX!! http://www.gamers-zone.com For All your GAMING NEEDS!!!!](threads/t-49ea259142.md) | 1 | 1997-09 |
 | [Doomsday y2k discussion forums](threads/t-2ef900f5de.md) | 1 | 1998-07 |
@@ -8033,11 +7975,9 @@ _823 threads._
 | [Dreaded File Status 39](threads/t-2068a53ac4.md) | 28 | 1999-07 |
 | [Dress Codes](threads/t-91694196eb.md) | 1 | 1998-06 |
 | [Dress Codes](threads/t-5e5b910404.md) | 16 | 1998-06 |
-| [Drive in Car Service \| Car Service with Driver](threads/t-c9f7d5dbe0.md) | 1 | 2016-11 |
 | [Drive Volume Information](threads/t-bf34ffc578.md) | 7 | 2002-05 |
 | [Driving serial (and parallel) ports directly from COBOL](threads/t-5dc963b85a.md) | 6 | 1999-01 |
 | [Dropping alt.cobol](threads/t-eb850ef980.md) | 2 | 1994-11 |
-| [Drunk Hardcore Sex Party](threads/t-87a27d9cd5.md) | 1 | 2013-02 |
 | [DRY RUNS ARGGhhhhhh!](threads/t-447b0b47a2.md) | 1 | 1996-08 |
 | [DSL Availability In Your Area? .................... RsC1SnXo8B](threads/t-4b72f85cf6.md) | 2 | 2000-12 |
 | [DSL Availability In Your Area? .................... RsC1SnXo8B](threads/t-5899806ea6.md) | 4 | 2000-12 |
@@ -8124,7 +8064,7 @@ _823 threads._
 
 ## E <a id='letter-e'></a>
 
-_562 threads._
+_560 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -8323,7 +8263,6 @@ _562 threads._
 | [Enhanced print pagage for Cobol?](threads/t-cb7e7847b1.md) | 2 | 1995-10 |
 | [Enhancements for future COBOL Standard](threads/t-c942a3a021.md) | 3 | 2003-06 |
 | [ENJOY THE PARTY](threads/t-084b22b1d3.md) | 1 | 2007-12 |
-| [Enormous amount webcams womans showing groupsex. Free](threads/t-7b1d412670.md) | 1 | 2008-10 |
 | [Enough Job Postings](threads/t-39be9d9d3a.md) | 2 | 1997-05 |
 | [Enquiry about Easirun's RAD "Flexgen" .](threads/t-93d2fc3123.md) | 1 | 1998-03 |
 | [Enrique Murillo-Othon](threads/t-43ee3b7ed9.md) | 19 | 2003-10 |
@@ -8567,7 +8506,6 @@ _562 threads._
 | [example of spagetti code needed!](threads/t-0dfb91549b.md) | 3 | 1994-12 |
 | [Examples of Cobol calling WinAPI32 Functions](threads/t-bfbd60ca7c.md) | 9 | 2002-03 → 2002-04 |
 | [Examples of embedded sql /informix](threads/t-10702075e6.md) | 1 | 1996-04 |
-| [EXAMPLES OF PROPHET’S MERCY UPON NON MUSLIMS !!!!!!!!!!!!!!!](threads/t-7613f8ced8.md) | 1 | 2012-02 |
 | [Examples of Web sites backed by COBOL](threads/t-7dd8de9b35.md) | 16 | 2006-10 → 2006-11 |
 | [Examples on the USE statement](threads/t-4b521845e2.md) | 9 | 2004-05 |
 | [Examples Using .BMP/GIF/Etc.](threads/t-0c2b30f698.md) | 1 | 1999-02 |
@@ -8693,7 +8631,7 @@ _562 threads._
 
 ## F <a id='letter-f'></a>
 
-_1,069 threads._
+_1,060 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -8765,11 +8703,6 @@ _1,069 threads._
 | [field length error for COBOL/CICS online program](threads/t-5ba203d15c.md) | 4 | 2002-10 |
 | [Field Picture Interpretation...](threads/t-ab24e47459.md) | 11 | 2000-05 |
 | [Fight the coronavirus 100% and save LOTS of CASH -- Combattez le coronavirus 100% et ����conomisez BEAUCOUP d…](threads/t-3bbfae323b.md) | 1 | 2020-03 |
-| [FIGLI DI PUTTANA BASTARDI GERARDO SEGAT E PAOLO BARRAI (MEGARICICLA CASH MAFIOSO PRESSO T&F TAX AND FINANCE S…](threads/t-12db924f88.md) | 2 | 2015-06 |
-| [FIGLI DI PUTTANA BASTARDI GERARDO SEGAT E PAOLO BARRAI (MEGARICICLA CASH MAFIOSO PRESSO T&F TAX AND FINANCE S…](threads/t-b8ab8e0b19.md) | 1 | 2015-06 |
-| [FIGLI DI TROIA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT E PAOLO BARRAI (MEGALAVANTI CASH MAF…](threads/t-31231eb66b.md) | 4 | 2015-06 |
-| [FIGLI DI TROIONA BASTARDI VICTOR PABLO DANA HERITAGE WEALTH, GERARDO SEGAT T&F TAX & FINANCE E NOTO NAZIPEDOF…](threads/t-8d1f3bc1cb.md) | 1 | 2015-06 |
-| [FIGLIO DI TROIACCIA #PIERSILVIOBERLUSCONI (E SPECIALMENTE FIGLIO DI PEDOFILO ASSASSINO, SPAPPOLA MAGISTRATI #…](threads/t-2d510206c4.md) | 1 | 2021-10 |
 | [Fijitsu COBOL V3](threads/t-c4573e413c.md) | 4 | 2002-06 |
 | [Fijustiu Cobol](threads/t-e504c16823.md) | 2 | 2003-07 |
 | [Fijutsu Cobol V3 and the Dollar Sign](threads/t-2c1d2a2cc6.md) | 4 | 1999-03 |
@@ -8885,7 +8818,6 @@ _1,069 threads._
 | [FIND COBOL ?](threads/t-20eacb6a38.md) | 1 | 1999-12 |
 | [FIND COBOL ?](threads/t-045c060f92.md) | 1 | 1999-12 |
 | [FIND FIRST, FIND NEXT](threads/t-ff27584503.md) | 13 | 1999-10 |
-| [Find Girls Sex Dating Near Me In Local \| Adult Hookup Dating](threads/t-709edd2eed.md) | 41 | 2021-07 → 2021-09 |
 | [Find job-name etc in a cobol program?](threads/t-c67b0dbc08.md) | 6 | 2003-03 |
 | [Find Mainline name](threads/t-b41c74ef3e.md) | 3 | 2000-02 |
 | [find men](threads/t-5997a7025f.md) | 1 | 2011-09 |
@@ -9155,7 +9087,6 @@ _1,069 threads._
 | [FREE inline date-math subr - only TWO LINES long. Wow!](threads/t-96e4f42622.md) | 1 | 2001-12 |
 | [Free Internet Access World Wide](threads/t-a602f2b942.md) | 1 | 1997-07 |
 | [Free linux cobol](threads/t-59fcdc606e.md) | 1 | 1995-02 |
-| [Free Live Teen Sex Show](threads/t-3c628c6e74.md) | 1 | 1997-08 |
 | [free modern Cobol Editor](threads/t-c1d37e1fad.md) | 4 | 2004-02 |
 | [Free Net-Newsletter for COBOL IT Professionals](threads/t-8ad943f92c.md) | 1 | 1999-07 |
 | [Free Net-Newsletter for Legacy Code Programmers](threads/t-cfdc9da320.md) | 1 | 1999-07 |
@@ -9169,8 +9100,6 @@ _1,069 threads._
 | [Free Resume listing to programmers.](threads/t-1c18a2d9aa.md) | 1 | 1998-01 |
 | [Free Runtime Cobol](threads/t-0b0dff4060.md) | 3 | 1997-06 |
 | [Free seminar on domain-specific modeling](threads/t-203713584d.md) | 1 | 2005-09 |
-| [FREE SEX SITE..password is.](threads/t-97a036843e.md) | 1 | 1997-07 |
-| [FREE SEX SITE..password is...](threads/t-224a7be8f7.md) | 1 | 1997-07 |
 | [Free shareware version of FDChart](threads/t-546f849fd0.md) | 2 | 2003-12 |
 | [FREE SOFTWARE](threads/t-95ba134956.md) | 3 | 2008-10 |
 | [Free software - COBDATA tool](threads/t-a732287a98.md) | 5 | 2019-10 |
@@ -9769,7 +9698,7 @@ _1,069 threads._
 
 ## G <a id='letter-g'></a>
 
-_323 threads._
+_313 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -9827,21 +9756,12 @@ _323 threads._
 | [Germans Find Pentium III Flaw - Your privacy - Expires 2/28/99](threads/t-225d7e3b83.md) | 1 | 1999-02 |
 | [Germany - Cobol / DB2 millenium work. EU & Non EU welcome to apply.](threads/t-f3bf61c1a3.md) | 3 | 1998-05 |
 | [Germany - Cobol / DB2 millenium work. EU & Non EU welcome to apply.](threads/t-93ab80a740.md) | 2 | 1998-05 |
-| [Germany's gateway to online casino and poker!](threads/t-01ab2b88e0.md) | 1 | 2012-05 |
 | [Germany-news](threads/t-16ee91ac56.md) | 14 | 2002-02 |
 | [gestionali](threads/t-9c71aa4429.md) | 17 | 2002-07 → 2002-08 |
 | [Gestionar memoria msdos con rmcobol85](threads/t-f0551f631b.md) | 1 | 1997-03 |
 | [Get A GOOD Job Today!COMPUTER BASED](threads/t-1659a70e8c.md) | 1 | 1996-02 |
 | [Get FDD from .DAT](threads/t-1c3252fd89.md) | 4 | 2005-09 |
 | [Get file size in Realia?](threads/t-398b942057.md) | 14 | 2000-12 → 2001-01 |
-| [Get FREE PASSWORD TO 2000 SEX SITE...](threads/t-27a3a160ae.md) | 1 | 1997-07 |
-| [Get FREE PASSWORD TO 2000 SEX SITE.....](threads/t-ed979e7711.md) | 1 | 1997-07 |
-| [Get FREE PASSWORD TO 2000 SEX SITE......](threads/t-e820ae5bc3.md) | 1 | 1997-07 |
-| [Get FREE SEX SITE..password is..](threads/t-f7c2b5c231.md) | 1 | 1997-07 |
-| [Get FREE SEX SITE..password is..](threads/t-e760ec86d6.md) | 1 | 1997-07 |
-| [Get FREE SEX SITE..password is..](threads/t-4ce24e83d5.md) | 1 | 1997-07 |
-| [Get into Sex Sites 4 Free](threads/t-cd3f5f810f.md) | 1 | 1997-07 |
-| [Get into Sex Sites 4 Free with PASSWORD](threads/t-ce2c067382.md) | 1 | 1997-07 |
 | [Get job info in OS/390](threads/t-fe5d27f206.md) | 4 | 2003-02 |
 | [Get name of calling module](threads/t-aaefa4df90.md) | 1 | 2000-07 |
 | [Get name of PC](threads/t-5eb2c252c6.md) | 3 | 2000-04 |
@@ -9989,7 +9909,6 @@ _323 threads._
 | [Google for the Mainframe](threads/t-d554753f21.md) | 3 | 2005-04 |
 | [Google Groups relay of this Usenet group](threads/t-668b9c5c74.md) | 54 | 2012-02 |
 | [Google translate](threads/t-c6dd44f18a.md) | 13 | 2018-02 → 2018-05 |
-| [Gorgeous Trinity stuffed with two c0cks](threads/t-9706b8578f.md) | 1 | 2008-12 |
 | [Got a COBOL job](threads/t-d31d212835.md) | 1 | 2006-11 |
 | [Got a COBOL job](threads/t-78ada7c91e.md) | 2 | 2006-11 |
 | [Got a COBOL job](threads/t-8b257b79ac.md) | 1 | 2006-11 |
@@ -10099,12 +10018,11 @@ _323 threads._
 
 ## H <a id='letter-h'></a>
 
-_1,402 threads._
+_1,391 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
 | [hacking,anti-hacking,registry tweaks,compter tricks](threads/t-3353a5a988.md) | 1 | 2007-09 |
-| [Halle Berry's uncut Sex Scene in Monsters Ball](threads/t-c8cd1b7148.md) | 1 | 2008-10 |
 | [halt a COBOL program while executing](threads/t-7acc747e17.md) | 8 | 2004-09 |
 | [Hand Held Windows PC and COBOL](threads/t-3ca1b48fc2.md) | 8 | 2004-01 |
 | [handling exception](threads/t-d231112322.md) | 4 | 2003-02 |
@@ -10118,8 +10036,6 @@ _1,402 threads._
 | [Handshakling betwwen Unix & Pc](threads/t-85296134b3.md) | 2 | 1999-11 |
 | [Hangs up printing](threads/t-5ca5ee10ec.md) | 1 | 2003-05 |
 | [Happiness in Islam : Concepts of Happiness 1](threads/t-ee9e088a11.md) | 1 | 2015-07 |
-| [Happiness in Islam : Happiness & Science 2](threads/t-e5b6008f95.md) | 1 | 2015-07 |
-| [Happiness in Islam : Happiness is Found in Sincere Worship 3](threads/t-868a7009ba.md) | 1 | 2015-07 |
 | [Happiness is ...](threads/t-beb0884938.md) | 3 | 1999-11 |
 | [Happy Birthday](threads/t-7f54a108c0.md) | 5 | 2009-09 |
 | [Happy Birthday to Pete Dashwood!](threads/t-e25f8531ac.md) | 3 | 2012-03 |
@@ -10187,7 +10103,6 @@ _1,402 threads._
 | [Health Followup](threads/t-d28233e4e8.md) | 1 | 2001-03 |
 | [Heartfelt Appologies!!!](threads/t-c7852a6d2c.md) | 5 | 2002-11 |
 | [Heartfelt Appologies!!!](threads/t-307b14e285.md) | 2 | 2002-11 |
-| [Heather Kennett faces justice for humiliating Con Zacharakis, faces court and/or police action for sexually a…](threads/t-a1902de3f0.md) | 1 | 2010-11 |
 | [Heeeelp! Cobol, windows 95 and Novell](threads/t-f3dd239bb1.md) | 2 | 1999-03 |
 | [Helhelp ... Fabs Plus + Cobo2](threads/t-8f7770fb16.md) | 1 | 1995-04 |
 | [HELLLLLP! Micro Focus--> EOF reached b/4 EOR (error # 018)](threads/t-976c3022b8.md) | 5 | 1997-09 |
@@ -11007,7 +10922,6 @@ _1,402 threads._
 | [Host Data Moved to PC/LAN](threads/t-7a26c437b7.md) | 2 | 1996-02 |
 | [Host variable - gives trouble](threads/t-3333b53afb.md) | 2 | 1999-04 |
 | [HOT ACTRESS ROMANTIC PHOTOS & VIDEOS](threads/t-676b31a18b.md) | 1 | 2012-01 |
-| [Hot Anal Teen Pics * teen59.jpg](threads/t-539150f590.md) | 1 | 1997-06 |
 | [HOT BABES](threads/t-54da1fbf68.md) | 1 | 2011-02 |
 | [hot Cobol opportunity](threads/t-352b6860b5.md) | 3 | 1998-09 |
 | [Hot list available as on 23rd April 2013 from IconSoft Consulting Group Inc](threads/t-9ce5e4710f.md) | 3 | 2013-04 |
@@ -11016,7 +10930,6 @@ _1,402 threads._
 | [Hot Oppurtunity for CICS/COBOL/VSAM/DB2 professionals in the NY/NJ area](threads/t-5d6d20d096.md) | 2 | 1998-06 |
 | [HOT PHOTOS&VIDEOS](threads/t-b4f8c2e2e3.md) | 1 | 2011-01 |
 | [Hot Webcams FREE - GRATIS](threads/t-9f7da12ade.md) | 3 | 2000-07 |
-| [Hot young cocksucking girls *cocte.jpg](threads/t-10f1ba56a7.md) | 1 | 1997-06 |
 | [Hou/Tx.Cobol Programmers](threads/t-1a45b38496.md) | 1 | 1997-06 |
 | [How About Posting Regional Rates?](threads/t-1b0394b2ab.md) | 1 | 1997-01 |
 | [How access a object COM (DLL) with Cobol](threads/t-de5ab4b790.md) | 2 | 2001-08 |
@@ -11205,7 +11118,6 @@ _1,402 threads._
 | [How to Access DB2 on another host?](threads/t-0f15311dce.md) | 2 | 2003-05 |
 | [How to access Microfocus Data files](threads/t-5d23455e18.md) | 8 | 2006-10 |
 | [How to animate cobol programs](threads/t-d5cfbc68e2.md) | 4 | 2000-03 |
-| [HOW TO ATTRACT GIRLS INSTANTLY....Secrets to instant sex appeal](threads/t-84c580cf28.md) | 1 | 1997-10 |
 | [how to avoid Abend D37 during close](threads/t-babd3d6309.md) | 3 | 2004-08 |
 | [How to avoid bad gigs](threads/t-afd5d20115.md) | 10 | 2010-09 |
 | [How to build an invisible field which can be modified on screen in COBOL?](threads/t-66d1c12a45.md) | 7 | 1998-01 |
@@ -11288,8 +11200,6 @@ _1,402 threads._
 | [How to do GOTO in ANSI85 COBOL](threads/t-78625c7c47.md) | 12 | 1994-12 |
 | [How to do Non-COBOL](threads/t-ada2330de7.md) | 15 | 1994-11 → 1994-12 |
 | [How to do this in COBOL](threads/t-982f1a188e.md) | 8 | 1997-04 |
-| [How to Earn $2,500 every month without Investment through part time jobs?](threads/t-c7e9581b47.md) | 1 | 2012-01 |
-| [How to Earn $2,500 every month without Investment through part time jobs?](threads/t-d97f5794d1.md) | 1 | 2012-06 |
 | [How to edit a DB2 DATE in a COBOL pgm](threads/t-61f241adc0.md) | 1 | 2007-08 |
 | [How to EXEC PROC in a JCL](threads/t-ce4ff37e83.md) | 13 | 2004-01 → 2004-02 |
 | [How to export a microfocus dll in C or Delphi](threads/t-2fae42c322.md) | 6 | 2006-09 → 2006-10 |
@@ -11496,8 +11406,6 @@ _1,402 threads._
 | [http://www.jobz-online.com - jobs in India, india jobs](threads/t-0736051535.md) | 1 | 2004-09 |
 | [Http://www.love.com](threads/t-88a01df455.md) | 1 | 1997-07 |
 | [http://www.seguritec.pt](threads/t-4e524518b9.md) | 1 | 2000-05 |
-| [http://www.stefsclothes.com cheap sell air max shoes, nike shoes,ugg shoes,jordan shoes,handbag,jeans,shox sh…](threads/t-c5705f03e5.md) | 1 | 2009-01 |
-| [Human Rights and Justice in Islam](threads/t-46daf4d159.md) | 1 | 2015-05 |
 | [Humor (but on Topic)](threads/t-3d33a2d20e.md) | 2 | 1998-10 |
 | [Humor: With Apologies to Buddy Holly and Don McLean](threads/t-d5b27910fe.md) | 1 | 1998-04 |
 | [Huon / Endevor Configuration Management position in San Francisco, CA](threads/t-3a1cbec8eb.md) | 3 | 2004-09 → 2004-10 |
@@ -11508,7 +11416,7 @@ _1,402 threads._
 
 ## I <a id='letter-i'></a>
 
-_1,092 threads._
+_1,084 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -12358,8 +12266,6 @@ _1,092 threads._
 | [Intrinsic REXX from GnuCOBOL](threads/t-33b16fe923.md) | 5 | 2017-03 → 2017-04 |
 | [Introducing comp.lang.cob](threads/t-311cd51035.md) | 1 | 1997-07 |
 | [Introducing comp.lang.cobol's newest spammer](threads/t-3d6ea45b0e.md) | 1 | 1997-07 |
-| [INTRODUCING ISLAM](threads/t-fdd3aa1f87.md) | 1 | 2014-01 |
-| [Introducing Islam to Non--Muslims](threads/t-0994e9050f.md) | 1 | 2013-03 |
 | [Introducing Venus - DBA and Productivity tool for every DBA, System Analysts, Programmer, ...](threads/t-37e6c73d58.md) | 1 | 2004-08 |
 | [Introduction and Question](threads/t-89304fa215.md) | 3 | 2000-03 |
 | [Introduction to COBOL](threads/t-e83447844e.md) | 3 | 1997-01 |
@@ -12548,12 +12454,6 @@ _1,092 threads._
 | [isCOBOL from Veryant](threads/t-862d7d8537.md) | 8 | 2009-08 |
 | [ISeries Cobol Programmer Analyst](threads/t-142673b383.md) | 2 | 2015-11 |
 | [IshellLink in Cobol](threads/t-0e272091e0.md) | 4 | 2004-09 → 2004-10 |
-| [ISLAM and the AIM of LIFE](threads/t-f6046b7e76.md) | 1 | 2013-02 |
-| [ISLAM AND WOMEN](threads/t-c73ae7ddd4.md) | 1 | 2012-05 |
-| [Islam In Brief](threads/t-71d69c5306.md) | 1 | 2013-01 |
-| [Islam is not a Religion of Extremism](threads/t-9c6f21ac16.md) | 1 | 2014-06 |
-| [Islam is the fastest growing religion in the world especially since sept. 11.](threads/t-c2e3ce8b46.md) | 1 | 2013-12 |
-| [Islam prohibited women to be Unveiled....why?](threads/t-2b6b7a2820.md) | 1 | 2014-11 |
 | [Isn't the Web easy ????](threads/t-da326df236.md) | 5 | 2001-11 |
 | [Isn't this weird?](threads/t-06f952a39c.md) | 1 | 2001-01 |
 | [ISO "speeding up the process"](threads/t-a9cbe39e13.md) | 1 | 2003-10 |
@@ -13011,7 +12911,7 @@ _54 threads._
 
 ## L <a id='letter-l'></a>
 
-_633 threads._
+_632 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -13346,7 +13246,6 @@ _633 threads._
 | [Livre sur Cobol et Web](threads/t-8b7aa2f41d.md) | 1 | 2000-10 |
 | [Lllll DON'T READ THIS llllll](threads/t-c81af37aad.md) | 1 | 1997-08 |
 | [LNK2001: unresolved external symbol](threads/t-9a007e009b.md) | 3 | 1999-07 |
-| [LO SCHIFOSO PEDOFILO #ENNIODORIS RICICLA TANTI SOLDI MAFIOSI: PER COSA NOSTRA, NDRANGHETA, CAMORRA, MAFIA COL…](threads/t-d5392450cf.md) | 1 | 2021-10 |
 | [Load Failure](threads/t-67c1f19cfe.md) | 4 | 2003-07 |
 | [Load Failure (170) on File ...](threads/t-19560803f6.md) | 21 | 2008-05 |
 | [Load Module Link Mapping - Documentation](threads/t-8f0f7bd54f.md) | 5 | 1997-10 → 1997-11 |
@@ -13651,7 +13550,7 @@ _633 threads._
 
 ## M <a id='letter-m'></a>
 
-_2,026 threads._
+_2,021 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -15378,7 +15277,6 @@ _2,026 threads._
 | [Misc comments on GOTO, packed data, and flowcharts](threads/t-9bb0e9b4c4.md) | 2 | 2000-05 |
 | [Misc. Comments](threads/t-7cbc7b04bc.md) | 2 | 1997-02 |
 | [misc.forsale.non-computer,news.admin.net-abuse.usenet,comp.lang.cobol,misc.forsale.computers.net-hardware,com…](threads/t-f7456a3c23.md) | 2 | 2004-06 |
-| [MISCONCEPTIONS ABOUT ISLAM](threads/t-5ebfd042e3.md) | 1 | 2014-07 |
 | [MISinformation](threads/t-5b31eb0f53.md) | 1 | 2000-04 |
 | [Misnomers in the COBOL standard](threads/t-2f1668eef9.md) | 15 | 2006-07 |
 | [missing execution .dll](threads/t-71d9590b63.md) | 4 | 2001-02 |
@@ -15422,7 +15320,6 @@ _2,026 threads._
 | [Money Movers Inc. project](threads/t-00b587f479.md) | 1 | 2005-05 |
 | [money question](threads/t-e5f6c7f16a.md) | 5 | 1998-11 |
 | [Monitor suggestion](threads/t-ffc2cc861a.md) | 1 | 2002-03 |
-| [Monotheism - One God](threads/t-44e9cf39d5.md) | 1 | 2015-03 |
 | [Month table??? kinda long](threads/t-da8fcc8a29.md) | 6 | 2001-04 |
 | [Morality, Law, and the COBOL Standard](threads/t-87328554b1.md) | 8 | 1998-10 → 1998-11 |
 | [More Absurdity in a Blog](threads/t-d586931f31.md) | 10 | 2015-12 |
@@ -15562,8 +15459,6 @@ _2,026 threads._
 | [MSDOS/WINDOWS COBOL Compilers - Anything cheap?](threads/t-81f258112e.md) | 3 | 1994-12 |
 | [MSDOS/WINDOWS COBOL Compilers - Anything cheap?](threads/t-fb286e448a.md) | 1 | 1994-12 |
 | [muffler shop update](threads/t-653253ba45.md) | 12 | 1998-09 |
-| [Muhammad (saws): A Role Model for a New Millennium](threads/t-163a051121.md) | 1 | 2015-01 |
-| [Muhammad's Sword](threads/t-a1b18ce8ee.md) | 1 | 2015-04 |
 | [MUJI “Fall in love with Mondays!”](threads/t-f7d2548373.md) | 1 | 2012-05 |
 | [Multi Column Display Issue](threads/t-5bfd143e8b.md) | 2 | 1998-11 |
 | [Multi Language](threads/t-908a5ac2fd.md) | 3 | 2005-03 |
@@ -15665,7 +15560,6 @@ _2,026 threads._
 | [My High school Programming class needs a good cobol compiler](threads/t-1d02673993.md) | 3 | 1997-11 |
 | [My homework](threads/t-e2813b083c.md) | 7 | 1998-11 |
 | [My Homework](threads/t-a08ff86ec6.md) | 8 | 1998-11 |
-| [My Incredible Discovery of Islam](threads/t-8ef983a938.md) | 1 | 2013-10 |
 | [My lab is DUE!!!](threads/t-f04bada629.md) | 9 | 1996-08 |
 | [My little experiment](threads/t-8b88327994.md) | 2 | 1996-11 |
 | [My Migrations](threads/t-04b1bde0e3.md) | 60 | 2008-09 → 2008-10 |
@@ -15684,7 +15578,7 @@ _2,026 threads._
 
 ## N <a id='letter-n'></a>
 
-_1,023 threads._
+_1,015 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -15712,7 +15606,6 @@ _1,023 threads._
 | [Natural/Adabas Source Code Needed To Test My Parser](threads/t-cc53b15dc0.md) | 1 | 1998-04 |
 | [Natural/Adabase - What is it?](threads/t-af6cc7bef8.md) | 6 | 2001-03 |
 | [Natural/COBOL/DB2/Adabas Opportunities](threads/t-9e60516865.md) | 2 | 1998-12 |
-| [Nature of Heavenly Bodies](threads/t-14c99e0697.md) | 1 | 2012-04 |
 | [Nazi Tactics DocDwarf aka Michael J. Ben-Tovim, President of Binary Systems Inc](threads/t-6582e3efa6.md) | 39 | 1998-07 |
 | [NCITS J4 Activity for several months](threads/t-fc61d74dd4.md) | 1 | 1998-01 |
 | [NDM help](threads/t-3277892029.md) | 1 | 2003-05 |
@@ -16313,7 +16206,6 @@ _1,023 threads._
 | [New easy to use & powerful Cobol Analyzer](threads/t-076a0f09b8.md) | 13 | 1999-03 |
 | [New easy to use & powerful Cobol Analyzer](threads/t-724997ebb9.md) | 1 | 1999-03 |
 | [new errorfile found (great)](threads/t-5acea39538.md) | 6 | 2000-04 |
-| [New facts about the pyramids: a new miracle of the Qur'an](threads/t-96e3eff1ab.md) | 1 | 2014-01 |
 | [New features added to Cobol Date Scan Software](threads/t-ccec451ff0.md) | 1 | 1998-02 |
 | [New forum for cobol400 programmers](threads/t-1b05c25ec7.md) | 1 | 2007-03 |
 | [New Free jobs employment site - recruitmentindia.com](threads/t-a3443797fc.md) | 6 | 1998-03 |
@@ -16532,15 +16424,9 @@ _1,023 threads._
 | [Nice way to set high-order bit of a fullword??](threads/t-ddecbb9e2d.md) | 6 | 1997-11 |
 | [Nigerian email scam](threads/t-8f9957a619.md) | 17 | 2002-11 |
 | [Nigerian Email Scam - redux](threads/t-464b29d93c.md) | 8 | 2003-03 |
-| [NIKE AIR JORDAN FORCE FUSION SHOES AJF 5 V JORDANs 5 FUSION NIKE](threads/t-e639b3a043.md) | 1 | 2008-12 |
 | [NIKE AIR JORDAN FORCE FUSION SHOES AJF 5 V JORDANs 5 FUSION NIKE](threads/t-636db2b4be.md) | 19 | 2009-01 |
 | [NIKE AIR JORDAN FORCE FUSION SHOES AJF 5 V JORDANs 5 FUSION NIKE](threads/t-f55990b01f.md) | 5 | 2009-01 |
-| [nike clothing,nike shoes,online store,http://www.nbashoe.com air Jordan Shoes,Nike Air Jordans, Air Force One…](threads/t-a0c38e4934.md) | 1 | 2009-07 |
-| [nike clothing,nike shoes,online store,http://www.nbashoe.com air Jordan Shoes,Nike Air Jordans, Air Force One…](threads/t-ed8336c5b6.md) | 1 | 2009-07 |
-| [nike clothing,nike shoes,online store,http://www.nbashoe.com air Jordan Shoes,Nike Air Jordans, Air Force One…](threads/t-7f749fffb9.md) | 1 | 2009-07 |
-| [nike clothing,nike shoes,online store,http://www.nbashoe.com air Jordan Shoes,Nike Air Jordans, Air Force One…](threads/t-1006bce1f0.md) | 1 | 2009-07 |
 | [Nike Jobs!!](threads/t-ba83737a3e.md) | 1 | 1996-12 |
-| [Nike Jordans Fusion 23 AIR Jordan 22 Jordan Fusions 21 AIR Jordans](threads/t-66eb5c7cd5.md) | 1 | 2008-12 |
 | [Nike Programmer Positions!!!](threads/t-c67b954ee2.md) | 2 | 1996-10 |
 | [NIU Student Frustrated by MVSBatch Utility at NIU](threads/t-40c85dec31.md) | 5 | 1997-09 |
 | [NJ - Evenings/Weekends Cons Assignment](threads/t-bca96e46d2.md) | 4 | 1998-12 |
@@ -16714,7 +16600,7 @@ _1,023 threads._
 
 ## O <a id='letter-o'></a>
 
-_1,034 threads._
+_1,033 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -17002,7 +16888,6 @@ _1,034 threads._
 | [online form filling process-erecruitment](threads/t-8243006c3b.md) | 1 | 2012-02 |
 | [Online IDMS resources?](threads/t-5f0e7b8c90.md) | 5 | 1999-11 |
 | [Online Relationship Network](threads/t-0eded3fcfb.md) | 1 | 2000-11 |
-| [Online Roulette information](threads/t-add5d8b8ac.md) | 1 | 2012-05 |
 | [online software engineering study (win prizes)](threads/t-ffa18be6d5.md) | 1 | 1999-05 |
 | [Online Textbooks?](threads/t-1b39449f21.md) | 10 | 2006-12 → 2007-01 |
 | [ONLINE TRAINING FOR SAP AND NET WEAVER](threads/t-33472620b0.md) | 1 | 2008-02 |
@@ -17755,14 +17640,13 @@ _1,034 threads._
 
 ## P <a id='letter-p'></a>
 
-_1,209 threads._
+_1,204 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
 | [P/A -COBOL, CICS, VSAM - Reno,Nv](threads/t-a6f6f50afb.md) | 1 | 1995-06 |
 | [P/A Needed](threads/t-7625def4b0.md) | 1 | 1997-12 |
 | [P/A VAX Cobol, ORACLE contract in San Mateo, CA](threads/t-afbd392a6b.md) | 1 | 1995-08 |
-| [Pa$$Word TO 1200 sex sites $25](threads/t-79144bbcde.md) | 1 | 1997-07 |
 | [PA/Assembler, Cobol, programmers needed ASAP](threads/t-fc20f3cda5.md) | 2 | 1997-10 |
 | [Paagraphs and Sections](threads/t-a638e3a9a6.md) | 7 | 2007-08 |
 | [PAC NORTHWEST-COBOL PROGRAMMER/ANALYST POS. AVAILABLE](threads/t-b12f35dcc8.md) | 1 | 1995-02 |
@@ -17901,8 +17785,6 @@ _1,209 threads._
 | [PAY OFF YOUR DEBTS IN DAYS!!!](threads/t-61cec66fa9.md) | 1 | 1998-10 |
 | [Pay questions](threads/t-e25d98f24d.md) | 19 | 1998-05 → 1998-06 |
 | [Pay Rates for COBOL jobs in Ohio](threads/t-923c2517e2.md) | 24 | 1998-08 |
-| [paypal payment)( www.niketrade08.cn ) cheap wholesale, AF, shirt](threads/t-5416a6befb.md) | 1 | 2009-06 |
-| [paypal wholesale all brand(ugg boots timberland boots,munich shoes,Franklin Marshall hoody,Moncler eiderdown,…](threads/t-8eb5a64b68.md) | 1 | 2010-12 |
 | [PC -> UNIX](threads/t-359eeb7cfc.md) | 6 | 2001-07 |
 | [PC Based Cobol Compiler](threads/t-9beae097e1.md) | 1 | 1995-03 |
 | [PC Based COBOL vs Mainframe COBOL Employment](threads/t-da11d575aa.md) | 2 | 2001-01 |
@@ -17955,7 +17837,6 @@ _1,209 threads._
 | [PDS2PDS V3.02](threads/t-cbda04cd01.md) | 4 | 1999-08 |
 | [PDSE Map](threads/t-f214b8731b.md) | 1 | 2004-03 |
 | [Pedantry (Was: Cobol Myth Busters)](threads/t-a655e7fee9.md) | 1 | 2007-09 |
-| [PEDOFILOMOSESSUALE SODOMIZZANTE BAMBINI: PAOLO BARRAI DI WMO E BSI ITALIA SRL (SOCIETA' MALAVITOSE, RICICLA C…](threads/t-5c186a3d5c.md) | 3 | 2015-06 |
 | [Pedophilia?](threads/t-6e9de56880.md) | 1 | 2002-01 |
 | [Peer-to-Peer LAN - Download FREE](threads/t-39055f40dc.md) | 1 | 1996-10 |
 | [penis enlargement](threads/t-b071f50bcf.md) | 3 | 2001-08 |
@@ -18459,7 +18340,6 @@ _1,209 threads._
 | [PR: Metagenix Acquires Olivadoti Associates](threads/t-058c89c8a5.md) | 3 | 1999-01 → 1999-02 |
 | [PR: Metagenix and Relational Solutions Inc Sign ResellerAgreement](threads/t-2d3fe1129e.md) | 1 | 1999-04 |
 | [Praca COBOL, AS400, Warszawa](threads/t-489f7093ba.md) | 9 | 2005-09 → 2005-11 |
-| [Prada shoes (paypal payment)www.king-trade.cn )](threads/t-da928a9322.md) | 1 | 2008-12 |
 | [Prada shoes (paypal payment)www.king-trade.cn )](threads/t-50704cdc28.md) | 5 | 2009-01 |
 | [Prada shoes (paypal payment)www.king-trade.cn )](threads/t-a6ef81161e.md) | 2 | 2009-01 |
 | [Pre- y2k rates](threads/t-52e0f94df4.md) | 10 | 1997-12 |
@@ -19200,7 +19080,7 @@ _222 threads._
 
 ## R <a id='letter-r'></a>
 
-_1,024 threads._
+_1,022 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -19256,7 +19136,6 @@ _1,024 threads._
 | [Range of PIC 9(9)](threads/t-2554a391d9.md) | 9 | 2001-11 |
 | [Rant on lack of implementable new Standard](threads/t-03fbad933a.md) | 1 | 1999-05 |
 | [Rapid Application Development.](threads/t-dfa9edc4ff.md) | 1 | 2000-07 |
-| [RAPISCE, INCULA ED UCCIDE TANTI BIMBI: DANIELE MINOTTI! AVVOCATO PEDOFILO, SATANISTA, SATAN���AZISTA, ASSASSI…](threads/t-7bf1bd0d17.md) | 1 | 2021-07 |
 | [Rare public COBOL class](threads/t-fc4e6316f4.md) | 4 | 2002-10 → 2002-11 |
 | [Raspberry Pi](threads/t-c88678bb67.md) | 1 | 2012-07 |
 | [Rates](threads/t-949aa642b2.md) | 13 | 1997-12 → 1998-01 |
@@ -19580,7 +19459,6 @@ _1,024 threads._
 | [Recycling of acronyms?](threads/t-642c25dd80.md) | 1 | 2006-08 |
 | [RED Editor](threads/t-ba953257d1.md) | 2 | 1999-04 |
 | [Red faces about Mars?](threads/t-aa047c963c.md) | 65 | 2004-01 → 2004-03 |
-| [Red ���Detox Tea��� Flushes 1lb Belly Fat Daily..](threads/t-a0e2efab16.md) | 1 | 2018-06 |
 | [Redefine mismatches](threads/t-bacef61942.md) | 2 | 2000-02 |
 | [Redefines](threads/t-bdfdf2dead.md) | 2 | 2000-01 → 2000-02 |
 | [Redefines and Printing](threads/t-922cda2c27.md) | 3 | 1998-04 |
@@ -20231,7 +20109,7 @@ _1,024 threads._
 
 ## S <a id='letter-s'></a>
 
-_1,388 threads._
+_1,375 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -20359,7 +20237,6 @@ _1,388 threads._
 | [Scheduling source code for Acucobol](threads/t-3787b2e427.md) | 1 | 1997-04 |
 | [SCHOOL LOAN](threads/t-0b6651c74d.md) | 1 | 2008-11 |
 | [school work](threads/t-e9a4be3022.md) | 3 | 2000-04 → 2000-05 |
-| [Science in Islam](threads/t-50413b79ad.md) | 1 | 2014-06 |
 | [SCLM on z/OS 1.7](threads/t-aeac817d2a.md) | 4 | 2008-02 |
 | [SCO -> Linux](threads/t-eb1b520090.md) | 4 | 1997-12 → 1998-01 |
 | [SCO resources for AcuCobol-85?](threads/t-da7fd1e868.md) | 6 | 2003-09 |
@@ -20596,8 +20473,6 @@ _1,388 threads._
 | [Seminal Languages was Re: Advantages of 64-bit architecture](threads/t-70a664b929.md) | 5 | 2001-12 |
 | [Seminal Texts](threads/t-ca2f89db1c.md) | 2 | 1999-04 |
 | [SemiOT: problem with XP Service pack 3](threads/t-5db8204267.md) | 12 | 2008-10 → 2008-11 |
-| [SEMPRE DI MAFIA E MASSONERIA NAZI���FASCISTA SUPER KILLER)! https://www.notizie.it/chi-e-marco-iannilli-arres…](threads/t-aff6d3f5e7.md) | 1 | 2021-09 |
-| [SEMPRE SBORRATO DENTRO AL CULO: LUIGI BERLUSCONI! CON PADRE IL DEPRAVATO PEDOFILO SILVIO BERLUSCONI! CON PADR…](threads/t-1b32ae9a79.md) | 1 | 2018-10 |
 | [Send 1 Milllion Emails an Hour](threads/t-90ee6570f6.md) | 1 | 1997-05 |
 | [Send 1 Milllion Emails an Hour](threads/t-c50c38144f.md) | 1 | 1997-05 |
 | [Send 20 FREE Pages of Fax to any Fax machines in the World!](threads/t-26307714bd.md) | 1 | 1997-02 |
@@ -20711,10 +20586,6 @@ _1,388 threads._
 | [Setting path to runtime files in Fujitsu Cobol 4](threads/t-707eb55419.md) | 3 | 1998-09 |
 | [Several Homework Questions please](threads/t-4fe9df8d95.md) | 13 | 2002-03 → 2002-04 |
 | [Several openings For COBOL Programmers ( USD 1000 For referal...)](threads/t-96f3751ee4.md) | 2 | 2006-10 |
-| [Sex Password](threads/t-59b39206e7.md) | 1 | 1997-06 |
-| [SEXVIDEOS 4 FREE: Hack HARDCORE-pages ! 5308](threads/t-8eb527def2.md) | 1 | 2001-12 |
-| [Sexy ExGirlfriends](threads/t-fece447b92.md) | 1 | 2008-08 |
-| [SEXY SINGLES!](threads/t-636d21ca19.md) | 1 | 1996-12 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-d7d36d5aab.md) | 1 | 1996-05 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-2989812b7d.md) | 1 | 1996-05 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-d6f82c96e3.md) | 1 | 1996-06 |
@@ -20972,9 +20843,7 @@ _1,388 threads._
 | [Someone programming in Percobol ?](threads/t-c85b6b57dc.md) | 1 | 1999-03 |
 | [Someone spamming CLC](threads/t-2d16f0c872.md) | 1 | 2003-03 |
 | [Somewhat OT: Cross border data processing considerations.](threads/t-1919f9d15f.md) | 1 | 2003-09 |
-| [SON FIGLI DI PUTTANA ASSASSINI #CESAREPREVITI E #STEFANOPREVITI! SON 2 PEZZI DI MERDA MASSONICI TUTT'UNO CON…](threads/t-043f2cd091.md) | 1 | 2021-09 |
 | [Sonar 3.1 Delivers Global Dashboards, Unit Test Inspection and Single Sign-On](threads/t-f119dc8314.md) | 1 | 2012-06 |
-| [SONO AVVOCATI ASSASSINI #PIETROMARIAMASCOLO E #FLAVIANOSARZANI DI CRIMINALISSIMO, BASTARDO, MASSO���NAZISTA,…](threads/t-fbc8cc792e.md) | 2 | 2021-09 |
 | [Sorry](threads/t-8e41a0758c.md) | 1 | 1998-10 |
 | [Sorry re: Fujitsu PowerCOBOL File Access Questions...](threads/t-fbce76db71.md) | 1 | 1999-09 |
 | [Sorry, Msg. to Steven Lalewicz about NE3.0 and http headers](threads/t-110dfb5976.md) | 1 | 2000-09 |
@@ -21262,7 +21131,6 @@ _1,388 threads._
 | [Static linking error MF Cobol WIN95 API calls](threads/t-800fdda472.md) | 3 | 1998-04 |
 | [Static linking from DLLs](threads/t-6452bd5223.md) | 19 | 1998-07 |
 | [Static Linking on Unix](threads/t-1e251d1b52.md) | 1 | 1997-12 |
-| [Static Mechanical Engineering , By Arthur P. Boresi and Richard J. Schmidt , 1st ed (solutions manual)](threads/t-25539c73fb.md) | 1 | 2019-03 |
 | [Static objects](threads/t-bb637c003c.md) | 9 | 1998-04 |
 | [Static or Dynamic Call.](threads/t-b35199b65f.md) | 28 | 2006-05 |
 | [Static Semantics](threads/t-89c4879a0f.md) | 1 | 1995-11 |
@@ -21273,9 +21141,7 @@ _1,388 threads._
 | [Static vs. Dynamic CAll Performance on IBM Mainframes](threads/t-b0f8b305c9.md) | 3 | 1998-04 |
 | [Static/dynamic linking with Fujitsu COBOL V3.0](threads/t-b939ba4b75.md) | 2 | 1999-02 |
 | [Statistic function](threads/t-81632e8b73.md) | 4 | 2003-01 |
-| [Statistical Techniques in Business and Economics 17th Edition by Douglas A. Lind,��� William G Marchal,��� Sa…](threads/t-dc783037b7.md) | 1 | 2019-03 |
 | [statistics](threads/t-78637ed0d2.md) | 6 | 2000-08 → 2000-09 |
-| [Statistics for engineers and scientists ,William Navidi ,4th ed (solutions manual)](threads/t-817ab77120.md) | 1 | 2019-03 |
 | [Status 39](threads/t-b0dbb19da6.md) | 6 | 2004-12 → 2005-01 |
 | [status 46 abend --- help!](threads/t-ffe6360da2.md) | 10 | 2000-10 |
 | [Status 93 on an AIX Browse](threads/t-234eb8cc96.md) | 1 | 1995-01 |
@@ -21349,7 +21215,6 @@ _1,388 threads._
 | [Strange problem!! pls help](threads/t-797dd89992.md) | 1 | 1998-11 |
 | [Strange question](threads/t-1c141c2422.md) | 11 | 1997-02 → 1997-03 |
 | [Strange result : I lost one record](threads/t-eb5e2ddc1e.md) | 42 | 2006-07 |
-| [Strategic Management and Business Policy 14th Edition Thomas L. Wheelen,��� J. David Hunger,��� Alan N. Hoffm…](threads/t-9dad7c0623.md) | 1 | 2019-03 |
 | [Strenghts and/or weaknesses of COBOL](threads/t-48336c3a87.md) | 11 | 2000-03 |
 | [Stretching it a bit By Chance....?](threads/t-84dc178cb1.md) | 11 | 2003-07 |
 | [String and Unstring](threads/t-58f3bc5d62.md) | 10 | 1997-05 |
@@ -21626,7 +21491,7 @@ _1,388 threads._
 
 ## T <a id='letter-t'></a>
 
-_786 threads._
+_775 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -21954,7 +21819,6 @@ _786 threads._
 | [The Art of Computer Mindmaking](threads/t-07609e71d9.md) | 2 | 1999-01 |
 | [The Art of Project Management](threads/t-7892724aae.md) | 24 | 2007-12 |
 | [The artist not the paintbrush](threads/t-0190b1ae85.md) | 8 | 1999-10 → 1999-11 |
-| [The Beauties of Islam](threads/t-e6d73740b2.md) | 1 | 2014-01 |
 | [The benefit of hindsight](threads/t-e1b1725b66.md) | 1 | 2018-09 |
 | [The best approach for offloading - comments please](threads/t-50abaaec98.md) | 6 | 1995-07 |
 | [The best books for RM_COBOL](threads/t-66d3eaee3c.md) | 2 | 2003-06 |
@@ -21987,7 +21851,6 @@ _786 threads._
 | [The Demise of COBOL Part II](threads/t-5979a42ba6.md) | 10 | 1998-07 |
 | [The Description of the Barrier Between Two Seas](threads/t-4c34fdcaeb.md) | 1 | 2014-09 |
 | [the dismissed university employees suffered financial loss due to matt parker](threads/t-29880368ad.md) | 4 | 2004-11 |
-| [The Economic System of Islam](threads/t-8ae106fa0a.md) | 1 | 2014-01 |
 | [The Fate of COBOL.......](threads/t-376382caa3.md) | 107 | 1999-05 → 1999-06 |
 | [The Father Of COBOL](threads/t-e1a1121051.md) | 1 | 1998-08 |
 | [The Free Software Definition - Free Software Foundation](threads/t-148593d0cb.md) | 11 | 2008-10 |
@@ -22019,19 +21882,15 @@ _786 threads._
 | [The MicroSoft view of multi-tier development.](threads/t-31c0ee7bb4.md) | 3 | 2002-12 |
 | [The Miracle of Iron](threads/t-b1b1d304b6.md) | 1 | 2015-09 |
 | [The monopoly game](threads/t-fd7baf3438.md) | 5 | 2011-06 |
-| [THE MORAL SYSTEM IN ISLAM](threads/t-2a18bf977f.md) | 1 | 2013-09 |
 | [The most dangerous product the IBM mainframe has ever seen](threads/t-8aff7bf0b8.md) | 3 | 2004-06 |
 | [The most powerfull book of rm-cobol](threads/t-12698dd495.md) | 3 | 2003-08 |
 | [The MOVE problem](threads/t-6802cacea8.md) | 54 | 2007-10 → 2007-11 |
-| [The Name of Our Religion Is Islam](threads/t-736c5da379.md) | 1 | 2013-11 |
 | [The new COBOL should be called COBOOL](threads/t-500cd08783.md) | 2 | 2003-03 |
 | [The next Date Issue](threads/t-4b2ebd260f.md) | 10 | 2000-01 |
 | [The next step to take](threads/t-97d57ffddd.md) | 2 | 2008-01 |
 | [The next Y2K: Y2.038K bug](threads/t-7aa3928605.md) | 5 | 2008-03 |
 | [The old days and year 2000](threads/t-64759ebc32.md) | 3 | 1997-04 |
-| [The Oneness of God is the message of Jesus and all the Prophets, peace be upon them !!!!!!!!!!!!!!](threads/t-345dd69218.md) | 1 | 2012-03 |
 | [The past, present and future of COBOL language](threads/t-1e5693121a.md) | 1 | 1996-05 |
-| [The pioneering personals site that revolutionized online dating, with nearly million members-Millionaire!{$50…](threads/t-d4c6f77934.md) | 1 | 2008-03 |
 | [THE POPULATION OF MUSLIMS](threads/t-016f8eb30f.md) | 1 | 2013-09 |
 | [The Power Of COBOL](threads/t-50f6c8295b.md) | 1 | 2000-09 |
 | [The pre-interview question...](threads/t-5993527349.md) | 18 | 2007-08 |
@@ -22044,8 +21903,6 @@ _786 threads._
 | [The Queen of Code](threads/t-28c129ad2e.md) | 1 | 2016-01 |
 | [The Quickest, Dirtiest Y2K Solution](threads/t-95f4d9a116.md) | 1 | 1997-03 |
 | [The Quine Page](threads/t-1b2855f216.md) | 1 | 1998-12 |
-| [The Qur'an Leads The Way To Science](threads/t-28fb121d61.md) | 1 | 2013-03 |
-| [The Quran - The Final Revelation to Mankind](threads/t-9dcb8e6d8a.md) | 1 | 2014-08 |
 | [The Quran on Human Embryonic Development](threads/t-5ea01638fd.md) | 3 | 2012-06 |
 | [The reason COBOL survives](threads/t-a0b5c8158d.md) | 1 | 1996-12 |
 | [The redefines clause & comp-3](threads/t-4f7c05ae8b.md) | 26 | 2005-08 |
@@ -22059,9 +21916,7 @@ _786 threads._
 | [The sort of experience that has led me to my theories iof pupular software development (was How compoetent ar…](threads/t-55ba45b657.md) | 4 | 2008-08 |
 | [The sort of experience that has led me to my theories iof pupular software development (was How compoetent ar…](threads/t-123273df0a.md) | 2 | 2008-08 |
 | [The state of cobol in *ix](threads/t-aa571ac727.md) | 1 | 2020-09 |
-| [The Story of Jesus and Mary in the Holy Quran](threads/t-c6b15a9c3d.md) | 1 | 2013-04 |
 | [The Story of Jesus and Mary in the Holy Quran (part 1 of 3): Mary](threads/t-3535bb625c.md) | 2 | 2015-08 |
-| [THE SUPERIORITY OF THE MOTHER IN ISLAM](threads/t-ebb5c4b0df.md) | 1 | 2015-01 |
 | [The times they are a'changin'...](threads/t-2a0c3a9dd3.md) | 10 | 2013-11 |
 | [The True Cost Of Off-the-Shelf](threads/t-afbff06e96.md) | 1 | 2006-08 |
 | [The Universal Tool](threads/t-deff0296bb.md) | 1 | 2000-04 |
@@ -22250,7 +22105,6 @@ _786 threads._
 | [totem](threads/t-e40f4a96ed.md) | 3 | 2002-05 → 2002-06 |
 | [TOTEM + BARCODE](threads/t-3e509aad8e.md) | 2 | 2002-06 |
 | [Totem/AcuCobol programmer](threads/t-ea34b5258a.md) | 12 | 2005-09 |
-| [Tottally FREE SEX SITE](threads/t-f8a36f813a.md) | 1 | 1997-07 |
 | [Tout: employment website](threads/t-35026fa2f3.md) | 2 | 2008-02 → 2008-03 |
 | [Towers of Hanoi](threads/t-3f45b03c38.md) | 7 | 2007-05 |
 | [Tp-cobol-debugger update for GnuCOBOL 2.0](threads/t-d063d83c2c.md) | 1 | 2014-10 |
@@ -22419,7 +22273,7 @@ _786 threads._
 
 ## U <a id='letter-u'></a>
 
-_811 threads._
+_809 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -22495,7 +22349,6 @@ _811 threads._
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-41e626896a.md) | 1 | 2000-10 |
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-ef42cabdff.md) | 1 | 2000-10 |
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-f1216e795e.md) | 2 | 2000-10 |
-| [UNIQUE FEATURES OF ISLAM !!!!!!!!!!!!!!](threads/t-f9c29ff51b.md) | 1 | 2012-02 |
 | [Unique ID](threads/t-8ecf1983f5.md) | 16 | 2003-06 |
 | [Unique identifiers](threads/t-936ff9d180.md) | 7 | 2010-02 |
 | [unique program-names and contained programs](threads/t-7b0b7bfbba.md) | 7 | 2005-12 |
@@ -22718,7 +22571,6 @@ _811 threads._
 | [us citizenship](threads/t-9e12902156.md) | 2 | 1999-02 → 1999-03 |
 | [US COMPANY IS SEEKING](threads/t-0d3b09b170.md) | 3 | 1997-01 |
 | [US COMPANY IS SEEKING](threads/t-d74c427c11.md) | 1 | 1997-01 |
-| [Us congress hearing of maan alsaan Money laundry �������� ������������������ ���������� �������������� ������…](threads/t-8a1c013ec7.md) | 1 | 2019-03 |
 | [US FL COBOL and CICS or IMS](threads/t-935213d590.md) | 1 | 1998-02 |
 | [US Georgia COBOL and CICS or IMS](threads/t-0ba65727b1.md) | 1 | 1998-02 |
 | [US IN COBOL and CICS or IMS Jobs](threads/t-8c9efc85b4.md) | 1 | 1998-02 |
@@ -23237,7 +23089,7 @@ _811 threads._
 
 ## V <a id='letter-v'></a>
 
-_396 threads._
+_395 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -23636,11 +23488,10 @@ _396 threads._
 | [VUTIL](threads/t-4c48a71fac.md) | 2 | 2000-03 |
 | [Vutil Automation](threads/t-010fe58d06.md) | 8 | 2003-10 |
 | [vutil question](threads/t-b33bd2a2fa.md) | 6 | 2003-07 |
-| [V�� ARRESTATO L'AVVOCATO ASSASSINO DANIELE MINOTTI! �� DAVVERO DA ARRESTARE L'AVVOCATO SATANISTA, PEDOSATANIS…](threads/t-55fd5fe1d5.md) | 1 | 2020-05 |
 
 ## W <a id='letter-w'></a>
 
-_899 threads._
+_875 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -23678,7 +23529,6 @@ _899 threads._
 | [Wang's COBOL85 Funkiness](threads/t-60bdce7ee1.md) | 2 | 1995-01 |
 | [Wannabe cobol](threads/t-9df6a61fb6.md) | 2 | 1998-07 |
 | [Want a Data Center Job](threads/t-dcbd10ea67.md) | 6 | 2005-12 |
-| [Want a Password that will get you into 2000+ xxx sites?](threads/t-aa9e836b0f.md) | 1 | 1997-08 |
 | [Want Cobol Source Code](threads/t-833ae79e52.md) | 7 | 2000-08 → 2000-09 |
 | [want fujitsu cobol enterprise v5](threads/t-6ea9ee2e21.md) | 3 | 2001-09 |
 | [Want information about cobol](threads/t-3e5101b4c4.md) | 2 | 1998-01 |
@@ -23757,7 +23607,6 @@ _899 threads._
 | [Warning! In-line PERFORM.](threads/t-3bcc6a3fe8.md) | 10 | 2009-03 |
 | [was 60 day date check](threads/t-fa3436d825.md) | 6 | 1999-10 |
 | [Was Date Standardizing or Patching](threads/t-9e06efc2be.md) | 2 | 1997-05 |
-| [WAS ISLAM SPREAD BY THE SWORD ?????????????](threads/t-fff5e8a0ac.md) | 1 | 2013-08 |
 | [Wash, DC Area - Oracle DBA Consultant - 970601](threads/t-8de1350455.md) | 1 | 1997-06 |
 | [waterfall development](threads/t-455ec37140.md) | 14 | 2002-07 → 2002-08 |
 | [WAV Recorder ActiveX](threads/t-347f4003fe.md) | 1 | 2004-11 |
@@ -23863,10 +23712,8 @@ _899 threads._
 | [What does FIELD1(2:1) mean?](threads/t-6a94c79ef0.md) | 2 | 1998-07 |
 | [What does GoBack do?](threads/t-03648e0da1.md) | 8 | 2002-08 |
 | [What does INV-LRECL mean?](threads/t-8ba8f91f63.md) | 5 | 2002-07 |
-| [WHAT DOES ISLAM SAY ABOUT TERRORISM ?????????????????](threads/t-ab5b7eb04c.md) | 1 | 2013-11 |
 | [What does this mean? Help please.](threads/t-361510ecd4.md) | 5 | 2000-01 → 2000-02 |
 | [What does this statement mean.](threads/t-56efdebf70.md) | 5 | 1999-03 |
-| [WHAT DRIVES PEOPLE TO CONVERT TO ISLAM?](threads/t-eb862f62a6.md) | 1 | 2013-07 |
 | [WHAT else?](threads/t-e4cea1db14.md) | 1 | 1994-12 |
 | [WHAT else?](threads/t-c34c591595.md) | 1 | 1994-12 |
 | [What exactly is DMSII and LINC?](threads/t-2fb7e173bf.md) | 6 | 2001-06 |
@@ -23904,7 +23751,6 @@ _899 threads._
 | [What is HONOS?](threads/t-21f494da40.md) | 1 | 2000-08 |
 | [What is HONOS?](threads/t-509e8ce4f9.md) | 1 | 2000-08 |
 | [What is ISBF, IMS?](threads/t-a063ea3ce2.md) | 2 | 1998-06 |
-| [What is Islam?](threads/t-cf47bba3c4.md) | 1 | 2012-11 |
 | [What is Islam?](threads/t-c147f0e002.md) | 13 | 2012-11 |
 | [What is Legacy system?](threads/t-3c6829d5bf.md) | 10 | 1997-06 |
 | [What is main difference between C and COBOL](threads/t-5acc87748e.md) | 18 | 1997-03 → 1997-04 |
@@ -24162,7 +24008,6 @@ _899 threads._
 | [While the Alphabet Thread Rages...](threads/t-fb2074d6fc.md) | 4 | 2003-06 |
 | [White space at end of record dissapears (MicroFocus)](threads/t-72434a1384.md) | 7 | 1997-07 → 1997-08 |
 | [Whither and How - the COBOL Standard](threads/t-627ef937c7.md) | 3 | 2007-04 |
-| [whlolesale new men’s clothing wholesale Ed hardy double hoodies](threads/t-2c65b57920.md) | 1 | 2010-12 |
 | [Who can help me?](threads/t-57aba396a2.md) | 1 | 1996-05 |
 | [Who can provide me books or software or training about microfocus cobol](threads/t-30b216c1c2.md) | 1 | 1999-02 |
 | [Who can support Cobol II Compiler?](threads/t-d181f47a64.md) | 4 | 1999-08 |
@@ -24187,8 +24032,6 @@ _899 threads._
 | [Who is able to make a exe-file of Cobol-Code](threads/t-40c95f3299.md) | 1 | 1998-09 |
 | [Who Is EDP Contract Services?](threads/t-8a55ba4569.md) | 1 | 1995-11 |
 | [Who is hiring? Anywhere](threads/t-b00f9d894d.md) | 3 | 1999-02 |
-| [WHO IS PROPHET MUHAMMAD, MAY PEACE AND BLESSINGS BE UPON HIM?](threads/t-3ae1ccca7a.md) | 1 | 2015-02 |
-| [who is that...?!!](threads/t-abdbdfbe2f.md) | 1 | 2012-11 |
 | [Who is the oldest working programmer?](threads/t-b59fb9affc.md) | 26 | 1998-11 → 1998-12 |
 | [Who is the Standard for?](threads/t-67450df2d6.md) | 16 | 1998-11 |
 | [Who is using the netexpress compiler from MF](threads/t-104f8f1acf.md) | 1 | 1997-12 |
@@ -24201,14 +24044,6 @@ _899 threads._
 | [Who to call Cobol .DLL's from Visual Basic ?](threads/t-2025569044.md) | 1 | 1999-01 |
 | [Who was DFH?](threads/t-637351a0b0.md) | 8 | 1998-07 |
 | [Who wrote the Gospel of 'John'?](threads/t-d61c5a1dfa.md) | 1 | 2008-06 |
-| [Wholesale AAA Chopard Happy Sport Oval Ladies Watch 2770002311WMP Replica](threads/t-86a3e1924f.md) | 1 | 2008-04 |
-| [Wholesale AAA Rolex Oyster Perpetual Datejust Two-Tone Mens Watch 116263-WSJ Replica](threads/t-c3775bda31.md) | 1 | 2008-04 |
-| [Wholesale fashion shoes D&G Gucci LV Coach shoes paypal payment paypal payment LV Handbags Discount Wholesale…](threads/t-e7004cf163.md) | 1 | 2010-12 |
-| [wholesale football jerseys](threads/t-579c41f746.md) | 1 | 2010-04 |
-| [Wholesale GUCCI Jeans](threads/t-6962c040f7.md) | 1 | 2010-05 |
-| [wholesale nike max nike shox cheap air force one Dunk SB puma shoeswholesale nike max nike shox cheap air for…](threads/t-7c78b0b474.md) | 1 | 2008-01 |
-| [wholesale nike max nike shox cheap air force one Dunk SB puma shoeswholesale nike max nike shox cheap air for…](threads/t-148e0dcd1b.md) | 1 | 2008-01 |
-| [Wholesale nike max nike shox,jordan shoes(www.hng-shoes.com)](threads/t-abca1769fe.md) | 1 | 2008-01 |
 | [Why are C and C++ so popular?](threads/t-1fa42bfbb8.md) | 9 | 1996-09 |
 | [Why are they choosing .NET?](threads/t-cc8e6908ac.md) | 3 | 2008-10 |
 | [Why are things the way they are?](threads/t-27ade904c8.md) | 8 | 1999-09 |
@@ -24231,7 +24066,6 @@ _899 threads._
 | [Why is Micro Focus so slow?](threads/t-38368aa8ba.md) | 5 | 1997-09 |
 | [Why is Smiling a Donation?](threads/t-5fe65f66ec.md) | 1 | 2014-11 |
 | [Why Islam is the true religion of God.](threads/t-72b8b468f5.md) | 10 | 2015-05 |
-| [Why Islam? The Beauty and Benefits of Islam](threads/t-5e205617b6.md) | 1 | 2014-05 |
 | [Why isn't my program working?](threads/t-dbaf83cf70.md) | 7 | 2003-04 |
 | [Why Leading Zeros in Level Numbers??](threads/t-68211e16d2.md) | 12 | 1997-01 |
 | [Why Muslim Women Wear the Veil](threads/t-9c87189d27.md) | 1 | 2015-10 |
@@ -24240,7 +24074,6 @@ _899 threads._
 | [Why not to help each other with references](threads/t-e00c8c3853.md) | 2 | 2001-12 |
 | [Why not to help each other with references](threads/t-7d56643bfa.md) | 1 | 2001-12 |
 | [Why Pay For $ex Site Entry?](threads/t-b71177d59b.md) | 1 | 1997-07 |
-| [Why pay for sex sites just....](threads/t-ce74c3c45f.md) | 1 | 1997-07 |
 | [Why people who use 'perform...thru' should have therapy](threads/t-98fb30d51c.md) | 16 | 1997-06 → 1997-07 |
 | [Why read CLC?](threads/t-1418ecdc6b.md) | 115 | 2008-06 |
 | [Why the compiler won't work ?](threads/t-48986c2276.md) | 5 | 1998-09 |
@@ -24389,8 +24222,6 @@ _899 threads._
 | [With a little help......](threads/t-e57702dd31.md) | 2 | 1998-12 |
 | [WITH DUPLICATES in SYNCSORT?](threads/t-6b233ec7be.md) | 9 | 1998-02 |
 | [Withcraft history......by Charla Williams](threads/t-07f9ed52bb.md) | 22 | 1999-04 |
-| [woman in islam](threads/t-8b5d87dcd9.md) | 1 | 2012-08 |
-| [Women's Rights in Islam](threads/t-0f859b08bb.md) | 1 | 2014-08 |
 | [Women's Rights in Islam](threads/t-007470ca72.md) | 2 | 2014-10 |
 | [Wondering about Cobol opportunities in Orlando Fl](threads/t-b72d955595.md) | 3 | 1998-06 → 1998-07 |
 | [Wondering about OO COBOL - in the draft Standard?](threads/t-66a78d9cd2.md) | 2 | 1998-03 |
@@ -24410,8 +24241,6 @@ _899 threads._
 | [Work for hire - Cobol programmer wanted for Medical billing project](threads/t-dfc119686b.md) | 4 | 2006-10 |
 | [Work from Home - AS400 (During Night Hrs - India)](threads/t-192f81084f.md) | 1 | 2009-08 |
 | [Work From Home As a Website Tester - 100% Free of Cost](threads/t-9870c4f060.md) | 1 | 2010-12 |
-| [Work from Home. Earn $2000/month. No Investment. Part Time, 1-2h/day.](threads/t-a7b051a7bb.md) | 1 | 2012-01 |
-| [Work from Home. Earn $2000/month. No Investment. Part Time, 1-2h/day.](threads/t-bf0faee100.md) | 1 | 2012-01 |
 | [Work problem: cobol signed numerics to SAS](threads/t-386b5bcbd1.md) | 4 | 2001-02 |
 | [Work progresses on ISO COBOL definition of native support for XML](threads/t-93bb4187c5.md) | 2 | 2004-07 |
 | [Work question](threads/t-9e38a0a16e.md) | 4 | 1998-05 |
@@ -24535,14 +24364,12 @@ _899 threads._
 | [WTD: Copy of SPF/PC](threads/t-7cf63d13e5.md) | 1 | 2000-09 |
 | [Www page for COBOL](threads/t-432a2a98e7.md) | 1 | 1995-03 |
 | [WWW source for S0C info.](threads/t-9eb7798ae1.md) | 3 | 1998-05 |
-| [www. CNSHOES007.com sell D&G,Dsquared2 shoes,Chanel Prada Gucci shoes,wholesale Dior Ugg boots](threads/t-c11e040c2c.md) | 1 | 2009-01 |
 | [WWW.ANTIY2K.COM mainframe year 2000 solutions](threads/t-039059d8c6.md) | 1 | 1997-10 |
 | [www.cobol-man.com (Scary Y2k Halloween Humor)](threads/t-711db10b84.md) | 1 | 1999-11 |
 | [www.eBankGame.com Buy WoW gold RS gold WG k gold](threads/t-bb71f142b7.md) | 1 | 2007-05 |
 | [Www.highersource.com](threads/t-8f0fce0eea.md) | 2 | 1997-03 |
 | [www.mainframer.net](threads/t-0f7c4623fb.md) | 1 | 1999-08 |
 | [WWW.RCGIT.COM](threads/t-917abc909c.md) | 2 | 1998-02 |
-| [www.stefsclothes.com cheap sell nike shoes, ugg shoes,jordan shoes,handbag,jeans,air max shoes,Nike wholesale…](threads/t-c90a8f7d4c.md) | 1 | 2009-02 |
 
 ## X <a id='letter-x'></a>
 
@@ -24612,7 +24439,7 @@ _59 threads._
 
 ## Y <a id='letter-y'></a>
 
-_241 threads._
+_240 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -24830,7 +24657,6 @@ _241 threads._
 | [you ll love this!!!!!](threads/t-cf802a79c1.md) | 1 | 2000-05 |
 | [You Might Be In A Bad COBOL Program...(Was Re: 01 Level vs. 77 Level)](threads/t-5fe3c96820.md) | 16 | 1998-01 |
 | [You Might Be In A Bad Program If...](threads/t-f4dec2fdbc.md) | 20 | 1998-01 |
-| [YOU MUST KNOW THIS MAN](threads/t-d955f3906d.md) | 1 | 2012-08 |
 | [You need COBOL programmers? We got them.](threads/t-b5dd2fb878.md) | 5 | 1997-03 |
 | [You will want to read this!!!!!!](threads/t-de870a42e4.md) | 8 | 1998-01 |
 | [You'll get no play in this NG, asshole...](threads/t-6c1be1bbbd.md) | 2 | 2000-12 |

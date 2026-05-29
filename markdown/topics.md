@@ -2,30 +2,30 @@
 
 # comp.lang.cobol — Topic Index
 
-Topical groupings of the 24,720 threads (168,012 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
+Topical groupings of the 24,546 threads (167,778 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
 
 ## Topics
 
-- [Y2K and Year-2000 remediation](#y2k) — 553 threads
+- [Y2K and Year-2000 remediation](#y2k) — 552 threads
 - [COBOL's future, legacy, and obsolescence](#future) — 111 threads
-- [Jobs, careers, recruiting, salary](#jobs) — 1,468 threads
+- [Jobs, careers, recruiting, salary](#jobs) — 1,466 threads
 - [Compilers and vendors](#compilers) — 3,958 threads
 - [Open-source COBOL (GnuCOBOL, OpenCOBOL, TinyCOBOL)](#open-source) — 95 threads
 - [Object-oriented COBOL](#oo) — 238 threads
 - [Language features and syntax](#syntax) — 846 threads
 - [COBOL standards (ANS, ISO, 74/85/2002/2014)](#standards) — 435 threads
-- [Migration and conversion](#migration) — 435 threads
+- [Migration and conversion](#migration) — 434 threads
 - [Mainframe, z/OS, JCL, CICS](#mainframe) — 1,700 threads
 - [AS/400, iSeries, RPG](#as400) — 139 threads
 - [Databases and SQL](#databases) — 922 threads
 - [VSAM, files, sorting](#files) — 581 threads
 - [Date and calendar processing](#dates) — 187 threads
-- [Web, XML, modern integration](#web) — 444 threads
+- [Web, XML, modern integration](#web) — 434 threads
 - [Tutorials, books, learning](#learning) — 851 threads
-- [Help requests and how-to](#help) — 1,752 threads
-- [Off-topic and spam](#spam) — 571 threads
+- [Help requests and how-to](#help) — 1,745 threads
+- [Off-topic and spam](#spam) — 525 threads
 - [Meta: FAQs, group policy, charter](#meta) — 609 threads
-- [Uncategorized (top by message count)](#uncategorized) — 11,712 threads
+- [Uncategorized (top by message count)](#uncategorized) — 11,602 threads
 
 ## Top threads overall (by message count)
 
@@ -62,7 +62,7 @@ Topical groupings of the 24,720 threads (168,012 messages) in this archive. Thre
 
 ## Y2K and Year-2000 remediation <a id='y2k'></a>
 
-_553 threads · 2,682 messages._
+_552 threads · 2,681 messages._
 
 - [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **300** msgs · 1998-10 → 1998-11
 - [Non-programmers think Y2K was hype... and I'm angry!](threads/t-88f6ada26b.md) — **104** msgs · 2000-01
@@ -124,7 +124,7 @@ _553 threads · 2,682 messages._
 - [Info on Linc available - a 4GL for Y2K?](threads/t-a4682184ca.md) — **7** msgs · 1997-07
 - [Date malfuntion after the year 2000](threads/t-7205168c22.md) — **7** msgs · 1997-07
 - [Stories/Experiences/Horror Stories of Y2K conversions!!!](threads/t-3c089c9aa2.md) — **7** msgs · 1997-09
-- _…and 493 more threads (showing top 60 by message count)._
+- _…and 492 more threads (showing top 60 by message count)._
 
 ## COBOL's future, legacy, and obsolescence <a id='future'></a>
 
@@ -194,7 +194,7 @@ _111 threads · 1,737 messages._
 
 ## Jobs, careers, recruiting, salary <a id='jobs'></a>
 
-_1,468 threads · 5,289 messages._
+_1,466 threads · 5,287 messages._
 
 - [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **360** msgs · 2000-09 → 2000-10
 - [JPMorgan Chase to strengthen offshoring to India](threads/t-fccc5af541.md) — **107** msgs · 2005-12
@@ -256,7 +256,7 @@ _1,468 threads · 5,289 messages._
 - [Salary Question](threads/t-8432453595.md) — **14** msgs · 2006-12 → 2007-01
 - [[OT] IBM Mainframe - Batch Job to Generate Data Set List?](threads/t-92675fd956.md) — **14** msgs · 2007-01 → 2007-02
 - [Job](threads/t-995c92efbf.md) — **13** msgs · 1997-05 → 1997-06
-- _…and 1,408 more threads (showing top 60 by message count)._
+- _…and 1,406 more threads (showing top 60 by message count)._
 
 ## Compilers and vendors <a id='compilers'></a>
 
@@ -590,7 +590,7 @@ _435 threads · 3,238 messages._
 
 ## Migration and conversion <a id='migration'></a>
 
-_435 threads · 4,010 messages._
+_434 threads · 4,009 messages._
 
 - [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **1161** msgs · 2003-03 → 2003-10
 - [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **123** msgs · 2003-06 → 2003-07
@@ -652,7 +652,7 @@ _435 threads · 4,010 messages._
 - [IBM's CCCA and customized LCPs for Enterprise COBOL migration](threads/t-50898ee875.md) — **12** msgs · 2007-09
 - [In search of - Suggestions on Micro Focus Dialog Systems to C# / .NET migrations](threads/t-867713c01f.md) — **12** msgs · 2009-07
 - [Legacy Modernization Survey!](threads/t-8c6e44aa22.md) — **12** msgs · 2013-08
-- _…and 375 more threads (showing top 60 by message count)._
+- _…and 374 more threads (showing top 60 by message count)._
 
 ## Mainframe, z/OS, JCL, CICS <a id='mainframe'></a>
 
@@ -986,7 +986,7 @@ _187 threads · 1,394 messages._
 
 ## Web, XML, modern integration <a id='web'></a>
 
-_444 threads · 2,049 messages._
+_434 threads · 2,039 messages._
 
 - [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) — **90** msgs · 2011-10 → 2013-03
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
@@ -1048,7 +1048,7 @@ _444 threads · 2,049 messages._
 - [COBOL / CICS as web data source](threads/t-09d99b7aef.md) — **8** msgs · 1996-10
 - [Any tools, gateways, software to read Vsam files from WEB?](threads/t-b668f118ee.md) — **8** msgs · 1997-12
 - [Date validation of input from HTML form](threads/t-939939a47c.md) — **8** msgs · 1998-03 → 1998-04
-- _…and 384 more threads (showing top 60 by message count)._
+- _…and 374 more threads (showing top 60 by message count)._
 
 ## Tutorials, books, learning <a id='learning'></a>
 
@@ -1118,7 +1118,7 @@ _851 threads · 5,293 messages._
 
 ## Help requests and how-to <a id='help'></a>
 
-_1,752 threads · 10,416 messages._
+_1,745 threads · 10,409 messages._
 
 - [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **297** msgs · 2007-04 → 2007-05
 - [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) — **195** msgs · 2003-05 → 2003-12
@@ -1180,11 +1180,11 @@ _1,752 threads · 10,416 messages._
 - [How To Discussion. Problem Statement.](threads/t-081e923eeb.md) — **25** msgs · 1997-07
 - [Two compiler on same PC ???](threads/t-b1b3d618f2.md) — **25** msgs · 2001-10
 - [I need help with reading multiple records off one data file](threads/t-e1284e218b.md) — **25** msgs · 2002-07 → 2002-08
-- _…and 1,692 more threads (showing top 60 by message count)._
+- _…and 1,685 more threads (showing top 60 by message count)._
 
 ## Off-topic and spam <a id='spam'></a>
 
-_571 threads · 9,697 messages._
+_525 threads · 9,610 messages._
 
 - [OT : Making money from Java](threads/t-0c7ed12b34.md) — **1890** msgs · 2005-11 → 2006-01
 - [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **540** msgs · 2005-03 → 2005-05
@@ -1230,7 +1230,6 @@ _571 threads · 9,697 messages._
 - [OT: Cobol jokes](threads/t-5890d2fc2e.md) — **43** msgs · 2011-08 → 2011-12
 - [OT - Humor (not REALLY a comment on some recent postings to CLC)](threads/t-86cbfad266.md) — **42** msgs · 2003-05
 - [OT: Aftershock](threads/t-5e2c1bf9b3.md) — **42** msgs · 2010-12 → 2011-01
-- [Find Girls Sex Dating Near Me In Local | Adult Hookup Dating](threads/t-709edd2eed.md) — **41** msgs · 2021-07 → 2021-09
 - [OT - Religion](threads/t-e90875008c.md) — **40** msgs · 2005-04 → 2005-06
 - [OT: A warning](threads/t-d2577711f2.md) — **40** msgs · 2012-12 → 2013-01
 - [OT : Salaries & Contractors](threads/t-94852b053e.md) — **35** msgs · 2005-03 → 2005-07
@@ -1246,7 +1245,8 @@ _571 threads · 9,697 messages._
 - [OT: What Would You Do In This Situation?](threads/t-4736628e3e.md) — **30** msgs · 2010-08 → 2010-09
 - [OT: Another Indian Phone Scam](threads/t-469b4a10a3.md) — **30** msgs · 2014-08 → 2014-09
 - [OT - CLC (primarily???) a chat room?](threads/t-96aae7ec26.md) — **29** msgs · 2002-09 → 2003-06
-- _…and 511 more threads (showing top 60 by message count)._
+- [OT : Formatting Messages](threads/t-a70725ada6.md) — **29** msgs · 2004-04 → 2004-05
+- _…and 465 more threads (showing top 60 by message count)._
 
 ## Meta: FAQs, group policy, charter <a id='meta'></a>
 
@@ -1316,7 +1316,7 @@ _609 threads · 1,598 messages._
 
 ## Uncategorized (top by message count) <a id='uncategorized'></a>
 
-_11,712 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
+_11,602 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
 
 - [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **1870** msgs · 2007-11 → 2008-02
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **1132** msgs · 2004-10 → 2005-01
