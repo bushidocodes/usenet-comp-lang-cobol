@@ -2,13 +2,13 @@
 
 # comp.lang.cobol — Subject Concordance
 
-Every distinct thread subject in the archive (24,611 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
+Every distinct thread subject in the archive (24,546 threads), sorted alphabetically. Built for browser search — load this page and Ctrl-F for the term you want.
 
 **Jump to:** [#](#letter-symbols) · [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) · [E](#letter-e) · [F](#letter-f) · [G](#letter-g) · [H](#letter-h) · [I](#letter-i) · [J](#letter-j) · [K](#letter-k) · [L](#letter-l) · [M](#letter-m) · [N](#letter-n) · [O](#letter-o) · [P](#letter-p) · [Q](#letter-q) · [R](#letter-r) · [S](#letter-s) · [T](#letter-t) · [U](#letter-u) · [V](#letter-v) · [W](#letter-w) · [X](#letter-x) · [Y](#letter-y) · [Z](#letter-z)
 
 ## # <a id='letter-symbols'></a>
 
-_987 threads._
+_983 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -29,7 +29,6 @@ _987 threads._
 | [!!! URGENT !!! - DLL problem with MicroFocus ESQL](threads/t-6baf9a01dc.md) | 1 | 1997-03 |
 | [!!!!! CICS, COBOL ANALYST/PROGRAMMERS](threads/t-3361900b42.md) | 1 | 1997-06 |
 | [!!!!!!!! COBOL PROGRAMMERS !!!!!!!!!!!!!!](threads/t-8d271e26fd.md) | 1 | 2001-10 |
-| [!!!!!!!!!!!! It Is Not Just A Religion](threads/t-7911aca3a3.md) | 1 | 2013-02 |
 | [!!!!!Who can?????](threads/t-33fa076385.md) | 1 | 1997-02 |
 | [!!!DFW JOBS!!!COBOL!!! COBOL II!!! Realia!!! Microfocus!!!](threads/t-d65cc5e00c.md) | 2 | 1997-02 |
 | [!!!DFW JOBS!!!COBOL!!! COBOL II!!! Realia!!! Microfocus!!!](threads/t-abd3935a61.md) | 1 | 1997-02 |
@@ -580,7 +579,6 @@ _987 threads._
 | [4t# Almost FREE MONEY !! 4t#](threads/t-9a7782f065.md) | 1 | 2004-08 |
 | [5 COBOL,CICS,DB2 CONTRACT OPENINGS in KANSAS CITY, MISSOURI / 1-800-676-662 #309](threads/t-f3e7efb300.md) | 14 | 2002-12 |
 | [5 Guys Who Do Cobol - Revisited](threads/t-b9a827672c.md) | 2 | 1997-04 |
-| [5 minutes introduction to islam](threads/t-365597cf50.md) | 1 | 2013-02 |
 | [5 P/A's - DB2, Cobol, SQL - Contracts in Sacramento, CA](threads/t-b10f73df1d.md) | 1 | 1995-07 |
 | [6 Million FREE Email Addresses](threads/t-6ebf79ff2f.md) | 1 | 1997-05 |
 | [6 Month Y2K project in Phoenix--Need some with Millenium and some with Walker](threads/t-cd19b0c9cb.md) | 3 | 1998-06 |
@@ -724,8 +722,6 @@ _987 threads._
 | [????? Help on COBOL needed ?????](threads/t-fe86155144.md) | 2 | 1995-01 |
 | [???????? Did Muhammad Author the Quran](threads/t-b680a1a4a2.md) | 16 | 2013-05 |
 | [?????????? WHY DID PROPHET MUHAMMAD MARRY AISHA THE YOUNG GIRL](threads/t-38707102ba.md) | 2 | 2013-05 |
-| [??????????? DOES GOG EXIST](threads/t-8f1413688a.md) | 1 | 2013-01 |
-| [??????????? when was jesus christ born](threads/t-c964076b6a.md) | 1 | 2013-01 |
 | [?FTP client against mainframe](threads/t-10487499e7.md) | 5 | 1999-09 |
 | [?How to execute a DOS command in MicroFocus Anim.V2??](threads/t-74ab42ea5d.md) | 3 | 2000-03 |
 | [?modified julian <-> gregorian date conversions?](threads/t-ff2024999f.md) | 2 | 1997-11 |
@@ -1002,7 +998,7 @@ _987 threads._
 
 ## A <a id='letter-a'></a>
 
-_1,264 threads._
+_1,261 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -1662,7 +1658,6 @@ _1,264 threads._
 | [Am I wasting my time?](threads/t-0135808e37.md) | 4 | 2000-02 |
 | [Am I wasting my time?](threads/t-216df2619e.md) | 14 | 2000-03 |
 | [amateur says thanks](threads/t-acbf15ff9f.md) | 3 | 1998-08 |
-| [Amateurs web camchat](threads/t-ad4a46647f.md) | 1 | 2008-07 |
 | [Amazing grace](threads/t-41d99fc7b7.md) | 1 | 1997-09 |
 | [ambiguous data name](threads/t-fd1cabe6c7.md) | 11 | 2006-07 |
 | [AMERITECH DIRECT EMPLOYMENT OPPORTUNITY! 3 FULLTIME PL/1 PROGRAMMERS NEEDED!](threads/t-1d8bedfa09.md) | 2 | 1998-05 |
@@ -2162,7 +2157,6 @@ _1,264 threads._
 | [assignments](threads/t-8ec9d7ef3c.md) | 2 | 1998-12 |
 | [Assistance Requested](threads/t-c017940ac7.md) | 3 | 2002-08 |
 | [Associating an icon with an executable](threads/t-ffd931cb3f.md) | 1 | 1998-12 |
-| [ASTRONOMY IN THE QUR'AN](threads/t-d7f55e240c.md) | 1 | 2012-04 |
 | [Asymetrix Embraces KaiZenWare](threads/t-8bf3d9863b.md) | 1 | 1996-11 |
 | [Asynchronous call from Cobol](threads/t-bb43d2fc75.md) | 3 | 1998-04 |
 | [Asyncronis processing using net express](threads/t-fc3c02f8b3.md) | 5 | 2000-04 |
@@ -2204,7 +2198,6 @@ _1,264 threads._
 | [attn: wilhelmina - very delightful posts - bew - (1/1)](threads/t-5ecbf8ccab.md) | 1 | 2007-02 |
 | [ATTN:>donald tees](threads/t-3a43c9eabb.md) | 3 | 1998-10 |
 | [Attn:Micro Focus Cobol Developers](threads/t-c6bfaaabb7.md) | 3 | 1996-09 |
-| [ATTRACTIVE SINGLES!](threads/t-5eaa09eac1.md) | 1 | 1996-12 |
 | [Attribute BASED and LINKAGE SECTION](threads/t-55a2b6c9a9.md) | 29 | 2006-06 → 2006-07 |
 | [Aucocobol/Vision file system, reading a deleted record.](threads/t-0af097a789.md) | 6 | 2001-11 |
 | [Audio-CD ID](threads/t-30315b0b2b.md) | 1 | 1998-09 |
@@ -2646,7 +2639,7 @@ _366 threads._
 
 ## C <a id='letter-c'></a>
 
-_4,596 threads._
+_4,595 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -6739,7 +6732,6 @@ _4,596 threads._
 | [comunications](threads/t-9ff938abb3.md) | 10 | 1999-02 → 1999-03 |
 | [Concat array elements into a string](threads/t-519adfaf8f.md) | 4 | 2007-04 |
 | [Concatenate in Easytrieve](threads/t-58ca6e3440.md) | 5 | 2002-11 → 2002-12 |
-| [CONCEPT OF GOD IN ISLAM !!!!!!!!!!!!!!!](threads/t-78f72feb96.md) | 1 | 2012-01 |
 | [Concise vs COBOL - followup](threads/t-d49ff1b261.md) | 4 | 1995-02 |
 | [COND CODE 2744](threads/t-dd55a48cb7.md) | 1 | 2003-10 |
 | [Condition Handing under LE](threads/t-bf517d0168.md) | 3 | 1997-10 |
@@ -7249,7 +7241,7 @@ _4,596 threads._
 
 ## D <a id='letter-d'></a>
 
-_820 threads._
+_816 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -7484,7 +7476,6 @@ _820 threads._
 | [Dealing with Projects](threads/t-797344853b.md) | 13 | 2010-10 → 2010-11 |
 | [DEAR C AND C++ PROGRAMMERS](threads/t-b80870a56c.md) | 1 | 1995-05 |
 | [Dear Friends](threads/t-5275816436.md) | 1 | 2012-01 |
-| [Dear Human !!!!!!!!!!!!!!](threads/t-7c949ae403.md) | 1 | 2013-04 |
 | [Dear Kaptn cobol](threads/t-5f5a2d3abd.md) | 2 | 1997-06 |
 | [Dear KaptnCobol](threads/t-882c3ec938.md) | 10 | 1997-06 |
 | [Dear Mr. Dashwood](threads/t-77239409ae.md) | 2 | 2000-09 |
@@ -7599,7 +7590,6 @@ _820 threads._
 | [Demo: multithreading](threads/t-17ff2cfa90.md) | 16 | 2004-05 |
 | [Demo: OO Cobol](threads/t-6fc96aad32.md) | 5 | 2004-06 |
 | [Demo: Sorts (revised)](threads/t-2a7c2614f4.md) | 204 | 2004-06 → 2004-07 |
-| [Democrats sexy meltdown](threads/t-9f9fb21540.md) | 1 | 2008-10 |
 | [Denigration of GUI](threads/t-a6547e5ff1.md) | 31 | 2011-04 → 2011-05 |
 | [Denver Job Opportunities](threads/t-a98175462e.md) | 2 | 1997-10 |
 | [Depending on](threads/t-08507d366e.md) | 5 | 1998-08 |
@@ -7664,7 +7654,6 @@ _820 threads._
 | [Developing with graphic and character screens with MF](threads/t-7ac57cb6a5.md) | 2 | 1998-09 |
 | [developpeurs cobol](threads/t-52d48a7d3a.md) | 3 | 2000-09 |
 | [device type](threads/t-1b996fe2a4.md) | 1 | 2001-08 |
-| [Devil Or Angel Lucy Finds Out sexo](threads/t-d75a569ecb.md) | 1 | 2008-10 |
 | [Devilish Debugging](threads/t-c28c539e42.md) | 21 | 2012-06 |
 | [DEVO FARE IL PORTING DEL MIO APPLICATIVO PER L'EURO](threads/t-883335b8dc.md) | 3 | 2000-05 → 2000-09 |
 | [DFHCOMMAREA](threads/t-14541f9435.md) | 27 | 2002-07 → 2002-08 |
@@ -7986,7 +7975,6 @@ _820 threads._
 | [Dreaded File Status 39](threads/t-2068a53ac4.md) | 28 | 1999-07 |
 | [Dress Codes](threads/t-91694196eb.md) | 1 | 1998-06 |
 | [Dress Codes](threads/t-5e5b910404.md) | 16 | 1998-06 |
-| [Drive in Car Service \| Car Service with Driver](threads/t-c9f7d5dbe0.md) | 1 | 2016-11 |
 | [Drive Volume Information](threads/t-bf34ffc578.md) | 7 | 2002-05 |
 | [Driving serial (and parallel) ports directly from COBOL](threads/t-5dc963b85a.md) | 6 | 1999-01 |
 | [Dropping alt.cobol](threads/t-eb850ef980.md) | 2 | 1994-11 |
@@ -8076,7 +8064,7 @@ _820 threads._
 
 ## E <a id='letter-e'></a>
 
-_562 threads._
+_560 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -8275,7 +8263,6 @@ _562 threads._
 | [Enhanced print pagage for Cobol?](threads/t-cb7e7847b1.md) | 2 | 1995-10 |
 | [Enhancements for future COBOL Standard](threads/t-c942a3a021.md) | 3 | 2003-06 |
 | [ENJOY THE PARTY](threads/t-084b22b1d3.md) | 1 | 2007-12 |
-| [Enormous amount webcams womans showing groupsex. Free](threads/t-7b1d412670.md) | 1 | 2008-10 |
 | [Enough Job Postings](threads/t-39be9d9d3a.md) | 2 | 1997-05 |
 | [Enquiry about Easirun's RAD "Flexgen" .](threads/t-93d2fc3123.md) | 1 | 1998-03 |
 | [Enrique Murillo-Othon](threads/t-43ee3b7ed9.md) | 19 | 2003-10 |
@@ -8519,7 +8506,6 @@ _562 threads._
 | [example of spagetti code needed!](threads/t-0dfb91549b.md) | 3 | 1994-12 |
 | [Examples of Cobol calling WinAPI32 Functions](threads/t-bfbd60ca7c.md) | 9 | 2002-03 → 2002-04 |
 | [Examples of embedded sql /informix](threads/t-10702075e6.md) | 1 | 1996-04 |
-| [EXAMPLES OF PROPHET’S MERCY UPON NON MUSLIMS !!!!!!!!!!!!!!!](threads/t-7613f8ced8.md) | 1 | 2012-02 |
 | [Examples of Web sites backed by COBOL](threads/t-7dd8de9b35.md) | 16 | 2006-10 → 2006-11 |
 | [Examples on the USE statement](threads/t-4b521845e2.md) | 9 | 2004-05 |
 | [Examples Using .BMP/GIF/Etc.](threads/t-0c2b30f698.md) | 1 | 1999-02 |
@@ -9712,7 +9698,7 @@ _1,060 threads._
 
 ## G <a id='letter-g'></a>
 
-_314 threads._
+_313 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -9923,7 +9909,6 @@ _314 threads._
 | [Google for the Mainframe](threads/t-d554753f21.md) | 3 | 2005-04 |
 | [Google Groups relay of this Usenet group](threads/t-668b9c5c74.md) | 54 | 2012-02 |
 | [Google translate](threads/t-c6dd44f18a.md) | 13 | 2018-02 → 2018-05 |
-| [Gorgeous Trinity stuffed with two c0cks](threads/t-9706b8578f.md) | 1 | 2008-12 |
 | [Got a COBOL job](threads/t-d31d212835.md) | 1 | 2006-11 |
 | [Got a COBOL job](threads/t-78ada7c91e.md) | 2 | 2006-11 |
 | [Got a COBOL job](threads/t-8b257b79ac.md) | 1 | 2006-11 |
@@ -10033,7 +10018,7 @@ _314 threads._
 
 ## H <a id='letter-h'></a>
 
-_1,395 threads._
+_1,391 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -10051,8 +10036,6 @@ _1,395 threads._
 | [Handshakling betwwen Unix & Pc](threads/t-85296134b3.md) | 2 | 1999-11 |
 | [Hangs up printing](threads/t-5ca5ee10ec.md) | 1 | 2003-05 |
 | [Happiness in Islam : Concepts of Happiness 1](threads/t-ee9e088a11.md) | 1 | 2015-07 |
-| [Happiness in Islam : Happiness & Science 2](threads/t-e5b6008f95.md) | 1 | 2015-07 |
-| [Happiness in Islam : Happiness is Found in Sincere Worship 3](threads/t-868a7009ba.md) | 1 | 2015-07 |
 | [Happiness is ...](threads/t-beb0884938.md) | 3 | 1999-11 |
 | [Happy Birthday](threads/t-7f54a108c0.md) | 5 | 2009-09 |
 | [Happy Birthday to Pete Dashwood!](threads/t-e25f8531ac.md) | 3 | 2012-03 |
@@ -10120,7 +10103,6 @@ _1,395 threads._
 | [Health Followup](threads/t-d28233e4e8.md) | 1 | 2001-03 |
 | [Heartfelt Appologies!!!](threads/t-c7852a6d2c.md) | 5 | 2002-11 |
 | [Heartfelt Appologies!!!](threads/t-307b14e285.md) | 2 | 2002-11 |
-| [Heather Kennett faces justice for humiliating Con Zacharakis, faces court and/or police action for sexually a…](threads/t-a1902de3f0.md) | 1 | 2010-11 |
 | [Heeeelp! Cobol, windows 95 and Novell](threads/t-f3dd239bb1.md) | 2 | 1999-03 |
 | [Helhelp ... Fabs Plus + Cobo2](threads/t-8f7770fb16.md) | 1 | 1995-04 |
 | [HELLLLLP! Micro Focus--> EOF reached b/4 EOR (error # 018)](threads/t-976c3022b8.md) | 5 | 1997-09 |
@@ -11424,7 +11406,6 @@ _1,395 threads._
 | [http://www.jobz-online.com - jobs in India, india jobs](threads/t-0736051535.md) | 1 | 2004-09 |
 | [Http://www.love.com](threads/t-88a01df455.md) | 1 | 1997-07 |
 | [http://www.seguritec.pt](threads/t-4e524518b9.md) | 1 | 2000-05 |
-| [Human Rights and Justice in Islam](threads/t-46daf4d159.md) | 1 | 2015-05 |
 | [Humor (but on Topic)](threads/t-3d33a2d20e.md) | 2 | 1998-10 |
 | [Humor: With Apologies to Buddy Holly and Don McLean](threads/t-d5b27910fe.md) | 1 | 1998-04 |
 | [Huon / Endevor Configuration Management position in San Francisco, CA](threads/t-3a1cbec8eb.md) | 3 | 2004-09 → 2004-10 |
@@ -11435,7 +11416,7 @@ _1,395 threads._
 
 ## I <a id='letter-i'></a>
 
-_1,092 threads._
+_1,084 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -12285,8 +12266,6 @@ _1,092 threads._
 | [Intrinsic REXX from GnuCOBOL](threads/t-33b16fe923.md) | 5 | 2017-03 → 2017-04 |
 | [Introducing comp.lang.cob](threads/t-311cd51035.md) | 1 | 1997-07 |
 | [Introducing comp.lang.cobol's newest spammer](threads/t-3d6ea45b0e.md) | 1 | 1997-07 |
-| [INTRODUCING ISLAM](threads/t-fdd3aa1f87.md) | 1 | 2014-01 |
-| [Introducing Islam to Non--Muslims](threads/t-0994e9050f.md) | 1 | 2013-03 |
 | [Introducing Venus - DBA and Productivity tool for every DBA, System Analysts, Programmer, ...](threads/t-37e6c73d58.md) | 1 | 2004-08 |
 | [Introduction and Question](threads/t-89304fa215.md) | 3 | 2000-03 |
 | [Introduction to COBOL](threads/t-e83447844e.md) | 3 | 1997-01 |
@@ -12475,12 +12454,6 @@ _1,092 threads._
 | [isCOBOL from Veryant](threads/t-862d7d8537.md) | 8 | 2009-08 |
 | [ISeries Cobol Programmer Analyst](threads/t-142673b383.md) | 2 | 2015-11 |
 | [IshellLink in Cobol](threads/t-0e272091e0.md) | 4 | 2004-09 → 2004-10 |
-| [ISLAM and the AIM of LIFE](threads/t-f6046b7e76.md) | 1 | 2013-02 |
-| [ISLAM AND WOMEN](threads/t-c73ae7ddd4.md) | 1 | 2012-05 |
-| [Islam In Brief](threads/t-71d69c5306.md) | 1 | 2013-01 |
-| [Islam is not a Religion of Extremism](threads/t-9c6f21ac16.md) | 1 | 2014-06 |
-| [Islam is the fastest growing religion in the world especially since sept. 11.](threads/t-c2e3ce8b46.md) | 1 | 2013-12 |
-| [Islam prohibited women to be Unveiled....why?](threads/t-2b6b7a2820.md) | 1 | 2014-11 |
 | [Isn't the Web easy ????](threads/t-da326df236.md) | 5 | 2001-11 |
 | [Isn't this weird?](threads/t-06f952a39c.md) | 1 | 2001-01 |
 | [ISO "speeding up the process"](threads/t-a9cbe39e13.md) | 1 | 2003-10 |
@@ -13577,7 +13550,7 @@ _632 threads._
 
 ## M <a id='letter-m'></a>
 
-_2,026 threads._
+_2,021 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -15304,7 +15277,6 @@ _2,026 threads._
 | [Misc comments on GOTO, packed data, and flowcharts](threads/t-9bb0e9b4c4.md) | 2 | 2000-05 |
 | [Misc. Comments](threads/t-7cbc7b04bc.md) | 2 | 1997-02 |
 | [misc.forsale.non-computer,news.admin.net-abuse.usenet,comp.lang.cobol,misc.forsale.computers.net-hardware,com…](threads/t-f7456a3c23.md) | 2 | 2004-06 |
-| [MISCONCEPTIONS ABOUT ISLAM](threads/t-5ebfd042e3.md) | 1 | 2014-07 |
 | [MISinformation](threads/t-5b31eb0f53.md) | 1 | 2000-04 |
 | [Misnomers in the COBOL standard](threads/t-2f1668eef9.md) | 15 | 2006-07 |
 | [missing execution .dll](threads/t-71d9590b63.md) | 4 | 2001-02 |
@@ -15348,7 +15320,6 @@ _2,026 threads._
 | [Money Movers Inc. project](threads/t-00b587f479.md) | 1 | 2005-05 |
 | [money question](threads/t-e5f6c7f16a.md) | 5 | 1998-11 |
 | [Monitor suggestion](threads/t-ffc2cc861a.md) | 1 | 2002-03 |
-| [Monotheism - One God](threads/t-44e9cf39d5.md) | 1 | 2015-03 |
 | [Month table??? kinda long](threads/t-da8fcc8a29.md) | 6 | 2001-04 |
 | [Morality, Law, and the COBOL Standard](threads/t-87328554b1.md) | 8 | 1998-10 → 1998-11 |
 | [More Absurdity in a Blog](threads/t-d586931f31.md) | 10 | 2015-12 |
@@ -15488,8 +15459,6 @@ _2,026 threads._
 | [MSDOS/WINDOWS COBOL Compilers - Anything cheap?](threads/t-81f258112e.md) | 3 | 1994-12 |
 | [MSDOS/WINDOWS COBOL Compilers - Anything cheap?](threads/t-fb286e448a.md) | 1 | 1994-12 |
 | [muffler shop update](threads/t-653253ba45.md) | 12 | 1998-09 |
-| [Muhammad (saws): A Role Model for a New Millennium](threads/t-163a051121.md) | 1 | 2015-01 |
-| [Muhammad's Sword](threads/t-a1b18ce8ee.md) | 1 | 2015-04 |
 | [MUJI “Fall in love with Mondays!”](threads/t-f7d2548373.md) | 1 | 2012-05 |
 | [Multi Column Display Issue](threads/t-5bfd143e8b.md) | 2 | 1998-11 |
 | [Multi Language](threads/t-908a5ac2fd.md) | 3 | 2005-03 |
@@ -15591,7 +15560,6 @@ _2,026 threads._
 | [My High school Programming class needs a good cobol compiler](threads/t-1d02673993.md) | 3 | 1997-11 |
 | [My homework](threads/t-e2813b083c.md) | 7 | 1998-11 |
 | [My Homework](threads/t-a08ff86ec6.md) | 8 | 1998-11 |
-| [My Incredible Discovery of Islam](threads/t-8ef983a938.md) | 1 | 2013-10 |
 | [My lab is DUE!!!](threads/t-f04bada629.md) | 9 | 1996-08 |
 | [My little experiment](threads/t-8b88327994.md) | 2 | 1996-11 |
 | [My Migrations](threads/t-04b1bde0e3.md) | 60 | 2008-09 → 2008-10 |
@@ -15610,7 +15578,7 @@ _2,026 threads._
 
 ## N <a id='letter-n'></a>
 
-_1,017 threads._
+_1,015 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -15638,7 +15606,6 @@ _1,017 threads._
 | [Natural/Adabas Source Code Needed To Test My Parser](threads/t-cc53b15dc0.md) | 1 | 1998-04 |
 | [Natural/Adabase - What is it?](threads/t-af6cc7bef8.md) | 6 | 2001-03 |
 | [Natural/COBOL/DB2/Adabas Opportunities](threads/t-9e60516865.md) | 2 | 1998-12 |
-| [Nature of Heavenly Bodies](threads/t-14c99e0697.md) | 1 | 2012-04 |
 | [Nazi Tactics DocDwarf aka Michael J. Ben-Tovim, President of Binary Systems Inc](threads/t-6582e3efa6.md) | 39 | 1998-07 |
 | [NCITS J4 Activity for several months](threads/t-fc61d74dd4.md) | 1 | 1998-01 |
 | [NDM help](threads/t-3277892029.md) | 1 | 2003-05 |
@@ -16239,7 +16206,6 @@ _1,017 threads._
 | [New easy to use & powerful Cobol Analyzer](threads/t-076a0f09b8.md) | 13 | 1999-03 |
 | [New easy to use & powerful Cobol Analyzer](threads/t-724997ebb9.md) | 1 | 1999-03 |
 | [new errorfile found (great)](threads/t-5acea39538.md) | 6 | 2000-04 |
-| [New facts about the pyramids: a new miracle of the Qur'an](threads/t-96e3eff1ab.md) | 1 | 2014-01 |
 | [New features added to Cobol Date Scan Software](threads/t-ccec451ff0.md) | 1 | 1998-02 |
 | [New forum for cobol400 programmers](threads/t-1b05c25ec7.md) | 1 | 2007-03 |
 | [New Free jobs employment site - recruitmentindia.com](threads/t-a3443797fc.md) | 6 | 1998-03 |
@@ -19114,7 +19080,7 @@ _222 threads._
 
 ## R <a id='letter-r'></a>
 
-_1,023 threads._
+_1,022 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -19493,7 +19459,6 @@ _1,023 threads._
 | [Recycling of acronyms?](threads/t-642c25dd80.md) | 1 | 2006-08 |
 | [RED Editor](threads/t-ba953257d1.md) | 2 | 1999-04 |
 | [Red faces about Mars?](threads/t-aa047c963c.md) | 65 | 2004-01 → 2004-03 |
-| [Red ���Detox Tea��� Flushes 1lb Belly Fat Daily..](threads/t-a0e2efab16.md) | 1 | 2018-06 |
 | [Redefine mismatches](threads/t-bacef61942.md) | 2 | 2000-02 |
 | [Redefines](threads/t-bdfdf2dead.md) | 2 | 2000-01 → 2000-02 |
 | [Redefines and Printing](threads/t-922cda2c27.md) | 3 | 1998-04 |
@@ -20144,7 +20109,7 @@ _1,023 threads._
 
 ## S <a id='letter-s'></a>
 
-_1,383 threads._
+_1,375 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -20272,7 +20237,6 @@ _1,383 threads._
 | [Scheduling source code for Acucobol](threads/t-3787b2e427.md) | 1 | 1997-04 |
 | [SCHOOL LOAN](threads/t-0b6651c74d.md) | 1 | 2008-11 |
 | [school work](threads/t-e9a4be3022.md) | 3 | 2000-04 → 2000-05 |
-| [Science in Islam](threads/t-50413b79ad.md) | 1 | 2014-06 |
 | [SCLM on z/OS 1.7](threads/t-aeac817d2a.md) | 4 | 2008-02 |
 | [SCO -> Linux](threads/t-eb1b520090.md) | 4 | 1997-12 → 1998-01 |
 | [SCO resources for AcuCobol-85?](threads/t-da7fd1e868.md) | 6 | 2003-09 |
@@ -20622,9 +20586,6 @@ _1,383 threads._
 | [Setting path to runtime files in Fujitsu Cobol 4](threads/t-707eb55419.md) | 3 | 1998-09 |
 | [Several Homework Questions please](threads/t-4fe9df8d95.md) | 13 | 2002-03 → 2002-04 |
 | [Several openings For COBOL Programmers ( USD 1000 For referal...)](threads/t-96f3751ee4.md) | 2 | 2006-10 |
-| [SEXVIDEOS 4 FREE: Hack HARDCORE-pages ! 5308](threads/t-8eb527def2.md) | 1 | 2001-12 |
-| [Sexy ExGirlfriends](threads/t-fece447b92.md) | 1 | 2008-08 |
-| [SEXY SINGLES!](threads/t-636d21ca19.md) | 1 | 1996-12 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-d7d36d5aab.md) | 1 | 1996-05 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-2989812b7d.md) | 1 | 1996-05 |
 | [SF, CA - COBOL Prog. Analyst](threads/t-d6f82c96e3.md) | 1 | 1996-06 |
@@ -21170,7 +21131,6 @@ _1,383 threads._
 | [Static linking error MF Cobol WIN95 API calls](threads/t-800fdda472.md) | 3 | 1998-04 |
 | [Static linking from DLLs](threads/t-6452bd5223.md) | 19 | 1998-07 |
 | [Static Linking on Unix](threads/t-1e251d1b52.md) | 1 | 1997-12 |
-| [Static Mechanical Engineering , By Arthur P. Boresi and Richard J. Schmidt , 1st ed (solutions manual)](threads/t-25539c73fb.md) | 1 | 2019-03 |
 | [Static objects](threads/t-bb637c003c.md) | 9 | 1998-04 |
 | [Static or Dynamic Call.](threads/t-b35199b65f.md) | 28 | 2006-05 |
 | [Static Semantics](threads/t-89c4879a0f.md) | 1 | 1995-11 |
@@ -21181,9 +21141,7 @@ _1,383 threads._
 | [Static vs. Dynamic CAll Performance on IBM Mainframes](threads/t-b0f8b305c9.md) | 3 | 1998-04 |
 | [Static/dynamic linking with Fujitsu COBOL V3.0](threads/t-b939ba4b75.md) | 2 | 1999-02 |
 | [Statistic function](threads/t-81632e8b73.md) | 4 | 2003-01 |
-| [Statistical Techniques in Business and Economics 17th Edition by Douglas A. Lind,��� William G Marchal,��� Sa…](threads/t-dc783037b7.md) | 1 | 2019-03 |
 | [statistics](threads/t-78637ed0d2.md) | 6 | 2000-08 → 2000-09 |
-| [Statistics for engineers and scientists ,William Navidi ,4th ed (solutions manual)](threads/t-817ab77120.md) | 1 | 2019-03 |
 | [Status 39](threads/t-b0dbb19da6.md) | 6 | 2004-12 → 2005-01 |
 | [status 46 abend --- help!](threads/t-ffe6360da2.md) | 10 | 2000-10 |
 | [Status 93 on an AIX Browse](threads/t-234eb8cc96.md) | 1 | 1995-01 |
@@ -21257,7 +21215,6 @@ _1,383 threads._
 | [Strange problem!! pls help](threads/t-797dd89992.md) | 1 | 1998-11 |
 | [Strange question](threads/t-1c141c2422.md) | 11 | 1997-02 → 1997-03 |
 | [Strange result : I lost one record](threads/t-eb5e2ddc1e.md) | 42 | 2006-07 |
-| [Strategic Management and Business Policy 14th Edition Thomas L. Wheelen,��� J. David Hunger,��� Alan N. Hoffm…](threads/t-9dad7c0623.md) | 1 | 2019-03 |
 | [Strenghts and/or weaknesses of COBOL](threads/t-48336c3a87.md) | 11 | 2000-03 |
 | [Stretching it a bit By Chance....?](threads/t-84dc178cb1.md) | 11 | 2003-07 |
 | [String and Unstring](threads/t-58f3bc5d62.md) | 10 | 1997-05 |
@@ -21534,7 +21491,7 @@ _1,383 threads._
 
 ## T <a id='letter-t'></a>
 
-_785 threads._
+_775 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -21862,7 +21819,6 @@ _785 threads._
 | [The Art of Computer Mindmaking](threads/t-07609e71d9.md) | 2 | 1999-01 |
 | [The Art of Project Management](threads/t-7892724aae.md) | 24 | 2007-12 |
 | [The artist not the paintbrush](threads/t-0190b1ae85.md) | 8 | 1999-10 → 1999-11 |
-| [The Beauties of Islam](threads/t-e6d73740b2.md) | 1 | 2014-01 |
 | [The benefit of hindsight](threads/t-e1b1725b66.md) | 1 | 2018-09 |
 | [The best approach for offloading - comments please](threads/t-50abaaec98.md) | 6 | 1995-07 |
 | [The best books for RM_COBOL](threads/t-66d3eaee3c.md) | 2 | 2003-06 |
@@ -21895,7 +21851,6 @@ _785 threads._
 | [The Demise of COBOL Part II](threads/t-5979a42ba6.md) | 10 | 1998-07 |
 | [The Description of the Barrier Between Two Seas](threads/t-4c34fdcaeb.md) | 1 | 2014-09 |
 | [the dismissed university employees suffered financial loss due to matt parker](threads/t-29880368ad.md) | 4 | 2004-11 |
-| [The Economic System of Islam](threads/t-8ae106fa0a.md) | 1 | 2014-01 |
 | [The Fate of COBOL.......](threads/t-376382caa3.md) | 107 | 1999-05 → 1999-06 |
 | [The Father Of COBOL](threads/t-e1a1121051.md) | 1 | 1998-08 |
 | [The Free Software Definition - Free Software Foundation](threads/t-148593d0cb.md) | 11 | 2008-10 |
@@ -21927,19 +21882,15 @@ _785 threads._
 | [The MicroSoft view of multi-tier development.](threads/t-31c0ee7bb4.md) | 3 | 2002-12 |
 | [The Miracle of Iron](threads/t-b1b1d304b6.md) | 1 | 2015-09 |
 | [The monopoly game](threads/t-fd7baf3438.md) | 5 | 2011-06 |
-| [THE MORAL SYSTEM IN ISLAM](threads/t-2a18bf977f.md) | 1 | 2013-09 |
 | [The most dangerous product the IBM mainframe has ever seen](threads/t-8aff7bf0b8.md) | 3 | 2004-06 |
 | [The most powerfull book of rm-cobol](threads/t-12698dd495.md) | 3 | 2003-08 |
 | [The MOVE problem](threads/t-6802cacea8.md) | 54 | 2007-10 → 2007-11 |
-| [The Name of Our Religion Is Islam](threads/t-736c5da379.md) | 1 | 2013-11 |
 | [The new COBOL should be called COBOOL](threads/t-500cd08783.md) | 2 | 2003-03 |
 | [The next Date Issue](threads/t-4b2ebd260f.md) | 10 | 2000-01 |
 | [The next step to take](threads/t-97d57ffddd.md) | 2 | 2008-01 |
 | [The next Y2K: Y2.038K bug](threads/t-7aa3928605.md) | 5 | 2008-03 |
 | [The old days and year 2000](threads/t-64759ebc32.md) | 3 | 1997-04 |
-| [The Oneness of God is the message of Jesus and all the Prophets, peace be upon them !!!!!!!!!!!!!!](threads/t-345dd69218.md) | 1 | 2012-03 |
 | [The past, present and future of COBOL language](threads/t-1e5693121a.md) | 1 | 1996-05 |
-| [The pioneering personals site that revolutionized online dating, with nearly million members-Millionaire!{$50…](threads/t-d4c6f77934.md) | 1 | 2008-03 |
 | [THE POPULATION OF MUSLIMS](threads/t-016f8eb30f.md) | 1 | 2013-09 |
 | [The Power Of COBOL](threads/t-50f6c8295b.md) | 1 | 2000-09 |
 | [The pre-interview question...](threads/t-5993527349.md) | 18 | 2007-08 |
@@ -21952,8 +21903,6 @@ _785 threads._
 | [The Queen of Code](threads/t-28c129ad2e.md) | 1 | 2016-01 |
 | [The Quickest, Dirtiest Y2K Solution](threads/t-95f4d9a116.md) | 1 | 1997-03 |
 | [The Quine Page](threads/t-1b2855f216.md) | 1 | 1998-12 |
-| [The Qur'an Leads The Way To Science](threads/t-28fb121d61.md) | 1 | 2013-03 |
-| [The Quran - The Final Revelation to Mankind](threads/t-9dcb8e6d8a.md) | 1 | 2014-08 |
 | [The Quran on Human Embryonic Development](threads/t-5ea01638fd.md) | 3 | 2012-06 |
 | [The reason COBOL survives](threads/t-a0b5c8158d.md) | 1 | 1996-12 |
 | [The redefines clause & comp-3](threads/t-4f7c05ae8b.md) | 26 | 2005-08 |
@@ -21967,9 +21916,7 @@ _785 threads._
 | [The sort of experience that has led me to my theories iof pupular software development (was How compoetent ar…](threads/t-55ba45b657.md) | 4 | 2008-08 |
 | [The sort of experience that has led me to my theories iof pupular software development (was How compoetent ar…](threads/t-123273df0a.md) | 2 | 2008-08 |
 | [The state of cobol in *ix](threads/t-aa571ac727.md) | 1 | 2020-09 |
-| [The Story of Jesus and Mary in the Holy Quran](threads/t-c6b15a9c3d.md) | 1 | 2013-04 |
 | [The Story of Jesus and Mary in the Holy Quran (part 1 of 3): Mary](threads/t-3535bb625c.md) | 2 | 2015-08 |
-| [THE SUPERIORITY OF THE MOTHER IN ISLAM](threads/t-ebb5c4b0df.md) | 1 | 2015-01 |
 | [The times they are a'changin'...](threads/t-2a0c3a9dd3.md) | 10 | 2013-11 |
 | [The True Cost Of Off-the-Shelf](threads/t-afbff06e96.md) | 1 | 2006-08 |
 | [The Universal Tool](threads/t-deff0296bb.md) | 1 | 2000-04 |
@@ -22326,7 +22273,7 @@ _785 threads._
 
 ## U <a id='letter-u'></a>
 
-_811 threads._
+_809 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -22402,7 +22349,6 @@ _811 threads._
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-41e626896a.md) | 1 | 2000-10 |
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-ef42cabdff.md) | 1 | 2000-10 |
 | [Unionization the answer? Can IT people learn to follow politics and lobby?](threads/t-f1216e795e.md) | 2 | 2000-10 |
-| [UNIQUE FEATURES OF ISLAM !!!!!!!!!!!!!!](threads/t-f9c29ff51b.md) | 1 | 2012-02 |
 | [Unique ID](threads/t-8ecf1983f5.md) | 16 | 2003-06 |
 | [Unique identifiers](threads/t-936ff9d180.md) | 7 | 2010-02 |
 | [unique program-names and contained programs](threads/t-7b0b7bfbba.md) | 7 | 2005-12 |
@@ -22625,7 +22571,6 @@ _811 threads._
 | [us citizenship](threads/t-9e12902156.md) | 2 | 1999-02 → 1999-03 |
 | [US COMPANY IS SEEKING](threads/t-0d3b09b170.md) | 3 | 1997-01 |
 | [US COMPANY IS SEEKING](threads/t-d74c427c11.md) | 1 | 1997-01 |
-| [Us congress hearing of maan alsaan Money laundry �������� ������������������ ���������� �������������� ������…](threads/t-8a1c013ec7.md) | 1 | 2019-03 |
 | [US FL COBOL and CICS or IMS](threads/t-935213d590.md) | 1 | 1998-02 |
 | [US Georgia COBOL and CICS or IMS](threads/t-0ba65727b1.md) | 1 | 1998-02 |
 | [US IN COBOL and CICS or IMS Jobs](threads/t-8c9efc85b4.md) | 1 | 1998-02 |
@@ -23546,7 +23491,7 @@ _395 threads._
 
 ## W <a id='letter-w'></a>
 
-_884 threads._
+_875 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -23662,7 +23607,6 @@ _884 threads._
 | [Warning! In-line PERFORM.](threads/t-3bcc6a3fe8.md) | 10 | 2009-03 |
 | [was 60 day date check](threads/t-fa3436d825.md) | 6 | 1999-10 |
 | [Was Date Standardizing or Patching](threads/t-9e06efc2be.md) | 2 | 1997-05 |
-| [WAS ISLAM SPREAD BY THE SWORD ?????????????](threads/t-fff5e8a0ac.md) | 1 | 2013-08 |
 | [Wash, DC Area - Oracle DBA Consultant - 970601](threads/t-8de1350455.md) | 1 | 1997-06 |
 | [waterfall development](threads/t-455ec37140.md) | 14 | 2002-07 → 2002-08 |
 | [WAV Recorder ActiveX](threads/t-347f4003fe.md) | 1 | 2004-11 |
@@ -23768,10 +23712,8 @@ _884 threads._
 | [What does FIELD1(2:1) mean?](threads/t-6a94c79ef0.md) | 2 | 1998-07 |
 | [What does GoBack do?](threads/t-03648e0da1.md) | 8 | 2002-08 |
 | [What does INV-LRECL mean?](threads/t-8ba8f91f63.md) | 5 | 2002-07 |
-| [WHAT DOES ISLAM SAY ABOUT TERRORISM ?????????????????](threads/t-ab5b7eb04c.md) | 1 | 2013-11 |
 | [What does this mean? Help please.](threads/t-361510ecd4.md) | 5 | 2000-01 → 2000-02 |
 | [What does this statement mean.](threads/t-56efdebf70.md) | 5 | 1999-03 |
-| [WHAT DRIVES PEOPLE TO CONVERT TO ISLAM?](threads/t-eb862f62a6.md) | 1 | 2013-07 |
 | [WHAT else?](threads/t-e4cea1db14.md) | 1 | 1994-12 |
 | [WHAT else?](threads/t-c34c591595.md) | 1 | 1994-12 |
 | [What exactly is DMSII and LINC?](threads/t-2fb7e173bf.md) | 6 | 2001-06 |
@@ -23809,7 +23751,6 @@ _884 threads._
 | [What is HONOS?](threads/t-21f494da40.md) | 1 | 2000-08 |
 | [What is HONOS?](threads/t-509e8ce4f9.md) | 1 | 2000-08 |
 | [What is ISBF, IMS?](threads/t-a063ea3ce2.md) | 2 | 1998-06 |
-| [What is Islam?](threads/t-cf47bba3c4.md) | 1 | 2012-11 |
 | [What is Islam?](threads/t-c147f0e002.md) | 13 | 2012-11 |
 | [What is Legacy system?](threads/t-3c6829d5bf.md) | 10 | 1997-06 |
 | [What is main difference between C and COBOL](threads/t-5acc87748e.md) | 18 | 1997-03 → 1997-04 |
@@ -24091,8 +24032,6 @@ _884 threads._
 | [Who is able to make a exe-file of Cobol-Code](threads/t-40c95f3299.md) | 1 | 1998-09 |
 | [Who Is EDP Contract Services?](threads/t-8a55ba4569.md) | 1 | 1995-11 |
 | [Who is hiring? Anywhere](threads/t-b00f9d894d.md) | 3 | 1999-02 |
-| [WHO IS PROPHET MUHAMMAD, MAY PEACE AND BLESSINGS BE UPON HIM?](threads/t-3ae1ccca7a.md) | 1 | 2015-02 |
-| [who is that...?!!](threads/t-abdbdfbe2f.md) | 1 | 2012-11 |
 | [Who is the oldest working programmer?](threads/t-b59fb9affc.md) | 26 | 1998-11 → 1998-12 |
 | [Who is the Standard for?](threads/t-67450df2d6.md) | 16 | 1998-11 |
 | [Who is using the netexpress compiler from MF](threads/t-104f8f1acf.md) | 1 | 1997-12 |
@@ -24127,7 +24066,6 @@ _884 threads._
 | [Why is Micro Focus so slow?](threads/t-38368aa8ba.md) | 5 | 1997-09 |
 | [Why is Smiling a Donation?](threads/t-5fe65f66ec.md) | 1 | 2014-11 |
 | [Why Islam is the true religion of God.](threads/t-72b8b468f5.md) | 10 | 2015-05 |
-| [Why Islam? The Beauty and Benefits of Islam](threads/t-5e205617b6.md) | 1 | 2014-05 |
 | [Why isn't my program working?](threads/t-dbaf83cf70.md) | 7 | 2003-04 |
 | [Why Leading Zeros in Level Numbers??](threads/t-68211e16d2.md) | 12 | 1997-01 |
 | [Why Muslim Women Wear the Veil](threads/t-9c87189d27.md) | 1 | 2015-10 |
@@ -24284,8 +24222,6 @@ _884 threads._
 | [With a little help......](threads/t-e57702dd31.md) | 2 | 1998-12 |
 | [WITH DUPLICATES in SYNCSORT?](threads/t-6b233ec7be.md) | 9 | 1998-02 |
 | [Withcraft history......by Charla Williams](threads/t-07f9ed52bb.md) | 22 | 1999-04 |
-| [woman in islam](threads/t-8b5d87dcd9.md) | 1 | 2012-08 |
-| [Women's Rights in Islam](threads/t-0f859b08bb.md) | 1 | 2014-08 |
 | [Women's Rights in Islam](threads/t-007470ca72.md) | 2 | 2014-10 |
 | [Wondering about Cobol opportunities in Orlando Fl](threads/t-b72d955595.md) | 3 | 1998-06 → 1998-07 |
 | [Wondering about OO COBOL - in the draft Standard?](threads/t-66a78d9cd2.md) | 2 | 1998-03 |
@@ -24503,7 +24439,7 @@ _59 threads._
 
 ## Y <a id='letter-y'></a>
 
-_241 threads._
+_240 threads._
 
 | Subject | Msgs | Span |
 |---|---:|---|
@@ -24721,7 +24657,6 @@ _241 threads._
 | [you ll love this!!!!!](threads/t-cf802a79c1.md) | 1 | 2000-05 |
 | [You Might Be In A Bad COBOL Program...(Was Re: 01 Level vs. 77 Level)](threads/t-5fe3c96820.md) | 16 | 1998-01 |
 | [You Might Be In A Bad Program If...](threads/t-f4dec2fdbc.md) | 20 | 1998-01 |
-| [YOU MUST KNOW THIS MAN](threads/t-d955f3906d.md) | 1 | 2012-08 |
 | [You need COBOL programmers? We got them.](threads/t-b5dd2fb878.md) | 5 | 1997-03 |
 | [You will want to read this!!!!!!](threads/t-de870a42e4.md) | 8 | 1998-01 |
 | [You'll get no play in this NG, asshole...](threads/t-6c1be1bbbd.md) | 2 | 2000-12 |

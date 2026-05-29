@@ -2,7 +2,7 @@
 
 # comp.lang.cobol — External Links
 
-URLs extracted from 167,843 message bodies. **66,270 total mentions** across **13,845 unique URLs** and **5,955 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
+URLs extracted from 167,778 message bodies. **66,054 total mentions** across **13,742 unique URLs** and **5,919 domains**. Useful for tracking what tools, vendors, papers, and news stories the community pointed at over two decades.
 
 ## Top 75 domains by mention count
 
@@ -26,7 +26,7 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 | `en.wikipedia.org` | 645 | 185 | 2007 (122) |
 | `newsfeeds.com` | 638 | 196 | 2001 (502) |
 | `dissensoftware.com` | 622 | 390 | 2003 (155) |
-| `groups.google.com` | 599 | 217 | 2008 (111) |
+| `groups.google.com` | 597 | 215 | 2008 (109) |
 | `arnold.trembley.home.att.net` | 571 | 323 | 2003 (77) |
 | `trainersfriend.com` | 561 | 269 | 1999 (117) |
 | `cobolreport.com` | 503 | 266 | 2001 (138) |
@@ -36,7 +36,7 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 | `primacomputing.co.nz` | 453 | 141 | 2009 (87) |
 | `willms-edv.de` | 430 | 102 | 2004 (254) |
 | `liant.com` | 420 | 273 | 1998 (125) |
-| `tinyurl.com` | 396 | 42 | 2004 (295) |
+| `tinyurl.com` | 395 | 41 | 2004 (295) |
 | `arnoldtrembley.com` | 355 | 110 | 2018 (90) |
 | `siber.com` | 346 | 170 | 1998 (141) |
 | `daniel.summershome.org` | 322 | 66 | 2007 (267) |
@@ -74,10 +74,10 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 | `home.att.net` | 153 | 82 | 1998 (52) |
 | `teo-computer.com` | 151 | 55 | 1998 (94) |
 | `cobolstandard.info` | 150 | 40 | 2007 (68) |
-| `youtube.com` | 148 | 46 | 2012 (57) |
 | `objectz.com` | 148 | 81 | 2005 (62) |
 | `cai.com` | 142 | 88 | 1998 (82) |
 | `computerworld.com` | 140 | 42 | 2012 (21) |
+| `youtube.com` | 137 | 36 | 2012 (54) |
 | `semdesigns.com` | 136 | 71 | 2001 (38) |
 | `brainbench.com` | 136 | 59 | 2001 (67) |
 | `ran.org` | 136 | 75 | 2000 (93) |
@@ -577,25 +577,6 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 - [https://primacomputing.co.nz/PRIMAMetro/RDBandSQL.aspx](https://primacomputing.co.nz/PRIMAMetro/RDBandSQL.aspx) — **11** mentions · [first cited 2017-10](threads/t-951f07c772.md)
 - [https://www.avg.com](https://www.avg.com) — **11** mentions · [first cited 2018-07](threads/t-0c37b82d5d.md)
 - [https://www.bloomberg.com/news/articles/2018-04-18/taxpayers-get-an-extra-day-to-file-after-irs-com…](https://www.bloomberg.com/news/articles/2018-04-18/taxpayers-get-an-extra-day-to-file-after-irs-computers-fail) — **11** mentions · [first cited 2018-04](threads/t-07bd56f377.md)
-- [http://youtube.googleapis.com/v/Gl-wuhzOkpo?rel=0](http://youtube.googleapis.com/v/Gl-wuhzOkpo?rel=0) — **10** mentions · [first cited 2012-11](threads/t-cf47bba3c4.md)
-- [http://www.islam-guide.com](http://www.islam-guide.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.islamhouse.com/s/9661](http://www.islamhouse.com/s/9661) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.thisistruth.org](http://www.thisistruth.org) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.quran-m.com/firas/en1](http://www.quran-m.com/firas/en1) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://kaheel7.com/eng](http://kaheel7.com/eng) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.knowmuhammad.com](http://www.knowmuhammad.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.rasoulallah.net/v2/index.aspx?lang=e](http://www.rasoulallah.net/v2/index.aspx?lang=e) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://imanway1.com/eng](http://imanway1.com/eng) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.todayislam.com](http://www.todayislam.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.thekeytoislam.com](http://www.thekeytoislam.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.islamland.com](http://www.islamland.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.discoverislam.com](http://www.discoverislam.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.thetruereligion.org](http://www.thetruereligion.org) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.beconvinced.com](http://www.beconvinced.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://islamtomorrow.com](http://islamtomorrow.com) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.quranforall.org](http://www.quranforall.org) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.quranexplorer.com/quran](http://www.quranexplorer.com/quran) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
-- [http://www.prophetmuhammed.org](http://www.prophetmuhammed.org) — **10** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
 - [http://www.nzherald.co.nz/television/news/article.cfm?c_id=339&objectid=10776378](http://www.nzherald.co.nz/television/news/article.cfm?c_id=339&objectid=10776378) — **10** mentions · [first cited 2012-01](threads/t-c3420e9d2f.md)
 - [http://www.theminimumyouneedtoknow.com/app_book.html](http://www.theminimumyouneedtoknow.com/app_book.html) — **10** mentions · [first cited 2011-12](threads/t-db06303766.md)
 - [http://www.computerworld.com/s/article/9222503/Java_apps_have_most_fl](http://www.computerworld.com/s/article/9222503/Java_apps_have_most_fl) — **10** mentions · [first cited 2011-12](threads/t-5c219d0c13.md)
@@ -656,7 +637,7 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 - [https://www.arnoldtrembley.com/prog.htm](https://www.arnoldtrembley.com/prog.htm) — **10** mentions · [first cited 2021-02](threads/t-22d8c596b4.md)
 - [https://sites.google.com/site/cobolcode/](https://sites.google.com/site/cobolcode/) — **9** mentions · [first cited 2012-11](threads/t-e9bb25a0b7.md)
 - [http://www.slate.com/blogs/bad_astronomy/2012/11/21/mars_rover_curiosity_makes_earthshaking_find_no…](http://www.slate.com/blogs/bad_astronomy/2012/11/21/mars_rover_curiosity_makes_earthshaking_find_no_one_is_talking_but_everyone.html) — **9** mentions · [first cited 2012-11](threads/t-fed9b51435.md)
-- [http://chatislamonline.org/en/](http://chatislamonline.org/en/) — **9** mentions · [first cited 2012-06](threads/t-d3350ed1e6.md)
+- [http://youtube.googleapis.com/v/Gl-wuhzOkpo?rel=0](http://youtube.googleapis.com/v/Gl-wuhzOkpo?rel=0) — **9** mentions · [first cited 2012-11](threads/t-c147f0e002.md)
 - [http://www.youtube.com/watch?v=NwqPBlSxb-0](http://www.youtube.com/watch?v=NwqPBlSxb-0) — **9** mentions · [first cited 2012-05](threads/t-47c67922df.md)
 - [http://www.computerworld.com/s/article/9227263/The_Cobol_Brain_Drain?taxonomyId=154](http://www.computerworld.com/s/article/9227263/The_Cobol_Brain_Drain?taxonomyId=154) — **9** mentions · [first cited 2012-05](threads/t-3b1ef7ce58.md)
 - [http://www.bbc.co.uk/news/technology-16440126](http://www.bbc.co.uk/news/technology-16440126) — **9** mentions · [first cited 2012-01](threads/t-417f7fd120.md)
@@ -1086,4 +1067,23 @@ URLs extracted from 167,843 message bodies. **66,270 total mentions** across **1
 - [http://www.akaas.net/jobs/asp-net-interview-questions.htm](http://www.akaas.net/jobs/asp-net-interview-questions.htm) — **6** mentions · [first cited 2007-08](threads/t-6ce40c8b82.md)
 - [http://moredotnet.googlepages.com](http://moredotnet.googlepages.com) — **6** mentions · [first cited 2007-08](threads/t-6ce40c8b82.md)
 - [http://www.coolinterview.com/](http://www.coolinterview.com/) — **6** mentions · [first cited 2007-08](threads/t-6ce40c8b82.md)
+- [http://www1.csisdmz.ul.ie/curstudents/fyp/suggestions/mcoughlan](http://www1.csisdmz.ul.ie/curstudents/fyp/suggestions/mcoughlan) — **6** mentions · [first cited 2007-07](threads/t-72a3dcaa87.md)
+- [http://msdn2.microsoft.com/en-us/library/ms724844.aspx](http://msdn2.microsoft.com/en-us/library/ms724844.aspx) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://msdn2.microsoft.com/en-us/library/ms724923.aspx](http://msdn2.microsoft.com/en-us/library/ms724923.aspx) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://msdn2.microsoft.com/en-us/library/ms724837.aspx](http://msdn2.microsoft.com/en-us/library/ms724837.aspx) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://msdn2.microsoft.com/en-us/library/ms724897.aspx](http://msdn2.microsoft.com/en-us/library/ms724897.aspx) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://msdn2.microsoft.com/en-us/library/ms724911.aspx](http://msdn2.microsoft.com/en-us/library/ms724911.aspx) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://www.kimsoft.com/api-COBOL/api-COBOL.htm](http://www.kimsoft.com/api-COBOL/api-COBOL.htm) — **6** mentions · [first cited 2007-06](threads/t-def60aba13.md)
+- [http://www.fujitsu.com/nz/services/solutions/legacy/cobol](http://www.fujitsu.com/nz/services/solutions/legacy/cobol) — **6** mentions · [first cited 2007-05](threads/t-f9516c27ca.md)
+- [http://www.eBankGame.com](http://www.eBankGame.com) — **6** mentions · [first cited 2007-05](threads/t-bb71f142b7.md)
+- [http://www.kernelthread.com/hanoi/html/cob.html](http://www.kernelthread.com/hanoi/html/cob.html) — **6** mentions · [first cited 2007-05](threads/t-3f45b03c38.md)
+- [http://www.cobolstandard.info/j4/files/07-0055.doc](http://www.cobolstandard.info/j4/files/07-0055.doc) — **6** mentions · [first cited 2007-04](threads/t-599373eb6e.md)
+- [http://www.cobolstandard.info/j4/files/07-0056.doc](http://www.cobolstandard.info/j4/files/07-0056.doc) — **6** mentions · [first cited 2007-04](threads/t-599373eb6e.md)
+- [http://blogs.msdn.com/charlie/archive/2007/01/26/anders-hejlsberg-on-](http://blogs.msdn.com/charlie/archive/2007/01/26/anders-hejlsberg-on-) — **6** mentions · [first cited 2007-04](threads/t-f6dd55ba0c.md)
+- [http://wm.microsoft.com/ms/msdn/visualcsharp/LinqFarm01/LinqToSql01.wmv](http://wm.microsoft.com/ms/msdn/visualcsharp/LinqFarm01/LinqToSql01.wmv) — **6** mentions · [first cited 2007-04](threads/t-f6dd55ba0c.md)
+- [http://themechanicalbride.blogspot.com/2007/03/dreaming-of-plinq.html](http://themechanicalbride.blogspot.com/2007/03/dreaming-of-plinq.html) — **6** mentions · [first cited 2007-04](threads/t-f6dd55ba0c.md)
+- [http://www.opengroup.org](http://www.opengroup.org) — **6** mentions · [first cited 2007-03](threads/t-599373eb6e.md)
+- [http://www.lysator.liu.se/c/duffs-device.html](http://www.lysator.liu.se/c/duffs-device.html) — **6** mentions · [first cited 2007-03](threads/t-3ea136c5dc.md)
+- [http://mwallace.net/school/theory/cobol_99.htm](http://mwallace.net/school/theory/cobol_99.htm) — **6** mentions · [first cited 2006-12](threads/t-53cf55a958.md)
+- [http://mwallace.net/progs/COBOL_ME_Setup.exe](http://mwallace.net/progs/COBOL_ME_Setup.exe) — **6** mentions · [first cited 2006-12](threads/t-53cf55a958.md)
 

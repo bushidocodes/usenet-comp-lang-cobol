@@ -2,11 +2,11 @@
 
 # comp.lang.cobol — Topic Index
 
-Topical groupings of the 24,611 threads (167,843 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
+Topical groupings of the 24,546 threads (167,778 messages) in this archive. Threads are matched by subject-line keyword rules and may appear under multiple topics.
 
 ## Topics
 
-- [Y2K and Year-2000 remediation](#y2k) — 553 threads
+- [Y2K and Year-2000 remediation](#y2k) — 552 threads
 - [COBOL's future, legacy, and obsolescence](#future) — 111 threads
 - [Jobs, careers, recruiting, salary](#jobs) — 1,466 threads
 - [Compilers and vendors](#compilers) — 3,958 threads
@@ -14,18 +14,18 @@ Topical groupings of the 24,611 threads (167,843 messages) in this archive. Thre
 - [Object-oriented COBOL](#oo) — 238 threads
 - [Language features and syntax](#syntax) — 846 threads
 - [COBOL standards (ANS, ISO, 74/85/2002/2014)](#standards) — 435 threads
-- [Migration and conversion](#migration) — 435 threads
+- [Migration and conversion](#migration) — 434 threads
 - [Mainframe, z/OS, JCL, CICS](#mainframe) — 1,700 threads
 - [AS/400, iSeries, RPG](#as400) — 139 threads
 - [Databases and SQL](#databases) — 922 threads
 - [VSAM, files, sorting](#files) — 581 threads
 - [Date and calendar processing](#dates) — 187 threads
-- [Web, XML, modern integration](#web) — 435 threads
+- [Web, XML, modern integration](#web) — 434 threads
 - [Tutorials, books, learning](#learning) — 851 threads
-- [Help requests and how-to](#help) — 1,749 threads
+- [Help requests and how-to](#help) — 1,745 threads
 - [Off-topic and spam](#spam) — 525 threads
 - [Meta: FAQs, group policy, charter](#meta) — 609 threads
-- [Uncategorized (top by message count)](#uncategorized) — 11,660 threads
+- [Uncategorized (top by message count)](#uncategorized) — 11,602 threads
 
 ## Top threads overall (by message count)
 
@@ -62,7 +62,7 @@ Topical groupings of the 24,611 threads (167,843 messages) in this archive. Thre
 
 ## Y2K and Year-2000 remediation <a id='y2k'></a>
 
-_553 threads · 2,682 messages._
+_552 threads · 2,681 messages._
 
 - [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **300** msgs · 1998-10 → 1998-11
 - [Non-programmers think Y2K was hype... and I'm angry!](threads/t-88f6ada26b.md) — **104** msgs · 2000-01
@@ -124,7 +124,7 @@ _553 threads · 2,682 messages._
 - [Info on Linc available - a 4GL for Y2K?](threads/t-a4682184ca.md) — **7** msgs · 1997-07
 - [Date malfuntion after the year 2000](threads/t-7205168c22.md) — **7** msgs · 1997-07
 - [Stories/Experiences/Horror Stories of Y2K conversions!!!](threads/t-3c089c9aa2.md) — **7** msgs · 1997-09
-- _…and 493 more threads (showing top 60 by message count)._
+- _…and 492 more threads (showing top 60 by message count)._
 
 ## COBOL's future, legacy, and obsolescence <a id='future'></a>
 
@@ -590,7 +590,7 @@ _435 threads · 3,238 messages._
 
 ## Migration and conversion <a id='migration'></a>
 
-_435 threads · 4,010 messages._
+_434 threads · 4,009 messages._
 
 - [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **1161** msgs · 2003-03 → 2003-10
 - [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **123** msgs · 2003-06 → 2003-07
@@ -652,7 +652,7 @@ _435 threads · 4,010 messages._
 - [IBM's CCCA and customized LCPs for Enterprise COBOL migration](threads/t-50898ee875.md) — **12** msgs · 2007-09
 - [In search of - Suggestions on Micro Focus Dialog Systems to C# / .NET migrations](threads/t-867713c01f.md) — **12** msgs · 2009-07
 - [Legacy Modernization Survey!](threads/t-8c6e44aa22.md) — **12** msgs · 2013-08
-- _…and 375 more threads (showing top 60 by message count)._
+- _…and 374 more threads (showing top 60 by message count)._
 
 ## Mainframe, z/OS, JCL, CICS <a id='mainframe'></a>
 
@@ -986,7 +986,7 @@ _187 threads · 1,394 messages._
 
 ## Web, XML, modern integration <a id='web'></a>
 
-_435 threads · 2,040 messages._
+_434 threads · 2,039 messages._
 
 - [conversion from Microfocus NetExpress COBOL to Fujitsu netCOBOL.net](threads/t-e6187d4a60.md) — **90** msgs · 2011-10 → 2013-03
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **77** msgs · 2001-08 → 2001-09
@@ -1048,7 +1048,7 @@ _435 threads · 2,040 messages._
 - [COBOL / CICS as web data source](threads/t-09d99b7aef.md) — **8** msgs · 1996-10
 - [Any tools, gateways, software to read Vsam files from WEB?](threads/t-b668f118ee.md) — **8** msgs · 1997-12
 - [Date validation of input from HTML form](threads/t-939939a47c.md) — **8** msgs · 1998-03 → 1998-04
-- _…and 375 more threads (showing top 60 by message count)._
+- _…and 374 more threads (showing top 60 by message count)._
 
 ## Tutorials, books, learning <a id='learning'></a>
 
@@ -1118,7 +1118,7 @@ _851 threads · 5,293 messages._
 
 ## Help requests and how-to <a id='help'></a>
 
-_1,749 threads · 10,413 messages._
+_1,745 threads · 10,409 messages._
 
 - [newbie question on cobol syntax](threads/t-6bd396c6dc.md) — **297** msgs · 2007-04 → 2007-05
 - [What is the future of COBOL? Answer: Irrelevant???](threads/t-e6a5a57f82.md) — **195** msgs · 2003-05 → 2003-12
@@ -1180,7 +1180,7 @@ _1,749 threads · 10,413 messages._
 - [How To Discussion. Problem Statement.](threads/t-081e923eeb.md) — **25** msgs · 1997-07
 - [Two compiler on same PC ???](threads/t-b1b3d618f2.md) — **25** msgs · 2001-10
 - [I need help with reading multiple records off one data file](threads/t-e1284e218b.md) — **25** msgs · 2002-07 → 2002-08
-- _…and 1,689 more threads (showing top 60 by message count)._
+- _…and 1,685 more threads (showing top 60 by message count)._
 
 ## Off-topic and spam <a id='spam'></a>
 
@@ -1316,7 +1316,7 @@ _609 threads · 1,598 messages._
 
 ## Uncategorized (top by message count) <a id='uncategorized'></a>
 
-_11,660 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
+_11,602 threads didn't match any topic rule. Showing the 60 most active (threads with ≥ 4 messages)._
 
 - [OT:Thanksgiving](threads/t-53e0b19fe9.md) — **1870** msgs · 2007-11 → 2008-02
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **1132** msgs · 2004-10 → 2005-01
