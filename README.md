@@ -6,10 +6,16 @@ mbox into a browsable Markdown tree under [`markdown/`](markdown/).
 
 ## Source data
 
-[`comp.lang.cobol.mbox`](comp.lang.cobol.mbox) — 375 MB, every message from
-comp.lang.cobol from 1994-11 to 2013-06 (with a 1995–mid-1998 gap inherited
-from the Giganews tape archive). From
-[archive.org/details/usenet-comp](https://archive.org/details/usenet-comp).
+`comp.lang.cobol.mbox` — 375 MB, every message from comp.lang.cobol from
+1994-11 to 2013-06 (with a 1995–mid-1998 gap inherited from the Giganews tape
+archive). From [archive.org/details/usenet-comp](https://archive.org/details/usenet-comp).
+
+`comp.lang.cobol.gap.mbox` — scraped fill-in for the 1995–1998 gap period.
+
+Both `.mbox` files exceed GitHub's 100 MB limit and are gitignored. The repo
+ships [`comp.lang.cobol.mbox.zip`](comp.lang.cobol.mbox.zip) and
+[`comp.lang.cobol.gap.mbox.zip`](comp.lang.cobol.gap.mbox.zip) instead; unzip
+them before running the pipeline (see **How to run** below).
 
 ## Pipeline
 
@@ -42,6 +48,11 @@ also call `archive.filter_msgs()` on the same set.
 # Install dependencies (one-time setup).
 pip install -r requirements.txt
 
+# One-time setup — unzip the source archives (ships as .zip due to GitHub's
+# 100 MB file limit).
+unzip comp.lang.cobol.mbox.zip
+unzip comp.lang.cobol.gap.mbox.zip
+
 # First run only — parses the 375 MB mbox (~60–90s). Subsequent generator
 # runs hit the cached pickle (~1s).
 python archive.py
@@ -65,7 +76,10 @@ valid — just re-run the generators.
 
 | File | Role |
 |---|---|
-| `comp.lang.cobol.mbox` | Source data (in repo; do not modify) |
+| `comp.lang.cobol.mbox.zip` | Compressed source archive (ships in repo; unzip before first run) |
+| `comp.lang.cobol.gap.mbox.zip` | Compressed gap-period scrape (ships in repo; unzip before first run) |
+| `comp.lang.cobol.mbox` | Unzipped primary mbox — 375 MB, gitignored |
+| `comp.lang.cobol.gap.mbox` | Unzipped gap-period mbox, gitignored |
 | `archive.py` | Mbox parser, cache, `parse_archive()`, `thread_summaries()`, `filter_msgs()` |
 | `spam.py` | Spam classifier — `SPAM_HOSTS`, `SPAM_HOST_SUFFIXES`, `message_is_spam`, `thread_is_spam` |
 | `thread.py` | Generates `markdown/threads/t-*.md` |
