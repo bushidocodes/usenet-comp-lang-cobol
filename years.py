@@ -98,9 +98,10 @@ def main() -> int:
             total_threads = len(threads)
 
             f.write(f"## {y} <a id='y{y}'></a>\n\n")
+            active_span = f"{months[0]} → {months[-1]}" if months else "undated"
             f.write(
                 f"**{total_msgs:,} messages in {total_threads:,} threads** · "
-                f"active {months[0]} → {months[-1]}\n\n"
+                f"active {active_span}\n\n"
             )
 
             # Monthly activity (counts only — threads are no longer grouped per month)
