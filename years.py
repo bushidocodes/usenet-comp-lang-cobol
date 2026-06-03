@@ -9,20 +9,13 @@ from collections import Counter, defaultdict
 
 from archive import OUT, date_key, filter_msgs, parse_archive, thread_summaries
 from topics import TOPIC_RULES, categorize
+from utils import md_escape, trim
 
 TOP_THREADS_PER_YEAR = 15
 
 
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`")
-
-
-def trim(text: str, n: int = 90) -> str:
-    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
-
-
 def thread_link(s):
-    return f"[{md_escape(trim(s['subject']))}](threads/{s['anchor']}.md)"
+    return f"[{md_escape(trim(s['subject'], 90))}](threads/{s['anchor']}.md)"
 
 
 def main() -> int:

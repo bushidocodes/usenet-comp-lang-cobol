@@ -25,41 +25,7 @@ from archive import (
     thread_summaries,
 )
 from topics import categorize
-
-
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`")
-
-
-def trim_subject(subject: str, max_len: int = 90) -> str:
-    if len(subject) <= max_len:
-        return subject
-    return subject[: max_len - 1].rstrip() + "…"
-
-
-def dfs_order(root, children, in_thread):
-    """Depth-first traversal of a thread tree, returning IDs in display order.
-
-    Falls back to date order for messages whose parent chain doesn't reach
-    the root (orphaned replies, broken References headers).
-    """
-    order: list[str] = []
-    visited: set = set()
-    stack = [root]
-    while stack:
-        node = stack.pop()
-        if node in visited:
-            continue
-        visited.add(node)
-        if node in in_thread:
-            order.append(node)
-        for child in reversed(children.get(node, ())):
-            if child not in visited:
-                stack.append(child)
-    for mid in in_thread:
-        if mid not in visited:
-            order.append(mid)
-    return order
+from utils import dfs_order, md_escape, span_label, trim
 
 
 def render_message(f, entry, depth_val):
@@ -85,13 +51,6 @@ def render_message(f, entry, depth_val):
     f.write(clean_body(entry["body"]))
     f.write("\n```\n\n")
 
-
-def span_label(months: list[str]) -> str:
-    if not months:
-        return "undated"
-    if months[0] == months[-1]:
-        return months[0]
-    return f"{months[0]} → {months[-1]}"
 
 
 def write_thread(summary, msgs, children, depth):

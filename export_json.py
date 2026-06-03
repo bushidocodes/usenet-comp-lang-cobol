@@ -27,6 +27,7 @@ sys.path.insert(0, str(PROJECT_DIR))
 import archive as _archive_mod
 from archive import clean_body, date_key, parse_archive, thread_anchor, thread_summaries
 from topics import TOPIC_RULES, categorize
+from utils import dfs_order
 
 OUT = PROJECT_DIR / "web" / "data"
 
@@ -85,25 +86,6 @@ def card(s: dict, msgs: dict) -> dict:
         "em": email,
     }
 
-
-def dfs_order(root_id: str, in_thread: set, children: dict) -> list[str]:
-    order: list[str] = []
-    visited: set = set()
-    stack = [root_id]
-    while stack:
-        node = stack.pop()
-        if node in visited:
-            continue
-        visited.add(node)
-        if node in in_thread:
-            order.append(node)
-        for child in reversed(children.get(node, ())):
-            if child not in visited:
-                stack.append(child)
-    for mid in in_thread:
-        if mid not in visited:
-            order.append(mid)
-    return order
 
 
 # ---------------------------------------------------------------------------
@@ -281,7 +263,7 @@ def main():
         in_thread = set(s["msg_ids"])
         root = s["root"]
         if root in msgs:
-            order = dfs_order(root, in_thread, children)
+            order = dfs_order(root, children, in_thread)
         else:
             order = sorted(in_thread, key=lambda x: date_key(msgs[x]["dt"]))
 

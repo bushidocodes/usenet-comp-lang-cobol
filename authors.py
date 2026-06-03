@@ -13,17 +13,10 @@ import re
 from collections import Counter, defaultdict
 
 from archive import OUT, date_key, filter_msgs, parse_archive, thread_summaries
+from utils import md_escape, trim
 
 TOP_AUTHORS = 100
 TOP_THREADS_PER_AUTHOR = 10
-
-
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`").replace("|", "\\|")
-
-
-def trim(text: str, n: int = 80) -> str:
-    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
 
 
 def best_display_name(name_counts: Counter) -> str:
