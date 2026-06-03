@@ -11,6 +11,7 @@ from collections import Counter, defaultdict
 from urllib.parse import urlparse
 
 from archive import OUT, filter_msgs, parse_archive, thread_anchor, thread_summaries
+from utils import md_escape, trim
 
 URL_RE = re.compile(
     r"""(?xi)
@@ -26,13 +27,6 @@ TOP_DOMAINS_SHOWN = 75
 TOP_URLS_SHOWN = 1000
 MIN_DOMAIN_MENTIONS = 3
 
-
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`").replace("|", "\\|")
-
-
-def trim(text: str, n: int = 80) -> str:
-    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
 
 
 def normalize_url(raw: str) -> str:

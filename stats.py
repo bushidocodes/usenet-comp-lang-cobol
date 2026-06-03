@@ -10,6 +10,7 @@ from collections import Counter, defaultdict
 from datetime import datetime
 
 from archive import OUT, date_key, filter_msgs, parse_archive, thread_anchor, thread_summaries
+from utils import md_escape, trim
 
 # Terms whose first appearance in the archive is interesting to surface.
 # Order roughly chronological by expected first-mention to make the table read well.
@@ -44,14 +45,6 @@ def bar(value: int, max_value: int, width: int = BAR_WIDTH) -> str:
     full = int(units)
     frac_idx = int((units - full) * (len(BLOCKS) - 1))
     return "█" * full + (BLOCKS[frac_idx] if frac_idx > 0 else "")
-
-
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`").replace("|", "\\|")
-
-
-def trim(text: str, n: int = 80) -> str:
-    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
 
 
 def best_display_name(name_counts: Counter) -> str:

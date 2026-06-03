@@ -9,6 +9,7 @@ import re
 from collections import defaultdict
 
 from archive import OUT, date_key, parse_archive, thread_summaries
+from utils import span_label, trim
 
 MAX_THREADS_PER_TOPIC = 60
 MIN_MESSAGES_FOR_UNCATEGORIZED = 4
@@ -362,20 +363,8 @@ def categorize(subject: str):
     return matches
 
 
-def trim_label(s: str, n: int = 100) -> str:
-    return s if len(s) <= n else s[: n - 1].rstrip() + "…"
-
-
 def thread_link(summary):
-    return f"[{trim_label(summary['subject'])}](threads/{summary['anchor']}.md)"
-
-
-def span_label(s):
-    if not s["months"]:
-        return "undated"
-    if s["months"][0] == s["months"][-1]:
-        return s["months"][0]
-    return f"{s['months'][0]} → {s['months'][-1]}"
+    return f"[{trim(summary['subject'], 100)}](threads/{summary['anchor']}.md)"
 
 
 def write_topics(summaries, path):
@@ -418,7 +407,7 @@ def write_topics(summaries, path):
         f.write("## Top threads overall (by message count)\n\n")
         top_overall = sorted(summaries, key=lambda s: -s["count"])[:30]
         for s in top_overall:
-            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s)}\n")
+            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
         f.write("\n")
 
         for name, slug in topic_order:
@@ -433,7 +422,7 @@ def write_topics(summaries, path):
             )
             shown = threads_in_topic[:MAX_THREADS_PER_TOPIC]
             for s in shown:
-                f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s)}\n")
+                f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
             if len(threads_in_topic) > MAX_THREADS_PER_TOPIC:
                 hidden = len(threads_in_topic) - MAX_THREADS_PER_TOPIC
                 f.write(
@@ -449,7 +438,7 @@ def write_topics(summaries, path):
             f"(threads with ≥ {MIN_MESSAGES_FOR_UNCATEGORIZED} messages)._\n\n"
         )
         for s in big_uncat[:MAX_THREADS_PER_TOPIC]:
-            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s)}\n")
+            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
 
 
 def main() -> int:

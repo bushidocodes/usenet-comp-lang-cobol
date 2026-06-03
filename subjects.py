@@ -9,14 +9,7 @@ import string
 from collections import defaultdict
 
 from archive import OUT, parse_archive, thread_summaries
-
-
-def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`").replace("|", "\\|")
-
-
-def trim(text: str, n: int = 110) -> str:
-    return text if len(text) <= n else text[: n - 1].rstrip() + "…"
+from utils import md_escape, trim
 
 
 def bucket_key(subject: str) -> str:
@@ -67,7 +60,7 @@ def main() -> int:
             f.write(f"_{len(entries):,} threads._\n\n")
             f.write("| Subject | Msgs | Span |\n|---|---:|---|\n")
             for s in entries:
-                label = trim(s["subject"])
+                label = trim(s["subject"], 110)
                 link = f"[{md_escape(label)}](threads/{s['anchor']}.md)"
                 if s["months"] and s["months"][0] != s["months"][-1]:
                     span = f"{s['months'][0]} → {s['months'][-1]}"
