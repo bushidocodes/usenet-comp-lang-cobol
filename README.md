@@ -46,7 +46,10 @@ also call `archive.filter_msgs()` on the same set.
 
 ```bash
 # Install dependencies (one-time setup).
+# For the pipeline generators only:
 pip install -r requirements.txt
+# Also needed if you want to run scrape_gap.py (requires a browser):
+pip install -r requirements-dev.txt && playwright install chromium
 
 # One-time setup — unzip the source archives (ships as .zip due to GitHub's
 # 100 MB file limit).
@@ -90,7 +93,10 @@ valid — just re-run the generators.
 | `stats.py` | Aggregate statistics → `markdown/stats.md` |
 | `links.py` | External URLs cited → `markdown/links.md` |
 | `markdown/README.md` | Archive viewer's landing page — **hand-maintained**, not generated |
+| `scrape_gap.py` | One-off Playwright scraper that produced `comp.lang.cobol.gap.mbox` — not part of the pipeline |
 | `convert.py` | Legacy monthly-format converter — not part of the per-thread pipeline |
+| `requirements.txt` | Runtime deps (`python-dateutil`) — used by CI and the pipeline |
+| `requirements-dev.txt` | Dev deps (`playwright`) — only needed to re-run the gap scraper |
 | `.archive_cache.pickle` | Pickled parsed state (~320 MB, gitignored) |
 
 ## Adding new spam patterns
