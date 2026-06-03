@@ -269,9 +269,9 @@ def synth_author_email(author_id: str) -> str:
     return f"ua-author-{author_id}@usenetarchives.gap"
 
 
-def build_references(posts: list[Post], target_idx: int) -> list[str]:
+def build_references(posts: list[Post], target_idx: int) -> list[int]:
     """Walk back through posts to construct References (root → ... → parent)."""
-    refs: list[str] = []
+    refs: list[int] = []
     target_depth = posts[target_idx].depth
     if target_depth == 0:
         return refs
