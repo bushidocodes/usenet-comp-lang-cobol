@@ -21,27 +21,10 @@ import time
 from collections import defaultdict
 from pathlib import Path
 
-_parser = argparse.ArgumentParser(description="Export archive to JSON for the web frontend.")
-_parser.add_argument(
-    "--data-dir",
-    metavar="DIR",
-    default=None,
-    help="Directory containing comp.lang.cobol.mbox and the pickle cache "
-         "(defaults to the same directory as this script).",
-)
-_args = _parser.parse_args()
-
 PROJECT_DIR = Path(__file__).resolve().parent
-DATA_DIR = Path(_args.data_dir).resolve() if _args.data_dir else PROJECT_DIR
 sys.path.insert(0, str(PROJECT_DIR))
 
-# Monkey-patch archive module paths before importing it so it finds
-# the mbox and cache in DATA_DIR even when running from a git worktree.
 import archive as _archive_mod
-_archive_mod.SRC = DATA_DIR / "comp.lang.cobol.mbox"
-_archive_mod.EXTRA_SRCS = [DATA_DIR / "comp.lang.cobol.gap.mbox"]
-_archive_mod.CACHE = DATA_DIR / ".archive_cache.pickle"
-
 from archive import clean_body, date_key, parse_archive, thread_anchor, thread_summaries
 from topics import TOPIC_RULES, categorize
 
@@ -128,6 +111,24 @@ def dfs_order(root_id: str, in_thread: set, children: dict) -> list[str]:
 # ---------------------------------------------------------------------------
 
 def main():
+    parser = argparse.ArgumentParser(description="Export archive to JSON for the web frontend.")
+    parser.add_argument(
+        "--data-dir",
+        metavar="DIR",
+        default=None,
+        help="Directory containing comp.lang.cobol.mbox and the pickle cache "
+             "(defaults to the same directory as this script).",
+    )
+    args = parser.parse_args()
+
+    data_dir = Path(args.data_dir).resolve() if args.data_dir else PROJECT_DIR
+
+    # Monkey-patch archive module paths before calling parse_archive() so it
+    # finds the mbox and cache in data_dir when running from a git worktree.
+    _archive_mod.SRC = data_dir / "comp.lang.cobol.mbox"
+    _archive_mod.EXTRA_SRCS = [data_dir / "comp.lang.cobol.gap.mbox"]
+    _archive_mod.CACHE = data_dir / ".archive_cache.pickle"
+
     print("Loading archive...")
     msgs, children, root_cache, depth = parse_archive()
     print(f"  {len(msgs):,} messages loaded")
