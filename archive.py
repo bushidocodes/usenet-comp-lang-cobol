@@ -285,8 +285,7 @@ def _parse_full():
                     print(f"  ...{parsed} parsed")
             except Exception as exc:
                 errors += 1
-                if errors <= 5:
-                    print(f"  [warn] message {idx}: {exc}", file=sys.stderr)
+                print(f"  [warn] message {idx}: {exc}", file=sys.stderr)
             idx += 1
     print(f"Parsed {parsed} messages, {errors} errors")
     return msgs
