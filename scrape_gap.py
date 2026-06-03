@@ -545,9 +545,9 @@ def main() -> int:
                             if consecutive_ok_since_backoff >= 5:
                                 old = current_delay
                                 current_delay = max(base_delay, current_delay / 2)
-                                consecutive_ok_since_backoff = 0
                                 print(f"  [backoff] {consecutive_ok_since_backoff}+ recoveries, "
                                       f"reducing delay {old:.1f}s -> {current_delay:.1f}s", flush=True)
+                                consecutive_ok_since_backoff = 0
                     else:
                         consecutive_failures += 1
                         consecutive_ok_since_backoff = 0
