@@ -10,7 +10,7 @@ import re
 from collections import Counter, defaultdict
 from urllib.parse import urlparse
 
-from archive import OUT, parse_archive, thread_anchor, thread_summaries
+from archive import OUT, filter_msgs, parse_archive, thread_anchor, thread_summaries
 
 URL_RE = re.compile(
     r"""(?xi)
@@ -57,7 +57,7 @@ def get_domain(url: str) -> str:
 def main() -> int:
     msgs, _, root_cache, _ = parse_archive()
     summaries = thread_summaries(msgs, root_cache)
-    summary_by_root = {s["root"]: s for s in summaries}
+    msgs = filter_msgs(msgs, summaries)
 
     print("Scanning bodies for URLs...")
     domain_count: Counter = Counter()
@@ -68,10 +68,6 @@ def main() -> int:
 
     scanned = 0
     for mid, entry in msgs.items():
-        # Skip messages whose thread was filtered out as spam (otherwise
-        # we'd count their URLs and link to deleted thread files).
-        if root_cache[mid] not in summary_by_root:
-            continue
         scanned += 1
         if scanned % 20000 == 0:
             print(f"  ...{scanned} scanned")

@@ -388,7 +388,9 @@ def filter_msgs(msgs, summaries):
     returned.
     """
     kept = {mid for s in summaries for mid in s["msg_ids"]}
-    return {mid: msgs[mid] for mid in kept if mid in msgs}
+    # Iterate msgs.items() (not `kept`) to preserve the original mbox insertion
+    # order — callers that track first-seen state depend on stable ordering.
+    return {mid: entry for mid, entry in msgs.items() if mid in kept}
 
 
 def thread_summaries(msgs, root_cache, include_spam: bool = False):
