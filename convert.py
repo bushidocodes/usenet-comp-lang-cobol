@@ -169,15 +169,6 @@ def main() -> int:
             f.write(header)
             f.write("\n".join(buckets[ym]))
 
-    index = OUT / "README.md"
-    with index.open("w", encoding="utf-8") as f:
-        f.write("# comp.lang.cobol Usenet Archive\n\n")
-        f.write(f"Converted from mbox to Markdown. **{total} messages** across "
-                f"**{len(buckets)} monthly files**.\n\n")
-        f.write("## Months\n\n")
-        for ym in sorted(buckets):
-            f.write(f"- [{ym}]({ym}.md) — {counts[ym]} messages\n")
-
     print(f"\nDone. {total} messages, {errors} errors. Output: {OUT}")
     return 0
 
