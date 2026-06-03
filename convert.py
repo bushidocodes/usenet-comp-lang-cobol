@@ -16,8 +16,9 @@ from pathlib import Path
 
 from dateutil import parser as dateutil_parser
 
-SRC = Path(r"C:\Users\sean\projects\usenet-cobol\comp.lang.cobol.mbox")
-OUT = Path(r"C:\Users\sean\projects\usenet-cobol\markdown")
+PROJECT_DIR = Path(__file__).resolve().parent
+SRC = PROJECT_DIR / "comp.lang.cobol.mbox"
+OUT = PROJECT_DIR / "markdown"
 OUT.mkdir(exist_ok=True)
 
 # Real envelope-From lines in this archive all look like: `From <signed-int>`.
