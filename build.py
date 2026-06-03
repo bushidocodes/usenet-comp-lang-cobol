@@ -47,7 +47,13 @@ def _stale(output: Path, sources: list[Path]) -> bool:
     if not output.exists():
         return True
     t = output.stat().st_mtime
-    return any(s.stat().st_mtime > t for s in sources if s.exists())
+    for s in sources:
+        if not s.exists():
+            print(f"  [warn] declared source not found: {s}", file=sys.stderr)
+            continue
+        if s.stat().st_mtime > t:
+            return True
+    return False
 
 
 def _run(script: str, dry_run: bool) -> int:
