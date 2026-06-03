@@ -47,7 +47,7 @@ def bar(value: int, max_value: int, width: int = BAR_WIDTH) -> str:
 
 
 def md_escape(text: str) -> str:
-    return text.replace("\\", "\\\\").replace("`", "\\`")
+    return text.replace("\\", "\\\\").replace("`", "\\`").replace("|", "\\|")
 
 
 def trim(text: str, n: int = 80) -> str:
