@@ -169,14 +169,6 @@ def main() -> int:
             f.write(header)
             f.write("\n".join(buckets[ym]))
 
-    # Do NOT write markdown/README.md — it is hand-maintained and must not be
-    # overwritten by this legacy script.  See README.md and CLAUDE.md.
-    print(
-        "WARNING: skipping markdown/README.md — that file is hand-maintained "
-        "and must not be overwritten by this legacy script.",
-        file=sys.stderr,
-    )
-
     print(f"\nDone. {total} messages, {errors} errors. Output: {OUT}")
     return 0
 
