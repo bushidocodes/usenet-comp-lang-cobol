@@ -107,11 +107,14 @@ def main() -> int:
 
     # Per-group, per-thread message counts (for "top threads")
     group_thread_msgs: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
+    group_email_msgs: dict[str, Counter] = defaultdict(Counter)
     for mid, entry in msgs.items():
         email = entry["email"]
         if not email:
             continue
-        group_thread_msgs[email_to_group[email]][root_cache[mid]] += 1
+        gk = email_to_group[email]
+        group_thread_msgs[gk][root_cache[mid]] += 1
+        group_email_msgs[gk][email] += 1
 
     # Rank groups by message count
     ranked = sorted(group_msgs.items(), key=lambda kv: -kv[1])
@@ -163,12 +166,9 @@ def main() -> int:
             f.write(f"## #{rank}. {md_escape(name)} <a id='{anchor}'></a>\n\n")
 
             # Aliases (sorted by message count under each email)
-            email_counts = Counter()
-            for mid, entry in msgs.items():
-                if email_to_group.get(entry["email"]) == gk:
-                    email_counts[entry["email"]] += 1
             alias_list = ", ".join(
-                f"`{md_escape(e)}` ({c:,})" for e, c in email_counts.most_common()
+                f"`{md_escape(e)}` ({c:,})"
+                for e, c in group_email_msgs[gk].most_common()
             )
             f.write(f"{alias_list}\n\n")
 
