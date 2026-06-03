@@ -7,10 +7,10 @@ mbox into a browsable Markdown tree under [`markdown/`](markdown/).
 ## Source data
 
 `comp.lang.cobol.mbox` — 375 MB, every message from comp.lang.cobol from
-1994-11 to 2013-06 (with a 1995–mid-1998 gap inherited from the Giganews tape
+1994-11 to 2013-06 (with a 1994-12–mid-1998 gap inherited from the Giganews tape
 archive). From [archive.org/details/usenet-comp](https://archive.org/details/usenet-comp).
 
-`comp.lang.cobol.gap.mbox` — scraped fill-in for the 1995–1998 gap period.
+`comp.lang.cobol.gap.mbox` — scraped fill-in for the 1994-12–mid-1998 gap period.
 
 Both `.mbox` files exceed GitHub's 100 MB limit and are gitignored. The repo
 ships [`comp.lang.cobol.mbox.zip`](comp.lang.cobol.mbox.zip) and
@@ -70,6 +70,16 @@ python years.py
 python authors.py
 python stats.py
 python links.py
+
+# Or use the build orchestrator, which skips stale outputs and runs
+# index generators in parallel:
+python build.py              # rebuild only what's stale
+python build.py --force      # rebuild everything unconditionally
+python build.py --dry-run    # preview what would run
+
+# Export archive to static JSON for the web frontend (web/data/).
+# Run once after building the archive, or after any rebuild.
+python export_json.py
 ```
 
 After modifying `spam.py` (e.g. adding a new spam host), the cache stays
@@ -92,6 +102,8 @@ valid — just re-run the generators.
 | `authors.py` | Top-100 posters → `markdown/authors.md` |
 | `stats.py` | Aggregate statistics → `markdown/stats.md` |
 | `links.py` | External URLs cited → `markdown/links.md` |
+| `build.py` | Build orchestrator — runs generators in dependency order, skips stale outputs, parallelises index generators |
+| `export_json.py` | Exports archive to static JSON files under `web/data/` for the web frontend |
 | `markdown/README.md` | Archive viewer's landing page — **hand-maintained**, not generated |
 | `scrape_gap.py` | One-off Playwright scraper that produced `comp.lang.cobol.gap.mbox` — not part of the pipeline |
 | `convert.py` | Legacy monthly-format converter — not part of the per-thread pipeline |
