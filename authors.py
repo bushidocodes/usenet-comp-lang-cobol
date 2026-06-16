@@ -18,6 +18,52 @@ from utils import md_escape, trim
 TOP_AUTHORS = 100
 TOP_THREADS_PER_AUTHOR = 10
 
+# Synthetic email minted by scrape_gap.py for UA.com-scraped authors.
+UA_EMAIL_RE = re.compile(r"^ua-author-(\d+)@usenetarchives\.gap$")
+
+# Curated bridge: UA.com author ID -> canonical display name (issue #28).
+#
+# UA.com strips emails and often truncates display names ("rtw...", "docd...",
+# "dashwood"), so a long-running poster splits into a UA-gap entry and a
+# separate Giganews entry. merge_key() can't reunite them — the truncated name
+# normalizes to a different key than the real one. This map overrides the UA
+# author's canonical name so it merges into the right group.
+#
+# The value MUST be a name whose merge_key() equals the target Giganews group's
+# key (i.e. the name that group already canonicalizes to), or the merge won't
+# happen. Each entry below was confirmed against the generated authors.md:
+# matching email local-parts, overlapping active spans, and topic fingerprint.
+UA_AUTHOR_NAMES = {
+    # Pete Dashwood — dashwood@enternet.co.nz; the 2013-2022 COBOL-advocacy tail
+    # (#27 "dashwood") split across four UA IDs.
+    "14501808": "Pete Dashwood",
+    "2154790": "Pete Dashwood",
+    "6590328": "Pete Dashwood",
+    "14256666": "Pete Dashwood",
+    # docdwarf — docdwarf@erols.com; "docd..." (#55), 1996-1998, merges into #45.
+    "514273": "docdwarf",
+    # Bob Wolfe — rtwolfe@flexus.com; "rtw..." (#83), per issue #28, merges into #31.
+    "6550399": "Bob Wolfe",
+    # Randall Bart — "randallbart" (#80), 1997-1998, merges into #57 "Randall Bart".
+    "464041": "Randall Bart",
+    # William "Bill" Lynch — wblynch@att.net; "bill lynch" (#64), merges into #30.
+    "92065": "William Lynch",
+    # Richard Plinston — riplin@azonic.co.nz; "rip..." (#97), merges into #5 "Richard".
+    "6589535": "Richard",
+}
+
+
+def bridge_name(email: str, fallback: str) -> str:
+    """Map a synthetic UA.com author email to its curated canonical name.
+
+    Returns ``fallback`` unchanged for non-UA emails and for UA author IDs
+    that aren't in the bridge map. See ``UA_AUTHOR_NAMES`` and issue #28.
+    """
+    m = UA_EMAIL_RE.match(email)
+    if m:
+        return UA_AUTHOR_NAMES.get(m.group(1), fallback)
+    return fallback
+
 
 def best_display_name(name_counts: Counter) -> str:
     for name, _ in name_counts.most_common():
@@ -60,7 +106,7 @@ def main() -> int:
             continue
         email_names[email][entry["display_name"]] += 1
     email_to_canonical: dict[str, str] = {
-        e: best_display_name(c) for e, c in email_names.items()
+        e: bridge_name(e, best_display_name(c)) for e, c in email_names.items()
     }
 
     # Group emails by merge_key of canonical name. Emails with unmergeable

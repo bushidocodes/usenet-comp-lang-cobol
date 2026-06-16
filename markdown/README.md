@@ -62,7 +62,7 @@ UA.com publishes a curated, privacy-munged view of historical Usenet — not a r
 | Author email | preserved (`john@wexfordpress.com`) | stripped — replaced with synthetic `ua-author-{id}@usenetarchives.gap` |
 | Author display name | preserved | truncated email-local-part forms (`im...`, `rtw...`); multi-word real names kept verbatim (`david m. martin`) |
 
-UA's `X-UA-AuthorId` carries a stable numeric ID, so an author's posts merge correctly *within* the gap period. They will **not** bridge to the same person's Giganews-period entries — Pete Dashwood, for example, will show in [authors.md](authors.md) as `"Pete Dashwood"` (1998+ Giganews) **and** as `dashwood` (UA gap), as two separate authors.
+UA's `X-UA-AuthorId` carries a stable numeric ID, so an author's posts merge correctly *within* the gap period. Bridging those UA-gap entries to the same person's Giganews-period entry is harder, since the truncated names normalize differently. A curated map (`UA_AUTHOR_NAMES` in [authors.py](../authors.py)) reunites the highest-traffic posters: Pete Dashwood, Bob Wolfe, Richard Plinston, Randall Bart, and William "Bill" Lynch now appear as single entries spanning both eras. Authors whose Giganews identity is *itself* fragmented can't be fully reunited this way — DocDwarf, for instance, posted with an empty display name from `panix.com` and `clark.net` (so those entries are keyed by email, not name) and as "the goobers" from `erols.com`; the bridge only consolidates his UA-gap entries with each other. Lower-traffic UA authors not yet in the map may still show as two separate entries.
 
 **Message bodies — partial obfuscation.**
 
