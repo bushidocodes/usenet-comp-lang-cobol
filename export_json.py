@@ -18,7 +18,7 @@ import json
 import shutil
 import sys
 import time
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 PROJECT_DIR = Path(__file__).resolve().parent
@@ -26,8 +26,15 @@ sys.path.insert(0, str(PROJECT_DIR))
 
 import archive as _archive_mod
 from archive import clean_body, date_key, parse_archive, thread_anchor, thread_summaries
+from authors import best_display_name, bridge_name, merge_key
 from topics import TOPIC_RULES, categorize
 from utils import dfs_order
+
+# email -> group id, populated in main() before any card() is built so that
+# thread/message author links resolve to the merged-person author page rather
+# than to one of the person's many raw emails. Populated by the author-index
+# grouping in main(). See issue #28.
+_EMAIL_TO_GID: dict[str, str] = {}
 
 OUT = PROJECT_DIR / "web" / "data"
 
@@ -59,9 +66,13 @@ def span(s: dict) -> str:
     return months[0] if months[0] == months[-1] else f"{months[0]} → {months[-1]}"
 
 
-def author_id(email: str) -> str:
-    """Stable filesystem-safe ID for an author (MD5 of lowercased email)."""
-    return hashlib.md5(email.lower().encode()).hexdigest()
+def author_id(group_key: str) -> str:
+    """Stable filesystem-safe ID for an author *group* (MD5 of its merge key).
+
+    The group key is a person's canonical merge_key() (shared across all their
+    emails), or ``__email__<addr>`` for emails with no reliable display name.
+    """
+    return hashlib.md5(group_key.encode()).hexdigest()
 
 
 def card(s: dict, msgs: dict) -> dict:
@@ -83,7 +94,7 @@ def card(s: dict, msgs: dict) -> dict:
         "sp": span(s),
         "t": s["topics"],
         "by": sender,
-        "em": email,
+        "em": _EMAIL_TO_GID.get(email, ""),
     }
 
 
@@ -162,28 +173,59 @@ def main():
         for name, slug, _ in TOPIC_RULES
     ]
 
-    # Author index
+    # Author index — aggregated per *person*, not per raw email. The same
+    # display-name merge + UA.com bridge that authors.py uses (issue #28), so
+    # the website matches markdown/authors.md instead of splitting a poster
+    # across every address they ever used.
     print("Building author index...")
-    author_threads: dict[str, set] = defaultdict(set)
-    author_msg_count: dict[str, int] = defaultdict(int)
-    author_name: dict[str, str] = {}
     root_anchor_map = {s["root"]: s["anchor"] for s in summaries}
     anchor_set = {s["anchor"] for s in summaries}
 
+    # Per-email canonical display name (UA-bridged), then group emails by person.
+    email_names: dict[str, Counter] = defaultdict(Counter)
+    for entry in msgs.values():
+        email = entry.get("email", "")
+        if not email:
+            continue
+        email_names[email][entry.get("display_name", "")] += 1
+    email_to_canonical = {
+        e: bridge_name(e, best_display_name(c)) for e, c in email_names.items()
+    }
+    groups: dict[str, list[str]] = defaultdict(list)
+    for email, name in email_to_canonical.items():
+        groups[merge_key(name) or f"__email__{email}"].append(email)
+    email_to_group = {e: gk for gk, emails in groups.items() for e in emails}
+    # Publish the email -> group-id map that card() reads for author links.
+    _EMAIL_TO_GID.update({e: author_id(gk) for e, gk in email_to_group.items()})
+
+    author_threads: dict[str, set] = defaultdict(set)
+    author_msg_count: dict[str, int] = defaultdict(int)
+    group_name_counts: dict[str, Counter] = defaultdict(Counter)
+    group_email_counts: dict[str, Counter] = defaultdict(Counter)
     for mid, entry in msgs.items():
         email = entry.get("email", "")
         if not email:
             continue
+        gk = email_to_group[email]
         root = root_cache.get(mid)
         if root:
             anc = root_anchor_map.get(root)
             if anc and anc in anchor_set:
-                author_threads[email].add(anc)
-        author_msg_count[email] += 1
-        if email not in author_name and entry.get("display_name"):
-            author_name[email] = entry["display_name"]
+                author_threads[gk].add(anc)
+        author_msg_count[gk] += 1
+        group_name_counts[gk][entry.get("display_name", "")] += 1
+        group_email_counts[gk][email] += 1
 
-    top_authors = sorted(author_msg_count, key=lambda e: -author_msg_count[e])
+    # Display name and primary email (most-used) per group.
+    author_name = {
+        gk: best_display_name(c) or group_email_counts[gk].most_common(1)[0][0]
+        for gk, c in group_name_counts.items()
+    }
+    author_email = {
+        gk: group_email_counts[gk].most_common(1)[0][0] for gk in author_msg_count
+    }
+
+    top_authors = sorted(author_msg_count, key=lambda gk: -author_msg_count[gk])
     anchor_map = {s["anchor"]: s for s in summaries}
 
     # ---- index.json ----
@@ -224,28 +266,28 @@ def main():
     print("Writing authors.json...")
     dump(OUT / "authors.json", [
         {
-            "id": author_id(e),
-            "email": e,
-            "name": author_name.get(e, e),
-            "messages": author_msg_count[e],
-            "threads": len(author_threads[e]),
+            "id": author_id(gk),
+            "email": author_email[gk],
+            "name": author_name.get(gk, author_email[gk]),
+            "messages": author_msg_count[gk],
+            "threads": len(author_threads[gk]),
         }
-        for e in top_authors[:1000]
+        for gk in top_authors[:1000]
     ])
 
     # ---- per-author JSON (top 500) ----
     print("Writing per-author files (top 500)...")
-    for e in top_authors[:500]:
-        anchors = list(author_threads[e])
+    for gk in top_authors[:500]:
+        anchors = list(author_threads[gk])
         author_sums = sorted(
             [anchor_map[a] for a in anchors if a in anchor_map],
             key=lambda s: -s["count"],
         )
-        dump(OUT / "author" / f"{author_id(e)}.json", {
-            "id": author_id(e),
-            "email": e,
-            "name": author_name.get(e, e),
-            "messages": author_msg_count[e],
+        dump(OUT / "author" / f"{author_id(gk)}.json", {
+            "id": author_id(gk),
+            "email": author_email[gk],
+            "name": author_name.get(gk, author_email[gk]),
+            "messages": author_msg_count[gk],
             "thread_count": len(author_sums),
             "threads": [card(s, msgs) for s in author_sums[:100]],
         })
@@ -276,7 +318,7 @@ def main():
                 "id": mid,
                 "s": entry.get("subject", ""),
                 "by": entry.get("display_name") or entry.get("email", ""),
-                "em": entry.get("email", ""),
+                "em": _EMAIL_TO_GID.get(entry.get("email", ""), ""),
                 "d": entry.get("date_iso", ""),
                 "ym": entry.get("ym", ""),
                 "body": clean_body(entry.get("body", "")),
