@@ -62,7 +62,12 @@ UA.com publishes a curated, privacy-munged view of historical Usenet — not a r
 | Author email | preserved (`john@wexfordpress.com`) | stripped — replaced with synthetic `ua-author-{id}@usenetarchives.gap` |
 | Author display name | preserved | truncated email-local-part forms (`im...`, `rtw...`); multi-word real names kept verbatim (`david m. martin`) |
 
-UA's `X-UA-AuthorId` carries a stable numeric ID, so an author's posts merge correctly *within* the gap period. Bridging those UA-gap entries to the same person's Giganews-period entry is harder, since the truncated names normalize differently. A curated map (`UA_AUTHOR_NAMES` in [authors.py](../authors.py)) reunites the highest-traffic posters: Pete Dashwood, Bob Wolfe, Richard Plinston, Randall Bart, and William "Bill" Lynch now appear as single entries spanning both eras. Authors whose Giganews identity is *itself* fragmented can't be fully reunited this way — DocDwarf, for instance, posted with an empty display name from `panix.com` and `clark.net` (so those entries are keyed by email, not name) and as "the goobers" from `erols.com`; the bridge only consolidates his UA-gap entries with each other. Lower-traffic UA authors not yet in the map may still show as two separate entries.
+UA's `X-UA-AuthorId` carries a stable numeric ID, so an author's posts merge correctly *within* the gap period. Reuniting those UA-gap entries with the same person's Giganews-period entry is harder, since the truncated names normalize differently. Two mechanisms in [authors.py](../authors.py) handle this:
+
+- A curated map (`UA_AUTHOR_NAMES`) reunites high-traffic UA posters whose names UA truncated past recognition (Pete Dashwood, Bob Wolfe, Richard Plinston, Randall Bart, William "Bill" Lynch).
+- `group_authors()` then reconciles aliases by the *intersection* of a shared distinctive email local-part and a compatible name (handling nicknames like Bill↔William, initials, and "Last, First" inversions). Neither signal is trusted alone — a shared ISP domain or a common first-name local-part collides across unrelated people.
+
+This merges, e.g., `wmklein@netcom`/`wmklein@ix.netcom`/`Bill Klein` and the `docdwarf@panix.com`/`docdwarf@clark.net` pair. Authors whose identity has no usable signal can still split: DocDwarf's `panix`/`clark` accounts merge, but his `erols.com` "the goobers" alias (a different display name) and his synthetic UA-gap entries (synthetic emails carry no local-part signal) remain separate. Lower-traffic aliases with no shared local-part may also still show separately.
 
 **Message bodies — partial obfuscation.**
 
