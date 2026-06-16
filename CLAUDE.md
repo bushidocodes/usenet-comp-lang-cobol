@@ -23,6 +23,27 @@ Every generator (`thread.py`, `subjects.py`, `topics.py`, `years.py`,
 so they don't tally spam content — this is easy to miss when adding new
 generators.
 
+## Author identity grouping
+
+`authors.group_authors(msgs)` is the **single source of truth** for collapsing
+one person's many email addresses into one entry. Both `authors.py` (Markdown
+profiles) and `export_json.py` (website data) call it, so they can't drift.
+It returns `(groups, email_to_group, email_to_canonical)`. Two layers:
+
+1. **Primary** — group by `merge_key(canonical_display_name)`, with the
+   `UA_AUTHOR_NAMES` bridge applied first (issue #28). Names too short/empty
+   to key on fall back to a per-email group.
+2. **Reconciliation** (`_reconcile`, issue #8) — merge primary groups that
+   share a **distinctive email local-part** *and* a **compatible name**.
+   Both signals are required: `distinctive_localpart()` drops generic/role/
+   first-name/synthetic-UA local-parts, and `_names_compatible()` requires a
+   surname+first-name match (with a `NICKNAMES` map) for full names. Neither
+   shared-domain nor name-alone is ever trusted — both over-merge unrelated
+   people (there's more than one "John Smith").
+
+When tuning the merge, regenerate `authors.md` and eyeball the diff on the
+top ~200 groups; false merges show up as one group with two surnames.
+
 ## Spam filter
 
 `spam.py` classifies messages by **URL host** in the non-quoted portion of

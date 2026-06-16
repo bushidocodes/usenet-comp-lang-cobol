@@ -26,7 +26,7 @@ sys.path.insert(0, str(PROJECT_DIR))
 
 import archive as _archive_mod
 from archive import clean_body, date_key, parse_archive, thread_anchor, thread_summaries
-from authors import best_display_name, bridge_name, merge_key
+from authors import best_display_name, group_authors
 from topics import TOPIC_RULES, categorize
 from utils import dfs_order
 
@@ -173,28 +173,16 @@ def main():
         for name, slug, _ in TOPIC_RULES
     ]
 
-    # Author index — aggregated per *person*, not per raw email. The same
-    # display-name merge + UA.com bridge that authors.py uses (issue #28), so
-    # the website matches markdown/authors.md instead of splitting a poster
-    # across every address they ever used.
+    # Author index — aggregated per *person*, not per raw email, via the same
+    # grouping authors.py uses (issues #8/#28), so the website matches
+    # markdown/authors.md instead of splitting a poster across every address.
     print("Building author index...")
     root_anchor_map = {s["root"]: s["anchor"] for s in summaries}
     anchor_set = {s["anchor"] for s in summaries}
 
-    # Per-email canonical display name (UA-bridged), then group emails by person.
-    email_names: dict[str, Counter] = defaultdict(Counter)
-    for entry in msgs.values():
-        email = entry.get("email", "")
-        if not email:
-            continue
-        email_names[email][entry.get("display_name", "")] += 1
-    email_to_canonical = {
-        e: bridge_name(e, best_display_name(c)) for e, c in email_names.items()
-    }
-    groups: dict[str, list[str]] = defaultdict(list)
-    for email, name in email_to_canonical.items():
-        groups[merge_key(name) or f"__email__{email}"].append(email)
-    email_to_group = {e: gk for gk, emails in groups.items() for e in emails}
+    # Group each person's emails into one entry (display-name merge + UA bridge
+    # + email local-part reconciliation; issues #8/#28). Shared with authors.py.
+    _groups, email_to_group, _ = group_authors(msgs)
     # Publish the email -> group-id map that card() reads for author links.
     _EMAIL_TO_GID.update({e: author_id(gk) for e, gk in email_to_group.items()})
 

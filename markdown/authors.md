@@ -8,12 +8,12 @@ The 100 most prolific posters by message count. Aggregated by display name acros
 
 | # | Author | Msgs | Threads | Started | Aliases | Active |
 |---:|---|---:|---:|---:|---:|---|
-| 1 | [Pete Dashwood](#a-3a84a9b122) | 8,611 | 1,645 | 342 | 8 | 1999-12 → 2022-04 |
-| 2 | [Howard Brazee](#a-9c0ef2c3c6) | 8,581 | 2,100 | 179 | 5 | 1998-10 → 2012-08 |
-| 3 | [docdwarf@panix.com ()](#a-2cab5f453e) | 7,570 | 1,440 | 119 | 1 | 2001-12 → 2013-06 |
-| 4 | [William M. Klein](#a-a506eb3f7e) | 7,126 | 3,965 | 1,216 | 5 | 1997-12 → 2010-11 |
-| 5 | [Richard](#a-6ae199a93c) | 6,131 | 1,807 | 40 | 5 | 1995-03 → 2013-05 |
-| 6 | [James J. Gavan](#a-d0cc1b2e9e) | 4,177 | 1,602 | 160 | 5 | 1999-06 → 2010-05 |
+| 1 | [Pete Dashwood](#a-3a84a9b122) | 9,731 | 2,013 | 374 | 13 | 1999-08 → 2022-04 |
+| 2 | [docdwarf@panix.com ()](#a-2cab5f453e) | 9,346 | 2,267 | 199 | 2 | 1998-06 → 2013-06 |
+| 3 | [Howard Brazee](#a-9c0ef2c3c6) | 8,581 | 2,100 | 179 | 5 | 1998-10 → 2012-08 |
+| 4 | [William M. Klein](#a-a506eb3f7e) | 7,259 | 4,022 | 1,236 | 6 | 1997-12 → 2012-09 |
+| 5 | [Richard](#a-6ae199a93c) | 6,557 | 2,067 | 60 | 8 | 1994-12 → 2013-05 |
+| 6 | [James J. Gavan](#a-d0cc1b2e9e) | 4,224 | 1,623 | 165 | 6 | 1999-06 → 2012-03 |
 | 7 | [Robert Wagner](#a-d451a3c201) | 3,755 | 496 | 54 | 7 | 2003-02 → 2010-09 |
 | 8 | [Donald Tees](#a-a368509bcd) | 3,465 | 1,519 | 163 | 11 | 1998-04 → 2008-09 |
 | 9 | [Thane Hubbell](#a-eb2a3b36c5) | 3,401 | 2,078 | 152 | 4 | 1996-10 → 2008-05 |
@@ -22,100 +22,100 @@ The 100 most prolific posters by message count. Aggregated by display name acros
 | 12 | [Michael Mattias](#a-7f49b1d715) | 2,191 | 1,369 | 76 | 2 | 1999-02 → 2009-06 |
 | 13 | [Rick Smith](#a-f4ff78ea7d) | 1,882 | 590 | 55 | 4 | 1997-06 → 2013-05 |
 | 14 | [LX-i](#a-a669087a91) | 1,849 | 502 | 66 | 1 | 2003-06 → 2008-02 |
-| 15 | [docdwarf@clark.net ()](#a-e4952c5479) | 1,776 | 827 | 80 | 1 | 1998-06 → 2001-12 |
-| 16 | [Chuck Stevens](#a-51c1713216) | 1,770 | 418 | 48 | 1 | 1998-09 → 2006-06 |
-| 17 | [SkippyPB](#a-276f59012c) | 1,696 | 912 | 52 | 7 | 1998-06 → 2013-05 |
-| 18 | [HeyBub](#a-8f5b17c45b) | 1,478 | 547 | 54 | 3 | 2005-03 → 2013-05 |
-| 19 | [Robert](#a-684c851af5) | 1,411 | 262 | 38 | 12 | 1998-06 → 2013-05 |
-| 20 | [JerryMouse](#a-8d01f04fcf) | 1,293 | 662 | 52 | 4 | 2002-01 → 2007-12 |
-| 21 | [Charles Hottel](#a-e0f1a43e71) | 1,100 | 418 | 77 | 3 | 2001-08 → 2013-05 |
-| 22 | [Joe Zitzelberger](#a-4bf47897ae) | 1,088 | 406 | 20 | 8 | 1998-03 → 2008-07 |
-| 23 | [William Lynch](#a-72d59929d3) | 1,044 | 532 | 31 | 4 | 1997-07 → 2000-09 |
-| 24 | [Peter E. C. Dashwood](#a-1e00ada3a1) | 1,043 | 353 | 30 | 4 | 2001-03 → 2004-10 |
-| 25 | [Bob Wolfe](#a-a4e9d485b3) | 951 | 632 | 28 | 5 | 1995-08 → 2011-02 |
-| 26 | [Frank Swarbrick](#a-a2998f5f85) | 939 | 397 | 123 | 5 | 1997-10 → 2013-04 |
-| 27 | [Leif Svalgaard](#a-c2a5103bed) | 886 | 470 | 31 | 4 | 1997-09 → 2001-01 |
-| 28 | [Ken Foskey](#a-363df6b1e6) | 878 | 560 | 56 | 2 | 1997-07 → 2000-11 |
-| 29 | [docdwarf](#a-b3f44a4934) | 843 | 411 | 18 | 2 | 1996-05 → 2022-04 |
-| 30 | [Jerry P](#a-23bdb093fe) | 810 | 508 | 61 | 2 | 1998-12 → 2001-09 |
-| 31 | [Alistair Maclean](#a-56dcb54ee3) | 803 | 303 | 26 | 3 | 1998-10 → 2013-06 |
-| 32 | [Michael Wojcik](#a-1ff1dafca6) | 742 | 246 | 2 | 1 | 2003-03 → 2013-02 |
-| 33 | [Arnold Trembley](#a-59c27396af) | 734 | 534 | 21 | 3 | 1996-11 → 2013-05 |
-| 34 | [the goobers](#a-d764527664) | 669 | 413 | 24 | 3 | 1997-09 → 2000-01 |
-| 35 | [Frederico Fonseca](#a-863a2732f2) | 636 | 424 | 22 | 5 | 1997-01 → 2009-06 |
-| 36 | [Randall Bart](#a-3157c94773) | 557 | 346 | 44 | 3 | 1997-10 → 2001-03 |
-| 37 | [jce](#a-9257261d73) | 556 | 162 | 8 | 1 | 2003-07 → 2006-01 |
-| 38 | [Lueko Willms](#a-b8bac3d661) | 556 | 159 | 17 | 1 | 2001-12 → 2005-11 |
-| 39 | [Binyamin Dissen](#a-6ff3c2e05e) | 552 | 409 | 15 | 3 | 1998-07 → 2012-08 |
-| 40 | [Liam Devlin](#a-9e7945e30f) | 541 | 198 | 14 | 8 | 2000-09 → 2003-10 |
+| 15 | [Chuck Stevens](#a-51c1713216) | 1,770 | 418 | 48 | 1 | 1998-09 → 2006-06 |
+| 16 | [SkippyPB](#a-276f59012c) | 1,696 | 912 | 52 | 7 | 1998-06 → 2013-05 |
+| 17 | [HeyBub](#a-8f5b17c45b) | 1,478 | 547 | 54 | 3 | 2005-03 → 2013-05 |
+| 18 | [Robert](#a-684c851af5) | 1,411 | 262 | 38 | 12 | 1998-06 → 2013-05 |
+| 19 | [JerryMouse](#a-8d01f04fcf) | 1,293 | 662 | 52 | 4 | 2002-01 → 2007-12 |
+| 20 | [Charles Hottel](#a-e0f1a43e71) | 1,100 | 418 | 77 | 3 | 2001-08 → 2013-05 |
+| 21 | [Joe Zitzelberger](#a-4bf47897ae) | 1,088 | 406 | 20 | 8 | 1998-03 → 2008-07 |
+| 22 | [William Lynch](#a-72d59929d3) | 1,044 | 532 | 31 | 4 | 1997-07 → 2000-09 |
+| 23 | [Bob Wolfe](#a-a4e9d485b3) | 951 | 632 | 28 | 5 | 1995-08 → 2011-02 |
+| 24 | [Frank Swarbrick](#a-a2998f5f85) | 939 | 397 | 123 | 5 | 1997-10 → 2013-04 |
+| 25 | [Leif Svalgaard](#a-c2a5103bed) | 886 | 470 | 31 | 4 | 1997-09 → 2001-01 |
+| 26 | [Ken Foskey](#a-363df6b1e6) | 878 | 560 | 56 | 2 | 1997-07 → 2000-11 |
+| 27 | [docdwarf](#a-b3f44a4934) | 843 | 411 | 18 | 2 | 1996-05 → 2022-04 |
+| 28 | [Jerry P](#a-23bdb093fe) | 810 | 508 | 61 | 2 | 1998-12 → 2001-09 |
+| 29 | [Alistair Maclean](#a-56dcb54ee3) | 803 | 303 | 26 | 3 | 1998-10 → 2013-06 |
+| 30 | [Michael Wojcik](#a-1ff1dafca6) | 742 | 246 | 2 | 1 | 2003-03 → 2013-02 |
+| 31 | [Arnold Trembley](#a-59c27396af) | 734 | 534 | 21 | 3 | 1996-11 → 2013-05 |
+| 32 | [the goobers](#a-d764527664) | 669 | 413 | 24 | 3 | 1997-09 → 2000-01 |
+| 33 | [Frederico Fonseca](#a-863a2732f2) | 636 | 424 | 22 | 5 | 1997-01 → 2009-06 |
+| 34 | [Lueko Willms](#a-b8bac3d661) | 568 | 168 | 18 | 2 | 2001-12 → 2011-09 |
+| 35 | [Randall Bart](#a-3157c94773) | 557 | 346 | 44 | 3 | 1997-10 → 2001-03 |
+| 36 | [jce](#a-9257261d73) | 556 | 162 | 8 | 1 | 2003-07 → 2006-01 |
+| 37 | [Binyamin Dissen](#a-6ff3c2e05e) | 552 | 409 | 15 | 3 | 1998-07 → 2012-08 |
+| 38 | [Liam Devlin](#a-9e7945e30f) | 541 | 198 | 14 | 8 | 2000-09 → 2003-10 |
+| 39 | [Russell Styles](#a-b8dce817dd) | 528 | 389 | 23 | 9 | 1996-01 → 2006-01 |
+| 40 | [Warren Simmons](#a-a0ee197007) | 526 | 299 | 34 | 8 | 1997-02 → 2005-06 |
 | 41 | [Doug Miller](#a-919f8d3b35) | 506 | 201 | 7 | 8 | 1997-05 → 2013-06 |
-| 42 | [Russell Styles](#a-b8dce817dd) | 502 | 369 | 22 | 7 | 1999-05 → 2004-10 |
-| 43 | [Volker Bandke](#a-1c8994bc67) | 500 | 314 | 17 | 3 | 1997-11 → 2005-10 |
-| 44 | [Cheesle](#a-94d017761a) | 499 | 237 | 13 | 3 | 1999-04 → 2004-12 |
-| 45 | [tlmfru](#a-b00c185bb3) | 491 | 156 | 20 | 1 | 2005-08 → 2009-11 |
-| 46 | [Oliver Wong](#a-a01b445052) | 479 | 93 | 11 | 1 | 2005-07 → 2007-04 |
-| 47 | [Warren Simmons](#a-a0ee197007) | 466 | 251 | 31 | 4 | 1999-01 → 2005-06 |
-| 48 | [G Moore](#a-e6c24529d8) | 443 | 193 | 34 | 3 | 1998-01 → 2001-07 |
-| 49 | [Richard Plinston](#a-cf254091b2) | 426 | 269 | 20 | 3 | 1994-12 → 2001-01 |
-| 50 | [Clark F Morris](#a-ab691ce192) | 423 | 213 | 17 | 1 | 2006-07 → 2013-05 |
-| 51 | [Bill Gunshannon](#a-50cbdb85b0) | 414 | 135 | 4 | 8 | 1994-12 → 2013-05 |
-| 52 | [Sff5ky](#a-9b646e23df) | 412 | 304 | 17 | 2 | 1998-07 → 2004-02 |
-| 53 | [Grinder](#a-0935c5b46d) | 394 | 155 | 12 | 2 | 2000-08 → 2004-01 |
-| 54 | [Foodman](#a-375ea627ce) | 374 | 165 | 46 | 2 | 1999-11 → 2010-11 |
-| 55 | [Paul Raulerson](#a-2dabdac71a) | 346 | 171 | 18 | 14 | 1998-08 → 2008-09 |
-| 56 | [Robert Jones](#a-a0651a617e) | 338 | 270 | 17 | 2 | 2001-05 → 2010-02 |
-| 57 | [YukonMama](#a-b2278e7d1d) | 330 | 204 | 25 | 1 | 1999-08 → 2005-03 |
-| 58 | [Harley](#a-ef4cdd3117) | 329 | 91 | 8 | 2 | 2003-06 → 2004-05 |
-| 59 | [S Comstock](#a-2d8226bd44) | 322 | 253 | 52 | 1 | 1998-07 → 2005-02 |
-| 60 | [Clark F. Morris, Jr.](#a-ac3fc821c2) | 309 | 206 | 18 | 1 | 2000-01 → 2006-10 |
-| 61 | [Charles F Hankel](#a-160537f748) | 301 | 156 | 26 | 5 | 1997-05 → 2000-05 |
-| 62 | [Hugh Candlin](#a-1e12889d7d) | 289 | 175 | 11 | 5 | 1998-09 → 2006-04 |
-| 63 | [Jeff Farkas](#a-866f3fa52d) | 277 | 171 | 23 | 12 | 1998-06 → 2001-11 |
-| 64 | [ChrisOsborne](#a-d4a2a7b35b) | 274 | 174 | 12 | 5 | 1998-09 → 2000-05 |
-| 65 | [Tom Morrison](#a-c9053abb6a) | 273 | 210 | 3 | 2 | 1995-09 → 2008-05 |
-| 66 | [Dennis J. Minette](#a-1c02b44e4a) | 268 | 121 | 8 | 3 | 1998-05 → 2000-04 |
-| 67 | [Ib Tanding](#a-96e95822e4) | 261 | 159 | 17 | 1 | 1999-10 → 2000-06 |
-| 68 | [don nelson](#a-27f53ea05d) | 247 | 190 | 44 | 4 | 1994-11 → 2001-06 |
-| 69 | [Rene_Surop](#a-c8ea59aed7) | 245 | 135 | 31 | 1 | 2006-09 → 2013-05 |
-| 70 | [Anonymous](#a-294de3557d) | 235 | 185 | 78 | 13 | 1994-11 → 2012-11 |
-| 71 | [RKRayhawk](#a-3c03434321) | 233 | 137 | 14 | 1 | 1998-08 → 2004-01 |
-| 72 | ["COBOL Frog (Huib Klink)" <H.Klink@IMN.…](#a-d67e7bd146) | 227 | 158 | 27 | 1 | 1998-06 → 1999-11 |
-| 73 | [Roger While](#a-6449f583f1) | 226 | 100 | 43 | 1 | 2006-05 → 2009-07 |
-| 74 | [Warren Porter](#a-dab4deac81) | 219 | 174 | 12 | 11 | 1998-11 → 2001-01 |
-| 75 | [Colin Campbell](#a-81edc6736e) | 216 | 150 | 17 | 6 | 1997-01 → 2007-05 |
-| 76 | [Stephen J Spiro](#a-bffadfac7d) | 214 | 118 | 13 | 3 | 2001-05 → 2002-09 |
-| 77 | [epc8@juno.com](#a-0427548fb1) | 209 | 114 | 5 | 1 | 2002-02 → 2011-01 |
-| 78 | [Terry Heinze](#a-996285201f) | 208 | 160 | 3 | 1 | 1999-11 → 2003-11 |
-| 79 | [Habitant](#a-94fa52db67) | 202 | 62 | 19 | 1 | 2001-12 → 2004-06 |
-| 80 | [Steve Thompson](#a-cd3433263e) | 202 | 136 | 8 | 8 | 2000-01 → 2003-12 |
-| 81 | [Kellie Fitton](#a-7249c6653f) | 199 | 66 | 36 | 1 | 2003-09 → 2009-05 |
-| 82 | [Tim Josling](#a-47c2cb3aa4) | 196 | 90 | 11 | 4 | 1999-04 → 2008-02 |
-| 83 | [Jack Sleight](#a-fa2d9b074a) | 195 | 124 | 1 | 1 | 2001-06 → 2006-04 |
-| 84 | [Ed Guy](#a-7b9019e3d8) | 195 | 118 | 4 | 4 | 1999-08 → 2004-01 |
-| 85 | [James King](#a-d15c459792) | 195 | 179 | 8 | 1 | 1999-02 → 2000-09 |
-| 86 | [lsunley@mb.sympatico.ca](#a-fb392bda4e) | 192 | 155 | 1 | 1 | 2000-07 → 2005-02 |
-| 87 | [LX-i](#a-b3302ccea2) | 190 | 48 | 11 | 1 | 2003-04 → 2003-06 |
-| 88 | [Shaun C. Murray](#a-3aa838a3ec) | 190 | 120 | 6 | 3 | 1994-11 → 1999-03 |
-| 89 | [paulr](#a-c5a2f213ef) | 188 | 95 | 20 | 1 | 1998-07 → 1999-09 |
-| 90 | [Peter Lacey](#a-5415275833) | 187 | 92 | 0 | 1 | 2000-09 → 2005-07 |
-| 91 | [kevin digweed](#a-6d7bf7be33) | 183 | 161 | 0 | 4 | 1994-12 → 2000-08 |
-| 92 | [Paddy Coleman](#a-7cb610c5ff) | 176 | 132 | 6 | 4 | 1997-01 → 2000-10 |
-| 93 | [klshafer@att.net](#a-880783198a) | 173 | 42 | 12 | 1 | 2006-12 → 2012-08 |
-| 94 | [WOB](#a-425734a42d) | 173 | 147 | 10 | 1 | 1998-07 → 2005-09 |
-| 95 | [DennisHarley](#a-9aa90dd468) | 173 | 78 | 6 | 1 | 2000-01 → 2000-05 |
-| 96 | [Carlos lages](#a-d71a754cf6) | 167 | 121 | 51 | 3 | 1999-08 → 2003-10 |
-| 97 | [Oscar T. Grouch](#a-9a965209ff) | 167 | 133 | 0 | 2 | 1999-07 → 2002-01 |
-| 98 | [Paul Barnett](#a-2a80bb083e) | 164 | 133 | 4 | 4 | 2000-06 → 2003-10 |
-| 99 | [Robert Graham](#a-ca96ee9fdd) | 164 | 58 | 4 | 1 | 2002-10 → 2003-02 |
-| 100 | [Jeff Baynard](#a-e9dbac5bcb) | 161 | 121 | 27 | 2 | 1999-05 → 2001-04 |
+| 42 | [Volker Bandke](#a-1c8994bc67) | 500 | 314 | 17 | 3 | 1997-11 → 2005-10 |
+| 43 | [Cheesle](#a-94d017761a) | 499 | 237 | 13 | 3 | 1999-04 → 2004-12 |
+| 44 | [tlmfru](#a-b00c185bb3) | 491 | 156 | 20 | 1 | 2005-08 → 2009-11 |
+| 45 | [Oliver Wong](#a-a01b445052) | 479 | 93 | 11 | 1 | 2005-07 → 2007-04 |
+| 46 | [G Moore](#a-e6c24529d8) | 443 | 193 | 34 | 3 | 1998-01 → 2001-07 |
+| 47 | [Clark F Morris](#a-ab691ce192) | 423 | 213 | 17 | 1 | 2006-07 → 2013-05 |
+| 48 | [Bill Gunshannon](#a-50cbdb85b0) | 414 | 135 | 4 | 8 | 1994-12 → 2013-05 |
+| 49 | [Sff5ky](#a-9b646e23df) | 412 | 304 | 17 | 2 | 1998-07 → 2004-02 |
+| 50 | [Paul Raulerson](#a-2dabdac71a) | 394 | 184 | 20 | 15 | 1998-08 → 2008-09 |
+| 51 | [Grinder](#a-0935c5b46d) | 394 | 155 | 12 | 2 | 2000-08 → 2004-01 |
+| 52 | [Foodman](#a-375ea627ce) | 374 | 165 | 46 | 2 | 1999-11 → 2010-11 |
+| 53 | [Robert Jones](#a-a0651a617e) | 338 | 270 | 17 | 2 | 2001-05 → 2010-02 |
+| 54 | [YukonMama](#a-b2278e7d1d) | 330 | 204 | 25 | 1 | 1999-08 → 2005-03 |
+| 55 | [Harley](#a-ef4cdd3117) | 329 | 91 | 8 | 2 | 2003-06 → 2004-05 |
+| 56 | [S Comstock](#a-2d8226bd44) | 322 | 253 | 52 | 1 | 1998-07 → 2005-02 |
+| 57 | [Charles F Hankel](#a-160537f748) | 322 | 172 | 31 | 11 | 1997-05 → 2003-10 |
+| 58 | [Clark F. Morris, Jr.](#a-ac3fc821c2) | 309 | 206 | 18 | 1 | 2000-01 → 2006-10 |
+| 59 | [Hugh Candlin](#a-1e12889d7d) | 289 | 175 | 11 | 5 | 1998-09 → 2006-04 |
+| 60 | [Jeff Farkas](#a-866f3fa52d) | 277 | 171 | 23 | 12 | 1998-06 → 2001-11 |
+| 61 | [ChrisOsborne](#a-d4a2a7b35b) | 274 | 174 | 12 | 5 | 1998-09 → 2000-05 |
+| 62 | [Tom Morrison](#a-c9053abb6a) | 273 | 210 | 3 | 2 | 1995-09 → 2008-05 |
+| 63 | [Dennis J. Minette](#a-1c02b44e4a) | 268 | 121 | 8 | 3 | 1998-05 → 2000-04 |
+| 64 | [Ib Tanding](#a-96e95822e4) | 261 | 159 | 17 | 1 | 1999-10 → 2000-06 |
+| 65 | [don nelson](#a-27f53ea05d) | 247 | 190 | 44 | 4 | 1994-11 → 2001-06 |
+| 66 | [Rene_Surop](#a-c8ea59aed7) | 245 | 135 | 31 | 1 | 2006-09 → 2013-05 |
+| 67 | [Anonymous](#a-294de3557d) | 235 | 185 | 78 | 13 | 1994-11 → 2012-11 |
+| 68 | [LX-i](#a-b3302ccea2) | 234 | 61 | 14 | 3 | 2003-04 → 2003-06 |
+| 69 | [RKRayhawk](#a-3c03434321) | 233 | 137 | 14 | 1 | 1998-08 → 2004-01 |
+| 70 | ["COBOL Frog (Huib Klink)" <H.Klink@IMN.…](#a-d67e7bd146) | 227 | 158 | 27 | 1 | 1998-06 → 1999-11 |
+| 71 | [Roger While](#a-6449f583f1) | 226 | 100 | 43 | 1 | 2006-05 → 2009-07 |
+| 72 | [Stephen J Spiro](#a-bffadfac7d) | 224 | 123 | 13 | 4 | 1999-11 → 2002-09 |
+| 73 | [Warren Porter](#a-dab4deac81) | 219 | 174 | 12 | 11 | 1998-11 → 2001-01 |
+| 74 | [Colin Campbell](#a-81edc6736e) | 216 | 150 | 17 | 6 | 1997-01 → 2007-05 |
+| 75 | [Jack Sleight](#a-fa2d9b074a) | 210 | 135 | 2 | 2 | 2000-06 → 2006-04 |
+| 76 | [epc8@juno.com](#a-0427548fb1) | 209 | 114 | 5 | 1 | 2002-02 → 2011-01 |
+| 77 | [Terry Heinze](#a-996285201f) | 208 | 160 | 3 | 1 | 1999-11 → 2003-11 |
+| 78 | [Habitant](#a-94fa52db67) | 202 | 62 | 19 | 1 | 2001-12 → 2004-06 |
+| 79 | [Steve Thompson](#a-cd3433263e) | 202 | 136 | 8 | 8 | 2000-01 → 2003-12 |
+| 80 | [Kellie Fitton](#a-7249c6653f) | 199 | 66 | 36 | 1 | 2003-09 → 2009-05 |
+| 81 | [Tim Josling](#a-47c2cb3aa4) | 196 | 90 | 11 | 4 | 1999-04 → 2008-02 |
+| 82 | [Ed Guy](#a-7b9019e3d8) | 195 | 118 | 4 | 4 | 1999-08 → 2004-01 |
+| 83 | [James King](#a-d15c459792) | 195 | 179 | 8 | 1 | 1999-02 → 2000-09 |
+| 84 | [paulr](#a-c5a2f213ef) | 193 | 100 | 21 | 2 | 1998-07 → 1999-11 |
+| 85 | [lsunley@mb.sympatico.ca](#a-fb392bda4e) | 192 | 155 | 1 | 1 | 2000-07 → 2005-02 |
+| 86 | [Shaun C. Murray](#a-3aa838a3ec) | 190 | 120 | 6 | 3 | 1994-11 → 1999-03 |
+| 87 | [Peter Lacey](#a-5415275833) | 187 | 92 | 0 | 1 | 2000-09 → 2005-07 |
+| 88 | [kevin digweed](#a-6d7bf7be33) | 183 | 161 | 0 | 4 | 1994-12 → 2000-08 |
+| 89 | [Paddy Coleman](#a-7cb610c5ff) | 177 | 133 | 6 | 5 | 1997-01 → 2006-09 |
+| 90 | [klshafer@att.net](#a-880783198a) | 173 | 42 | 12 | 1 | 2006-12 → 2012-08 |
+| 91 | [WOB](#a-425734a42d) | 173 | 147 | 10 | 1 | 1998-07 → 2005-09 |
+| 92 | [DennisHarley](#a-9aa90dd468) | 173 | 78 | 6 | 1 | 2000-01 → 2000-05 |
+| 93 | [Carlos lages](#a-d71a754cf6) | 167 | 121 | 51 | 3 | 1999-08 → 2003-10 |
+| 94 | [Oscar T. Grouch](#a-9a965209ff) | 167 | 133 | 0 | 2 | 1999-07 → 2002-01 |
+| 95 | [Paul Barnett](#a-2a80bb083e) | 164 | 133 | 4 | 4 | 2000-06 → 2003-10 |
+| 96 | [Robert Graham](#a-ca96ee9fdd) | 164 | 58 | 4 | 1 | 2002-10 → 2003-02 |
+| 97 | [Bob7536](#a-54be6edcf7) | 162 | 106 | 55 | 2 | 1998-07 → 2001-10 |
+| 98 | [Jeff Baynard](#a-e9dbac5bcb) | 161 | 121 | 27 | 2 | 1999-05 → 2001-04 |
+| 99 | [Chris](#a-6b34fe24ac) | 158 | 73 | 51 | 9 | 1995-04 → 2006-11 |
+| 100 | [Jeff York](#a-a7e377a657) | 157 | 66 | 5 | 3 | 1998-06 → 2006-03 |
 
 ## #1. Pete Dashwood <a id='a-3a84a9b122'></a>
 
-`dashwood@removethis.enternet.co.nz` (4,799), `dashwood@enternet.co.nz` (2,978), `ua-author-14501808@usenetarchives.gap` (445), `ua-author-2154790@usenetarchives.gap` (381), `ua-author-6590328@usenetarchives.gap` (4), `ua-author-14256666@usenetarchives.gap` (2), `pete.dashwood.18yshn@mail.codecomments.com` (1), `pete.dashwood.18ysho@mail.codecomments.com` (1)
+`dashwood@removethis.enternet.co.nz` (4,799), `dashwood@enternet.co.nz` (2,978), `dashwood@nospam.enternet.co.nz` (895), `ua-author-14501808@usenetarchives.gap` (445), `ua-author-2154790@usenetarchives.gap` (381), `dashwood@enternet.co.nz.nospam` (98), `dashwood@freewebaccess.co.uk` (77), `dashwood@free.net.nz` (46), `dashwood@fnospam.enternet.co.nz` (4), `ua-author-6590328@usenetarchives.gap` (4), `ua-author-14256666@usenetarchives.gap` (2), `pete.dashwood.18yshn@mail.codecomments.com` (1), `pete.dashwood.18ysho@mail.codecomments.com` (1)
 
-**8,611 messages** in **1,645 threads** (342 started) · active **1999-12 → 2022-04**
+**9,731 messages** in **2,013 threads** (374 started) · active **1999-08 → 2022-04**
 
-_Also posted as: Peter E.C. Dashwood, dashwood, Peter E. C. Dashwood._
+_Also posted as: Peter E. C. Dashwood, Peter E.C. Dashwood, dashwood._
 
 **Top threads:**
 
@@ -130,7 +130,28 @@ _Also posted as: Peter E.C. Dashwood, dashwood, Peter E. C. Dashwood._
 - [3270 emulator?](threads/t-88001467c6.md) — **58** of 177 msgs · _started_
 - [Productivity](threads/t-dc2050a2c9.md) — **54** of 156 msgs · _started_
 
-## #2. Howard Brazee <a id='a-9c0ef2c3c6'></a>
+## #2. docdwarf@panix.com () <a id='a-2cab5f453e'></a>
+
+`docdwarf@panix.com` (7,570), `docdwarf@clark.net` (1,776)
+
+**9,346 messages** in **2,267 threads** (199 started) · active **1998-06 → 2013-06**
+
+_Also posted as: docdwarf@panix.com, docdwarf@clark.net (), NA._
+
+**Top threads:**
+
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **193** of 1890 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **128** of 401 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **122** of 1132 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **115** of 1161 msgs
+- [Any comments?](threads/t-1abe82d84d.md) — **110** of 916 msgs
+- [Treeviews](threads/t-ade484509a.md) — **89** of 524 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **76** of 540 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **72** of 291 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **60** of 873 msgs
+- [Perfrom Thru](threads/t-80d24d46a5.md) — **59** of 204 msgs
+
+## #3. Howard Brazee <a id='a-9c0ef2c3c6'></a>
 
 `howard@brazee.net` (6,351), `howard.brazee@cusys.edu` (1,103), `brazee@nospamhome.com` (660), `nospambrazee@home.com` (284), `brazee@nospamwebaccess.net` (183)
 
@@ -151,34 +172,13 @@ _Also posted as: howard.brazee@cusys.edu, howard@brazee.net, Howard.Brazee._
 - [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **69** of 873 msgs · _started_
 - ["Shared" procedure division code](threads/t-d41db28e9f.md) — **62** of 401 msgs
 
-## #3. docdwarf@panix.com () <a id='a-2cab5f453e'></a>
-
-`docdwarf@panix.com` (7,570)
-
-**7,570 messages** in **1,440 threads** (119 started) · active **2001-12 → 2013-06**
-
-_Also posted as: docdwarf@panix.com._
-
-**Top threads:**
-
-- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **193** of 1890 msgs
-- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **128** of 401 msgs
-- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **122** of 1132 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **115** of 1161 msgs
-- [Any comments?](threads/t-1abe82d84d.md) — **110** of 916 msgs
-- [Treeviews](threads/t-ade484509a.md) — **89** of 524 msgs
-- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **76** of 540 msgs
-- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **72** of 291 msgs
-- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **60** of 873 msgs
-- [Perfrom Thru](threads/t-80d24d46a5.md) — **59** of 204 msgs
-
 ## #4. William M. Klein <a id='a-a506eb3f7e'></a>
 
-`wmklein@nospam.netcom.com` (3,451), `wmklein@ix.netcom.com` (1,678), `wmklein@nospam.ix.netcom.com` (1,464), `ua-author-3041905@usenetarchives.gap` (441), `wmklein@inospam.netcom.com` (92)
+`wmklein@nospam.netcom.com` (3,451), `wmklein@ix.netcom.com` (1,678), `wmklein@nospam.ix.netcom.com` (1,464), `ua-author-3041905@usenetarchives.gap` (441), `wmklein@noreply.ix.netcom.com` (133), `wmklein@inospam.netcom.com` (92)
 
-**7,126 messages** in **3,965 threads** (1,216 started) · active **1997-12 → 2010-11**
+**7,259 messages** in **4,022 threads** (1,236 started) · active **1997-12 → 2012-09**
 
-_Also posted as: william m. klein, William M Klein, wmklein@ix.netcom.com, no spam please (Cuthbert J…._
+_Also posted as: william m. klein, Bill Klein, William M Klein._
 
 **Top threads:**
 
@@ -195,9 +195,9 @@ _Also posted as: william m. klein, William M Klein, wmklein@ix.netcom.com, no sp
 
 ## #5. Richard <a id='a-6ae199a93c'></a>
 
-`riplin@azonic.co.nz` (5,946), `ua-author-6589535@usenetarchives.gap` (181), `ua-author-11605@usenetarchives.gap` (2), `chucks101@hotmail.com` (1), `starwulf@prodigy.net` (1)
+`riplin@azonic.co.nz` (5,946), `riplin@kcbbs.gen.nz` (406), `ua-author-6589535@usenetarchives.gap` (181), `richard_plinston@kcbbs.gen.nz` (12), `riplin@ibm.net` (8), `ua-author-11605@usenetarchives.gap` (2), `chucks101@hotmail.com` (1), `starwulf@prodigy.net` (1)
 
-**6,131 messages** in **1,807 threads** (40 started) · active **1995-03 → 2013-05**
+**6,557 messages** in **2,067 threads** (60 started) · active **1994-12 → 2013-05**
 
 _Also posted as: Richard Plinston, rip..., riplin._
 
@@ -216,11 +216,11 @@ _Also posted as: Richard Plinston, rip..., riplin._
 
 ## #6. James J. Gavan <a id='a-d0cc1b2e9e'></a>
 
-`jjgavan@home.com` (1,761), `jjgavan@shaw.ca` (1,369), `jgavandeletethis@shaw.ca` (1,042), `jjgava@shaw.ca` (3), `jjgavab@home.com` (2)
+`jjgavan@home.com` (1,761), `jjgavan@shaw.ca` (1,369), `jgavandeletethis@shaw.ca` (1,042), `jgavan@shaw.ca` (47), `jjgava@shaw.ca` (3), `jjgavab@home.com` (2)
 
-**4,177 messages** in **1,602 threads** (160 started) · active **1999-06 → 2010-05**
+**4,224 messages** in **1,623 threads** (165 started) · active **1999-06 → 2012-03**
 
-_Also posted as: James J.Gavan, J. Gavan, James. J. Gavan._
+_Also posted as: James Gavan, James J.Gavan, J. Gavan._
 
 **Top threads:**
 
@@ -399,28 +399,7 @@ _Also posted as: rick smith._
 - [OT Science versus religion: Is compromise impossible?](threads/t-df3f81e997.md) — **34** of 392 msgs
 - [Cobol development environment](threads/t-e56b4778a5.md) — **25** of 422 msgs
 
-## #15. docdwarf@clark.net () <a id='a-e4952c5479'></a>
-
-`docdwarf@clark.net` (1,776)
-
-**1,776 messages** in **827 threads** (80 started) · active **1998-06 → 2001-12**
-
-_Also posted as: NA, <docdwarf@clark.net>, docdwarf@clark.net._
-
-**Top threads:**
-
-- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **34** of 360 msgs
-- [string concatination ?](threads/t-f20a05e1e6.md) — **34** of 125 msgs
-- [GO TO](threads/t-3222d57323.md) — **30** of 150 msgs
-- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **26** of 300 msgs
-- [Please Do My Job/Homework?](threads/t-8d60b28067.md) — **22** of 76 msgs · _started_
-- [Motivating Programmers](threads/t-6bfe7298cd.md) — **18** of 105 msgs
-- [First COBOL compiler](threads/t-97a7b592f4.md) — **17** of 274 msgs
-- [How do you count?](threads/t-beb9b9e7da.md) — **16** of 73 msgs
-- [[job] Cobol Programmer needed-rate range](threads/t-f48340aac0.md) — **16** of 72 msgs
-- [Exponential function](threads/t-a44144dab4.md) — **16** of 53 msgs
-
-## #16. Chuck Stevens <a id='a-51c1713216'></a>
+## #15. Chuck Stevens <a id='a-51c1713216'></a>
 
 `charles.stevens@unisys.com` (1,770)
 
@@ -441,7 +420,7 @@ _Also posted as: charles.stevens@unisys.com, Charles Stevens._
 - [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **31** of 290 msgs
 - [OFF Topic](threads/t-04000a5c60.md) — **29** of 339 msgs
 
-## #17. SkippyPB <a id='a-276f59012c'></a>
+## #16. SkippyPB <a id='a-276f59012c'></a>
 
 `swiegand@nospam.neo.rr.com` (892), `swiegand@neo.rr.com.nospam` (286), `swiegand@neo.rr.nospam.com` (207), `swiegand@neo.rr.com` (178), `swiegand@neo.nospam.rr.com` (97), `stevewie@apk.net` (22), `stevewie@apk.dot.net` (14)
 
@@ -460,7 +439,7 @@ _Also posted as: charles.stevens@unisys.com, Charles Stevens._
 - [OT: Climate Change](threads/t-d62c719fb6.md) — **15** of 169 msgs
 - [OT : Making money from Java](threads/t-0c7ed12b34.md) — **14** of 1890 msgs
 
-## #18. HeyBub <a id='a-8f5b17c45b'></a>
+## #17. HeyBub <a id='a-8f5b17c45b'></a>
 
 `heybubnospam@gmail.com` (639), `heybub@nospamgmail.com` (565), `heybub@gmail.com` (274)
 
@@ -481,7 +460,7 @@ _Also posted as: Heybub._
 - [GO TO "cobol"](threads/t-9e68a514e1.md) — **12** of 50 msgs
 - [OT : Insidious Facebook](threads/t-79c70f090f.md) — **12** of 53 msgs
 
-## #19. Robert <a id='a-684c851af5'></a>
+## #18. Robert <a id='a-684c851af5'></a>
 
 `no@e.mail` (1,350), `0robert.jones@gmail.com` (20), `ua-author-7387749@usenetarchives.gap` (13), `gnuoytr@rcn.com` (12), `rls@nospam.thanks.com` (4), `rbnorthcutt74@yahoo.com` (3), `rlstinnett@home.com` (2), `rls@ktis.net` (2), `ua-author-10266@usenetarchives.gap` (2), `cali_marine_usmc@yahoo.com` (1), `royprins_nospam@hetnet.nl` (1), `ua-author-21794@usenetarchives.gap` (1)
 
@@ -502,7 +481,7 @@ _Also posted as: robert, robert..., 0robert.jones@gmail.com._
 - [How proprietary is the "COBOL file system"](threads/t-be0407e98e.md) — **27** of 141 msgs
 - [COBOL and DB2 vs. Java and DB2](threads/t-916ce5fee1.md) — **26** of 102 msgs
 
-## #20. JerryMouse <a id='a-8d01f04fcf'></a>
+## #19. JerryMouse <a id='a-8d01f04fcf'></a>
 
 `nospam@bisusa.com` (1,120), `nospam@invalid.com` (111), `jerrymouse@invalid.com` (38), `invalid@invalid.net` (24)
 
@@ -523,7 +502,7 @@ _Also posted as: Gerry Ford, HeyBub._
 - [OT Microsoft](threads/t-64e54b668b.md) — **8** of 72 msgs
 - [Revisiting an Old Prejudice: READ INTO/WRITE FROM](threads/t-0bffc05f33.md) — **7** of 105 msgs
 
-## #21. Charles Hottel <a id='a-e0f1a43e71'></a>
+## #20. Charles Hottel <a id='a-e0f1a43e71'></a>
 
 `chottel@earthlink.net` (624), `chottel@cpcug.org` (406), `jghottel@yahoo.com` (70)
 
@@ -544,7 +523,7 @@ _Also posted as: charles hottel._
 - [Flogging dead horses and teaching pigs to fly](threads/t-73d51cce1f.md) — **12** of 45 msgs · _started_
 - [Radix Sort a la RW (a New Thread)](threads/t-a2fb228655.md) — **12** of 21 msgs · _started_
 
-## #22. Joe Zitzelberger <a id='a-4bf47897ae'></a>
+## #21. Joe Zitzelberger <a id='a-4bf47897ae'></a>
 
 `joe_zitzelberger@nospam.com` (856), `jzitzelb@tsys.com` (62), `zberger@knology.net` (61), `psychedelic-harry@mindless.com` (50), `ua-author-8235501@usenetarchives.gap` (36), `joe_zitzelberger@vsam.org` (21), `joezitzelberger@mac.com` (1), `joe@zitzelberger.net` (1)
 
@@ -565,7 +544,7 @@ _Also posted as: joe zitzelberger._
 - [Treeviews](threads/t-ade484509a.md) — **15** of 524 msgs
 - [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **15** of 290 msgs
 
-## #23. William Lynch <a id='a-72d59929d3'></a>
+## #22. William Lynch <a id='a-72d59929d3'></a>
 
 `wblynch@att.net` (541), `ua-author-92065@usenetarchives.gap` (291), `wblynch@worldnet.att.net` (200), `ua-author-97506@usenetarchives.gap` (12)
 
@@ -586,28 +565,7 @@ _Also posted as: bill lynch, Bill Lynch, william lynch._
 - [!! Please Help!!](threads/t-5098fbaa28.md) — **9** of 158 msgs
 - [Success stories for Cobol](threads/t-96a5a3cd70.md) — **8** of 77 msgs
 
-## #24. Peter E. C. Dashwood <a id='a-1e00ada3a1'></a>
-
-`dashwood@nospam.enternet.co.nz` (895), `dashwood@enternet.co.nz.nospam` (98), `dashwood@free.net.nz` (46), `dashwood@fnospam.enternet.co.nz` (4)
-
-**1,043 messages** in **353 threads** (30 started) · active **2001-03 → 2004-10**
-
-_Also posted as: Pete Dashwood, Peter E.C. Dashwood._
-
-**Top threads:**
-
-- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **30** of 235 msgs
-- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **18** of 155 msgs
-- [Have you always dreamed of become a high payed consultant?](threads/t-148316ccab.md) — **17** of 111 msgs
-- [The witchcraft of analysis](threads/t-e5a9a520d0.md) — **16** of 51 msgs
-- [More numeric values.](threads/t-39188b850d.md) — **15** of 86 msgs
-- [Do you understand this question?](threads/t-852a7c1564.md) — **15** of 65 msgs
-- [help! remove embedded spaces from a string](threads/t-8ed083bb23.md) — **15** of 55 msgs
-- [Future of COBOL](threads/t-ce9ba46b2f.md) — **14** of 100 msgs
-- [IBM mainframe use of OO COBOL](threads/t-f943ec26f9.md) — **14** of 69 msgs
-- [Correct Length of a string](threads/t-03a01e86b5.md) — **13** of 93 msgs
-
-## #25. Bob Wolfe <a id='a-a4e9d485b3'></a>
+## #23. Bob Wolfe <a id='a-a4e9d485b3'></a>
 
 `rtwolfe@flexus.com` (637), `ua-author-6550399@usenetarchives.gap` (206), `flexus@epix.net` (77), `ua-author-5416381@usenetarchives.gap` (22), `rtwolfe.removethis@flexus.com` (9)
 
@@ -628,7 +586,7 @@ _Also posted as: rtw..., bob wolfe, rtwolfe._
 - [info](threads/t-e44d2b8cd7.md) — **7** of 18 msgs
 - [Fortress COBOL - Why?](threads/t-afd6e74f08.md) — **6** of 164 msgs
 
-## #26. Frank Swarbrick <a id='a-a2998f5f85'></a>
+## #24. Frank Swarbrick <a id='a-a2998f5f85'></a>
 
 `frank.swarbrick@efirstbank.com` (682), `infocat@sprynet.com` (211), `ua-author-4445237@usenetarchives.gap` (18), `fswarbrick@gmail.com` (16), `infocat@earthlink.net` (12)
 
@@ -649,7 +607,7 @@ _Also posted as: frank swarbrick._
 - ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-0d94f5fdf3.md) — **10** of 31 msgs
 - [help with tables](threads/t-84124279eb.md) — **9** of 117 msgs · _started_
 
-## #27. Leif Svalgaard <a id='a-c2a5103bed'></a>
+## #25. Leif Svalgaard <a id='a-c2a5103bed'></a>
 
 `leif@ibm.net` (444), `lsvalg@ibm.net` (269), `ua-author-6445756@usenetarchives.gap` (91), `leif@leif.org` (82)
 
@@ -670,7 +628,7 @@ _Also posted as: leif svalgaard._
 - [STD: In-line comment indicator](threads/t-c014cdda85.md) — **9** of 76 msgs
 - [Length of string](threads/t-3bcd60cf3a.md) — **9** of 24 msgs
 
-## #28. Ken Foskey <a id='a-363df6b1e6'></a>
+## #26. Ken Foskey <a id='a-363df6b1e6'></a>
 
 `waratah@zip.com.au` (852), `ua-author-3204800@usenetarchives.gap` (26)
 
@@ -691,7 +649,7 @@ _Also posted as: ken foskey, waratah@zip.com.au._
 - [Calculations](threads/t-34961c92cf.md) — **7** of 101 msgs
 - [Labels .. Pros and Cons](threads/t-fe43c0f7ce.md) — **7** of 40 msgs
 
-## #29. docdwarf <a id='a-b3f44a4934'></a>
+## #27. docdwarf <a id='a-b3f44a4934'></a>
 
 `ua-author-6588713@usenetarchives.gap` (485), `ua-author-514273@usenetarchives.gap` (358)
 
@@ -712,7 +670,7 @@ _Also posted as: docd...._
 - [I have a Report Writer program...](threads/t-154fd242de.md) — **10** of 26 msgs
 - [Be thankful for COBOL](threads/t-f289e075a0.md) — **9** of 42 msgs
 
-## #30. Jerry P <a id='a-23bdb093fe'></a>
+## #28. Jerry P <a id='a-23bdb093fe'></a>
 
 `jerryp@bisusa.com` (461), `bismail@bisusa.com` (349)
 
@@ -733,7 +691,7 @@ _Also posted as: Jerry Peacock._
 - [ALERT! New virus has been very active today](threads/t-2d4036659c.md) — **6** of 25 msgs
 - [OT - Internet Explorer V6.0](threads/t-83015c1ca1.md) — **5** of 77 msgs
 
-## #31. Alistair Maclean <a id='a-56dcb54ee3'></a>
+## #29. Alistair Maclean <a id='a-56dcb54ee3'></a>
 
 `alistair.j.l.maclean@gmail.com` (401), `alistair.j.l.maclean@googlemail.com` (223), `ld50macca@ld50macca.demon.co.uk` (179)
 
@@ -754,7 +712,7 @@ _Also posted as: Alistair.J.L.Maclean@googlemail.com._
 - [IT's Record of Failure Is Worse Than You Think](threads/t-130dba987f.md) — **11** of 128 msgs
 - [Inaccurate math results in Micro Focus Unix](threads/t-eda27e7c85.md) — **10** of 46 msgs
 
-## #32. Michael Wojcik <a id='a-1ff1dafca6'></a>
+## #30. Michael Wojcik <a id='a-1ff1dafca6'></a>
 
 `mwojcik@newsguy.com` (742)
 
@@ -773,7 +731,7 @@ _Also posted as: Alistair.J.L.Maclean@googlemail.com._
 - [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **14** of 1132 msgs
 - [MF having issues?](threads/t-71bbd6783b.md) — **13** of 236 msgs
 
-## #33. Arnold Trembley <a id='a-59c27396af'></a>
+## #31. Arnold Trembley <a id='a-59c27396af'></a>
 
 `arnold.trembley@worldnet.att.net` (502), `ua-author-6588869@usenetarchives.gap` (139), `arnold.trembley@att.net` (93)
 
@@ -794,7 +752,7 @@ _Also posted as: arnold trembley._
 - [Getting SQLCODE -302 after migrating DB2 V7 to V8 IN ibm z/os](threads/t-eb41546704.md) — **5** of 23 msgs
 - [S0C4 x'4' abend while reading VSAM KSDS file](threads/t-176ff68488.md) — **4** of 64 msgs
 
-## #34. the goobers <a id='a-d764527664'></a>
+## #32. the goobers <a id='a-d764527664'></a>
 
 `ua-author-1837635@usenetarchives.gap` (504), `docdwarf@erols.com` (125), `docdwarf@home.com` (40)
 
@@ -815,7 +773,7 @@ _Also posted as: The Goobers._
 - [Comp.lang.cobol charter](threads/t-8ff4f17f08.md) — **6** of 15 msgs
 - [[OT]: PHMs... Gotta Love 'Em!](threads/t-a6952d65a8.md) — **6** of 11 msgs · _started_
 
-## #35. Frederico Fonseca <a id='a-863a2732f2'></a>
+## #33. Frederico Fonseca <a id='a-863a2732f2'></a>
 
 `real-email-in-msg-spam@email.com` (430), `frederico_fonseca@eudoramail.com` (147), `nop06685@mail.telepac.pt` (27), `frederico@memosis.pt` (25), `ua-author-6588928@usenetarchives.gap` (7)
 
@@ -836,7 +794,28 @@ _Also posted as: frederico fonseca, frederico_fonseca@eudoramail.com._
 - [input indicator variables](threads/t-b95e2dd15a.md) — **4** of 15 msgs
 - [Week Number in Fujitsu cobol](threads/t-59279a8c1a.md) — **4** of 20 msgs
 
-## #36. Randall Bart <a id='a-3157c94773'></a>
+## #34. Lueko Willms <a id='a-b8bac3d661'></a>
+
+`l.willms@jpberlin.de` (556), `l.willms@domain.invalid` (12)
+
+**568 messages** in **168 threads** (18 started) · active **2001-12 → 2011-09**
+
+_Also posted as: L ü ko Willms, Herr Willms._
+
+**Top threads:**
+
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **87** of 1132 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **38** of 339 msgs
+- [Cross-language challenge (of POSSIBLE interest)](threads/t-509a06ffc2.md) — **29** of 242 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **20** of 873 msgs
+- [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) — **20** of 155 msgs
+- [Non-Cobol person getting error code](threads/t-0f7181f19f.md) — **15** of 256 msgs
+- [EXIT PERFORM Help, please](threads/t-01cc7f3515.md) — **12** of 39 msgs
+- [Cobol work?](threads/t-681ec8cbbb.md) — **10** of 289 msgs
+- [[OT] Windows/Macro Language Info?](threads/t-6e2d760f3f.md) — **10** of 112 msgs
+- [OT (Maybe): ERPs](threads/t-f83bd24cf2.md) — **10** of 93 msgs
+
+## #35. Randall Bart <a id='a-3157c94773'></a>
 
 `barticus@att.spam.net` (301), `ua-author-464041@usenetarchives.gap` (213), `barticus@usa.spam.net` (43)
 
@@ -857,7 +836,7 @@ _Also posted as: randallbart, RandallBart._
 - [Dumb COPY issue...](threads/t-df9821173f.md) — **6** of 43 msgs
 - [Roman Numerals revisited](threads/t-3818b7b61d.md) — **6** of 52 msgs
 
-## #37. jce <a id='a-9257261d73'></a>
+## #36. jce <a id='a-9257261d73'></a>
 
 `defaultuser@hotmail.com` (556)
 
@@ -878,26 +857,7 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 - [88-LEVEL / SET xx TO TRUE / SET xx TO "FALSE"](threads/t-c6e9f61de6.md) — **12** of 84 msgs
 - [mainframe career advice](threads/t-22c2cd4b95.md) — **10** of 78 msgs
 
-## #38. Lueko Willms <a id='a-b8bac3d661'></a>
-
-`l.willms@jpberlin.de` (556)
-
-**556 messages** in **159 threads** (17 started) · active **2001-12 → 2005-11**
-
-**Top threads:**
-
-- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **87** of 1132 msgs
-- [OFF Topic](threads/t-04000a5c60.md) — **38** of 339 msgs
-- [Cross-language challenge (of POSSIBLE interest)](threads/t-509a06ffc2.md) — **29** of 242 msgs
-- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **20** of 873 msgs
-- [MAINFRAME SHOP STANDARDS](threads/t-e50bb43816.md) — **20** of 155 msgs
-- [Non-Cobol person getting error code](threads/t-0f7181f19f.md) — **15** of 256 msgs
-- [EXIT PERFORM Help, please](threads/t-01cc7f3515.md) — **12** of 39 msgs
-- [Cobol work?](threads/t-681ec8cbbb.md) — **10** of 289 msgs
-- [[OT] Windows/Macro Language Info?](threads/t-6e2d760f3f.md) — **10** of 112 msgs
-- [OT (Maybe): ERPs](threads/t-f83bd24cf2.md) — **10** of 93 msgs
-
-## #39. Binyamin Dissen <a id='a-6ff3c2e05e'></a>
+## #37. Binyamin Dissen <a id='a-6ff3c2e05e'></a>
 
 `postingid@dissensoftware.com` (535), `binyamin_dissen@theoffice.net` (16), `bdissen@dissensoftware.com` (1)
 
@@ -916,7 +876,7 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 - [Visual JCL?](threads/t-1972a7a58e.md) — **4** of 29 msgs
 - [Is there any COBOL program for verify the SSN?](threads/t-681c7c6e3c.md) — **3** of 48 msgs
 
-## #40. Liam Devlin <a id='a-9e7945e30f'></a>
+## #38. Liam Devlin <a id='a-9e7945e30f'></a>
 
 `liamd@optonline.nospam.net` (279), `liamddd@optonline.net` (101), `liammd@optonline.net` (70), `liamd@optonline.net` (37), `liamdd@optonline.net` (35), `liamd@xxxx.optonline.net` (10), `liamd@dontspam.optonline.net` (5), `liamd@optonline.spamnot.net` (4)
 
@@ -934,6 +894,48 @@ _Also posted as: Defaultuser, news-server.tampabay.rr.com, defaultuser._
 - [Is COBOL Dying...or Thriving?](threads/t-3480d3af58.md) — **8** of 94 msgs
 - [Mark Johnson -- Programmers Guild racist yahoos](threads/t-d443f9b2bb.md) — **8** of 53 msgs
 - [Internal vs External SORTs](threads/t-cd4ceda530.md) — **6** of 174 msgs
+
+## #39. Russell Styles <a id='a-b8dce817dd'></a>
+
+`rwstyles@compuserve.com` (252), `rwstyles@worldnet.att.net` (126), `rws0202@comcast.net` (74), `rws0203nospam@comcast.net` (25), `rws0203@comcast.net` (22), `rwstyles01@cs.com` (17), `rnwoss0p2a0m2@comcast.net` (6), `rwstyles@comcast.net` (5), `ua-author-505839@usenetarchives.gap` (1)
+
+**528 messages** in **389 threads** (23 started) · active **1996-01 → 2006-01**
+
+_Also posted as: Russell, RUSSELL STYLES, russell...._
+
+**Top threads:**
+
+- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **9** of 456 msgs
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **7** of 521 msgs
+- [Periods, Scope delimiters (with or without IDMS)](threads/t-7cafe83273.md) — **7** of 32 msgs
+- [GO TO exit](threads/t-595b426460.md) — **7** of 74 msgs
+- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **7** of 360 msgs
+- [string concatination ?](threads/t-f20a05e1e6.md) — **6** of 125 msgs
+- [Maintenance - top 10 tasks](threads/t-256a3399b0.md) — **5** of 82 msgs
+- [Use of declaratives on file errors](threads/t-abde6badc9.md) — **5** of 49 msgs
+- [Perform Thru/Go to vs. Perform - Compile Speed](threads/t-a6c684530f.md) — **4** of 195 msgs
+- [Opinions from the veterans or experts](threads/t-ac4e066f50.md) — **4** of 145 msgs
+
+## #40. Warren Simmons <a id='a-a0ee197007'></a>
+
+`wsimmons5@optonline.net` (171), `warren.simmons@worldnet.att.net` (169), `w.g.simmons@worldnet.att.net` (107), `warrens@inficad.com` (36), `wsimmons5@cox.net` (19), `ua-author-6589103@usenetarchives.gap` (19), `wsimmonsa5@optonline.net` (3), `warrens@iname.com` (2)
+
+**526 messages** in **299 threads** (34 started) · active **1997-02 → 2005-06**
+
+_Also posted as: warren.simmons, Warren G. Simmons, 398199821._
+
+**Top threads:**
+
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **16** of 873 msgs
+- [Differences in data description in programming languages](threads/t-3665604048.md) — **13** of 112 msgs · _started_
+- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **13** of 290 msgs
+- [MF Collection Class speed](threads/t-3c3c42052b.md) — **8** of 135 msgs
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **8** of 1132 msgs
+- [OFF Topic](threads/t-04000a5c60.md) — **7** of 339 msgs · _started_
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **7** of 244 msgs
+- [Future of COBOL](threads/t-b6125cc663.md) — **6** of 76 msgs
+- [A case for multiple inheritence.](threads/t-9f50d005a9.md) — **6** of 68 msgs
+- [A daring thought: OO-Cobol names case-sensitive?](threads/t-d67cd1192f.md) — **6** of 48 msgs
 
 ## #41. Doug Miller <a id='a-919f8d3b35'></a>
 
@@ -956,28 +958,7 @@ _Also posted as: Douglas Miller, doug miller._
 - [Regarding EVALUATE TRUE](threads/t-5c7f626384.md) — **8** of 84 msgs
 - [cobol to ascii translation](threads/t-1cb4019757.md) — **8** of 48 msgs
 
-## #42. Russell Styles <a id='a-b8dce817dd'></a>
-
-`rwstyles@compuserve.com` (252), `rwstyles@worldnet.att.net` (126), `rws0202@comcast.net` (74), `rws0203@comcast.net` (22), `rwstyles01@cs.com` (17), `rnwoss0p2a0m2@comcast.net` (6), `rwstyles@comcast.net` (5)
-
-**502 messages** in **369 threads** (22 started) · active **1999-05 → 2004-10**
-
-_Also posted as: RUSSELL STYLES._
-
-**Top threads:**
-
-- [OT (sort-of) - Does it take math skills to do data processing?](threads/t-08837e6796.md) — **9** of 456 msgs
-- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **7** of 521 msgs
-- [Periods, Scope delimiters (with or without IDMS)](threads/t-7cafe83273.md) — **7** of 32 msgs
-- [GO TO exit](threads/t-595b426460.md) — **7** of 74 msgs
-- [Woshington Pravda cries for H1b's](threads/t-bc1d6f2312.md) — **7** of 360 msgs
-- [string concatination ?](threads/t-f20a05e1e6.md) — **6** of 125 msgs
-- [Maintenance - top 10 tasks](threads/t-256a3399b0.md) — **5** of 82 msgs
-- [Use of declaratives on file errors](threads/t-abde6badc9.md) — **5** of 49 msgs
-- [Perform Thru/Go to vs. Perform - Compile Speed](threads/t-a6c684530f.md) — **4** of 195 msgs
-- [Opinions from the veterans or experts](threads/t-ac4e066f50.md) — **4** of 145 msgs
-
-## #43. Volker Bandke <a id='a-1c8994bc67'></a>
+## #42. Volker Bandke <a id='a-1c8994bc67'></a>
 
 `vbandke@ibm.net` (246), `vbandke@bsp-gmbh.com` (235), `ua-author-6589342@usenetarchives.gap` (19)
 
@@ -998,7 +979,7 @@ _Also posted as: volker bandke._
 - [COBOL indexes](threads/t-8b6a4e90b4.md) — **4** of 150 msgs
 - [Paragraph Recursion with IBM Cobol for OS/390?](threads/t-af29778c9b.md) — **4** of 57 msgs
 
-## #44. Cheesle <a id='a-94d017761a'></a>
+## #43. Cheesle <a id='a-94d017761a'></a>
 
 `cheesle@online.nospamplease.no` (432), `cheesle@online.no` (54), `cheesle@nospamplease.online.no` (13)
 
@@ -1017,7 +998,7 @@ _Also posted as: volker bandke._
 - [RM COBOL - Win Programming?](threads/t-4c1c831194.md) — **8** of 26 msgs · _started_
 - [Non-programmers think Y2K was hype... and I'm angry!](threads/t-88f6ada26b.md) — **6** of 104 msgs
 
-## #45. tlmfru <a id='a-b00c185bb3'></a>
+## #44. tlmfru <a id='a-b00c185bb3'></a>
 
 `lacey@mts.net` (491)
 
@@ -1038,7 +1019,7 @@ _Also posted as: Peter Lacey._
 - [My Migrations](threads/t-04b1bde0e3.md) — **8** of 60 msgs
 - [Java is becoming the new Cobol](threads/t-23d892179b.md) — **7** of 186 msgs
 
-## #46. Oliver Wong <a id='a-a01b445052'></a>
+## #45. Oliver Wong <a id='a-a01b445052'></a>
 
 `owong@castortech.com` (479)
 
@@ -1057,28 +1038,7 @@ _Also posted as: Peter Lacey._
 - [xml schema (xsd) in cobol](threads/t-aab27c6c5e.md) — **7** of 23 msgs
 - [Disassembler](threads/t-b7010c86e1.md) — **6** of 88 msgs
 
-## #47. Warren Simmons <a id='a-a0ee197007'></a>
-
-`wsimmons5@optonline.net` (171), `warren.simmons@worldnet.att.net` (169), `w.g.simmons@worldnet.att.net` (107), `wsimmons5@cox.net` (19)
-
-**466 messages** in **251 threads** (31 started) · active **1999-01 → 2005-06**
-
-_Also posted as: warren.simmons, 398199821, Warren G. Simmons._
-
-**Top threads:**
-
-- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **16** of 873 msgs
-- [Differences in data description in programming languages](threads/t-3665604048.md) — **13** of 112 msgs · _started_
-- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **13** of 290 msgs
-- [MF Collection Class speed](threads/t-3c3c42052b.md) — **8** of 135 msgs
-- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **8** of 1132 msgs
-- [OFF Topic](threads/t-04000a5c60.md) — **7** of 339 msgs · _started_
-- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **7** of 244 msgs
-- [Future of COBOL](threads/t-b6125cc663.md) — **6** of 76 msgs
-- [A case for multiple inheritence.](threads/t-9f50d005a9.md) — **6** of 68 msgs
-- [A daring thought: OO-Cobol names case-sensitive?](threads/t-d67cd1192f.md) — **6** of 48 msgs
-
-## #48. G Moore <a id='a-e6c24529d8'></a>
+## #46. G Moore <a id='a-e6c24529d8'></a>
 
 `gvwmoore@spam.ix.netcom.com` (291), `gvwmoore@ix.netcom.com` (150), `ua-author-16342207@usenetarchives.gap` (2)
 
@@ -1099,28 +1059,7 @@ _Also posted as: g. moore._
 - [migration from mainframe to client server](threads/t-a952e90cb4.md) — **8** of 34 msgs · _started_
 - [Multiple Topics - One message -- CA-World discussed too!](threads/t-cb134a4545.md) — **7** of 187 msgs
 
-## #49. Richard Plinston <a id='a-cf254091b2'></a>
-
-`riplin@kcbbs.gen.nz` (406), `richard_plinston@kcbbs.gen.nz` (12), `riplin@ibm.net` (8)
-
-**426 messages** in **269 threads** (20 started) · active **1994-12 → 2001-01**
-
-_Also posted as: riplin@kcbbs.gen.nz._
-
-**Top threads:**
-
-- [File Sort](threads/t-9ecead0781.md) — **9** of 67 msgs
-- [Who cares ?](threads/t-8713a0bb1f.md) — **8** of 80 msgs
-- [Y2k Death March Begins.](threads/t-92e6de34a6.md) — **8** of 300 msgs
-- [Paragraphs vs Sections](threads/t-562d1f0eab.md) — **8** of 43 msgs
-- [cobol for free ??](threads/t-fc8658e269.md) — **7** of 120 msgs
-- [You're invited to critique my new Cobol page I started](threads/t-1aecf3832a.md) — **7** of 170 msgs
-- [NEXT SENTENCE vs CONTINUE](threads/t-1e6a4f6979.md) — **7** of 28 msgs
-- [How many bytes is S9(03)....](threads/t-9b7e3c9498.md) — **7** of 72 msgs
-- [COBOL GUI front end](threads/t-5faa305718.md) — **7** of 96 msgs
-- [Collaborative Article on COBOL](threads/t-35ef5edc94.md) — **6** of 25 msgs
-
-## #50. Clark F Morris <a id='a-ab691ce192'></a>
+## #47. Clark F Morris <a id='a-ab691ce192'></a>
 
 `cfmpublic@ns.sympatico.ca` (423)
 
@@ -1141,7 +1080,7 @@ _Also posted as: Clark Morris._
 - [77 Levels](threads/t-18a7793cd8.md) — **6** of 161 msgs
 - [OT: Newsgroup Name Change?](threads/t-7bedff9837.md) — **6** of 64 msgs
 
-## #51. Bill Gunshannon <a id='a-50cbdb85b0'></a>
+## #48. Bill Gunshannon <a id='a-50cbdb85b0'></a>
 
 `billg999@cs.uofs.edu` (319), `bill@server1.cs.uofs.edu` (70), `bill@cs.uofs.edu` (17), `bill@server3.cs.uofs.edu` (3), `bill@triangle.cs.uofs.edu` (2), `billig999@cs.uofs.edu` (1), `bill@server2.cs.uofs.edu` (1), `billgggggg999@cs.uofs.edu` (1)
 
@@ -1160,7 +1099,7 @@ _Also posted as: Clark Morris._
 - [Fujitsu Cobol and Database](threads/t-af659e0724.md) — **7** of 26 msgs
 - [How proprietary is the "COBOL file system"](threads/t-be0407e98e.md) — **7** of 141 msgs
 
-## #52. Sff5ky <a id='a-9b646e23df'></a>
+## #49. Sff5ky <a id='a-9b646e23df'></a>
 
 `sff5ky@aol.comxxx` (385), `sff5ky@aol.com` (27)
 
@@ -1179,7 +1118,28 @@ _Also posted as: Clark Morris._
 - [Dreaded File Status 39](threads/t-2068a53ac4.md) — **4** of 28 msgs
 - [binary search](threads/t-d99005101e.md) — **4** of 40 msgs
 
-## #53. Grinder <a id='a-0935c5b46d'></a>
+## #50. Paul Raulerson <a id='a-2dabdac71a'></a>
+
+`praulerson@hot.nospam.rr.com` (193), `paul.rl@raulersons.com` (48), `praulerson@no-spam.hot.rr.com` (39), `pkraulerson@verizon.net` (36), `praul@isot.com` (23), `praulerson@nospam-hot.rr.com` (19), `praul@isot.n0spam.com` (10), `praul@isot.nospam.com` (7), `praul@cegi.no` (7), `paul@raulersons.com` (5), `praul@cegi.net` (3), `paul.raulerson@mac.com` (1), `praul@cegi-n-o-s-p-a-m.net` (1), `paulr@axs2000.net` (1), `ua-author-6589345@usenetarchives.gap` (1)
+
+**394 messages** in **184 threads** (20 started) · active **1998-08 → 2008-09**
+
+_Also posted as: P. Raulerson, PAUL RAULERSON, praul@isot.com._
+
+**Top threads:**
+
+- [MicroFocus! Me so angry?](threads/t-e47c2c3e0e.md) — **11** of 110 msgs
+- [Looking for sample code](threads/t-1488beda92.md) — **9** of 64 msgs
+- [OT - Amusement](threads/t-030a871bbf.md) — **8** of 17 msgs · _started_
+- [OS/390 TCP Examples?](threads/t-e6ccfcc4b9.md) — **8** of 17 msgs · _started_
+- [MF Licensing](threads/t-a16dc15a88.md) — **8** of 39 msgs
+- [OO in Batch (Was: Program ID)](threads/t-bbdedc31f5.md) — **7** of 38 msgs
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **7** of 291 msgs
+- [Visual Age Cobol, or Java ?](threads/t-6cbbe83a5a.md) — **7** of 82 msgs
+- [Recommend Cobol Book, and Compiler, for C++ Programmer Please](threads/t-7088fa718c.md) — **7** of 42 msgs
+- [COBOL Migration Alternatives?](threads/t-e49e5c4b05.md) — **7** of 30 msgs
+
+## #51. Grinder <a id='a-0935c5b46d'></a>
 
 `grinder@no.spam.maam.com` (295), `no.spam@no.spam.spam.spam.net` (99)
 
@@ -1198,7 +1158,7 @@ _Also posted as: Clark Morris._
 - [OT - Humor (was: Is 12:00 Noon considered AM or PM?](threads/t-96b43742c5.md) — **9** of 93 msgs
 - [Cobol and Performance](threads/t-796fb287d6.md) — **9** of 21 msgs
 
-## #54. Foodman <a id='a-375ea627ce'></a>
+## #52. Foodman <a id='a-375ea627ce'></a>
 
 `foodman123@aol.com` (358), `foodman_member@newsranger.com` (16)
 
@@ -1219,28 +1179,7 @@ _Also posted as: foodman, Anthony Dilworth, foodman123@aol.com._
 - [Sorting dilema...](threads/t-89746b83b2.md) — **10** of 109 msgs
 - [OT Microsoft](threads/t-64e54b668b.md) — **9** of 72 msgs · _started_
 
-## #55. Paul Raulerson <a id='a-2dabdac71a'></a>
-
-`praulerson@hot.nospam.rr.com` (193), `praulerson@no-spam.hot.rr.com` (39), `pkraulerson@verizon.net` (36), `praul@isot.com` (23), `praulerson@nospam-hot.rr.com` (19), `praul@isot.n0spam.com` (10), `praul@isot.nospam.com` (7), `praul@cegi.no` (7), `paul@raulersons.com` (5), `praul@cegi.net` (3), `paul.raulerson@mac.com` (1), `praul@cegi-n-o-s-p-a-m.net` (1), `paulr@axs2000.net` (1), `ua-author-6589345@usenetarchives.gap` (1)
-
-**346 messages** in **171 threads** (18 started) · active **1998-08 → 2008-09**
-
-_Also posted as: PAUL RAULERSON, praul@isot.com, Paul Raulreson._
-
-**Top threads:**
-
-- [MicroFocus! Me so angry?](threads/t-e47c2c3e0e.md) — **11** of 110 msgs
-- [OT - Amusement](threads/t-030a871bbf.md) — **8** of 17 msgs · _started_
-- [OS/390 TCP Examples?](threads/t-e6ccfcc4b9.md) — **8** of 17 msgs · _started_
-- [MF Licensing](threads/t-a16dc15a88.md) — **8** of 39 msgs
-- [OO in Batch (Was: Program ID)](threads/t-bbdedc31f5.md) — **7** of 38 msgs
-- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **7** of 291 msgs
-- [Visual Age Cobol, or Java ?](threads/t-6cbbe83a5a.md) — **7** of 82 msgs
-- [Recommend Cobol Book, and Compiler, for C++ Programmer Please](threads/t-7088fa718c.md) — **7** of 42 msgs
-- [COBOL Migration Alternatives?](threads/t-e49e5c4b05.md) — **7** of 30 msgs
-- [Is it possible to use the value of the PROGRAM ID within the source code?](threads/t-8e9f11654a.md) — **5** of 290 msgs
-
-## #56. Robert Jones <a id='a-a0651a617e'></a>
+## #53. Robert Jones <a id='a-a0651a617e'></a>
 
 `rjones0@hotmail.com` (208), `robert@jones0086.freeserve.co.uk` (130)
 
@@ -1261,7 +1200,7 @@ _Also posted as: Robert, rjones0@hotmail.com._
 - [Comparitive coding for printing](threads/t-62728fb424.md) — **3** of 34 msgs
 - [Is a General File Maintenance Routine possible?](threads/t-fc06ce4141.md) — **3** of 74 msgs
 
-## #57. YukonMama <a id='a-b2278e7d1d'></a>
+## #54. YukonMama <a id='a-b2278e7d1d'></a>
 
 `yukonmama@aol.com` (330)
 
@@ -1282,7 +1221,7 @@ _Also posted as: Eileen._
 - [OT - CICS Problem](threads/t-e76667fb2c.md) — **4** of 8 msgs · _started_
 - [Case Statement in DB2](threads/t-d6c2397778.md) — **4** of 12 msgs · _started_
 
-## #58. Harley <a id='a-ef4cdd3117'></a>
+## #55. Harley <a id='a-ef4cdd3117'></a>
 
 `dennis.harleynospam@worldnet.att.net` (297), `dennis.harley@worldnet.att.net` (32)
 
@@ -1301,7 +1240,7 @@ _Also posted as: Eileen._
 - [Fortress COBOL - Why?](threads/t-afd6e74f08.md) — **10** of 164 msgs
 - [EOF Technique](threads/t-355958a267.md) — **9** of 37 msgs · _started_
 
-## #59. S Comstock <a id='a-2d8226bd44'></a>
+## #56. S Comstock <a id='a-2d8226bd44'></a>
 
 `scomstock@aol.com` (322)
 
@@ -1322,7 +1261,28 @@ _Also posted as: scomstock@aol.com._
 - [WRITE USING POINTER IN COBOL.](threads/t-1ad0fdd325.md) — **3** of 7 msgs
 - [COBOL TO C STATIC CALL ON OS/390.](threads/t-14e85b0d20.md) — **3** of 7 msgs
 
-## #60. Clark F. Morris, Jr. <a id='a-ac3fc821c2'></a>
+## #57. Charles F Hankel <a id='a-160537f748'></a>
+
+`charles@hankel.mersinet.co.uk` (147), `ua-author-1885209@usenetarchives.gap` (101), `noos@hankel.freedombird.net` (37), `charles@hankel.freedombird.net` (11), `charles@godwin.ca` (9), `fjlk@home.com` (8), `nieuws@hankel.freedombird.net` (5), `charles@javapowersource.com` (1), `cmccrory@mindspring.com` (1), `ua-author-10059@usenetarchives.gap` (1), `ua-author-6591267@usenetarchives.gap` (1)
+
+**322 messages** in **172 threads** (31 started) · active **1997-05 → 2003-10**
+
+_Also posted as: charles f hankel, charles, Charles._
+
+**Top threads:**
+
+- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **13** of 125 msgs
+- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **12** of 72 msgs
+- [A Favor (please)](threads/t-023bda184b.md) — **11** of 123 msgs
+- [STD - Yet another "interesting" document](threads/t-d689c9e42d.md) — **9** of 90 msgs
+- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **6** of 244 msgs
+- [cobol for free ??](threads/t-fc8658e269.md) — **6** of 120 msgs
+- [cobol programming](threads/t-18f308161c.md) — **6** of 54 msgs · _started_
+- ["GO TO" the most powerful verb in COBOL](threads/t-5c8eb7b1a0.md) — **6** of 48 msgs
+- [working-storage vs. local-storage](threads/t-d956c05aa9.md) — **5** of 29 msgs · _started_
+- [writing code - I'm stuck- anyone help?](threads/t-6b822c98f3.md) — **5** of 46 msgs
+
+## #58. Clark F. Morris, Jr. <a id='a-ac3fc821c2'></a>
 
 `cfmtech@istar.ca` (309)
 
@@ -1343,28 +1303,7 @@ _Also posted as: Clark Morris._
 - [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **4** of 540 msgs
 - [Revisiting an Old Prejudice: READ INTO/WRITE FROM](threads/t-0bffc05f33.md) — **4** of 105 msgs
 
-## #61. Charles F Hankel <a id='a-160537f748'></a>
-
-`charles@hankel.mersinet.co.uk` (147), `ua-author-1885209@usenetarchives.gap` (101), `noos@hankel.freedombird.net` (37), `charles@hankel.freedombird.net` (11), `nieuws@hankel.freedombird.net` (5)
-
-**301 messages** in **156 threads** (26 started) · active **1997-05 → 2000-05**
-
-_Also posted as: charles f hankel._
-
-**Top threads:**
-
-- [working-storage vs. local-storage](threads/t-1aeb1ebc36.md) — **13** of 125 msgs
-- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **12** of 72 msgs
-- [A Favor (please)](threads/t-023bda184b.md) — **11** of 123 msgs
-- [STD - Yet another "interesting" document](threads/t-d689c9e42d.md) — **9** of 90 msgs
-- [Procedural vs Object-Oriented programming](threads/t-564bf09b90.md) — **6** of 244 msgs
-- [cobol for free ??](threads/t-fc8658e269.md) — **6** of 120 msgs
-- [cobol programming](threads/t-18f308161c.md) — **6** of 54 msgs · _started_
-- ["GO TO" the most powerful verb in COBOL](threads/t-5c8eb7b1a0.md) — **6** of 48 msgs
-- [working-storage vs. local-storage](threads/t-d956c05aa9.md) — **5** of 29 msgs · _started_
-- [writing code - I'm stuck- anyone help?](threads/t-6b822c98f3.md) — **5** of 46 msgs
-
-## #62. Hugh Candlin <a id='a-1e12889d7d'></a>
+## #59. Hugh Candlin <a id='a-1e12889d7d'></a>
 
 `no@spam.com` (238), `hugh.candlin@worldnet.att.net` (20), `nopersonalmailplease@mydot.com` (20), `hugh.candlin@getridofspam.worldnet.att.net` (9), `sure@dream.on` (2)
 
@@ -1385,7 +1324,7 @@ _Also posted as: Topcoder, co33y, ���._
 - [Internal Sorts](threads/t-9f7f900663.md) — **4** of 97 msgs
 - [Micro Focus Net Express��� with .NET](threads/t-afc1cc1e2d.md) — **4** of 19 msgs
 
-## #63. Jeff Farkas <a id='a-866f3fa52d'></a>
+## #60. Jeff Farkas <a id='a-866f3fa52d'></a>
 
 `jeffreyfarkas@earthlink.net` (128), `jeffrey.farkas@gte.net` (45), `ua-author-3652523@usenetarchives.gap` (34), `jefffarkas@noland.com` (19), `tazberjef@nospam.naxs.net` (18), `jeffreyfarkas@nospamearthlink.net` (16), `tazberjef@naxs.nospam.net` (8), `taxberjef@naspam.naxs.net` (3), `tazberjef@naxs.net` (2), `jefpicabo@aol.com` (2), `jeffreyfarkas@hotmail.com` (1), `jeffreyfarkas@nospam.earthlink.net` (1)
 
@@ -1406,7 +1345,7 @@ _Also posted as: jeff farkas, JF..Ver 2.5.5, Jeffrey E. Farkas._
 - [Would you want to work here?](threads/t-6b7f5c5442.md) — **5** of 62 msgs
 - [Appreciate Some "InPut"..(or feedback).](threads/t-7d20b16151.md) — **4** of 33 msgs
 
-## #64. ChrisOsborne <a id='a-d4a2a7b35b'></a>
+## #61. ChrisOsborne <a id='a-d4a2a7b35b'></a>
 
 `chris_n_osborne@yahoo.com` (259), `chris_n_osborne@msn.com` (6), `chris_n_osborne@email.msn.com` (4), `chris.osborne@eds.com` (4), `chris_n_osbornetakeout@yahoo.com` (1)
 
@@ -1427,7 +1366,7 @@ _Also posted as: Chris Osborne._
 - [How BIG is a mainframe?](threads/t-467c009c91.md) — **4** of 39 msgs
 - [binary search](threads/t-d99005101e.md) — **4** of 40 msgs
 
-## #65. Tom Morrison <a id='a-c9053abb6a'></a>
+## #62. Tom Morrison <a id='a-c9053abb6a'></a>
 
 `t.morrison@liant.com` (186), `ua-author-1138665@usenetarchives.gap` (87)
 
@@ -1448,7 +1387,7 @@ _Also posted as: tom morrison, t.morrison@liant.com, k5tm._
 - [cobol woes](threads/t-99436e8417.md) — **3** of 16 msgs
 - [RM/Cobol85](threads/t-eb7600c02c.md) — **3** of 11 msgs
 
-## #66. Dennis J. Minette <a id='a-1c02b44e4a'></a>
+## #63. Dennis J. Minette <a id='a-1c02b44e4a'></a>
 
 `dennis_minette@email.msn.com` (247), `ua-author-8528253@usenetarchives.gap` (15), `d.minette@computer.org` (6)
 
@@ -1469,7 +1408,7 @@ _Also posted as: dennis j. minette, dennis_minette, Dennis_Minette._
 - [Who is the oldest working programmer?](threads/t-b59fb9affc.md) — **6** of 26 msgs
 - [Appreciate Some "InPut"..(or feedback).](threads/t-7d20b16151.md) — **5** of 33 msgs
 
-## #67. Ib Tanding <a id='a-96e95822e4'></a>
+## #64. Ib Tanding <a id='a-96e95822e4'></a>
 
 `ib@tanding.dk` (261)
 
@@ -1488,7 +1427,7 @@ _Also posted as: dennis j. minette, dennis_minette, Dennis_Minette._
 - [How BIG is a mainframe?](threads/t-467c009c91.md) — **4** of 39 msgs
 - [GO TO](threads/t-3222d57323.md) — **3** of 150 msgs
 
-## #68. don nelson <a id='a-27f53ea05d'></a>
+## #65. don nelson <a id='a-27f53ea05d'></a>
 
 `ua-author-20234@usenetarchives.gap` (193), `don.nelson@compaq.com` (47), `nelson_don@tandem.com` (6), `don.nelson@tandem.com` (1)
 
@@ -1509,7 +1448,7 @@ _Also posted as: Don Nelson._
 - [Boolean Data items](threads/t-b52731765e.md) — **3** of 13 msgs · _started_
 - [Question about cobol](threads/t-b170138722.md) — **3** of 42 msgs
 
-## #69. Rene_Surop <a id='a-c8ea59aed7'></a>
+## #66. Rene_Surop <a id='a-c8ea59aed7'></a>
 
 `infodynamics_ph@yahoo.com` (245)
 
@@ -1530,7 +1469,7 @@ _Also posted as: iNFO_rene, cobol_rasurop._
 - [SMS Sending in COBOL](threads/t-145ffce578.md) — **5** of 9 msgs · _started_
 - [Creating PDF in Cobol](threads/t-a735329c3f.md) — **5** of 14 msgs · _started_
 
-## #70. Anonymous <a id='a-294de3557d'></a>
+## #67. Anonymous <a id='a-294de3557d'></a>
 
 `ua-author-9618@usenetarchives.gap` (150), `mac3@slic.com` (24), `anonymous@anonymous.anonymous` (20), `federalreservebostonnofespam@juno.com.invalid` (12), `matthew.handi@thehartford.com` (7), `cripto@ecn.org` (5), `nobody@remailer.paranoici.org` (4), `nobody@base.xs4all.nl` (4), `ua-author-4@usenetarchives.gap` (3), `saurabhbh@gmail.com` (2), `nobody@replay.com` (2), `nobody@remailer.ch` (1), `nobody@drule.org` (1)
 
@@ -1551,7 +1490,28 @@ _Also posted as: anonymous, Jim McNamara, Eoyore._
 - [Converting Easytrieve Plus to COBOL: Any luck?](threads/t-1157818e5b.md) — **2** of 7 msgs · _started_
 - [MAINFRAME/ DB2/ DBA/ CHI](threads/t-d3a5d978da.md) — **2** of 14 msgs
 
-## #71. RKRayhawk <a id='a-3c03434321'></a>
+## #68. LX-i <a id='a-b3302ccea2'></a>
+
+`danieljsnospam@knology.net` (190), `danieljs@knology.net` (41), `danieljs@nospamknology.net` (3)
+
+**234 messages** in **61 threads** (14 started) · active **2003-04 → 2003-06**
+
+_Also posted as: Daniel J. Summers._
+
+**Top threads:**
+
+- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **36** of 291 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **15** of 1161 msgs
+- [A style question (WS)](threads/t-a7113b83c6.md) — **14** of 73 msgs · _started_
+- [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **14** of 521 msgs
+- [JUSTIFIED CENTER](threads/t-78e7a9686a.md) — **10** of 49 msgs · _started_
+- ["Go To" and "Structured programming"](threads/t-0a412bbeb1.md) — **10** of 166 msgs
+- [J4 paper on "symbols"](threads/t-3cc145252a.md) — **7** of 179 msgs
+- [[unisys] SEARCH syntax, table](threads/t-54c4825b52.md) — **7** of 31 msgs
+- [Sets and subsets](threads/t-3875006633.md) — **7** of 439 msgs
+- [Beginner's Question](threads/t-379ce8e2cd.md) — **7** of 219 msgs
+
+## #69. RKRayhawk <a id='a-3c03434321'></a>
 
 `rkrayhawk@aol.com` (233)
 
@@ -1570,7 +1530,7 @@ _Also posted as: anonymous, Jim McNamara, Eoyore._
 - [Confessions of an "OO Foreigner"](threads/t-523bd2d770.md) — **4** of 56 msgs
 - [The Manhattan Benchmark (spin-off from Benchmark Java vs. COBOL)](threads/t-9cb7bea833.md) — **4** of 35 msgs
 
-## #72. "COBOL Frog (Huib Klink)" <H.Klink@IMN.nl> <a id='a-d67e7bd146'></a>
+## #70. "COBOL Frog (Huib Klink)" <H.Klink@IMN.nl> <a id='a-d67e7bd146'></a>
 
 `h.klink@imn.nl` (227)
 
@@ -1591,7 +1551,7 @@ _Also posted as: The COBOL Frog, "COBOLFrog (Huib Klink)" <H.Klink@IMN.nl>, "Cob
 - [Van viscobol 3,3 naar???](threads/t-063d2e0df7.md) — **3** of 14 msgs
 - [Perform...Until question](threads/t-153dde3f2d.md) — **3** of 13 msgs
 
-## #73. Roger While <a id='a-6449f583f1'></a>
+## #71. Roger While <a id='a-6449f583f1'></a>
 
 `simrw@sim-basis.de` (226)
 
@@ -1610,7 +1570,28 @@ _Also posted as: The COBOL Frog, "COBOLFrog (Huib Klink)" <H.Klink@IMN.nl>, "Cob
 - [EXTERNAL clarification](threads/t-8fe6d49b2c.md) — **5** of 23 msgs · _started_
 - [Attribute BASED and LINKAGE SECTION](threads/t-55a2b6c9a9.md) — **5** of 29 msgs · _started_
 
-## #74. Warren Porter <a id='a-dab4deac81'></a>
+## #72. Stephen J Spiro <a id='a-bffadfac7d'></a>
+
+`stephenjspiro@hotmail.com` (138), `stephenjspiro@mail.com` (60), `donotreply@interbulletin.bogus` (16), `stephen_j_spiro@my-deja.com` (10)
+
+**224 messages** in **123 threads** (13 started) · active **1999-11 → 2002-09**
+
+_Also posted as: stephen_j_spiro@my-deja.com._
+
+**Top threads:**
+
+- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **19** of 235 msgs
+- [Structured Programming](threads/t-c4007d9f32.md) — **7** of 43 msgs
+- [Nested Programs - Good or Bad?](threads/t-e9945c3dc6.md) — **6** of 85 msgs
+- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4617d11b2a.md) — **6** of 52 msgs
+- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **6** of 155 msgs
+- [Cobol as a structured language](threads/t-444b383f65.md) — **6** of 76 msgs
+- [Sections](threads/t-5d05dff6e1.md) — **5** of 76 msgs
+- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4d362489f3.md) — **5** of 28 msgs
+- [Tables ????](threads/t-8a5cf88a6e.md) — **5** of 19 msgs
+- [More numeric values.](threads/t-39188b850d.md) — **4** of 86 msgs
+
+## #73. Warren Porter <a id='a-dab4deac81'></a>
 
 `warrenp123@netdoor123.com` (99), `warrenp@aspmnetdoor.com` (73), `wb999port@bellsouth12.net` (23), `wb999port@bellsouth.net` (7), `wbport4@bellsouth3.net` (5), `warrenp21@aspmnetdoor.com` (3), `warrenp@netdoornospam.com` (3), `wbport99@bellsouth45.net` (2), `warrenp@netdoor.com` (2), `wb7port@bell3south.net` (1), `wbport@bellsouthmasp.net` (1)
 
@@ -1631,7 +1612,7 @@ _Also posted as: warrenp123@netdoor123.com._
 - [Date Calculation](threads/t-1434ab4b4b.md) — **3** of 14 msgs
 - [Getting System date in 4 digit year format](threads/t-ad2f74d9b2.md) — **3** of 14 msgs
 
-## #75. Colin Campbell <a id='a-81edc6736e'></a>
+## #74. Colin Campbell <a id='a-81edc6736e'></a>
 
 `cmcampb@attglobal.net` (91), `cmcampb@adelphia.net` (87), `cmcampb@ibm.net` (19), `cmcampb@attgloabl.net` (12), `ua-author-181794@usenetarchives.gap` (6), `ccampbe2@csc.com` (1)
 
@@ -1652,26 +1633,28 @@ _Also posted as: colin campbell._
 - [Filler keyword not mandatory?](threads/t-8d05734429.md) — **3** of 48 msgs
 - [Full Stop](threads/t-c951199364.md) — **3** of 27 msgs
 
-## #76. Stephen J Spiro <a id='a-bffadfac7d'></a>
+## #75. Jack Sleight <a id='a-fa2d9b074a'></a>
 
-`stephenjspiro@hotmail.com` (138), `stephenjspiro@mail.com` (60), `donotreply@interbulletin.bogus` (16)
+`jacksleight@hotmail.com` (195), `jacksleight@my-deja.com` (15)
 
-**214 messages** in **118 threads** (13 started) · active **2001-05 → 2002-09**
+**210 messages** in **135 threads** (2 started) · active **2000-06 → 2006-04**
+
+_Also posted as: slade2, jacksleight@my-deja.com, jacksleight@hotmail.com._
 
 **Top threads:**
 
-- [More Structure.. Perform from Read](threads/t-cf31ed1f92.md) — **19** of 235 msgs
-- [Structured Programming](threads/t-c4007d9f32.md) — **7** of 43 msgs
-- [Nested Programs - Good or Bad?](threads/t-e9945c3dc6.md) — **6** of 85 msgs
-- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4617d11b2a.md) — **6** of 52 msgs
-- [10 Reasons Why JAVA is better than cobol](threads/t-4a12ae013f.md) — **6** of 155 msgs
-- [Cobol as a structured language](threads/t-444b383f65.md) — **6** of 76 msgs
-- [Sections](threads/t-5d05dff6e1.md) — **5** of 76 msgs
-- ["invalid" source code (END-IF, Next Sentence, and missing periods)](threads/t-4d362489f3.md) — **5** of 28 msgs
-- [More numeric values.](threads/t-39188b850d.md) — **4** of 86 msgs
-- [religion and COBOL](threads/t-1d228ed79e.md) — **4** of 100 msgs
+- [Cobol problem](threads/t-8ae1e8ae57.md) — **5** of 39 msgs
+- [Logic Bug](threads/t-7016082be9.md) — **5** of 15 msgs
+- [Computer Statement Usage](threads/t-435257d042.md) — **4** of 100 msgs
+- [OT: Hemlines](threads/t-973400bc4f.md) — **4** of 107 msgs
+- [Resequencing Numbered Paragraphs](threads/t-c10c2482f3.md) — **4** of 27 msgs
+- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **4** of 1161 msgs
+- [What statement is executed next?](threads/t-dfc9d5c28e.md) — **4** of 29 msgs
+- [Merry Christmas all...](threads/t-2dce2f0bc9.md) — **4** of 25 msgs
+- [To my Democratic & Republican friends (with tongue firmly planted in cheek)](threads/t-14ca948d79.md) — **3** of 14 msgs
+- [convert packed CHAR to unpacked DIGIT](threads/t-9f3bbb4d51.md) — **3** of 12 msgs
 
-## #77. epc8@juno.com <a id='a-0427548fb1'></a>
+## #76. epc8@juno.com <a id='a-0427548fb1'></a>
 
 `epc8@juno.com` (209)
 
@@ -1692,7 +1675,7 @@ _Also posted as: E P Chandler, e p chandler._
 - [more fun with decimal arithmetic](threads/t-434eb20817.md) — **4** of 9 msgs · _started_
 - [cobol12](threads/t-ac4a5a9200.md) — **4** of 8 msgs
 
-## #78. Terry Heinze <a id='a-996285201f'></a>
+## #77. Terry Heinze <a id='a-996285201f'></a>
 
 `terryheinze@prodigy.net` (208)
 
@@ -1711,7 +1694,7 @@ _Also posted as: E P Chandler, e p chandler._
 - [COBOL Tips and Techniques](threads/t-f2c0d5d8fd.md) — **2** of 26 msgs
 - [Find the length of a character field](threads/t-90665517bd.md) — **2** of 12 msgs
 
-## #79. Habitant <a id='a-94fa52db67'></a>
+## #78. Habitant <a id='a-94fa52db67'></a>
 
 `berlutte@sympatico.ca` (202)
 
@@ -1732,7 +1715,7 @@ _Also posted as: berlutte@sympatico.ca, Carcajou._
 - [Avoiding Logic Error?](threads/t-f02a9913f5.md) — **4** of 128 msgs
 - [Standards question on edited fields](threads/t-595e212124.md) — **4** of 49 msgs
 
-## #80. Steve Thompson <a id='a-cd3433263e'></a>
+## #79. Steve Thompson <a id='a-cd3433263e'></a>
 
 `spam_@ix.netcom.com` (53), `sthompson2_@neo.rr.com` (49), `sthompsonnospam@ix.netcom.com` (34), `n_o_spam.steve_t@ix.netcom.com` (26), `steve_nospam_t@ix.netcom.com` (19), `sthompson_2@neo.rr.com` (18), `s_thompson@ix.netcom.com` (2), `sthompson2@neo.rr.com` (1)
 
@@ -1751,7 +1734,7 @@ _Also posted as: berlutte@sympatico.ca, Carcajou._
 - [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **3** of 1161 msgs
 - [Beginner's Question](threads/t-379ce8e2cd.md) — **3** of 219 msgs
 
-## #81. Kellie Fitton <a id='a-7249c6653f'></a>
+## #80. Kellie Fitton <a id='a-7249c6653f'></a>
 
 `kelliefitton@yahoo.com` (199)
 
@@ -1772,7 +1755,7 @@ _Also posted as: KELLIE FITTON, KELLIEFITTON@YAHOO.COM._
 - [Where is the holy grail...(Part II)](threads/t-c9cd9bc974.md) — **6** of 48 msgs · _started_
 - [Can you wakeUp cobol please?...](threads/t-bafec10d6b.md) — **5** of 11 msgs · _started_
 
-## #82. Tim Josling <a id='a-47c2cb3aa4'></a>
+## #81. Tim Josling <a id='a-47c2cb3aa4'></a>
 
 `tej@melbpc.org.au` (135), `tejgcc_nospam@westnet.com.au` (58), `tej_at_melbpc.org.au_rubbish@nospam.com` (2), `timjosling@prodigy.net` (1)
 
@@ -1793,28 +1776,7 @@ _Also posted as: tim Josling._
 - [XP: Extreme Programming](threads/t-f326a9afd4.md) — **4** of 43 msgs
 - [[Fwd: Cobol compiler sources]](threads/t-d170b5b9d4.md) — **4** of 26 msgs
 
-## #83. Jack Sleight <a id='a-fa2d9b074a'></a>
-
-`jacksleight@hotmail.com` (195)
-
-**195 messages** in **124 threads** (1 started) · active **2001-06 → 2006-04**
-
-_Also posted as: slade2, jacksleight@hotmail.com._
-
-**Top threads:**
-
-- [Cobol problem](threads/t-8ae1e8ae57.md) — **5** of 39 msgs
-- [Logic Bug](threads/t-7016082be9.md) — **5** of 15 msgs
-- [Computer Statement Usage](threads/t-435257d042.md) — **4** of 100 msgs
-- [OT: Hemlines](threads/t-973400bc4f.md) — **4** of 107 msgs
-- [Resequencing Numbered Paragraphs](threads/t-c10c2482f3.md) — **4** of 27 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **4** of 1161 msgs
-- [What statement is executed next?](threads/t-dfc9d5c28e.md) — **4** of 29 msgs
-- [Merry Christmas all...](threads/t-2dce2f0bc9.md) — **4** of 25 msgs
-- [To my Democratic & Republican friends (with tongue firmly planted in cheek)](threads/t-14ca948d79.md) — **3** of 14 msgs
-- [convert packed CHAR to unpacked DIGIT](threads/t-9f3bbb4d51.md) — **3** of 12 msgs
-
-## #84. Ed Guy <a id='a-7b9019e3d8'></a>
+## #82. Ed Guy <a id='a-7b9019e3d8'></a>
 
 `ed_guy@paralynx.com` (98), `ed_guy@nospamguysoftware.com` (83), `ed_guy@shaw.ca` (12), `posts@guysoftware.com` (2)
 
@@ -1833,7 +1795,7 @@ _Also posted as: slade2, jacksleight@hotmail.com._
 - [DAT and IDX files](threads/t-55535effe8.md) — **3** of 24 msgs
 - [IBM Mainframe COBOL "people"](threads/t-6e9cf19351.md) — **3** of 111 msgs
 
-## #85. James King <a id='a-d15c459792'></a>
+## #83. James King <a id='a-d15c459792'></a>
 
 `mangogwr@bellsouth.net` (195)
 
@@ -1854,7 +1816,28 @@ _Also posted as: mangogwr, Searcher, searcher._
 - [Array Pointer](threads/t-343f98b349.md) — **2** of 6 msgs
 - [IBM - OS/390 Reference Material - FYI](threads/t-f6e5080c85.md) — **2** of 11 msgs
 
-## #86. lsunley@mb.sympatico.ca <a id='a-fb392bda4e'></a>
+## #84. paulr <a id='a-c5a2f213ef'></a>
+
+`paulr@bix.com` (188), `paulr@delphi.com` (5)
+
+**193 messages** in **100 threads** (21 started) · active **1998-07 → 1999-11**
+
+_Also posted as: paulr@delphi.com._
+
+**Top threads:**
+
+- [COBOL GUI front end](threads/t-5faa305718.md) — **13** of 96 msgs
+- [Dumb COPY issue...](threads/t-df9821173f.md) — **10** of 43 msgs · _started_
+- [* Please read and comment](threads/t-2fea5cc428.md) — **8** of 94 msgs
+- [OS/390 Emulator](threads/t-994534f7b5.md) — **6** of 27 msgs
+- ["structured programming" & code reusability](threads/t-3537ec0cf1.md) — **6** of 60 msgs
+- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **6** of 72 msgs
+- [Unfeasibly large COBOL programmer salaries](threads/t-3fde4208b5.md) — **5** of 44 msgs
+- [Sorts and such...](threads/t-9dcaf3d273.md) — **5** of 21 msgs · _started_
+- [Mixed - language help](threads/t-184f3ca752.md) — **4** of 18 msgs
+- [Modular Primary Key](threads/t-6d79aaee89.md) — **4** of 25 msgs
+
+## #85. lsunley@mb.sympatico.ca <a id='a-fb392bda4e'></a>
 
 `lsunley@mb.sympatico.ca` (192)
 
@@ -1875,26 +1858,7 @@ _Also posted as: Lorne Sunley._
 - [Accuracy/Knowledge score-card](threads/t-b3ffb1f20d.md) — **2** of 521 msgs
 - [MicroFocus Fileshare via Internet](threads/t-f5d07f4c9a.md) — **2** of 14 msgs
 
-## #87. LX-i <a id='a-b3302ccea2'></a>
-
-`danieljsnospam@knology.net` (190)
-
-**190 messages** in **48 threads** (11 started) · active **2003-04 → 2003-06**
-
-**Top threads:**
-
-- [[OT] Legislative Shenanigans](threads/t-0834a9b541.md) — **36** of 291 msgs
-- [Convert MainFrame Data [ EBCDIC ] To Ascii](threads/t-c98b53a314.md) — **15** of 1161 msgs
-- [A style question (WS)](threads/t-a7113b83c6.md) — **14** of 73 msgs · _started_
-- [JUSTIFIED CENTER](threads/t-78e7a9686a.md) — **10** of 49 msgs · _started_
-- ["Go To" and "Structured programming"](threads/t-0a412bbeb1.md) — **10** of 166 msgs
-- [J4 paper on "symbols"](threads/t-3cc145252a.md) — **7** of 179 msgs
-- [[unisys] SEARCH syntax, table](threads/t-54c4825b52.md) — **7** of 31 msgs
-- [array initialization](threads/t-54c283f009.md) — **6** of 22 msgs
-- [[OT] Legislative Shenanigans](threads/t-5e54c8383a.md) — **5** of 12 msgs · _started_
-- [Large Systems Cobol -> Java](threads/t-51288de6d6.md) — **4** of 123 msgs
-
-## #88. Shaun C. Murray <a id='a-3aa838a3ec'></a>
+## #86. Shaun C. Murray <a id='a-3aa838a3ec'></a>
 
 `scm@bolo.freeserve.co.uk` (121), `scm@enterprise.net` (68), `ua-author-17073995@usenetarchives.gap` (1)
 
@@ -1915,26 +1879,7 @@ _Also posted as: shaun c. murray._
 - [Need some advice - COBOL beginners - read also.](threads/t-f76898762b.md) — **3** of 5 msgs · _started_
 - [Date Windowing problem](threads/t-ac96a06754.md) — **3** of 7 msgs · _started_
 
-## #89. paulr <a id='a-c5a2f213ef'></a>
-
-`paulr@bix.com` (188)
-
-**188 messages** in **95 threads** (20 started) · active **1998-07 → 1999-09**
-
-**Top threads:**
-
-- [COBOL GUI front end](threads/t-5faa305718.md) — **13** of 96 msgs
-- [Dumb COPY issue...](threads/t-df9821173f.md) — **10** of 43 msgs · _started_
-- [* Please read and comment](threads/t-2fea5cc428.md) — **8** of 94 msgs
-- [OS/390 Emulator](threads/t-994534f7b5.md) — **6** of 27 msgs
-- ["structured programming" & code reusability](threads/t-3537ec0cf1.md) — **6** of 60 msgs
-- [Y2K: History, what's being done, how to prepare](threads/t-530555b309.md) — **6** of 72 msgs
-- [Unfeasibly large COBOL programmer salaries](threads/t-3fde4208b5.md) — **5** of 44 msgs
-- [Sorts and such...](threads/t-9dcaf3d273.md) — **5** of 21 msgs · _started_
-- [Mixed - language help](threads/t-184f3ca752.md) — **4** of 18 msgs
-- [Modular Primary Key](threads/t-6d79aaee89.md) — **4** of 25 msgs
-
-## #90. Peter Lacey <a id='a-5415275833'></a>
+## #87. Peter Lacey <a id='a-5415275833'></a>
 
 `lacey@mb.sympatico.ca` (187)
 
@@ -1953,7 +1898,7 @@ _Also posted as: shaun c. murray._
 - [Sections](threads/t-5d05dff6e1.md) — **4** of 76 msgs
 - [COBOL anyone?](threads/t-1d3780c8aa.md) — **3** of 82 msgs
 
-## #91. kevin digweed <a id='a-6d7bf7be33'></a>
+## #88. kevin digweed <a id='a-6d7bf7be33'></a>
 
 `ua-author-6588872@usenetarchives.gap` (138), `ked@mfltd.co.uk` (24), `kevin.digweed@merant.com` (12), `kevin.digweed@dial.pipex.com` (9)
 
@@ -1974,13 +1919,13 @@ _Also posted as: Kevin Digweed, Kev Digweed._
 - [Reading Microfocus COBOL isam files under SCO UNIX using C-ISAM.](threads/t-b80079ad5c.md) — **2** of 4 msgs
 - [132 column display](threads/t-bf84dc6b1e.md) — **2** of 9 msgs
 
-## #92. Paddy Coleman <a id='a-7cb610c5ff'></a>
+## #89. Paddy Coleman <a id='a-7cb610c5ff'></a>
 
-`paddy.coleman@merant.com` (95), `ua-author-4477990@usenetarchives.gap` (67), `pc@microfocus.com` (11), `pc@merant.com` (3)
+`paddy.coleman@merant.com` (95), `ua-author-4477990@usenetarchives.gap` (67), `pc@microfocus.com` (11), `pc@merant.com` (3), `paddy.coleman@microfocus.com` (1)
 
-**176 messages** in **132 threads** (6 started) · active **1997-01 → 2000-10**
+**177 messages** in **133 threads** (6 started) · active **1997-01 → 2006-09**
 
-_Also posted as: paddy coleman._
+_Also posted as: paddy coleman, Paddy.Coleman@microfocus.com._
 
 **Top threads:**
 
@@ -1995,7 +1940,7 @@ _Also posted as: paddy coleman._
 - [Thanks to Paddy Coleman](threads/t-26c9b120ce.md) — **2** of 9 msgs
 - [Success stories for Cobol](threads/t-96a5a3cd70.md) — **2** of 77 msgs
 
-## #93. klshafer@att.net <a id='a-880783198a'></a>
+## #90. klshafer@att.net <a id='a-880783198a'></a>
 
 `klshafer@att.net` (173)
 
@@ -2016,7 +1961,7 @@ _Also posted as: Ken._
 - [COBOL Programmer,Little Rock,AR](threads/t-b5595423f0.md) — **5** of 52 msgs
 - [New Projects](threads/t-772d82ad94.md) — **5** of 18 msgs · _started_
 
-## #94. WOB <a id='a-425734a42d'></a>
+## #91. WOB <a id='a-425734a42d'></a>
 
 `wobconsult@sprynet.com` (173)
 
@@ -2037,7 +1982,7 @@ _Also posted as: WOB Consulting, wobconsult@sprynet.com, wobconsult._
 - [External Table Addressability using Procedure-Pointer](threads/t-375cdb3d50.md) — **2** of 3 msgs · _started_
 - [HELP!](threads/t-757797536e.md) — **2** of 7 msgs
 
-## #95. DennisHarley <a id='a-9aa90dd468'></a>
+## #92. DennisHarley <a id='a-9aa90dd468'></a>
 
 `legacyblue@email.msn.com` (173)
 
@@ -2056,7 +2001,7 @@ _Also posted as: WOB Consulting, wobconsult@sprynet.com, wobconsult._
 - [Structured Vs OO](threads/t-9170eef001.md) — **4** of 47 msgs
 - [OS/390 COBOL Programmers](threads/t-ff5e72d21c.md) — **4** of 21 msgs
 
-## #96. Carlos lages <a id='a-d71a754cf6'></a>
+## #93. Carlos lages <a id='a-d71a754cf6'></a>
 
 `member129@dbforums.com` (84), `clages@attglobal.net` (82), `clages@ibm.net` (1)
 
@@ -2077,7 +2022,7 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 - [Fuji-Cobol - Table and List -Controls](threads/t-0df3c1039b.md) — **3** of 7 msgs
 - [Power 6.1 Install](threads/t-05ecce14f1.md) — **3** of 5 msgs · _started_
 
-## #97. Oscar T. Grouch <a id='a-9a965209ff'></a>
+## #94. Oscar T. Grouch <a id='a-9a965209ff'></a>
 
 `dustbin@home.com` (166), `dustbin@rogers.com` (1)
 
@@ -2096,7 +2041,7 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 - [File opening](threads/t-9295551094.md) — **2** of 9 msgs
 - [Infoworld: COBOL outdated and losing support](threads/t-2522f5be08.md) — **2** of 64 msgs
 
-## #98. Paul Barnett <a id='a-2a80bb083e'></a>
+## #95. Paul Barnett <a id='a-2a80bb083e'></a>
 
 `paul.barnett@nospam.microfocus.com` (101), `paul.barnett@microfocus.nospam.com` (41), `paul.barnett@merant.com` (20), `pbarnett@freenet.uk.com` (2)
 
@@ -2115,7 +2060,7 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 - [Follow up on RM/85 to Fujitsu file system](threads/t-9f137fb708.md) — **2** of 15 msgs
 - [16 bit character mode Microfocus & XP home](threads/t-fa64d74401.md) — **2** of 8 msgs
 
-## #99. Robert Graham <a id='a-ca96ee9fdd'></a>
+## #96. Robert Graham <a id='a-ca96ee9fdd'></a>
 
 `rgraham2@nycap.rr.com` (164)
 
@@ -2134,7 +2079,28 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 - [EXPERIENCED Fujitsu Powercobol Developer needed](threads/t-8fb6a9a6c5.md) — **4** of 17 msgs
 - [tandem COBOL to IBM Mainframe MVS COBOL Conversion](threads/t-2534377824.md) — **3** of 12 msgs
 
-## #100. Jeff Baynard <a id='a-e9dbac5bcb'></a>
+## #97. Bob7536 <a id='a-54be6edcf7'></a>
+
+`bob7536@aol.com` (160), `bob7536@my-deja.com` (2)
+
+**162 messages** in **106 threads** (55 started) · active **1998-07 → 2001-10**
+
+_Also posted as: Bob7536@aol.com, bob7536@my-deja.com._
+
+**Top threads:**
+
+- [NetExpress 3.1 Runtime Fees](threads/t-1ae4b5a1da.md) — **6** of 59 msgs · _started_
+- [Move the mouse pointer](threads/t-ea4bfbcb37.md) — **5** of 12 msgs · _started_
+- [Win95 API NetExpress](threads/t-32e48ce36b.md) — **5** of 11 msgs · _started_
+- [COBOL Report Writer](threads/t-dbc31a12c2.md) — **4** of 13 msgs · _started_
+- [Job Opening](threads/t-d834de524d.md) — **3** of 5 msgs · _started_
+- [COBOL vs Java](threads/t-9279126d36.md) — **3** of 39 msgs · _started_
+- [how do I scan using Netexpress](threads/t-07c906afad.md) — **3** of 7 msgs
+- [CreateProcess Win32API Call](threads/t-44bcab0887.md) — **3** of 6 msgs · _started_
+- [Win32API Question with NetExpress](threads/t-e74b998b1c.md) — **3** of 6 msgs · _started_
+- [Serial POS Printer](threads/t-404c0d6eba.md) — **3** of 6 msgs · _started_
+
+## #98. Jeff Baynard <a id='a-e9dbac5bcb'></a>
 
 `union27@macconnect.com` (140), `jeffbaynard@home.com` (21)
 
@@ -2152,4 +2118,44 @@ _Also posted as: Carlos Lages, <clages@attglobal.net>, clages@attglobal.net._
 - [Sorting dilema...](threads/t-89746b83b2.md) — **3** of 109 msgs
 - [Case Structure?](threads/t-6bbf1180f6.md) — **3** of 39 msgs
 - [What is TSO/JCL?](threads/t-09ce89eadb.md) — **3** of 47 msgs
+
+## #99. Chris <a id='a-6b34fe24ac'></a>
+
+`ctaliercio@yahoo.com` (137), `ua-author-10487@usenetarchives.gap` (6), `ctaliercio@my-deja.com` (5), `cbloy@hotmail.com` (3), `chrisdaloa@hotmail.com` (3), `chris@group3developments.com` (1), `nospamcmajors@home.com` (1), `zero3l33t@hotmail.com` (1), `ua-author-52569321@usenetarchives.gap` (1)
+
+**158 messages** in **73 threads** (51 started) · active **1995-04 → 2006-11**
+
+_Also posted as: chris, Chris T., "Chris"._
+
+**Top threads:**
+
+- [CANCEL Mis-behaving](threads/t-5cb1c31842.md) — **8** of 21 msgs · _started_
+- [Server Express Animator/Oracle Issues](threads/t-f73ab71f61.md) — **8** of 17 msgs · _started_
+- [Using FUNCTION-ID to create user-defined functions](threads/t-0fa293a842.md) — **7** of 17 msgs · _started_
+- [pstat_getproc()](threads/t-a2a0610301.md) — **5** of 8 msgs · _started_
+- [Problems With MF SE 4.0 SP2 License Manager and Oracle](threads/t-29e9b05186.md) — **5** of 6 msgs · _started_
+- [MF COBOL 132 COLUMN DISPLAY ISSUE](threads/t-1096ef1cdc.md) — **5** of 10 msgs · _started_
+- [Is threading the right solution for this challenge?](threads/t-13ec05f9c7.md) — **4** of 12 msgs · _started_
+- [Problem Calling "kill" in threaded 64-bit MF Server Express 4.0 SP2](threads/t-2e09700f5e.md) — **4** of 6 msgs · _started_
+- [Creating a tar file from COBOL](threads/t-4f31f0a2fe.md) — **4** of 8 msgs · _started_
+- [Micro Focus COBCPY Question](threads/t-10cae75d79.md) — **4** of 17 msgs · _started_
+
+## #100. Jeff York <a id='a-a7e377a657'></a>
+
+`ralf4@btinternet.com` (132), `jeff@jakfield.xu-netx.com` (20), `pogo50@talk21.com` (5)
+
+**157 messages** in **66 threads** (5 started) · active **1998-06 → 2006-03**
+
+**Top threads:**
+
+- [Infinite Loops and Explicit Exits](threads/t-4e5f66a214.md) — **22** of 1132 msgs
+- [MF having issues?](threads/t-71bbd6783b.md) — **12** of 236 msgs
+- [OT - "lie" vs "error"](threads/t-1461c1cf4b.md) — **9** of 540 msgs
+- [OT : Making money from Java](threads/t-0c7ed12b34.md) — **8** of 1890 msgs
+- [Treeviews](threads/t-ade484509a.md) — **7** of 524 msgs
+- [COBOL anyone?](threads/t-1d3780c8aa.md) — **5** of 82 msgs
+- [OT: Life style(s), personal beliefs, faith, opinions, and all that JAZZ](threads/t-172a78fc6d.md) — **5** of 71 msgs
+- ["Shared" procedure division code](threads/t-d41db28e9f.md) — **4** of 401 msgs
+- [MF Collection Class speed](threads/t-3c3c42052b.md) — **4** of 135 msgs
+- [If you were inventing CoBOL...](threads/t-7c518b7005.md) — **4** of 873 msgs
 
