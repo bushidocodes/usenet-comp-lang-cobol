@@ -25,10 +25,18 @@ PROJECT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(PROJECT_DIR))
 
 import archive as _archive_mod
-from archive import clean_body, date_key, parse_archive, thread_anchor, thread_summaries
+from archive import _is_quote_line, clean_body, date_key, parse_archive, thread_anchor, thread_summaries
 from authors import best_display_name, group_authors
 from topics import TOPIC_RULES, categorize
 from utils import dfs_order
+
+# Length of the per-thread search snippet (first original prose of the root
+# post). Powers the web app's full-text-ish search over subject + snippet.
+SNIPPET_LEN = 200
+
+# Attribution lines ("… wrote:" / "… writes:") introduce a quote block and
+# carry no original content — skip them when building snippets.
+_ATTRIBUTION_TAIL = ("wrote:", "writes:", "said:", "schrieb:", "a écrit:")
 
 # email -> group id, populated in main() before any card() is built so that
 # thread/message author links resolve to the merged-person author page rather
@@ -64,6 +72,46 @@ def span(s: dict) -> str:
     if not months:
         return "undated"
     return months[0] if months[0] == months[-1] else f"{months[0]} → {months[-1]}"
+
+
+def snippet(body: str, limit: int = SNIPPET_LEN) -> str:
+    """First chunk of original (non-quoted, non-attribution) prose from a body.
+
+    Skips quoted lines (``>``/``|``/``›``) and reply-attribution lines, then
+    flows the remaining text into a whitespace-collapsed string trimmed to
+    *limit* characters. Used to build the search index.
+    """
+    if not body:
+        return ""
+    parts: list[str] = []
+    total = 0
+    for line in body.split("\n"):
+        if _is_quote_line(line):
+            continue
+        line = line.strip()
+        if not line or line.lower().endswith(_ATTRIBUTION_TAIL):
+            continue
+        parts.append(line)
+        total += len(line) + 1
+        if total >= limit:
+            break
+    text = " ".join(parts)
+    if len(text) > limit:
+        text = text[: limit - 1].rstrip() + "…"
+    return text
+
+
+def root_body(s: dict, msgs: dict) -> str:
+    """Body of a thread's root message, or its earliest message if the root
+    isn't in the archive (orphan thread)."""
+    root = s["root"]
+    entry = msgs.get(root)
+    if entry is None:
+        mids = s.get("msg_ids") or []
+        if not mids:
+            return ""
+        entry = msgs.get(min(mids, key=lambda x: date_key(msgs[x]["dt"])))
+    return entry.get("body", "") if entry else ""
 
 
 def author_id(group_key: str) -> str:
@@ -233,6 +281,15 @@ def main():
     dump(OUT / "hot.json", [card(s, msgs) for s in by_hot])
     print("Writing new.json...")
     dump(OUT / "new.json", [card(s, msgs) for s in by_new])
+
+    # ---- search.json ----
+    # Compact snippet sidecar keyed by thread anchor. The web app loads this
+    # lazily on first search and matches query terms across each thread's
+    # subject (from hot.json, already in memory) + this snippet, so search
+    # reaches first-post content instead of subject lines only. Kept separate
+    # from hot.json so the home feed stays lean for non-searchers.
+    print("Writing search.json...")
+    dump(OUT / "search.json", {s["anchor"]: snippet(root_body(s, msgs)) for s in summaries})
 
     # ---- years.json / topics.json ----
     dump(OUT / "years.json", years_data)
