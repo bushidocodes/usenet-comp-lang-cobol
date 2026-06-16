@@ -530,14 +530,49 @@ async function renderStats() {
 // Search
 // ============================================================
 
+// Split a string into lowercase alphanumeric search tokens.
+function searchTokens(s) {
+  return (s.toLowerCase().match(/[a-z0-9]+/g) || []);
+}
+
+// Score one thread against the query terms. Every term must appear in the
+// subject or the snippet (AND); whole-word and subject hits rank above
+// substring and snippet-only hits. Returns -1 if any term is missing.
+function searchScore(subjTokens, snipTokens, terms) {
+  let total = 0;
+  for (const t of terms) {
+    let s = 0;
+    if (subjTokens.includes(t)) s = 10;
+    else if (snipTokens.includes(t)) s = 3;
+    else if (subjTokens.some(w => w.includes(t))) s = 6;     // substring in subject
+    else if (snipTokens.some(w => w.includes(t))) s = 1;     // substring in snippet
+    if (s === 0) return -1;
+    total += s;
+  }
+  return total;
+}
+
 async function renderSearch(query) {
   if (!query.trim()) { renderFeed("hot"); return; }
 
   setContent(`<div class="loading"><div class="loading-spinner"></div><p>Searching…</p></div>`);
 
-  const hot = await load(`${DATA}/hot.json`);
-  const q = query.toLowerCase();
-  const results = hot.filter(t => t.s.toLowerCase().includes(q));
+  // hot.json gives full cards (subject + metadata); search.json gives the
+  // first-post snippet per anchor so search reaches body content, not just
+  // subjects. Both are cached after first load.
+  const [hot, snippets] = await Promise.all([
+    load(`${DATA}/hot.json`),
+    load(`${DATA}/search.json`).catch(() => ({})),  // tolerate older exports
+  ]);
+
+  const terms = searchTokens(query);
+  const scored = [];
+  for (const t of hot) {
+    const sc = searchScore(searchTokens(t.s), searchTokens(snippets[t.a] || ""), terms);
+    if (sc >= 0) scored.push([sc, t]);
+  }
+  scored.sort((a, b) => b[0] - a[0] || b[1].c - a[1].c);
+  const results = scored.map(x => x[1]);
 
   state.feedData = results;
   state.feedPage = 0;

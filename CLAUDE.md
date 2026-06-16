@@ -17,9 +17,8 @@ state to `.archive_cache.pickle` (~320 MB), and exposes:
 - `thread_anchor(root_id)` → `t-<10-hex>` anchor (md5 of root Message-ID).
 
 Every generator (`thread.py`, `subjects.py`, `topics.py`, `years.py`,
-`authors.py`, `stats.py`, `links.py`, `search_index.py`) calls
-`parse_archive()` and `thread_summaries()`. The generators that also walk
-`msgs.values()` directly
+`authors.py`, `stats.py`, `links.py`) calls `parse_archive()` and
+`thread_summaries()`. The generators that also walk `msgs.values()` directly
 (`stats`, `authors`, `years`, `links`) must additionally call `filter_msgs()`
 so they don't tally spam content — this is easy to miss when adding new
 generators.

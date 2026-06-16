@@ -36,7 +36,6 @@ INDEX_SPECS: list[tuple[str, Path, list[str]]] = [
     ("authors.py",  OUT / "authors.md",  []),
     ("stats.py",    OUT / "stats.md",    []),
     ("links.py",    OUT / "links.md",    []),
-    ("search_index.py", OUT / "search-index.json", []),
 ]
 
 

@@ -31,12 +31,10 @@ comp.lang.cobol.mbox
    ▼                                           ▼
 thread.py                       subjects.py / topics.py / years.py
    │                            authors.py / stats.py / links.py
-   ▼                            search_index.py
-markdown/threads/t-*.md                        │
-                                               ▼
+   ▼                                           │
+markdown/threads/t-*.md                        ▼
                                   markdown/{subjects,topics,years,
                                             authors,stats,links}.md
-                                  markdown/search-index.json + search.html
 ```
 
 `spam.py` is consulted by `archive.thread_summaries()` so every downstream
@@ -72,7 +70,6 @@ python years.py
 python authors.py
 python stats.py
 python links.py
-python search_index.py
 
 # Or use the build orchestrator, which skips stale outputs and runs
 # index generators in parallel:
@@ -87,11 +84,6 @@ python export_json.py
 
 After modifying `spam.py` (e.g. adding a new spam host), the cache stays
 valid — just re-run the generators.
-
-`search.html` does live full-text search over `search-index.json` entirely in
-the browser (no server, no external libraries). Because it `fetch()`es the JSON,
-open it over http — `python -m http.server` from `markdown/`, or via GitHub
-Pages — rather than as a `file://` URL.
 
 ## Files
 
@@ -110,7 +102,6 @@ Pages — rather than as a `file://` URL.
 | `authors.py` | Top-100 posters → `markdown/authors.md` |
 | `stats.py` | Aggregate statistics → `markdown/stats.md` |
 | `links.py` | External URLs cited → `markdown/links.md` |
-| `search_index.py` | Client-side search → `markdown/search-index.json` + `markdown/search.html` |
 | `build.py` | Build orchestrator — runs generators in dependency order, skips stale outputs, parallelises index generators |
 | `export_json.py` | Exports archive to static JSON files under `web/data/` for the web frontend |
 | `markdown/README.md` | Archive viewer's landing page — **hand-maintained**, not generated |
