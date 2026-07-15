@@ -7,10 +7,13 @@
  *         Default port: 3000
  */
 
-const http = require("http");
-const fs = require("fs");
-const path = require("path");
-const zlib = require("zlib");
+import http from "node:http";
+import fs from "node:fs";
+import path from "node:path";
+import zlib from "node:zlib";
+import { fileURLToPath } from "node:url";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const PORT = Number(process.env.PORT) || Number(process.argv[2]) || 3000;
 const WEB_DIR = path.join(__dirname, "web");

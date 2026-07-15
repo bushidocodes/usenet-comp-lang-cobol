@@ -1,0 +1,10 @@
+{
+  "name": "usenet-comp-lang-cobol",
+  "private": true,
+  "type": "module",
+  "description": "COBOL.NEWS static site and local server",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  }
+}
