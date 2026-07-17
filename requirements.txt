@@ -1,1 +1,4 @@
+# Runtime dependencies are declared in pyproject.toml.
+# Prefer:  pip install -e .
+# This file is retained for compatibility with older docs/scripts.
 python-dateutil
