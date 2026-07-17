@@ -379,12 +379,12 @@ def write_topics(summaries, path):
             uncategorized.append(s)
 
     for key in by_topic:
-        by_topic[key].sort(key=lambda s: (-s["count"], s["first_ym"]))
-    uncategorized.sort(key=lambda s: (-s["count"], s["first_ym"]))
+        by_topic[key].sort(key=lambda s: (-s['count'], s["first_ym"]))
+    uncategorized.sort(key=lambda s: (-s['count'], s["first_ym"]))
 
     topic_order = [(name, slug) for name, slug, _ in TOPIC_RULES]
     total_threads = len(summaries)
-    total_msgs = sum(s["count"] for s in summaries)
+    total_msgs = sum(s['count'] for s in summaries)
 
     with path.open("w", encoding="utf-8") as f:
         f.write("[← README](README.md) · [Years](years.md) · [Authors](authors.md) · [Subjects](subjects.md) · [Links](links.md) · [Stats](stats.md)\n\n")
@@ -405,9 +405,9 @@ def write_topics(summaries, path):
         )
 
         f.write("## Top threads overall (by message count)\n\n")
-        top_overall = sorted(summaries, key=lambda s: -s["count"])[:30]
+        top_overall = sorted(summaries, key=lambda s: -s['count'])[:30]
         for s in top_overall:
-            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
+            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s['months'])}\n")
         f.write("\n")
 
         for name, slug in topic_order:
@@ -422,7 +422,7 @@ def write_topics(summaries, path):
             )
             shown = threads_in_topic[:MAX_THREADS_PER_TOPIC]
             for s in shown:
-                f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
+                f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s['months'])}\n")
             if len(threads_in_topic) > MAX_THREADS_PER_TOPIC:
                 hidden = len(threads_in_topic) - MAX_THREADS_PER_TOPIC
                 f.write(
@@ -438,7 +438,7 @@ def write_topics(summaries, path):
             f"(threads with ≥ {MIN_MESSAGES_FOR_UNCATEGORIZED} messages)._\n\n"
         )
         for s in big_uncat[:MAX_THREADS_PER_TOPIC]:
-            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s["months"])}\n")
+            f.write(f"- {thread_link(s)} — **{s['count']}** msgs · {span_label(s['months'])}\n")
 
 
 def main() -> int:
